@@ -1,0 +1,975 @@
+年齡(G),性別(H),身份(I),分類(J),麻醉(K),手術名稱(L),主治醫師(AF),醫師年資（月）(AG),手術數量(AQ),分類(AZ),醫師人數(BG),手術時間（分）(BQ)
+28,M,健保,E,GA,Repair Inguinal hernia no bowel,醫師2,162,1,急刀一級,2,?
+78,M,民眾,R,NI,T-tube cholangiography,醫師40,76,1,常規,1,?
+84,F,健保榮民,R,GA,Laparoscopic cholecystectomy,醫師7,306,1,常規,1,?
+50,F,健保,R,GA,Laparoscopic cholecystectomy,醫師16,138,2,常規,1,?
+56,M,健保,O,GA,Laparoscopic appendectomy,醫師46,257,1,急刀二級,3,?
+36,F,健保,R,GA,Laparoscopic cholecystectomy,醫師10,152,2,常規,1,?
+21,F,健保,E,GA,Laparoscopic appendectomy,醫師1,234,1,急刀一級,1,?
+39,M,健保,O,GA,Laparoscopic appendectomy,醫師23,135,1,急刀二級,1,?
+75,M,健保,R,GA,Laparoscopic cholecystectomy,醫師1,234,1,常規,1,?
+67,F,健保,R,GA,Laparoscopic cholecystectomy,醫師2,162,1,常規,1,?
+58,M,健保,R,GA,"Thyroidectomy, unilateral",醫師5,,1,常規,2,?
+57,M,健保,R,GA,Laparoscopic cholecystectomy,醫師6,147,1,常規,2,?
+78,M,民眾,R,GA,Laparoscopic cholecystectomy,醫師40,76,1,常規,1,?
+63,F,健保,R,GA,Laparoscopic cholecystectomy,醫師23,135,2,常規,1,?
+32,F,健保,O,GA,Laparoscopic appendectomy,醫師40,76,1,急刀二級,1,?
+50,F,健保,R,GA,Repair Ventral hernia+mesh,醫師7,306,2,常規,1,?
+51,F,健保,R,GA,S. mastectomy & sentinel LM node,醫師8,343,1,常規,1,?
+77,M,健保榮民,R,GA,Repair Inguinal hernia no bowel,醫師10,152,1,常規,1,?
+77,M,健保,R,GA,Laparoscopic cholecystectomy,醫師10,152,1,常規,1,?
+45,F,健保,R,GA,"Partial mastectomy,unil",醫師11,138,1,常規,1,?
+35,F,健保,R,GA,"Thyroidectomy, unilateral",醫師2,162,1,常規,1,?
+45,M,健保,R,GA,Laparoscopic cholecystectomy,醫師16,138,1,常規,1,?
+69,M,健保,R,GA,Repair Inguinal hernia no bowel,醫師9,328,1,常規,1,?
+46,F,健保,R,GA,"Partial mastectomy,unil",醫師4,281,1,常規,1,?
+57,F,健保,E,GA,Laparoscopic appendectomy,醫師10,152,2,急刀一級,1,?
+40,F,健保,O,GA,Laparoscopic appendectomy,醫師10,152,1,急刀二級,1,?
+87,F,健保,O,GA,Laparoscopic gastrostomy,醫師9,328,1,急刀二級,1,?
+49,F,健保,R,GA,Laparoscopic cholecystectomy,醫師7,306,1,常規,1,?
+54,F,健保,R,GA,Laparoscopic cholecystectomy,醫師16,138,2,常規,1,?
+48,F,健保,R,GA,Laparoscopic cholecystectomy,醫師16,138,1,常規,1,?
+44,F,健保,O,GA,Laparoscopic cholecystectomy,醫師46,257,1,急刀二級,1,?
+84,M,健保,R,NB,Repair Inguinal hernia no bowel,醫師16,138,1,常規,1,?
+68,M,健保,R,GA,Laparoscopic appendectomy,醫師16,138,1,常規,1,?
+51,M,健保,R,GA,Laparoscopic cholecystectomy,醫師16,138,1,常規,1,?
+52,F,健保,O,GA,Laparoscopic cholecystectomy,醫師6,147,1,急刀二級,1,?
+61,F,健保,O,GA,Laparoscopic appendectomy,醫師16,138,1,急刀二級,2,?
+58,M,健保,R,GA,Laparoscopic cholecystectomy,醫師6,147,1,常規,1,?
+57,U,健保榮民,R,GA,Laparoscopic cholecystectomy,醫師2,162,1,常規,1,?
+68,M,健保,R,GA,Repair Inguinal hernia no bowel,醫師16,138,1,常規,1,?
+49,M,健保,R,GA,Laparoscopic cholecystectomy,醫師1,234,1,常規,1,?
+71,F,民眾,R,GA,Laparoscopic cholecystectomy,醫師16,138,1,常規,1,?
+47,M,健保,R,GA,"Thyroidectomy, unilateral",醫師2,162,2,常規,1,?
+73,F,健保榮民,R,GA,"Thyroidectomy, unilateral",醫師2,162,1,常規,1,?
+65,M,健保,R,SA,Repair Inguinal hernia no bowel,醫師6,147,1,常規,1,?
+30,F,健保,R,GA,Laparoscopic cholecystectomy,醫師6,147,2,常規,1,?
+65,M,健保,R,GA,Laparoscopic cholecystectomy,醫師6,147,1,常規,2,?
+82,M,健保,R,GA,Repair Inguinal hernia no bowel,醫師6,147,1,常規,2,?
+57,F,健保,O,GA,Laparoscopic appendectomy,醫師9,328,1,急刀二級,1,?
+62,F,健保,R,GA,"Partial mastectomy,unil",醫師46,257,1,常規,1,?
+42,M,健保,R,GA,"Thyroidectomy, unilateral",醫師2,162,1,常規,1,?
+62,M,健保,O,GA,Laparoscopic cholecystectomy,醫師10,152,1,急刀二級,2,?
+33,F,本院員工,R,GA,Laparoscopic cholecystectomy,醫師6,148,1,常規,1,?
+57,F,健保,R,GA,Laparoscopic cholecystectomy,醫師6,148,1,常規,1,?
+54,M,健保,R,GA,Laparoscopic cholecystectomy,醫師40,76,1,常規,1,?
+69,M,健保,R,SA,Repair Inguinal hernia no bowel,醫師10,152,1,常規,1,?
+59,F,健保,R,GA,"Partial mastectomy,unil",醫師8,343,1,常規,1,?
+48,M,健保,R,GA,Laparoscopic cholecystectomy,醫師10,152,1,常規,1,?
+72,F,健保,R,LA,Breast tumor excision unil,醫師8,343,1,常規,1,?
+61,M,健保,R,GA,Laparoscopic cholecystectomy,醫師7,306,1,常規,1,?
+87,M,重大傷病,R,SA,Repair Inguinal hernia no bowel,醫師3,368,1,常規,1,?
+67,M,健保,R,GA,Laparoscopic cholecystectomy,醫師10,152,1,常規,1,?
+82,F,健保,E,GA,Laparoscopic appendectomy,醫師40,77,2,急刀一級,1,?
+69,F,健保,R,GA,Laparoscopic cholecystectomy,醫師7,306,1,常規,1,?
+60,M,健保,R,SA,Repair Inguinal hernia no bowel,醫師10,152,1,常規,1,?
+20,M,健保,O,GA,Laparoscopic appendectomy,醫師4,281,1,急刀二級,2,?
+39,F,健保,O,GA,Laparoscopic appendectomy,醫師6,148,1,急刀二級,1,?
+16,M,健保,O,GA,Laparoscopic appendectomy,醫師6,148,1,急刀二級,1,?
+53,M,健保,O,GA,Laparoscopic cholecystectomy,醫師16,138,1,急刀二級,1,?
+59,M,健保,R,GA,Laparoscopic cholecystectomy,醫師9,328,1,常規,1,?
+63,F,健保,O,GA,Laparoscopic cholecystectomy,醫師2,163,1,急刀二級,1,?
+48,F,健保,O,GA,Laparoscopic appendectomy,醫師4,282,1,急刀二級,2,?
+18,F,健保,R,GA,"Thyroidectomy, unilateral",醫師5,,1,常規,2,?
+76,F,健保榮民,R,GA,Laparoscopic cholecystectomy,醫師2,163,1,常規,1,?
+40,M,健保,R,GA,Laparoscopic cholecystectomy,醫師6,148,1,常規,1,?
+80,M,健保,R,LA,Repair Inguinal hernia no bowel,醫師7,307,1,常規,1,?
+73,F,健保,R,GA,Laparoscopic cholecystectomy,醫師7,307,1,常規,1,?
+64,F,健保,R,GA,Laparoscopic cholecystectomy,醫師7,307,1,常規,1,?
+44,F,健保,R,GA,Laparoscopic cholecystectomy,醫師10,153,1,常規,1,?
+48,M,健保,R,GA,Laparoscopic cholecystectomy,醫師10,153,2,常規,1,?
+52,F,健保,R,GA,"Thyroidectomy, bilateral",醫師2,163,1,常規,1,?
+38,M,健保,R,GA,"Thyroidectomy, unilateral",醫師5,,1,常規,2,?
+60,F,健保,R,GA,"Thyroidectomy, unilateral",醫師2,163,1,常規,1,?
+52,F,健保,R,GA,P. mastectomy & sentinel node Ex,醫師11,139,2,常規,1,?
+45,F,健保,R,GA,S. mastectomy & sentinel LM node,醫師11,139,1,常規,1,?
+46,M,健保,O,GA,Laparoscopic cholecystectomy,醫師6,148,1,急刀二級,1,?
+45,M,民眾,R,GA,Laparoscopic cholecystectomy,醫師10,153,1,常規,1,?
+64,F,健保,R,GA,Laparoscopic cholecystectomy,醫師10,153,1,常規,1,?
+32,F,健保,R,GA,Laparoscopic cholecystectomy,醫師10,153,2,常規,1,?
+47,M,健保,R,GA,Laparoscopic cholecystectomy,醫師10,153,1,常規,1,?
+79,M,健保,O,GA,Laparoscopic cholecystectomy,醫師10,153,3,急刀二級,1,?
+34,M,健保,E,GA,Laparoscopic appendectomy,醫師10,153,1,急刀一級,1,?
+61,F,健保,O,GA,Laparoscopic appendectomy,醫師46,258,1,急刀二級,2,?
+63,F,健保,R,GA,Laparoscopic cholecystectomy,醫師7,307,1,常規,1,?
+19,F,健保,E,GA,Laparoscopic appendectomy,醫師46,258,1,急刀一級,2,?
+48,F,健保,R,GA,Laparoscopic cholecystectomy,醫師10,153,1,常規,1,?
+33,M,民眾,R,GA,Laparoscopic cholecystectomy,醫師2,163,1,常規,1,?
+33,F,健保,R,GA,Laparoscopic cholecystectomy,醫師6,148,1,常規,1,?
+69,M,健保榮民,R,GA,Laparoscopic cholecystectomy,醫師40,77,1,常規,2,?
+35,M,健保,O,GA,Laparoscopic appendectomy,醫師16,139,1,急刀二級,1,?
+61,F,健保,R,GA,Laparoscopic cholecystectomy,醫師7,307,1,常規,1,?
+54,M,健保,R,GA,Laparoscopic cholecystectomy,醫師10,153,1,常規,1,?
+28,M,健保,O,GA,Laparoscopic appendectomy,醫師10,153,1,急刀二級,2,?
+70,M,健保,R,GA,Laparoscopic cholecystectomy,醫師40,77,1,常規,1,?
+46,F,健保,R,GA,"Thyroidectomy, bilateral",醫師2,163,2,常規,1,?
+44,F,健保,R,GA,S. mastectomy & sentinel LM node,醫師11,139,1,常規,1,?
+67,F,健保,R,GA,P. mastectomy & sentinel node Ex,醫師11,139,1,常規,1,?
+88,F,健保,R,GA,Laparoscopic cholecystectomy,醫師46,258,1,常規,1,?
+34,M,健保,R,GA,Laparoscopic cholecystectomy,醫師6,148,2,常規,2,?
+47,F,健保,O,GA,Laparoscopic appendectomy,醫師6,148,1,急刀二級,1,?
+46,F,健保,R,GA,Laparoscopic cholecystectomy,醫師4,282,1,常規,1,?
+29,M,健保,O,GA,Laparoscopic appendectomy,醫師2,163,1,急刀二級,1,?
+48,F,健保,R,GA,Laparoscopic cholecystectomy,醫師16,139,2,常規,1,?
+77,M,健保,O,GA,Laparoscopic appendectomy,醫師46,259,1,急刀二級,2,?
+48,M,健保,R,GA,Laparoscopic cholecystectomy,醫師6,149,2,常規,1,?
+68,M,健保榮民,R,SA,Repair Inguinal hernia no bowel,醫師6,149,1,常規,1,?
+52,F,健保,R,GA,"Thyroidectomy, bilateral",醫師2,163,1,常規,1,?
+43,F,健保,O,GA,Laparoscopic appendectomy,醫師46,259,1,急刀二級,2,?
+57,F,健保,R,GA,Laparoscopic cholecystectomy,醫師7,307,1,常規,1,?
+76,M,健保,R,SA,Repair Inguinal hernia no bowel,醫師10,153,1,常規,1,?
+51,M,健保,R,GA,Laparoscopic cholecystectomy,醫師10,153,1,常規,1,?
+63,M,健保榮民,R,GA,"Thyroidectomy, unilateral",醫師2,163,1,常規,1,?
+41,F,健保,R,GA,"Thyroidectomy, unilateral",醫師2,163,2,常規,1,?
+58,F,健保,R,GA,"Partial mastectomy, malignant",醫師11,139,1,常規,1,?
+62,F,健保,R,GA,Repair Inguinal hernia no bowel,醫師46,259,1,常規,2,?
+35,F,健保,R,GA,Laparoscopic appendectomy,醫師10,153,2,常規,1,?
+62,F,健保,R,GA,Laparoscopic cholecystectomy,醫師10,153,3,常規,1,?
+66,M,健保,R,GA,Laparoscopic cholecystectomy,醫師16,139,2,常規,1,?
+71,F,健保,O,GA,Laparoscopic cholecystectomy,醫師40,78,1,急刀二級,1,?
+69,M,健保榮民,R,GA,Laparoscopic cholecystectomy,醫師16,139,1,常規,1,?
+78,M,健保,R,SA,Repair Inguinal hernia no bowel,醫師3,369,1,常規,1,?
+74,F,健保員眷,O,GA,Laparoscopic cholecystectomy,醫師10,153,2,急刀二級,1,?
+49,F,健保,O,GA,Laparoscopic cholecystectomy,醫師10,153,2,急刀二級,1,?
+47,F,健保,O,GA,Laparoscopic appendectomy,醫師40,78,1,急刀二級,1,?
+72,M,健保,R,GA,Laparoscopic cholecystectomy,醫師2,163,1,常規,1,?
+57,M,健保,R,GA,Laparoscopic cholecystectomy,醫師46,259,1,常規,2,?
+64,F,健保,R,GA,"Thyroidectomy, unilateral",醫師5,,1,常規,2,?
+70,F,健保,R,GA,Repair Ventral hernia+mesh,醫師6,149,1,常規,1,?
+66,F,健保,R,GA,Laparoscopic cholecystectomy,醫師2,163,2,常規,1,?
+38,M,消防署,R,GA,Laparoscopic cholecystectomy,醫師7,307,1,常規,1,?
+78,F,健保,R,LA,"Partial mastectomy,unil",醫師8,344,1,常規,1,?
+89,M,健保榮民,R,SA,Repair Inguinal hernia no bowel,醫師10,153,1,常規,1,?
+59,M,健保,R,SA,Repair Inguinal hernia no bowel,醫師46,259,1,常規,1,?
+26,M,健保,O,GA,Laparoscopic appendectomy,醫師2,163,1,急刀二級,2,?
+64,M,健保,R,SA,Repair Inguinal hernia no bowel,醫師10,153,1,常規,1,?
+42,M,健保,O,GA,Laparoscopic appendectomy,醫師40,78,1,急刀二級,1,?
+51,M,健保,O,GA,Laparoscopic cholecystectomy,醫師6,149,1,急刀二級,1,?
+70,F,健保,R,GA,"Thyroidectomy, bilateral",醫師2,164,1,常規,1,?
+59,M,健保,R,GA,Repair Inguinal hernia no bowel,醫師1,236,1,常規,1,?
+66,F,健保,R,GA,Laparoscopic cholecystectomy,醫師2,164,2,常規,1,?
+65,F,健保,R,GA,Laparoscopic cholecystectomy,醫師16,140,1,常規,1,?
+64,F,健保,R,GA,"Thyroidectomy, unilateral",醫師2,164,1,常規,1,?
+58,M,健保,R,GA,Laparoscopic cholecystectomy,醫師6,149,3,常規,2,?
+85,M,健保,R,GA,Laparoscopic cholecystectomy,醫師6,149,1,常規,2,?
+57,M,健保,R,GA,Laparoscopic cholecystectomy,醫師7,308,1,常規,1,?
+64,F,健保,R,GA,Laparoscopic cholecystectomy,醫師7,308,1,常規,1,?
+65,M,健保,R,GA,Laparoscopic cholecystectomy,醫師7,308,1,常規,1,?
+73,M,健保,R,SA,Repair Inguinal hernia no bowel,醫師10,154,1,常規,1,?
+70,F,健保,R,GA,"Thyroidectomy, unilateral",醫師2,164,1,常規,1,?
+67,F,健保,R,GA,"Simple mastectomy, malignant",醫師11,140,1,常規,1,?
+52,M,健保,R,GA,Laparoscopic cholecystectomy,醫師46,259,1,常規,1,?
+67,M,健保,R,GA,Laparoscopic cholecystectomy,醫師40,78,1,常規,1,?
+77,F,健保,R,GA,Repair Ventral hernia+mesh,醫師10,154,1,常規,1,?
+41,F,健保,O,GA,Laparoscopic cholecystectomy,醫師16,140,1,急刀二級,1,?
+51,F,本院員工,R,GA,Laparoscopic cholecystectomy,醫師10,154,2,常規,1,?
+56,M,健保,E,GA,"Repair Inguinal hernia, scarf-no",醫師46,259,1,急刀一級,2,?
+70,M,健保榮民,R,SA,Repair Inguinal hernia no bowel,醫師16,140,1,常規,1,?
+69,F,健保,R,GA,Laparoscopic cholecystectomy,醫師16,140,1,常規,1,?
+45,F,健保,R,GA,"Partial mastectomy, malignant",醫師1,236,1,常規,1,?
+35,M,健保,O,GA,Laparoscopic appendectomy,醫師16,140,1,急刀二級,1,?
+68,M,健保榮民,O,GA,Laparoscopic cholecystectomy,醫師23,137,1,急刀二級,1,?
+64,M,健保,R,GA,Laparoscopic cholecystectomy,醫師46,259,1,常規,1,?
+51,M,健保,O,GA,Laparoscopic appendectomy,醫師23,137,1,急刀二級,1,?
+68,F,健保,R,GA,"Thyroidectomy, bilateral",醫師2,164,2,常規,1,?
+46,F,健保,R,GA,"Simple mastectomy,unil",醫師46,259,1,常規,1,?
+56,F,健保,R,GA,Laparoscopic cholecystectomy,醫師2,164,2,常規,1,?
+39,M,健保,O,GA,Laparoscopic cholecystectomy,醫師40,78,1,急刀二級,1,?
+23,F,健保,O,GA,Laparoscopic appendectomy,醫師40,78,1,急刀二級,1,?
+48,F,健保,R,GA,Laparoscopic cholecystectomy,醫師7,308,1,常規,1,?
+63,M,健保,R,GA,Laparoscopic cholecystectomy,醫師10,154,2,常規,1,?
+61,F,健保,R,GA,Laparoscopic cholecystectomy,醫師10,154,1,常規,1,?
+53,M,健保,R,GA,Laparoscopic cholecystectomy,醫師6,149,2,常規,2,?
+52,F,健保,R,GA,S. mastectomy & sentinel LM node,醫師11,140,1,常規,1,?
+58,F,健保,R,GA,"Thyroidectomy, unilateral",醫師5,,1,常規,2,?
+64,F,健保,R,GA,Laparoscopic cholecystectomy,醫師46,259,1,常規,1,?
+68,M,健保榮民,O,GA,Laparoscopic appendectomy,醫師6,149,1,急刀二級,2,?
+40,F,本院員工,R,GA,Laparoscopic cholecystectomy,醫師10,154,2,常規,1,?
+90,M,健保榮民,R,GA,Laparoscopic cholecystectomy,醫師1,236,1,常規,1,?
+34,M,健保,O,GA,Laparoscopic appendectomy,醫師1,236,1,急刀二級,1,?
+48,M,健保,O,GA,Laparoscopic appendectomy,醫師1,236,1,急刀二級,1,?
+43,M,健保,E,GA,Laparoscopic appendectomy,醫師40,79,1,急刀一級,1,?
+62,M,健保,R,GA,"Thyroidectomy, unilateral",醫師5,,1,常規,2,?
+64,M,健保,O,GA,Laparoscopic cholecystectomy,醫師40,79,1,急刀二級,1,?
+49,F,健保,R,GA,3D imaging Solution System fee,醫師6,150,2,常規,2,?
+35,F,健保福保,R,GA,Laparoscopic cholecystectomy,醫師6,150,1,常規,2,?
+41,F,健保,O,GA,Laparoscopic appendectomy,醫師15,137,2,急刀二級,1,?
+61,F,健保,R,GA,S. mastectomy & sentinel LM node,醫師8,345,1,常規,1,?
+43,F,重大傷病,R,GA,Laparoscopic cholecystectomy,醫師6,150,1,常規,1,?
+36,M,健保,R,GA,Laparoscopic cholecystectomy,醫師46,260,1,常規,1,?
+70,M,健保,R,GA,Laparoscopic cholecystectomy,醫師46,260,1,常規,1,?
+19,F,健保,O,GA,Laparoscopic appendectomy,醫師15,137,1,急刀二級,1,?
+71,M,健保,R,GA,Repair Inguinal hernia no bowel,醫師10,154,1,常規,1,?
+61,F,健保,R,GA,"Simple mastectomy, malignant",醫師4,283,1,常規,1,?
+34,M,健保,O,GA,Laparoscopic appendectomy,醫師46,260,1,急刀二級,2,?
+34,M,健保,R,GA,Laparoscopic cholecystectomy,醫師7,308,1,常規,1,?
+70,F,健保,O,GA,Laparoscopic appendectomy,醫師16,140,1,急刀二級,2,?
+49,M,健保,O,GA,Laparoscopic appendectomy,醫師16,140,1,急刀二級,2,?
+55,F,健保,O,GA,Laparoscopic appendectomy,醫師16,140,1,急刀二級,2,?
+48,F,民眾,R,GA,"Thyroidectomy, unilateral",醫師2,164,2,常規,2,?
+74,M,健保榮民,R,GA,Laparoscopic cholecystectomy,醫師6,150,3,常規,2,?
+40,M,健保,O,GA,Laparoscopic cholecystectomy,醫師40,79,1,急刀二級,1,?
+48,M,健保,R,GA,Laparoscopic cholecystectomy,醫師7,308,1,常規,1,?
+75,F,健保,O,GA,Laparoscopic cholecystectomy,醫師10,154,1,急刀二級,2,?
+60,F,健保,R,GA,Laparoscopic cholecystectomy,醫師9,330,2,常規,1,?
+53,F,健保,R,GA,Laparoscopic cholecystectomy,醫師10,154,1,常規,1,?
+55,F,健保,R,GA,Laparoscopic appendectomy,醫師40,79,1,常規,1,?
+47,F,健保,R,GA,"Thyroidectomy, unilateral",醫師5,,1,常規,2,?
+68,M,健保,R,GA,"Thyroidectomy, unilateral",醫師2,164,2,常規,1,?
+71,F,健保榮民,R,GA,Repair Ventral hernia+mesh,醫師46,260,1,常規,1,?
+63,F,健保,O,GA,Laparoscopic appendectomy,醫師6,150,1,急刀二級,1,?
+58,M,健保,R,GA,Laparoscopic cholecystectomy,醫師3,370,1,常規,1,?
+35,F,健保,O,GA,Laparoscopic appendectomy,醫師1,236,1,急刀二級,2,?
+42,M,健保,E,GA,Laparoscopic appendectomy,醫師16,140,1,急刀一級,1,?
+32,F,健保,R,GA,Laparoscopic cholecystectomy,醫師1,236,1,常規,1,?
+47,M,健保,O,GA,Laparoscopic appendectomy,醫師1,236,1,急刀二級,2,?
+36,F,健保,R,GA,"Partial mastectomy,unil",醫師4,283,1,常規,1,?
+55,M,健保,R,GA,Repair Ventral hernia no bowel R,醫師40,79,1,常規,1,?
+43,F,健保,R,GA,Laparoscopic cholecystectomy,醫師10,154,2,常規,2,?
+67,M,健保,R,GA,Laparoscopic cholecystectomy,醫師46,260,1,常規,1,?
+20,M,健保,R,GA,"Thyroidectomy, unilateral",醫師2,165,1,常規,1,?
+49,M,健保,R,GA,Laparoscopic cholecystectomy,醫師6,150,2,常規,2,?
+58,M,健保,R,GA,Laparoscopic cholecystectomy,醫師6,150,1,常規,2,?
+67,M,健保,O,GA,Laparoscopic cholecystectomy,醫師2,165,1,急刀二級,3,?
+67,M,健保榮民,O,GA,Laparoscopic cholecystectomy,醫師16,141,1,急刀二級,1,?
+28,M,健保,R,GA,Laparoscopic cholecystectomy,醫師19,114,1,常規,1,?
+24,F,健保,E,GA,Laparoscopic appendectomy,醫師23,138,1,急刀一級,1,?
+63,M,健保,R,GA,Laparoscopic cholecystectomy,醫師3,370,1,常規,1,?
+58,F,健保榮民,O,GA,Laparoscopic appendectomy,醫師6,150,1,急刀二級,2,?
+64,F,健保,R,GA,S. mastectomy & sentinel LM node,醫師8,346,1,常規,1,?
+76,F,健保,O,GA,Laparoscopic appendectomy,醫師46,260,1,急刀二級,2,?
+30,F,健保,R,GA,Laparoscopic cholecystectomy,醫師6,150,1,常規,2,?
+54,F,健保,R,GA,"Thyroidectomy, unilateral",醫師2,165,1,常規,1,?
+35,M,健保,R,GA,Laparoscopic cholecystectomy,醫師2,165,2,常規,1,?
+24,M,健保,O,GA,Laparoscopic appendectomy,醫師10,155,1,急刀二級,2,?
+55,F,健保,R,GA,Laparoscopic cholecystectomy,醫師10,155,1,常規,1,?
+19,M,民眾,O,GA,Laparoscopic appendectomy,醫師6,150,1,急刀二級,2,?
+67,M,健保,R,GA,Laparoscopic cholecystectomy,醫師10,155,2,常規,2,?
+43,M,健保,O,GA,Laparoscopic appendectomy,醫師10,155,1,急刀二級,2,?
+44,M,健保,O,GA,Laparoscopic cholecystectomy,醫師16,141,1,急刀二級,2,?
+41,M,健保,O,GA,Laparoscopic appendectomy,醫師1,237,1,急刀二級,2,?
+40,M,健保,R,SA,Repair Inguinal hernia no bowel,醫師10,155,1,常規,1,?
+39,M,健保,O,GA,Laparoscopic cholecystectomy,醫師19,114,1,急刀二級,1,?
+90,F,健保,R,GA,Laparoscopic cholecystectomy,醫師19,114,1,常規,1,?
+64,F,健保,R,GA,"Thyroidectomy, unilateral",醫師2,165,2,常規,1,?
+48,F,健保,R,GA,Laparoscopic cholecystectomy,醫師6,150,2,常規,1,?
+48,M,健保,O,GA,Laparoscopic appendectomy,醫師40,79,1,急刀二級,1,?
+39,M,健保,R,GA,Laparoscopic cholecystectomy,醫師7,309,1,常規,1,?
+31,F,健保,R,GA,Laparoscopic cholecystectomy,醫師7,309,1,常規,1,?
+52,F,健保,R,GA,"Simple mastectomy,unil",醫師8,346,1,常規,1,?
+62,M,健保,R,SA,Repair Inguinal hernia no bowel,醫師10,155,1,常規,2,?
+41,M,健保,R,GA,Laparoscopic cholecystectomy,醫師10,155,2,常規,2,?
+44,M,健保,O,GA,Laparoscopic appendectomy,醫師2,165,1,急刀二級,2,?
+45,F,健保,R,GA,Laparoscopic cholecystectomy,醫師1,237,1,常規,1,?
+59,F,健保,O,GA,Laparoscopic appendectomy,醫師1,237,1,急刀二級,1,?
+62,F,健保,R,GA,Repair Ventral hernia no bowel R,醫師10,155,1,常規,1,?
+59,M,健保榮民,R,SA,"Repair Inguinal hernia, relapse-",醫師40,80,1,常規,1,?
+51,M,健保,O,GA,Laparoscopic cholecystectomy,醫師4,284,1,急刀二級,1,?
+41,M,健保,R,GA,Laparoscopic cholecystectomy,醫師7,309,1,常規,1,?
+42,F,健保,R,GA,Laparoscopic cholecystectomy,醫師19,114,1,常規,1,?
+59,F,健保,R,GA,Laparoscopic cholecystectomy,醫師40,80,2,常規,2,?
+31,F,健保,O,GA,Laparoscopic cholecystectomy,醫師40,80,1,急刀二級,1,?
+64,F,健保榮民,O,GA,Laparoscopic appendectomy,醫師3,371,1,急刀二級,2,?
+65,F,健保,O,GA,Laparoscopic appendectomy,醫師3,371,1,急刀二級,1,?
+64,F,健保,R,GA,Laparoscopic cholecystectomy,醫師46,261,1,常規,1,?
+27,M,健保,O,GA,Laparoscopic appendectomy,醫師15,138,1,急刀二級,1,?
+55,F,健保,O,GA,Laparoscopic appendectomy,醫師40,80,1,急刀二級,1,?
+86,M,健保,R,GA,Laparoscopic cholecystectomy,醫師7,309,1,常規,1,?
+79,M,健保,R,GA,Laparoscopic cholecystectomy,醫師16,141,1,常規,1,?
+71,M,健保榮民,R,GA,Laparoscopic cholecystectomy,醫師40,80,1,常規,1,?
+43,M,健保,R,GA,"Thyroidectomy, bilateral",醫師2,166,1,常規,1,?
+54,M,健保,O,GA,Laparoscopic cholecystectomy,醫師6,151,1,急刀二級,2,?
+41,M,健保,O,GA,Laparoscopic appendectomy,醫師46,261,1,急刀二級,2,?
+73,M,健保,R,GA,Repair Inguinal hernia no bowel,醫師10,155,1,常規,1,?
+55,F,健保,R,GA,Laparoscopic cholecystectomy,醫師10,155,2,常規,2,?
+38,F,健保,R,GA,Laparoscopic cholecystectomy,醫師10,155,1,常規,1,?
+20,F,健保,O,GA,Laparoscopic appendectomy,醫師46,261,1,急刀二級,2,?
+36,M,健保,O,GA,Laparoscopic cholecystectomy,醫師7,310,1,急刀二級,1,?
+72,M,健保,O,GA,Laparoscopic cholecystectomy,醫師16,142,1,急刀二級,1,?
+40,F,健保,R,GA,Laparoscopic cholecystectomy,醫師7,310,1,常規,1,?
+56,F,健保,O,GA,Laparoscopic appendectomy,醫師19,115,1,急刀二級,1,?
+33,M,健保,R,GA,Laparoscopic cholecystectomy,醫師1,238,1,常規,1,?
+28,F,健保,R,GA,"Thyroidectomy, unilateral",醫師2,166,1,常規,1,?
+61,F,健保,R,GA,Laparoscopic cholecystectomy,醫師6,151,1,常規,1,?
+33,F,健保,O,GA,Laparoscopic appendectomy,醫師40,80,1,急刀二級,1,?
+65,F,健保,R,GA,Laparoscopic cholecystectomy,醫師7,310,1,常規,1,?
+58,F,警政署,R,GA,Laparoscopic cholecystectomy,醫師8,347,1,常規,2,?
+83,M,民眾,R,SA,Repair Inguinal hernia no bowel,醫師10,156,1,常規,1,?
+46,M,健保,R,GA,Laparoscopic cholecystectomy,醫師16,142,1,常規,1,?
+67,M,健保,R,GA,Laparoscopic cholecystectomy,醫師16,142,1,常規,1,?
+67,F,健保,R,GA,P. mastectomy & sentinel node Ex,醫師11,142,1,常規,1,?
+73,M,健保,R,GA,Repair Inguinal hernia no bowel,醫師6,151,1,常規,1,?
+32,F,健保,O,GA,Laparoscopic appendectomy,醫師16,142,1,急刀二級,2,?
+40,F,健保,R,GA,Laparoscopic cholecystectomy,醫師9,332,1,常規,2,?
+47,F,健保,R,GA,Laparoscopic cholecystectomy,醫師10,156,1,常規,1,?
+58,F,健保,R,GA,Laparoscopic cholecystectomy,醫師15,139,1,常規,1,?
+90,M,健保榮民,R,GA,Laparoscopic cholecystectomy,醫師16,142,3,常規,1,?
+58,F,健保,O,GA,Laparoscopic appendectomy,醫師1,238,1,急刀二級,1,?
+39,F,健保,O,GA,Laparoscopic appendectomy,醫師46,261,1,急刀二級,3,?
+46,F,健保,R,GA,"Partial mastectomy, malignant",醫師1,238,1,常規,1,?
+28,F,健保,R,GA,U. thyroidectomy+sub. throidecto,醫師2,166,2,常規,1,?
+80,M,健保,O,GA,Laparoscopic cholecystectomy,醫師16,142,1,急刀二級,1,?
+60,M,健保榮民,O,GA,Laparoscopic cholecystectomy,醫師23,139,1,急刀二級,1,?
+69,M,健保榮民,R,GA,Laparoscopic cholecystectomy,醫師6,151,1,常規,2,?
+53,M,健保,R,GA,Laparoscopic cholecystectomy,醫師9,332,1,常規,2,?
+51,M,健保,R,GA,Laparoscopic cholecystectomy,醫師10,156,2,常規,1,?
+37,F,健保,R,GA,"Thyroidectomy, unilateral",醫師2,166,1,常規,1,?
+44,M,健保,R,SA,Laparoscopic herniorrhaphy,醫師9,332,1,常規,2,?
+25,F,健保,R,GA,Laparoscopic cholecystectomy,醫師9,332,1,常規,3,?
+53,M,健保,E,GA,Repair Inguinal hernia no bowel,醫師1,238,2,急刀一級,1,?
+37,F,健保,R,GA,Repair Inguinal hernia no bowel,醫師46,262,1,常規,2,?
+84,F,健保榮民,R,GA,Laparoscopic cholecystectomy,醫師1,238,1,常規,1,?
+40,F,健保,R,GA,"Partial mastectomy,unil",醫師8,347,1,常規,2,?
+65,M,健保榮民,R,SA,Repair Inguinal hernia no bowel,醫師10,156,1,常規,1,?
+55,M,健保,R,SA,Repair Inguinal hernia no bowel,醫師16,142,1,常規,1,?
+41,F,健保,R,GA,Laparoscopic cholecystectomy,醫師6,152,2,常規,3,?
+43,F,健保,R,GA,"Thyroidectomy, unilateral",醫師2,166,1,常規,1,?
+43,F,健保,O,GA,Laparoscopic appendectomy,醫師6,152,1,急刀二級,1,?
+35,F,健保,R,GA,Laparoscopic cholecystectomy,醫師9,332,2,常規,2,?
+78,M,健保,R,SA,Repair Inguinal hernia no bowel,醫師10,156,1,常規,1,?
+57,F,健保,R,GA,Laparoscopic cholecystectomy,醫師7,310,1,常規,2,?
+30,F,健保,R,SA,Repair Inguinal hernia no bowel,醫師16,142,1,常規,2,?
+82,F,健保,R,GA,Laparoscopic cholecystectomy,醫師16,142,1,常規,1,?
+36,F,健保,R,GA,Laparoscopic cholecystectomy,醫師10,156,1,常規,1,?
+49,F,健保,R,GA,Laparoscopic cholecystectomy,醫師6,152,1,常規,1,?
+54,F,健保,O,GA,Laparoscopic appendectomy,醫師40,81,1,急刀二級,1,?
+41,M,健保榮民,R,GA,Laparoscopic cholecystectomy,醫師10,156,2,常規,1,?
+23,F,健保,R,GA,Trunk tumor Excision 5-10 cm,醫師46,262,2,常規,1,?
+61,M,健保,O,GA,Laparoscopic appendectomy,醫師15,139,1,急刀二級,1,?
+75,F,健保榮民,R,GA,Laparoscopic cholecystectomy,醫師6,152,1,常規,1,?
+71,F,健保,R,GA,"Thyroidectomy, unilateral",醫師2,166,1,常規,1,?
+58,F,健保,R,GA,"Thyroidectomy, unilateral",醫師2,166,2,常規,1,?
+61,M,重大傷病,R,GA,Repair Ventral hernia no bowel R,醫師40,81,1,常規,1,?
+20,M,健保,O,GA,Laparoscopic appendectomy,醫師16,142,1,急刀二級,2,?
+28,F,健保,R,GA,Laparoscopic cholecystectomy,醫師1,239,1,常規,1,?
+22,F,健保,R,GA,Laparoscopic cholecystectomy,醫師16,143,1,常規,1,?
+27,M,健保,R,GA,Laparoscopic cholecystectomy,醫師16,143,1,常規,1,?
+70,F,健保,R,GA,Laparoscopic cholecystectomy,醫師2,167,1,常規,1,?
+40,F,健保,R,GA,"Thyroidectomy, unilateral",醫師5,,1,常規,2,?
+48,M,健保,R,GA,"Thyroidectomy, unilateral",醫師5,,1,常規,2,?
+44,F,本院員工,R,GA,"Partial mastectomy,unil",醫師4,286,1,常規,2,?
+68,F,健保,R,GA,"Partial mastectomy,unil",醫師8,347,1,常規,2,?
+83,F,健保,O,GA,Laparoscopic cholecystectomy,醫師6,152,1,急刀二級,2,?
+52,F,健保,R,GA,Laparoscopic cholecystectomy,醫師10,157,1,常規,1,?
+44,M,健保,R,GA,Laparoscopic cholecystectomy,醫師23,140,2,常規,2,?
+42,F,健保,R,GA,"Thyroidectomy, unilateral",醫師2,167,1,常規,1,?
+33,F,健保,O,GA,Laparoscopic appendectomy,醫師6,152,1,急刀二級,2,?
+67,M,健保,R,GA,Laparoscopic cholecystectomy,醫師2,167,1,常規,1,?
+60,M,健保,R,GA,Exploratory laparotomy,醫師40,81,1,常規,2,?
+66,F,健保,R,GA,"Partial mastectomy,unil",醫師8,347,1,常規,1,?
+70,M,健保,R,GA,Laparoscopic cholecystectomy,醫師10,157,2,常規,1,?
+58,F,健保,R,GA,Laparoscopic cholecystectomy,醫師10,157,2,常規,1,?
+52,F,健保,E,GA,Laparoscopic cholecystectomy,醫師19,116,1,急刀一級,1,?
+84,M,健保榮民,E,GA,"Repair Inguinal hernia, scarf-no",醫師2,167,1,急刀一級,1,?
+57,M,健保,O,GA,Laparoscopic appendectomy,醫師2,167,1,急刀二級,1,?
+65,M,健保,R,GA,Laparoscopic cholecystectomy,醫師1,239,1,常規,1,?
+41,M,健保,R,GA,Laparoscopic cholecystectomy,醫師46,262,1,常規,1,?
+27,F,健保,R,GA,Laparoscopic cholecystectomy,醫師46,262,1,常規,1,?
+57,F,健保,R,GA,Laparoscopic cholecystectomy,醫師6,152,2,常規,1,?
+44,F,健保,R,GA,P. mastectomy & sentinel node Ex,醫師11,143,1,常規,1,?
+74,M,健保榮民,R,GA,Laparoscopic cholecystectomy,醫師4,286,1,常規,1,?
+61,F,健保,R,GA,"Partial mastectomy,unil",醫師8,348,1,常規,2,?
+49,F,健保,R,GA,P. mastectomy & sentinel node Ex,醫師1,239,1,常規,1,?
+58,M,健保,R,GA,Laparoscopic appendectomy,醫師1,239,1,常規,1,?
+35,F,健保,R,GA,Laparoscopic cholecystectomy,醫師16,143,2,常規,1,?
+73,M,健保榮民,O,GA,Laparoscopic appendectomy,醫師16,143,1,急刀二級,2,?
+56,M,健保,O,GA,Laparoscopic appendectomy,醫師16,143,1,急刀二級,2,?
+61,M,健保,O,GA,Laparoscopic appendectomy,醫師46,262,1,急刀二級,2,?
+67,M,健保,R,GA,Laparoscopic cholecystectomy,醫師4,286,1,常規,2,?
+50,F,健保,R,GA,Breast tumor excision unil,醫師4,286,1,常規,2,?
+47,M,健保,R,GA,Laparoscopic cholecystectomy,醫師6,153,1,常規,2,?
+48,M,健保,O,GA,Laparoscopic appendectomy,醫師46,262,1,急刀二級,2,?
+65,M,健保,R,SA,Repair Inguinal hernia no bowel,醫師16,143,1,常規,1,?
+45,F,健保,R,GA,Breast tumor excision unil,醫師8,348,2,常規,1,?
+50,F,健保,R,GA,Laparoscopic cholecystectomy,醫師10,157,1,常規,1,?
+64,M,健保,R,GA,Laparoscopic cholecystectomy,醫師10,157,1,常規,1,?
+42,F,健保,R,GA,Laparoscopic cholecystectomy,醫師10,157,1,常規,1,?
+46,F,健保,O,GA,Laparoscopic appendectomy,醫師2,167,1,急刀二級,2,?
+36,F,健保,R,GA,Laparoscopic cholecystectomy,醫師6,153,1,常規,1,?
+26,F,健保,R,GA,Laparoscopic cholecystectomy,醫師6,153,1,常規,1,?
+67,M,健保榮民,R,GA,"Thyroidectomy, bilateral",醫師2,167,1,常規,1,?
+53,F,健保,R,GA,P. mastectomy & sentinel node Ex,醫師11,143,1,常規,2,?
+38,M,健保,O,GA,Laparoscopic appendectomy,醫師16,143,1,急刀二級,2,?
+70,F,健保,R,GA,Laparoscopic cholecystectomy,醫師7,311,1,常規,1,?
+62,M,健保,R,SA,Repair Inguinal hernia no bowel,醫師1,239,1,常規,1,?
+81,M,健保,R,GA,Repair Inguinal hernia no bowel,醫師3,373,1,常規,1,?
+54,M,健保,O,GA,Laparoscopic appendectomy,醫師1,239,1,急刀二級,1,?
+21,M,健保,O,GA,Laparoscopic appendectomy,醫師1,239,1,急刀二級,1,?
+59,F,健保,E,GA,Exploratory laparotomy,醫師1,239,1,急刀一級,1,?
+68,F,健保榮民,R,GA,Repair Ventral hernia no bowel R,醫師16,143,1,常規,1,?
+60,F,健保,R,GA,"Partial mastectomy,unil",醫師4,286,1,常規,2,?
+58,F,健保,R,GA,Laparoscopic cholecystectomy,醫師6,153,1,常規,1,?
+28,M,健保,O,GA,Laparoscopic cholecystectomy,醫師16,143,1,急刀二級,1,?
+41,F,健保,R,GA,Laparoscopic cholecystectomy,醫師2,167,1,常規,1,?
+75,F,健保,R,GA,"Thyroidectomy, bilateral",醫師2,167,1,常規,1,?
+35,M,健保,R,GA,Laparoscopic cholecystectomy,醫師6,153,2,常規,2,?
+65,F,健保榮民,R,GA,Laparoscopic cholecystectomy,醫師6,153,2,常規,1,?
+77,M,健保,O,GA,Laparoscopic cholecystectomy,醫師16,143,1,急刀二級,1,?
+40,F,本院員工,R,GA,Laparoscopic cholecystectomy,醫師10,157,3,常規,1,?
+66,M,健保,R,SA,Repair Inguinal hernia no bowel,醫師10,157,1,常規,1,?
+54,M,健保,R,GA,Laparoscopic cholecystectomy,醫師40,82,1,常規,1,?
+74,F,健保,R,GA,"Thyroidectomy, bilateral",醫師2,167,1,常規,1,?
+29,M,健保,R,GA,Laparoscopic cholecystectomy,醫師16,143,1,常規,1,?
+66,F,健保,R,GA,Laparoscopic cholecystectomy,醫師40,82,2,常規,1,?
+45,M,健保,R,GA,Laparoscopic cholecystectomy,醫師15,140,1,常規,1,?
+89,M,健保榮民,O,GA,Laparoscopic appendectomy,醫師2,168,1,急刀二級,2,?
+63,F,健保,O,GA,Laparoscopic appendectomy,醫師4,286,1,急刀二級,3,?
+65,M,健保,R,SA,Repair Inguinal hernia no bowel,醫師6,153,1,常規,1,?
+35,M,健保,R,GA,Laparoscopic cholecystectomy,醫師19,117,1,常規,1,?
+63,M,健保榮民,R,GA,"Thyroidectomy, unilateral",醫師2,168,1,常規,1,?
+43,F,健保,O,GA,Laparoscopic appendectomy,醫師15,140,1,急刀二級,1,?
+42,M,健保榮民,O,GA,Laparoscopic appendectomy,醫師40,82,1,急刀二級,1,?
+54,F,健保,R,GA,Laparoscopic cholecystectomy,醫師7,311,1,常規,1,?
+67,F,健保,E,GA,Laparoscopic appendectomy,醫師15,140,2,急刀一級,1,?
+67,F,健保,R,GA,Laparoscopic cholecystectomy,醫師10,157,1,常規,1,?
+40,F,健保,R,GA,Repair of umbilical hernia,醫師10,157,1,常規,1,?
+49,F,健保,R,GA,Laparoscopic cholecystectomy,醫師16,144,1,常規,1,?
+61,F,健保,R,GA,"Thyroidectomy, unilateral",醫師5,,2,常規,1,?
+69,F,健保,R,GA,"Thyroidectomy, unilateral",醫師2,168,1,常規,1,?
+89,M,健保榮民,E,GA,"Repair Inguinal hernia, scarf-no",醫師6,153,1,急刀一級,2,?
+54,F,健保,R,GA,Laparoscopic cholecystectomy,醫師6,153,3,常規,1,?
+25,M,健保,O,GA,Laparoscopic appendectomy,醫師6,153,1,急刀二級,2,?
+66,F,健保,R,GA,Laparoscopic cholecystectomy,醫師10,158,1,常規,1,?
+58,F,健保,R,GA,Laparoscopic cholecystectomy,醫師10,158,1,常規,1,?
+82,F,健保榮民,O,GA,Laparoscopic cholecystectomy,醫師43,95,1,急刀二級,2,?
+72,M,健保榮民,O,GA,Laparoscopic cholecystectomy,醫師43,95,1,急刀二級,2,?
+50,F,健保,R,GA,Laparoscopic cholecystectomy,醫師7,312,1,常規,2,?
+27,M,健保,O,GA,Laparoscopic appendectomy,醫師43,95,1,急刀二級,2,?
+56,F,健保,O,GA,Laparoscopic cholecystectomy,醫師16,144,1,急刀二級,2,?
+75,F,健保,O,GA,Laparoscopic cholecystectomy,醫師43,95,1,急刀二級,1,?
+34,M,健保,R,GA,Repair Inguinal hernia no bowel,醫師3,373,1,常規,2,?
+45,M,健保,R,GA,Laparoscopic herniorrhaphy,醫師7,312,1,常規,1,?
+71,M,健保,E,GA,Laparoscopic cholecystectomy,醫師40,82,1,急刀一級,1,?
+62,M,健保,R,SA,Repair Inguinal hernia no bowel,醫師10,158,1,常規,1,?
+65,M,健保,R,SA,Repair Inguinal hernia no bowel,醫師10,158,1,常規,1,?
+56,F,健保,O,GA,Laparoscopic appendectomy,醫師1,240,1,急刀二級,2,?
+66,M,健保,R,GA,Repair Inguinal hernia no bowel,醫師46,263,1,常規,2,?
+43,F,健保,R,GA,"Thyroidectomy, bilateral",醫師2,168,2,常規,1,?
+42,F,民眾,R,GA,Laparoscopic cholecystectomy,醫師6,153,1,常規,1,?
+80,M,健保,O,GA,Laparoscopic appendectomy,醫師43,95,1,急刀二級,1,?
+44,F,健保,R,GA,Laparoscopic cholecystectomy,醫師6,153,2,常規,1,?
+29,F,健保,O,GA,Laparoscopic appendectomy,醫師43,95,1,急刀二級,2,?
+58,F,健保,R,GA,Laparoscopic cholecystectomy,醫師8,349,1,常規,1,?
+52,M,健保,R,SA,Repair Inguinal hernia no bowel,醫師10,158,1,常規,2,?
+47,F,健保,R,GA,S. mastectomy & sentinel LM node,醫師8,349,2,常規,1,?
+34,F,健保,R,GA,Laparoscopic cholecystectomy,醫師10,158,2,常規,1,?
+49,M,健保,R,GA,Laparoscopic cholecystectomy,醫師10,158,3,常規,1,?
+49,M,健保,R,GA,Laparoscopic cholecystectomy,醫師46,263,1,常規,2,?
+70,M,健保榮民,O,GA,Laparoscopic cholecystectomy,醫師10,158,1,急刀二級,2,?
+62,F,健保,R,GA,P. mastectomy & sentinel node Ex,醫師11,144,1,常規,1,?
+73,M,健保,O,GA,Laparoscopic cholecystectomy,醫師1,240,1,急刀二級,2,?
+69,M,健保,R,SA,Repair Inguinal hernia no bowel,醫師9,334,1,常規,2,?
+56,M,健保,O,GA,Laparoscopic appendectomy,醫師46,263,1,急刀二級,3,?
+60,F,健保,O,GA,Laparoscopic cholecystectomy,醫師1,240,1,急刀二級,2,?
+64,F,健保,R,GA,Repair Ventral hernia+mesh,醫師7,312,1,常規,2,?
+85,F,健保,R,GA,Laparoscopic cholecystectomy,醫師1,240,1,常規,1,?
+80,F,健保,R,GA,Laparoscopic cholecystectomy,醫師7,312,1,常規,1,?
+56,F,健保,O,GA,Laparoscopic appendectomy,醫師4,287,1,急刀二級,2,?
+78,M,健保榮民,E,SA,Repair Inguinal hernia no bowel,醫師16,144,1,急刀一級,2,?
+19,F,健保,R,GA,"Thyroidectomy, unilateral",醫師2,168,1,常規,1,?
+51,F,健保,R,GA,"Thyroidectomy, unilateral",醫師2,168,1,常規,1,?
+52,F,健保,R,GA,"Thyroidectomy, bilateral",醫師2,168,2,常規,1,?
+66,F,健保,R,GA,Laparoscopic cholecystectomy,醫師43,95,1,常規,1,?
+65,M,健保,R,SA,Repair Inguinal hernia no bowel,醫師16,144,1,常規,1,?
+77,M,健保,R,GA,Repair Inguinal hernia no bowel,醫師6,154,1,常規,1,?
+38,F,健保,R,GA,"Thyroidectomy, unilateral",醫師2,168,2,常規,1,?
+67,F,健保,O,SA,Repair Inguinal hernia no bowel,醫師16,144,1,急刀二級,2,?
+73,M,健保,R,SA,Repair Inguinal hernia no bowel,醫師43,95,1,常規,2,?
+51,M,健保,R,SA,Repair Inguinal hernia no bowel,醫師10,158,1,常規,2,?
+46,F,健保,R,GA,Laparoscopic cholecystectomy,醫師10,158,3,常規,1,?
+50,F,健保榮民,R,GA,Laparoscopic cholecystectomy,醫師10,158,2,常規,2,?
+45,F,健保,R,GA,Laparoscopic cholecystectomy,醫師7,312,1,常規,1,?
+76,M,健保,R,GA,Repair Inguinal hernia no bowel,醫師1,240,2,常規,1,?
+67,F,健保,R,GA,Laparoscopic cholecystectomy,醫師16,144,1,常規,1,?
+53,M,健保,R,GA,Laparoscopic cholecystectomy,醫師7,312,1,常規,1,?
+73,M,健保,R,SA,Repair Inguinal hernia no bowel,醫師10,158,1,常規,1,?
+71,F,健保榮民,R,GA,Laparoscopic cholecystectomy,醫師10,158,2,常規,1,?
+72,M,健保,R,GA,Laparoscopic cholecystectomy,醫師43,95,1,常規,1,?
+65,F,健保,R,GA,"Thyroidectomy, bilateral",醫師2,168,2,常規,1,?
+42,F,健保,R,GA,"Thyroidectomy, unilateral",醫師2,168,1,常規,1,?
+38,F,健保,R,GA,Laparoscopic cholecystectomy,醫師6,154,1,常規,3,?
+47,F,健保,R,GA,Laparoscopic cholecystectomy,醫師6,154,1,常規,2,?
+43,M,健保,O,GA,Laparoscopic appendectomy,醫師40,83,1,急刀二級,1,?
+61,F,健保,O,GA,Laparoscopic appendectomy,醫師40,83,1,急刀二級,1,?
+57,M,健保,R,GA,Laparoscopic herniorrhaphy,醫師7,312,1,常規,1,?
+56,M,健保,R,GA,Laparoscopic cholecystectomy,醫師9,334,2,常規,3,?
+69,M,健保榮民,R,GA,Laparoscopic cholecystectomy,醫師16,144,1,常規,1,?
+50,F,健保,R,GA,Laparoscopic cholecystectomy,醫師46,264,1,常規,1,?
+47,F,健保,R,GA,Laparoscopic cholecystectomy,醫師2,168,2,常規,1,?
+65,F,健保,R,GA,Laparoscopic cholecystectomy,醫師6,154,2,常規,1,?
+63,M,健保,O,GA,Laparoscopic appendectomy,醫師2,168,1,急刀二級,2,?
+87,M,健保,R,SA,Repair Inguinal hernia no bowel,醫師9,334,1,常規,1,?
+55,F,健保,O,GA,Laparoscopic appendectomy,醫師16,144,1,急刀二級,2,?
+42,F,健保,R,SA,Repair Inguinal hernia no bowel,醫師1,240,1,常規,1,?
+59,F,健保,O,GA,Laparoscopic cholecystectomy,醫師43,95,1,急刀二級,1,?
+67,F,健保,O,GA,Laparoscopic cholecystectomy,醫師23,142,1,急刀二級,1,?
+25,F,健保,R,GA,"Thyroidectomy, unilateral",醫師2,168,2,常規,1,?
+58,F,健保,O,GA,Laparoscopic appendectomy,醫師40,83,1,急刀二級,1,?
+51,F,健保,R,GA,"Partial mastectomy, malignant",醫師4,287,1,常規,1,?
+40,F,健保,R,GA,Laparoscopic cholecystectomy,醫師10,158,1,常規,2,?
+65,F,健保,R,GA,Laparoscopic cholecystectomy,醫師10,158,2,常規,2,?
+69,M,健保,R,GA,Laparoscopic cholecystectomy,醫師10,158,1,常規,2,?
+75,M,健保,R,GA,Repair Inguinal hernia no bowel,醫師10,158,1,常規,1,?
+72,M,健保,R,GA,Repair Inguinal hernia no bowel,醫師7,312,1,常規,1,?
+57,F,健保,R,GA,"Thyroidectomy, bilateral",醫師2,169,1,常規,1,?
+47,F,健保,R,GA,"Partial mastectomy,unil",醫師11,144,1,常規,1,?
+53,F,健保,R,GA,Removal axillary lymphnode,醫師11,144,1,常規,1,?
+45,M,健保,R,GA,Laparoscopic cholecystectomy,醫師46,264,1,常規,2,?
+87,M,健保榮民,R,GA,Laparoscopic cholecystectomy,醫師10,158,1,常規,2,?
+71,F,健保,R,GA,Laparoscopic cholecystectomy,醫師1,240,1,常規,1,?
+62,M,健保,O,GA,Laparoscopic appendectomy,醫師1,240,1,急刀二級,2,?
+43,M,健保,O,GA,Laparoscopic cholecystectomy,醫師7,312,1,急刀二級,2,?
+48,M,健保,O,GA,Laparoscopic cholecystectomy,醫師1,240,1,急刀二級,2,?
+72,F,健保,R,GA,Laparoscopic cholecystectomy,醫師15,141,1,常規,1,?
+22,M,警政署,E,GA,Laparoscopic appendectomy,醫師40,83,1,急刀一級,1,?
+37,F,健保,O,GA,Laparoscopic cholecystectomy,醫師16,145,1,急刀二級,2,?
+55,M,健保榮民,R,GA,Laparoscopic cholecystectomy,醫師43,96,1,常規,1,?
+30,F,健保,R,GA,"Thyroidectomy, unilateral",醫師5,,1,常規,1,?
+37,F,健保,R,GA,"Thyroidectomy, unilateral",醫師2,169,2,常規,1,?
+53,M,健保,O,GA,Laparoscopic cholecystectomy,醫師2,169,1,急刀二級,2,?
+63,M,健保榮民,R,GA,Repair Inguinal hernia no bowel,醫師10,159,1,常規,2,?
+59,F,健保,R,GA,P. mastectomy & sentinel node Ex,醫師11,145,1,常規,1,?
+66,M,健保榮民,O,GA,Laparoscopic cholecystectomy,醫師6,154,2,急刀二級,2,?
+42,F,健保,R,GA,S. mastectomy & sentinel LM node,醫師4,288,1,常規,1,?
+41,F,健保,R,GA,Laparoscopic cholecystectomy,醫師10,159,1,常規,2,?
+68,M,健保,R,GA,Laparoscopic cholecystectomy,醫師10,159,1,常規,2,?
+67,F,健保,R,GA,"Partial mastectomy, malignant",醫師1,241,1,常規,1,?
+66,M,健保,R,GA,Laparoscopic cholecystectomy,醫師1,241,1,常規,1,?
+37,F,健保,R,GA,Laparoscopic cholecystectomy,醫師1,241,1,常規,1,?
+67,M,健保,R,GA,Laparoscopic cholecystectomy,醫師16,145,1,常規,1,?
+55,M,健保,R,GA,Laparoscopic cholecystectomy,醫師15,142,1,常規,1,?
+30,F,健保,O,GA,Laparoscopic appendectomy,醫師23,142,1,急刀二級,1,?
+81,M,健保,R,SA,Repair Inguinal hernia no bowel,醫師43,96,1,常規,1,?
+57,M,健保榮民,R,GA,"Thyroidectomy, unilateral",醫師2,169,2,常規,1,?
+43,F,健保,R,GA,"Thyroidectomy, unilateral",醫師2,169,1,常規,1,?
+51,F,健保,R,GA,Laparoscopic cholecystectomy,醫師2,169,2,常規,1,?
+41,F,健保,O,GA,Laparoscopic appendectomy,醫師40,83,1,急刀二級,1,?
+50,M,健保,O,GA,Laparoscopic appendectomy,醫師40,83,1,急刀二級,1,?
+45,F,健保,R,GA,Laparoscopic appendectomy,醫師7,313,1,常規,1,?
+42,F,健保,R,GA,Laparoscopic cholecystectomy,醫師10,159,2,常規,1,?
+41,F,健保,R,GA,Repair Ventral hernia no bowel R,醫師9,335,1,常規,2,?
+24,M,健保,O,GA,Laparoscopic appendectomy,醫師10,159,1,急刀二級,2,?
+70,F,健保,O,GA,Laparoscopic cholecystectomy,醫師10,159,1,急刀二級,2,?
+48,F,健保,O,GA,Laparoscopic cholecystectomy,醫師10,159,1,急刀二級,2,?
+79,M,健保,R,GA,Repair Inguinal hernia no bowel,醫師40,83,2,常規,1,?
+52,F,健保,R,GA,Laparoscopic cholecystectomy,醫師6,154,1,常規,1,?
+28,F,健保,R,GA,Laparoscopic cholecystectomy,醫師46,264,1,常規,1,?
+39,F,健保,O,GA,Laparoscopic cholecystectomy,醫師1,241,1,急刀二級,2,?
+32,F,健保,R,GA,Laparoscopic cholecystectomy,醫師9,335,2,常規,1,?
+18,M,健保,O,GA,Laparoscopic appendectomy,醫師1,241,1,急刀二級,2,?
+53,M,健保,R,GA,Laparoscopic cholecystectomy,醫師7,313,1,常規,1,?
+78,M,健保,R,SA,Repair Inguinal hernia no bowel,醫師7,313,1,常規,1,?
+65,F,健保,R,GA,Laparoscopic cholecystectomy,醫師10,159,1,常規,1,?
+65,M,健保,R,SA,Repair Inguinal hernia no bowel,醫師10,159,1,常規,1,?
+81,F,健保,O,GA,Laparoscopic cholecystectomy,醫師1,241,1,急刀二級,2,?
+64,F,健保,R,GA,Laparoscopic cholecystectomy,醫師43,96,1,常規,1,?
+23,F,健保,R,GA,"Thyroidectomy, unilateral",醫師2,169,2,常規,1,?
+49,F,本院員工,R,GA,"Thyroidectomy, unilateral",醫師2,169,1,常規,1,?
+42,F,健保,R,GA,Laparoscopic cholecystectomy,醫師6,155,1,常規,1,?
+46,F,健保,R,GA,Breast tumor excision unil,醫師4,288,1,常規,1,?
+45,F,健保,R,GA,Laparoscopic cholecystectomy,醫師6,155,2,常規,1,?
+86,M,健保榮民,R,GA,Laparoscopic cholecystectomy,醫師7,313,1,常規,2,?
+81,M,健保,R,SA,Repair Inguinal hernia no bowel,醫師7,313,1,常規,1,?
+64,M,健保,R,GA,Repair of umbilical hernia,醫師7,313,1,常規,2,?
+49,M,健保,O,GA,Laparoscopic appendectomy,醫師40,84,1,急刀二級,1,?
+77,F,健保榮民,R,GA,Repair Ventral hernia no bowel R,醫師7,313,1,常規,1,?
+31,M,健保,O,GA,Laparoscopic cholecystectomy,醫師40,84,2,急刀二級,1,?
+30,M,健保,R,GA,Laparoscopic cholecystectomy,醫師7,313,1,常規,2,?
+53,F,健保,R,GA,"Thyroidectomy, unilateral",醫師2,169,1,常規,1,?
+45,F,健保,R,GA,Laparoscopic cholecystectomy,醫師2,169,1,常規,1,?
+68,M,健保,O,GA,Laparoscopic cholecystectomy,醫師46,265,1,急刀二級,2,?
+30,M,健保,O,GA,Laparoscopic appendectomy,醫師46,265,1,急刀二級,2,?
+79,M,健保,R,GA,Repair Inguinal hernia no bowel,醫師6,155,1,常規,1,?
+46,M,健保,O,GA,Laparoscopic appendectomy,醫師2,169,1,急刀二級,2,?
+51,F,健保,R,GA,Laparoscopic cholecystectomy,醫師9,335,2,常規,3,?
+43,F,健保,R,GA,Laparoscopic cholecystectomy,醫師10,159,2,常規,2,?
+90,F,健保榮民,O,GA,Laparoscopic cholecystectomy,醫師43,96,1,急刀二級,2,?
+46,F,健保福保,R,GA,P. mastectomy & sentinel node Ex,醫師1,241,1,常規,1,?
+68,M,健保榮民,O,GA,Laparoscopic appendectomy,醫師46,265,1,急刀二級,2,?
+61,M,健保,R,GA,Laparoscopic cholecystectomy,醫師19,118,1,常規,1,?
+58,M,健保,R,GA,Repair Inguinal hernia no bowel,醫師10,159,1,常規,1,?
+37,F,健保,R,GA,Laparoscopic cholecystectomy,醫師2,169,1,常規,1,?
+45,F,健保,O,GA,Laparoscopic appendectomy,醫師4,288,1,急刀二級,2,?
+55,F,健保,R,GA,Laparoscopic cholecystectomy,醫師9,335,1,常規,3,?
+40,F,健保,R,GA,"Thyroidectomy, unilateral",醫師2,169,1,常規,1,?
+38,M,健保,R,GA,"Thyroidectomy, unilateral",醫師2,169,1,常規,1,?
+48,F,健保,R,GA,P. mastectomy & sentinel node Ex,醫師11,145,2,常規,1,?
+59,F,健保,R,GA,"Simple mastectomy, malignant",醫師11,145,1,常規,1,?
+45,F,健保,R,GA,S. mastectomy & sentinel LM node,醫師11,145,1,常規,1,?
+48,F,健保福保,O,GA,Laparoscopic appendectomy,醫師6,155,1,急刀二級,2,?
+32,F,民眾,O,GA,Laparoscopic cholecystectomy,醫師40,84,2,急刀二級,1,?
+68,F,健保,O,GA,Laparoscopic cholecystectomy,醫師6,155,1,急刀二級,2,?
+46,F,健保,R,GA,"Wide excision-soft,tumor,malig",醫師4,288,1,常規,1,?
+62,F,健保,R,GA,Laparoscopic cholecystectomy,醫師10,159,1,常規,1,?
+65,F,健保,O,GA,Laparoscopic cholecystectomy,醫師10,159,1,急刀二級,2,?
+55,F,本院員工,O,GA,Laparoscopic appendectomy,醫師40,84,1,急刀二級,1,?
+72,F,健保,O,GA,Laparoscopic cholecystectomy,醫師40,84,1,急刀二級,1,?
+43,F,健保,O,GA,Laparoscopic appendectomy,醫師43,96,1,急刀二級,2,?
+65,M,健保,R,GA,Cholecystectomy,醫師46,265,3,常規,1,?
+91,M,健保,T,SA,Repair Inguinal hernia no bowel,醫師40,84,1,臨時,1,?
+64,F,健保,O,GA,Laparoscopic cholecystectomy,醫師16,145,1,急刀二級,2,?
+54,M,健保,R,GA,Laparoscopic cholecystectomy,醫師10,160,2,常規,2,?
+62,M,健保,R,GA,Laparoscopic cholecystectomy,醫師7,314,1,常規,1,?
+79,F,健保榮民,O,GA,Laparoscopic cholecystectomy,醫師10,160,1,急刀二級,2,?
+34,M,健保,R,GA,Laparoscopic cholecystectomy,醫師9,336,1,常規,3,?
+56,M,健保,R,GA,Laparoscopic cholecystectomy,醫師10,160,2,常規,1,?
+50,F,健保,R,GA,P. mastectomy & sentinel node Ex,醫師46,265,1,常規,1,?
+31,F,健保,E,GA,Laparoscopic appendectomy,醫師46,265,1,急刀一級,2,?
+66,M,健保,R,SA,Repair Inguinal hernia no bowel,醫師10,160,1,常規,1,?
+71,F,健保,R,GA,Laparoscopic cholecystectomy,醫師10,160,1,常規,1,?
+82,F,健保,O,GA,Laparoscopic appendectomy,醫師2,170,1,急刀二級,2,?
+50,M,健保,O,GA,Laparoscopic appendectomy,醫師2,170,1,急刀二級,2,?
+76,M,健保榮民,R,GA,Repair Inguinal hernia no bowel,醫師7,314,1,常規,1,?
+72,M,健保,R,SA,Repair Inguinal hernia no bowel,醫師7,314,1,常規,1,?
+55,M,健保,R,SA,Repair Inguinal hernia no bowel,醫師16,146,1,常規,1,?
+52,M,健保福保,O,GA,Laparoscopic cholecystectomy,醫師6,155,1,急刀二級,2,?
+45,F,健保,O,GA,Laparoscopic cholecystectomy,醫師6,155,1,急刀二級,2,?
+34,M,健保,R,GA,Laparoscopic cholecystectomy,醫師19,119,1,常規,1,?
+60,F,健保,R,GA,"Thyroidectomy, unilateral",醫師2,170,2,常規,1,?
+43,M,健保,R,GA,Repair of umbilical hernia,醫師2,170,1,常規,1,?
+47,M,健保,R,GA,Laparoscopic cholecystectomy,醫師6,155,2,常規,1,?
+92,M,健保,R,GA,Laparoscopic cholecystectomy,醫師6,155,1,常規,1,?
+56,M,健保,E,GA,"Repair Inguinal hernia, relapse-",醫師43,97,1,急刀一級,1,?
+28,M,健保,O,GA,Laparoscopic appendectomy,醫師16,146,1,急刀二級,2,?
+58,F,健保,O,GA,Laparoscopic appendectomy,醫師16,146,1,急刀二級,2,?
+54,M,健保,O,GA,Laparoscopic cholecystectomy,醫師43,97,1,急刀二級,1,?
+67,F,重大傷病,O,GA,Laparoscopic cholecystectomy,醫師7,314,1,急刀二級,2,?
+60,F,健保,R,GA,"Thyroidectomy, bilateral",醫師2,170,1,常規,1,?
+69,F,健保,R,GA,Laparoscopic cholecystectomy,醫師16,146,1,常規,1,?
+71,M,健保,R,GA,Laparoscopic cholecystectomy,醫師46,265,1,常規,2,?
+35,F,健保,R,GA,Laparoscopic cholecystectomy,醫師10,160,1,常規,2,?
+54,M,健保,R,GA,Subtotal gastrectomy no vagotom,醫師10,160,3,常規,1,?
+56,M,健保,O,GA,Laparoscopic appendectomy,醫師1,242,1,急刀二級,2,?
+83,M,健保,R,SA,Repair Inguinal hernia no bowel,醫師7,314,1,常規,1,?
+66,M,健保,O,GA,Laparoscopic cholecystectomy,醫師43,97,1,急刀二級,1,?
+88,M,健保榮民,R,SA,Repair Inguinal hernia no bowel,醫師3,375,1,常規,1,?
+60,F,健保,R,GA,Laparoscopic cholecystectomy,醫師3,375,1,常規,1,?
+45,M,健保,O,GA,Laparoscopic appendectomy,醫師43,97,1,急刀二級,1,?
+55,M,健保,O,GA,Laparoscopic appendectomy,醫師43,97,1,急刀二級,1,?
+56,M,健保,O,GA,Laparoscopic cholecystectomy,醫師10,160,1,急刀二級,1,?
+88,M,健保,R,GA,Laparoscopic cholecystectomy,醫師43,97,1,常規,2,?
+69,M,健保,R,GA,"Thyroidectomy, bilateral",醫師5,,1,常規,1,?
+68,M,健保,R,GA,Laparoscopic cholecystectomy,醫師6,156,1,常規,1,?
+61,M,健保,R,GA,Laparoscopic cholecystectomy,醫師2,170,1,常規,1,?
+45,F,本院員工,O,GA,Laparoscopic appendectomy,醫師4,289,1,急刀二級,2,?
+53,M,健保,R,GA,Laparoscopic cholecystectomy,醫師16,146,1,常規,1,?
+64,F,健保榮民,R,GA,"Thyroidectomy, unilateral",醫師2,170,1,常規,1,?
+46,M,警政署,O,GA,Laparoscopic cholecystectomy,醫師15,143,1,急刀二級,1,?
+67,M,健保,R,GA,Laparoscopic cholecystectomy,醫師6,156,2,常規,1,?
+51,F,健保,O,GA,Laparoscopic appendectomy,醫師6,156,1,急刀二級,2,?
+54,M,健保,R,SA,Repair Inguinal hernia no bowel,醫師9,336,1,常規,2,?
+58,F,健保,R,GA,Laparoscopic cholecystectomy,醫師7,314,1,常規,1,?
+73,F,健保榮民,O,GA,Laparoscopic cholecystectomy,醫師40,85,1,急刀二級,1,?
+53,F,健保,O,GA,Laparoscopic cholecystectomy,醫師40,85,2,急刀二級,1,?
+61,M,健保,R,GA,Laparoscopic cholecystectomy,醫師3,376,1,常規,1,?
+59,F,健保,R,GA,Laparoscopic cholecystectomy,醫師10,160,1,常規,1,?
+59,M,健保,R,GA,Laparoscopic cholecystectomy,醫師43,97,1,常規,1,?
+75,F,健保,R,GA,"Thyroidectomy, bilateral",醫師2,170,1,常規,1,?
+74,M,健保,R,GA,Laparoscopic cholecystectomy,醫師4,289,1,常規,1,?
+38,M,民眾,R,GA,Laparoscopic cholecystectomy,醫師43,97,1,常規,1,?
+47,F,健保,R,GA,Soft tissue biopsy (deep),醫師43,97,2,常規,2,?
+73,F,健保,O,GA,Laparoscopic cholecystectomy,醫師4,289,1,急刀二級,1,?
+40,M,健保,O,GA,Laparoscopic cholecystectomy,醫師40,85,1,急刀二級,1,?
+37,M,健保,R,GA,Laparoscopic cholecystectomy,醫師7,314,1,常規,1,?
+44,F,健保,R,GA,Laparoscopic cholecystectomy,醫師10,160,2,常規,1,?
+68,M,健保榮民,R,SA,Repair Inguinal hernia no bowel,醫師10,160,1,常規,2,?
+26,F,健保,R,GA,Laparoscopic cholecystectomy,醫師10,160,1,常規,1,?
+73,F,健保,R,GA,Repair Ventral hernia no bowel R,醫師10,160,1,常規,1,?
+73,F,健保,O,GA,Laparoscopic appendectomy,醫師40,85,1,急刀二級,1,?
+60,F,健保,O,GA,Laparoscopic appendectomy,醫師16,146,1,急刀二級,2,?
+52,M,健保,R,GA,Laparoscopic cholecystectomy,醫師6,156,1,常規,1,?
+22,F,健保,R,GA,Laparoscopic appendectomy,醫師46,266,1,常規,1,?
+71,M,健保,R,GA,Laparoscopic cholecystectomy,醫師46,266,1,常規,1,?
+39,M,健保,R,GA,Laparoscopic cholecystectomy,醫師10,160,2,常規,1,?
+71,M,健保榮民,R,GA,Laparoscopic CBD exploration,醫師10,160,2,常規,2,?
+55,M,健保,O,GA,Laparoscopic appendectomy,醫師1,242,1,急刀二級,2,?
+51,M,健保,R,GA,Repair Inguinal hernia no bowel,醫師7,314,1,常規,1,?
+79,M,健保榮民,R,SA,Repair Inguinal hernia no bowel,醫師7,314,1,常規,1,?
+70,M,健保,R,SA,Repair Inguinal hernia no bowel,醫師3,376,1,常規,1,?
+70,F,健保榮民,R,GA,Laparoscopic cholecystectomy,醫師15,143,1,常規,1,?
+79,F,健保,O,GA,Laparoscopic cholecystectomy,醫師16,146,1,急刀二級,2,?
+67,M,健保,R,SA,Repair Inguinal hernia no bowel,醫師43,97,1,常規,1,?
+62,F,健保,R,GA,"Thyroidectomy, unilateral",醫師2,171,1,常規,1,?
+57,F,健保,R,GA,"Partial mastectomy,unil",醫師4,289,1,常規,1,?
+69,F,健保,R,GA,Laparoscopic cholecystectomy,醫師6,156,1,常規,1,?
+27,M,健保,R,GA,Laparoscopic cholecystectomy,醫師6,156,1,常規,1,?
+59,M,健保,R,GA,Laparoscopic cholecystectomy,醫師10,160,1,常規,2,?
+27,M,健保,R,GA,Laparoscopic cholecystectomy,醫師9,336,1,常規,1,?
+54,F,健保,O,GA,Laparoscopic cholecystectomy,醫師43,97,1,急刀二級,2,?
+79,F,健保榮民,R,GA,Laparoscopic cholecystectomy,醫師46,266,1,常規,1,?
+89,M,健保,R,SA,Repair Inguinal hernia no bowel,醫師46,266,1,常規,1,?
+35,M,健保,O,GA,Laparoscopic cholecystectomy,醫師46,266,1,急刀二級,2,?
+56,M,健保,O,GA,Laparoscopic appendectomy,醫師46,266,1,急刀二級,2,?
+51,M,健保,O,GA,Laparoscopic appendectomy,醫師46,266,1,急刀二級,2,?
+73,M,健保,R,SA,Repair Inguinal hernia no bowel,醫師43,98,1,常規,1,?
+61,F,健保,R,GA,"Thyroidectomy, unilateral",醫師2,171,1,常規,1,?
+54,F,健保,R,GA,Laparoscopic cholecystectomy,醫師6,156,1,常規,1,?
+40,M,健保,O,GA,Laparoscopic appendectomy,醫師2,171,1,急刀二級,2,?
+20,F,健保,O,GA,Laparoscopic appendectomy,醫師4,290,1,急刀二級,2,?
+61,F,健保,R,GA,Laparoscopic cholecystectomy,醫師7,315,1,常規,1,?
+40,F,健保,R,GA,Laparoscopic cholecystectomy,醫師9,337,2,常規,3,?
+82,F,健保,R,GA,Laparoscopic cholecystectomy,醫師10,161,1,常規,1,?
+51,M,健保,R,GA,Laparoscopic cholecystectomy,醫師10,161,1,常規,1,?
+73,F,健保,R,GA,Laparoscopic cholecystectomy,醫師16,147,1,常規,1,?
+72,F,健保,R,GA,Laparoscopic cholecystectomy,醫師16,147,1,常規,1,?
+50,F,健保,R,GA,"Thyroidectomy, unilateral",醫師2,171,3,常規,1,?
+50,M,健保,O,GA,Laparoscopic cholecystectomy,醫師6,156,1,急刀二級,2,?
+26,F,健保,R,GA,"Partial mastectomy,unil",醫師11,147,1,常規,1,?
+63,F,健保,R,GA,Laparoscopic cholecystectomy,醫師6,156,1,常規,1,?
+50,F,健保,O,GA,Laparoscopic cholecystectomy,醫師7,315,1,急刀二級,1,?
+84,F,健保,E,GA,Laparoscopic appendectomy,醫師43,98,1,急刀一級,1,?
+51,M,本院員工,O,GA,Laparoscopic cholecystectomy,醫師9,337,1,急刀二級,1,?
+61,M,健保榮民,O,GA,Laparoscopic appendectomy,醫師16,147,1,急刀二級,1,?
+40,F,健保,O,GA,Laparoscopic cholecystectomy,醫師16,147,1,急刀二級,1,?
+74,F,健保,R,GA,S. mastectomy & sentinel LM node,醫師4,290,1,常規,1,?
+70,M,健保,R,GA,Laparoscopic cholecystectomy,醫師6,156,1,常規,1,?
+50,F,健保,R,GA,Laparoscopic cholecystectomy,醫師6,156,2,常規,1,?
+78,F,健保,R,GA,Laparoscopic cholecystectomy,醫師6,156,1,常規,1,?
+54,F,健保,R,GA,Laparoscopic cholecystectomy,醫師10,161,1,常規,1,?
+58,F,健保,R,GA,Laparoscopic cholecystectomy,醫師7,315,1,常規,1,?
+71,F,健保,R,GA,Laparoscopic cholecystectomy,醫師7,315,1,常規,1,?
+72,F,健保,R,GA,"Partial mastectomy,unil",醫師8,352,1,常規,1,?
+57,F,健保,R,GA,S. mastectomy & sentinel LM node,醫師8,352,1,常規,1,?
+57,F,健保,R,GA,Laparoscopic cholecystectomy,醫師10,161,2,常規,1,?
+61,F,健保,R,GA,Laparoscopic cholecystectomy,醫師16,147,1,常規,1,?
+60,F,健保,R,GA,"Simple mastectomy,unil",醫師6,157,2,常規,1,?
+80,F,健保,R,GA,Laparoscopic cholecystectomy,醫師6,157,1,常規,1,?
+57,M,健保,O,GA,Laparoscopic cholecystectomy,醫師1,243,1,急刀二級,1,?
+53,M,健保榮民,R,SA,Repair Inguinal hernia no bowel,醫師10,161,1,常規,2,?
+47,F,健保,R,GA,Laparoscopic cholecystectomy,醫師10,161,2,常規,1,?
+56,M,健保,R,GA,Laparoscopic cholecystectomy,醫師40,85,1,常規,1,?
+53,F,健保,R,GA,"Partial mastectomy, malignant",醫師1,243,1,常規,1,?
+43,M,健保,O,GA,Laparoscopic appendectomy,醫師2,171,1,急刀二級,1,?
+48,M,健保,R,GA,Laparoscopic cholecystectomy,醫師19,120,1,常規,1,?
+72,M,健保,O,GA,Laparoscopic cholecystectomy,醫師41,61,1,急刀二級,1,?
+75,F,健保,O,GA,Laparoscopic appendectomy,醫師41,61,1,急刀二級,1,?
+52,F,本院員工,R,GA,Benign mediastinal mass ex.<5cm,醫師2,171,1,常規,2,?
+64,M,本院員工,R,SA,Repair Inguinal hernia no bowel,醫師43,98,1,常規,1,?
+37,F,健保,R,GA,Laparoscopic cholecystectomy,醫師6,157,2,常規,1,?
+37,M,健保,O,GA,Laparoscopic appendectomy,醫師10,161,1,急刀二級,2,?
+39,F,健保,R,GA,Laparoscopic cholecystectomy,醫師10,161,1,常規,1,?
+61,M,健保,O,GA,Laparoscopic appendectomy,醫師40,86,1,急刀二級,1,?
+80,M,健保,R,SA,Repair Inguinal hernia no bowel,醫師7,315,1,常規,1,?
+73,M,健保,R,GA,Repair Inguinal hernia no bowel,醫師10,161,1,常規,2,?
+73,F,健保,R,GA,Laparoscopic cholecystectomy,醫師16,147,1,常規,1,?
+44,F,健保,R,GA,Laparoscopic cholecystectomy,醫師40,86,1,常規,1,?
+42,F,健保,R,GA,Repair Ventral hernia+mesh,醫師40,86,1,常規,1,?
+69,M,健保,R,SA,Repair Inguinal hernia no bowel,醫師6,157,1,常規,1,?
+50,F,健保,R,GA,"Thyroidectomy, unilateral",醫師2,171,1,常規,1,?
+19,F,健保福保,O,GA,Laparoscopic cholecystectomy,醫師40,86,1,急刀二級,1,?
+63,F,健保,R,GA,Laparoscopic cholecystectomy,醫師46,267,1,常規,1,?
+46,F,健保,R,GA,Laparoscopic cholecystectomy,醫師9,337,2,常規,3,?
+77,M,健保,R,GA,Repair Inguinal hernia no bowel,醫師7,315,1,常規,1,?
+60,M,健保榮民,R,SA,Repair Inguinal hernia no bowel,醫師7,315,1,常規,1,?
+52,M,健保榮民,R,GA,Laparoscopic cholecystectomy,醫師1,243,1,常規,1,?
+76,F,健保,R,GA,Laparoscopic cholecystectomy,醫師7,315,1,常規,1,?
+76,F,健保,R,GA,Repair Ventral hernia no bowel R,醫師7,315,1,常規,1,?
+90,M,健保榮民,O,GA,Laparoscopic cholecystectomy,醫師1,243,1,急刀二級,1,?
+51,M,健保,O,GA,Laparoscopic cholecystectomy,醫師1,243,1,急刀二級,1,?
+90,M,健保榮民,R,SA,Repair Inguinal hernia no bowel,醫師3,377,1,常規,2,?
+57,M,健保,R,GA,Laparoscopic cholecystectomy,醫師16,147,1,常規,1,?
+74,M,健保,O,GA,Laparoscopic appendectomy,醫師6,157,1,急刀二級,1,?
+50,M,健保,R,GA,Laparoscopic cholecystectomy,醫師19,120,1,常規,1,?
+29,M,健保,O,GA,Laparoscopic appendectomy,醫師43,98,1,急刀二級,1,?
+72,F,健保,O,GA,Laparoscopic appendectomy,醫師40,86,1,急刀二級,1,?
+54,F,健保,R,GA,Laparoscopic cholecystectomy,醫師43,98,2,常規,1,?
+90,M,健保榮民,R,GA,Laparoscopic cholecystectomy,醫師43,98,1,常規,1,?
+51,M,健保,R,GA,"Thyroidectomy, unilateral",醫師2,171,1,常規,1,?
+37,F,健保,R,GA,"Thyroidectomy, bilateral",醫師2,171,1,常規,1,?
+56,F,健保,R,GA,S. mastectomy & sentinel LM node,醫師4,290,1,常規,1,?
+69,M,健保,E,GA,Repair Inguinal hernia no bowel,醫師2,171,1,急刀一級,2,?
+23,M,健保,R,GA,Laparoscopic cholecystectomy,醫師6,157,1,常規,1,?
+72,M,健保,O,GA,Laparoscopic cholecystectomy,醫師16,147,1,急刀二級,2,?
+62,F,健保,O,GA,Laparoscopic appendectomy,醫師2,171,1,急刀二級,2,?
+61,F,健保,R,GA,P. mastectomy & sentinel node Ex,醫師11,147,1,常規,1,?
+44,F,健保,R,GA,"Thyroidectomy, bilateral",醫師5,,1,常規,1,?
+54,F,健保,R,GA,"Thyroidectomy, unilateral",醫師2,172,2,常規,1,?
+67,F,健保,R,GA,S. mastectomy & sentinel LM node,醫師11,147,1,常規,1,?
+73,M,健保,R,GA,Laparoscopic cholecystectomy,醫師6,157,1,常規,1,?
+87,M,健保,R,GA,Laparoscopic cholecystectomy,醫師40,86,1,常規,1,?
+48,F,健保,O,GA,Laparoscopic appendectomy,醫師10,161,1,急刀二級,2,?
+38,M,健保,O,GA,Laparoscopic appendectomy,醫師10,161,2,急刀二級,2,?
+40,M,健保,R,GA,Laparoscopic cholecystectomy,醫師7,315,1,常規,1,?
+70,M,健保,R,GA,Laparoscopic appendectomy,醫師7,315,1,常規,1,?
+66,M,健保,O,GA,Laparoscopic cholecystectomy,醫師40,86,1,急刀二級,1,?
+37,F,健保,R,GA,"Partial mastectomy, malignant",醫師1,243,1,常規,1,?
+32,F,健保,R,SA,Repair Inguinal hernia no bowel,醫師1,243,1,常規,1,?
+67,F,健保,R,SA,Repair Inguinal hernia no bowel,醫師3,377,1,常規,2,?
+62,F,重大傷病,R,GA,Laparoscopic cholecystectomy,醫師15,144,1,常規,1,?
+35,F,健保,O,GA,Laparoscopic appendectomy,醫師16,147,1,急刀二級,2,?
+43,M,健保,O,GA,Laparoscopic appendectomy,醫師16,147,1,急刀二級,2,?
+66,M,健保,E,GA,"Repair Inguinal hernia, relapse-",醫師15,145,1,急刀一級,1,?
+21,M,健保,O,GA,Laparoscopic appendectomy,醫師40,86,1,急刀二級,1,?
+79,M,健保榮民,R,SA,Repair Inguinal hernia no bowel,醫師7,316,1,常規,1,?
+73,F,健保,R,GA,Laparoscopic cholecystectomy,醫師7,316,1,常規,1,?
+58,M,健保榮民,R,GA,Laparoscopic cholecystectomy,醫師7,316,1,常規,1,?
+66,M,健保榮民,R,GA,Laparoscopic cholecystectomy,醫師10,162,2,常規,2,?
+58,M,健保,R,GA,Laparoscopic cholecystectomy,醫師10,162,1,常規,2,?
+47,F,健保,R,GA,Laparoscopic cholecystectomy,醫師7,316,1,常規,1,?
+38,M,健保,O,GA,Laparoscopic appendectomy,醫師43,99,1,急刀二級,1,?
+39,M,健保,O,GA,Laparoscopic cholecystectomy,醫師10,162,1,急刀二級,1,?
+47,F,健保,R,GA,Laparoscopic cholecystectomy,醫師46,267,1,常規,1,?
+46,F,健保,R,GA,"Partial mastectomy,unil",醫師11,148,1,常規,1,?
+26,F,健保,R,GA,P. mastectomy & sentinel node Ex,醫師11,148,1,常規,1,?
+63,F,健保,R,GA,Laparoscopic cholecystectomy,醫師46,267,1,常規,1,?
+34,M,健保,R,GA,Laparoscopic cholecystectomy,醫師46,267,2,常規,1,?
+27,M,健保,R,GA,Laparoscopic appendectomy,醫師46,267,1,常規,2,?
+73,M,健保,R,GA,Laparoscopic cholecystectomy,醫師4,291,1,常規,1,?
+71,F,健保,R,GA,Laparoscopic cholecystectomy,醫師10,162,1,常規,2,?
+45,F,健保,R,GA,Laparoscopic cholecystectomy,醫師1,244,1,常規,1,?
+53,F,健保,O,GA,Laparoscopic appendectomy,醫師46,267,1,急刀二級,2,?
+52,M,健保,O,GA,Laparoscopic appendectomy,醫師2,172,1,急刀二級,1,?
+44,F,健保,O,GA,Laparoscopic appendectomy,醫師16,148,1,急刀二級,2,?
+58,F,健保,R,GA,Laparoscopic cholecystectomy,醫師4,291,1,常規,1,?
+61,F,健保,R,GA,Laparoscopic cholecystectomy,醫師4,291,1,常規,1,?
+63,F,健保,R,GA,S. mastectomy & sentinel LM node,醫師4,291,1,常規,2,?
+47,F,健保,R,GA,Laparoscopic cholecystectomy,醫師6,157,1,常規,1,?
+70,M,健保,R,SA,Repair Inguinal hernia no bowel,醫師10,162,1,常規,2,?
+64,M,健保,R,GA,Laparoscopic cholecystectomy,醫師10,162,1,常規,2,?
+78,F,健保榮民,R,GA,Laparoscopic cholecystectomy,醫師16,148,1,常規,1,?
+71,F,健保,R,GA,Laparoscopic cholecystectomy,醫師9,338,2,常規,1,?
+52,F,健保,R,GA,"Thyroidectomy, unilateral",醫師2,172,1,常規,1,?
+52,M,健保,R,GA,"Thyroidectomy, unilateral",醫師2,172,2,常規,1,?
+59,F,健保,R,GA,S. mastectomy & sentinel LM node,醫師11,148,1,常規,1,?
+44,F,健保,R,GA,Laparoscopic cholecystectomy,醫師6,157,2,常規,1,?
+48,M,健保福保,R,GA,Laparoscopic cholecystectomy,醫師46,267,1,常規,1,?
+69,F,健保,R,GA,Laparoscopic cholecystectomy,醫師40,86,1,常規,1,?
+42,M,健保,O,GA,Laparoscopic appendectomy,醫師6,157,1,急刀二級,1,?
+46,M,健保,R,SA,Repair Inguinal hernia no bowel,醫師10,162,1,常規,2,?
+67,F,健保,R,GA,Repair Ventral hernia+mesh,醫師7,316,1,常規,1,?
+48,M,健保,R,GA,Laparoscopic cholecystectomy,醫師16,148,1,常規,1,?
+35,M,健保,O,GA,Laparoscopic cholecystectomy,醫師16,148,1,急刀二級,1,?
+37,F,健保,R,GA,"Partial mastectomy, malignant",醫師1,244,1,常規,1,?
+52,F,健保,R,GA,Port-A set up,醫師1,244,1,常規,1,?
+68,F,健保,E,GA,Laparoscopic cholecystectomy,醫師19,121,1,急刀一級,1,?
+67,M,健保,O,GA,Laparoscopic cholecystectomy,醫師9,338,1,急刀二級,1,?
+81,M,健保,R,SA,Repair Inguinal hernia no bowel,醫師46,268,1,常規,1,?
+73,F,健保,R,GA,"Thyroidectomy, unilateral",醫師2,172,1,常規,1,?
+64,M,健保,O,GA,Laparoscopic cholecystectomy,醫師10,162,3,急刀二級,1,?
+65,M,健保榮民,R,SA,Repair Inguinal hernia no bowel,醫師10,162,1,常規,2,?
+81,M,健保,R,GA,Laparoscopic cholecystectomy,醫師10,162,1,常規,1,?
+27,M,健保,R,GA,Laparoscopic cholecystectomy,醫師15,145,1,常規,1,?
+58,F,健保,R,GA,S. mastectomy & sentinel LM node,醫師11,148,1,常規,1,?
+44,F,健保,R,GA,Laparoscopic cholecystectomy,醫師6,158,1,常規,1,?
+35,M,健保,O,GA,Laparoscopic appendectomy,醫師6,158,1,急刀二級,1,?
+50,F,健保,R,GA,Laparoscopic cholecystectomy,醫師9,338,1,常規,3,?
+50,M,健保,O,GA,Laparoscopic cholecystectomy,醫師1,244,1,急刀二級,2,?
+74,F,健保榮民,O,GA,Laparoscopic appendectomy,醫師1,244,1,急刀二級,2,?
+39,M,健保,O,GA,Repair Inguinal hernia no bowel,醫師1,244,1,急刀二級,2,?
+41,F,健保,R,GA,Laparoscopic cholecystectomy,醫師16,148,1,常規,1,?
+33,M,健保,R,GA,Laparoscopic cholecystectomy,醫師16,148,1,常規,1,?
+75,F,健保,R,GA,"Thyroidectomy, bilateral",醫師2,172,1,常規,1,?
+57,M,健保,R,GA,"Thyroidectomy, unilateral",醫師5,,1,常規,1,?
+59,M,健保,R,SA,Repair Inguinal hernia no bowel,醫師6,158,1,常規,2,?
+66,F,健保,R,GA,Laparoscopic cholecystectomy,醫師7,316,1,常規,1,?
+21,M,健保,R,GA,Laparoscopic cholecystectomy,醫師10,162,1,常規,2,?
+37,F,健保,R,GA,Laparoscopic cholecystectomy,醫師10,162,1,常規,1,?
+71,M,健保,R,GA,Laparoscopic cholecystectomy,醫師43,99,4,常規,2,?
+38,M,國軍人員,R,GA,"Thyroidectomy, bilateral",醫師2,172,1,常規,1,?
+39,M,重大傷病,R,GA,Port-A set up,醫師40,87,2,常規,1,?
+57,F,健保,R,GA,Laparoscopic cholecystectomy,醫師10,162,2,常規,1,?
+66,M,健保,R,SA,Repair Inguinal hernia no bowel,醫師10,162,1,常規,2,?
+23,F,健保,O,GA,Laparoscopic appendectomy,醫師43,99,1,急刀二級,1,?
+65,F,健保,R,GA,Laparoscopic cholecystectomy,醫師1,244,1,常規,1,?
+58,F,健保,R,GA,"Partial mastectomy, malignant",醫師1,244,1,常規,1,?
+23,M,健保,O,GA,Laparoscopic appendectomy,醫師43,99,1,急刀二級,1,?
+50,M,健保,O,GA,Laparoscopic appendectomy,醫師40,87,1,急刀二級,2,?
+48,F,健保,R,GA,"Thyroidectomy, unilateral",醫師5,,1,常規,1,?
+32,F,健保,R,GA,"Thyroidectomy, unilateral",醫師2,173,2,常規,1,?
+39,F,健保,R,GA,"Thyroidectomy, unilateral",醫師2,173,1,常規,1,?
+77,M,警政署,R,GA,Repair Inguinal hernia no bowel,醫師43,99,1,常規,1,?
+72,F,健保,R,GA,Laparoscopic cholecystectomy,醫師43,99,1,常規,1,?
+57,M,健保,O,GA,Laparoscopic appendectomy,醫師40,87,1,急刀二級,1,?
+68,F,健保,R,GA,Laparoscopic cholecystectomy,醫師7,317,1,常規,1,?
+78,F,健保,R,GA,Laparoscopic cholecystectomy,醫師7,317,1,常規,1,?
+44,F,健保,R,GA,Laparoscopic cholecystectomy,醫師9,339,1,常規,3,?
+66,M,健保,O,GA,Laparoscopic appendectomy,醫師16,149,1,急刀二級,2,?
+40,M,健保,R,GA,Laparoscopic cholecystectomy,醫師16,149,1,常規,1,?
+69,M,健保榮民,O,GA,Laparoscopic cholecystectomy,醫師16,149,1,急刀二級,2,?
+41,F,健保,R,GA,"Thyroidectomy, unilateral",醫師2,173,2,常規,1,?
+60,F,健保,R,GA,S. mastectomy & sentinel LM node,醫師11,149,1,常規,1,?
+50,M,健保,R,GA,Laparoscopic herniorrhaphy,醫師46,268,1,常規,1,?
+43,M,健保,O,GA,Laparoscopic appendectomy,醫師2,173,1,急刀二級,1,?
+41,F,健保,R,GA,Laparoscopic cholecystectomy,醫師10,163,2,常規,1,?
+59,M,健保榮民,R,GA,Laparoscopic cholecystectomy,醫師16,149,1,常規,1,?
+31,M,健保,O,GA,Laparoscopic appendectomy,醫師19,122,1,急刀二級,1,?
+33,F,健保,O,GA,Laparoscopic cholecystectomy,醫師40,87,1,急刀二級,1,?
+83,M,健保,R,SA,Repair Inguinal hernia no bowel,醫師43,100,1,常規,2,?
+71,M,健保,R,SA,Repair Inguinal hernia no bowel,醫師43,100,1,常規,2,?
+70,M,健保,R,GA,"Thyroidectomy, bilateral",醫師2,173,1,常規,1,?
+58,F,健保,R,GA,"Thyroidectomy, unilateral",醫師2,173,2,常規,1,?
+57,M,健保,R,GA,Laparoscopic cholecystectomy,醫師46,268,1,常規,1,?
+42,M,健保,O,GA,Laparoscopic appendectomy,醫師41,63,1,急刀二級,2,?
+60,F,健保,R,GA,Laparoscopic cholecystectomy,醫師6,158,1,常規,1,?
+51,M,健保,R,GA,Laparoscopic cholecystectomy,醫師43,100,1,常規,2,?
+73,M,健保榮民,R,SA,Repair Inguinal hernia no bowel,醫師7,317,1,常規,1,?
+53,M,健保,R,GA,Laparoscopic cholecystectomy,醫師46,268,1,常規,1,?
+59,F,健保,R,GA,Laparoscopic cholecystectomy,醫師6,158,2,常規,1,?
+71,F,健保,R,GA,Laparoscopic cholecystectomy,醫師6,158,1,常規,1,?
+64,M,健保,R,GA,Laparoscopic cholecystectomy,醫師44,2,1,常規,1,?
+53,F,健保,R,GA,Repair of umbilical hernia,醫師4,292,1,常規,1,?
+44,F,健保,R,GA,"Partial mastectomy,unil",醫師4,292,1,常規,1,?
+71,F,健保,R,GA,Laparoscopic cholecystectomy,醫師9,339,1,常規,3,?
+89,M,健保榮民,R,SA,Repair Inguinal hernia no bowel,醫師10,163,1,常規,2,?
+56,M,健保,R,GA,"Thyroidectomy, bilateral",醫師41,63,1,常規,1,?
+40,M,健保,O,GA,Laparoscopic appendectomy,醫師1,245,1,急刀二級,2,?
+80,M,健保榮民,O,GA,Laparoscopic cholecystectomy,醫師16,149,1,急刀二級,1,?
+37,F,健保,R,GA,"Thyroidectomy, unilateral",醫師2,173,1,常規,1,?
+44,F,健保,R,GA,"Thyroidectomy, unilateral",醫師2,173,1,常規,1,?
+66,F,健保,R,GA,"Thyroidectomy, unilateral",醫師2,173,1,常規,1,?
+46,M,民眾,R,GA,Laparoscopic cholecystectomy,醫師7,317,1,常規,1,?
+82,M,健保,R,GA,Laparoscopic cholecystectomy,醫師7,317,1,常規,1,?
+67,M,健保,R,GA,Laparoscopic cholecystectomy,醫師9,339,1,常規,3,?
+96,M,健保榮民,R,LA,Repair Inguinal hernia no bowel,醫師7,317,1,常規,1,?
+61,F,健保,R,GA,Laparoscopic cholecystectomy,醫師10,163,2,常規,2,?
+63,F,健保,R,GA,Laparoscopic cholecystectomy,醫師10,163,2,常規,1,?
+78,M,健保,R,GA,Laparoscopic cholecystectomy,醫師16,149,1,常規,1,?
+52,F,健保,O,GA,Laparoscopic cholecystectomy,醫師7,317,1,急刀二級,1,?
+64,M,健保,O,GA,Laparoscopic appendectomy,醫師10,163,2,急刀二級,1,?
+48,F,健保,R,GA,Laparoscopic cholecystectomy,醫師46,269,1,常規,1,?
+63,M,健保福保,R,GA,Laparoscopic cholecystectomy,醫師6,159,2,常規,2,?
+62,F,健保,R,GA,Laparoscopic cholecystectomy,醫師40,88,1,常規,1,?
+56,M,海巡署,R,GA,Laparoscopic cholecystectomy,醫師10,163,1,常規,1,?
+63,F,健保,R,GA,Laparoscopic cholecystectomy,醫師10,163,1,常規,2,?
+65,M,健保,R,SA,Repair Inguinal hernia no bowel,醫師10,163,1,常規,1,?
+44,F,健保,R,GA,Laparoscopic cholecystectomy,醫師7,317,1,常規,1,?
+54,F,健保,R,GA,"Partial mastectomy, malignant",醫師1,245,1,常規,1,?
+58,F,健保,R,GA,Laparoscopic cholecystectomy,醫師1,245,1,常規,1,?
+53,M,健保,R,GA,Laparoscopic cholecystectomy,醫師3,379,1,常規,1,?
+36,F,健保,R,GA,Laparoscopic cholecystectomy,醫師19,122,1,常規,1,?
+25,F,健保,O,GA,Laparoscopic appendectomy,醫師46,269,1,急刀二級,1,?
+41,F,健保,O,GA,Laparoscopic appendectomy,醫師46,269,1,急刀二級,2,?
+69,M,健保,R,GA,Repair Inguinal hernia no bowel,醫師43,100,1,常規,1,?
+34,F,健保,R,GA,Ex.inguinal lymphnode,醫師46,269,1,常規,1,?
+81,F,健保,R,GA,"Thyroidectomy, unilateral",醫師5,,1,常規,2,?
+56,M,健保,R,GA,"Thyroidectomy, bilateral",醫師2,173,1,常規,1,?
+73,M,健保,R,GA,Laparoscopic cholecystectomy,醫師6,159,1,常規,1,?
+66,F,健保,R,GA,Laparoscopic cholecystectomy,醫師7,317,1,常規,1,?
+47,M,健保,R,GA,Laparoscopic cholecystectomy,醫師10,163,2,常規,2,?
+51,F,健保榮民,R,GA,Laparoscopic cholecystectomy,醫師9,339,1,常規,2,?
+74,M,健保,R,GA,Laparoscopic cholecystectomy,醫師10,163,2,常規,2,?
+54,M,健保,R,GA,Laparoscopic cholecystectomy,醫師16,149,1,常規,1,?
+59,M,健保,R,GA,"Thyroidectomy, unilateral",醫師2,173,1,常規,1,?
+35,F,健保,R,GA,Laparoscopic appendectomy,醫師6,159,1,常規,1,?
+50,F,健保,R,GA,"Thyroidectomy, bilateral",醫師2,173,2,常規,1,?
+42,F,民眾,R,GA,Laparoscopic cholecystectomy,醫師10,163,1,常規,1,?
+21,F,健保,O,GA,Laparoscopic appendectomy,醫師6,159,1,急刀二級,1,?
+30,M,健保,R,GA,Laparoscopic appendectomy,醫師10,163,1,常規,1,?
+39,F,健保,R,GA,Laparoscopic cholecystectomy,醫師7,317,1,常規,1,?
+53,F,健保,R,GA,"Partial mastectomy, malignant",醫師1,245,1,常規,1,?
+75,F,健保,O,GA,Laparoscopic cholecystectomy,醫師43,100,2,急刀二級,1,?
+47,F,健保,O,GA,Laparoscopic appendectomy,醫師6,159,1,急刀二級,2,?
+62,F,健保,R,GA,"Thyroidectomy, unilateral",醫師2,174,1,常規,1,?
+53,M,民眾,O,GA,Laparoscopic appendectomy,醫師6,159,1,急刀二級,2,?
+57,M,警政署,O,GA,Laparoscopic appendectomy,醫師40,88,1,急刀二級,2,?
+54,F,健保,O,GA,Laparoscopic appendectomy,醫師40,88,1,急刀二級,1,?
+60,F,健保,R,GA,Laparoscopic cholecystectomy,醫師5,,1,常規,1,?
+61,M,健保,R,GA,Laparoscopic cholecystectomy,醫師7,317,1,常規,1,?
+39,F,健保,R,GA,"Partial mastectomy,unil",醫師8,354,1,常規,1,?
+75,M,健保,R,GA,Laparoscopic cholecystectomy,醫師10,163,1,常規,1,?
+50,M,健保,R,GA,"Thyroidectomy, unilateral",醫師2,174,1,常規,1,?
+54,M,健保,O,GA,Laparoscopic cholecystectomy,醫師4,292,1,急刀二級,2,?
+43,M,健保,R,GA,Laparoscopic cholecystectomy,醫師15,146,1,常規,1,?
+25,M,健保,O,GA,Laparoscopic appendectomy,醫師4,292,1,急刀二級,2,?
+60,M,健保,O,GA,Laparoscopic cholecystectomy,醫師4,292,1,急刀二級,2,?
+54,M,健保,O,GA,Laparoscopic cholecystectomy,醫師7,317,1,急刀二級,1,?

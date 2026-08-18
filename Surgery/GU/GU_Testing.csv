@@ -1,0 +1,168 @@
+年齡(G),性別(H),身份(I),分類(J),麻醉(K),手術名稱(L),主治醫師(AF),醫師年資（月）(AG),手術數量(AQ),分類(AZ),醫師人數(BG),手術時間（分）(BQ)
+82,M,健保,O,SA,Fibrocystoscopy,醫師19,112,1,急刀二級,2,?
+59,M,健保,R,SA,Biopolar TURP/TUVP 5-15gms,醫師5,273,1,常規,2,?
+71,M,健保,R,GA,Sono guided prostate biopsy,醫師6,293,1,常規,1,?
+70,M,健保,R,GA,Sono guided prostate biopsy,醫師6,293,1,常規,1,?
+43,M,健保,R,GA,Sono guided prostate biopsy,醫師5,273,1,常規,2,?
+57,M,健保,R,GA,Debridment >10cm,醫師5,273,1,常規,2,?
+64,M,健保榮民,R,GA,TURP 5-15 gms,醫師5,273,1,常規,2,?
+88,M,健保榮民,R,SA,TURP 5-15 gms,醫師5,273,1,常規,2,?
+85,M,健保榮民,R,SA,TURP 5-15 gms,醫師17,112,1,常規,1,?
+57,M,健保,R,GA,Debridment 5-10cm,醫師5,273,1,常規,2,?
+65,M,健保,R,SA,TURP 5-15 gms,醫師17,112,1,常規,1,?
+39,M,健保,R,SA,Varico-celectomy,醫師5,274,1,常規,2,?
+70,M,健保,R,GA,Sono guided prostate biopsy,醫師5,274,1,常規,2,?
+78,M,健保,R,SA,TURP 5-15 gms,醫師5,274,1,常規,2,?
+53,M,民眾,R,GA,Sono guided prostate biopsy,醫師5,274,1,常規,2,?
+77,M,健保,R,SA,TURP 5-15 gms,醫師1,139,2,常規,1,?
+78,M,健保,R,SA,Biopolar TURP/TUVP 15-50 gms,醫師17,113,1,常規,1,?
+78,M,健保,R,SA,Biopolar TURP/TUVP 15-50 gms,醫師17,113,1,常規,1,?
+56,M,健保,R,GA,Biopolar TURP/TUVP 15-50 gms,醫師17,113,1,常規,1,?
+74,M,民眾,R,SA,Biopolar TURP/TUVP 15-50 gms,醫師17,113,1,常規,1,?
+50,M,健保,R,SA,Repair Inguinal hernia no bowel,醫師17,113,1,常規,1,?
+64,M,健保,R,SA,TURP 5-15 gms,醫師22,89,2,常規,1,?
+70,M,健保,O,GA,"Orchiectomy, BILAT",醫師17,114,3,急刀二級,1,?
+90,M,健保榮民,R,SA,TURP 5-15 gms,醫師22,90,1,常規,1,?
+67,M,健保榮民,R,GA,Biopolar TURP/TUVP 15-50 gms,醫師17,114,1,常規,1,?
+70,M,健保,R,LA,Fasciectomy Necro.inf.large,醫師17,114,1,常規,1,?
+67,M,健保榮民,R,SA,Biopolar TURP/TUVP 15-50 gms,醫師17,114,1,常規,1,?
+73,M,健保,R,GA,Sono guided prostate biopsy,醫師6,295,1,常規,1,?
+47,M,健保,R,GA,Sono guided prostate biopsy,醫師5,275,1,常規,2,?
+63,M,健保,R,GA,HTA-LTURP-Thulium Laser,醫師6,295,1,常規,1,?
+67,M,健保榮民,R,GA,Sono guided prostate biopsy,醫師17,114,1,常規,2,?
+56,M,健保,R,GA,Sono guided prostate biopsy,醫師5,275,1,常規,2,?
+78,M,健保,R,GA,Sono guided prostate biopsy,醫師17,115,1,常規,1,?
+64,M,健保,R,GA,TURP 5-15 gms,醫師19,115,2,常規,1,?
+53,M,健保,R,GA,Sono guided prostate biopsy,醫師5,276,1,常規,1,?
+72,M,健保,R,GA,TURP 5-15 gms,醫師17,115,1,常規,1,?
+71,M,健保,R,GA,Repair Inguinal hernia no bowel,醫師17,115,1,常規,1,?
+51,M,健保,R,GA,Sono guided prostate biopsy,醫師1,141,1,常規,1,?
+69,M,健保榮民,R,SA,TURP 5-15 gms,醫師5,276,1,常規,2,?
+71,M,健保榮民,R,GA,Repair Inguinal hernia no bowel,醫師5,276,1,常規,1,?
+48,M,健保,R,GA,Hydrocelectomy,醫師17,115,1,常規,1,?
+56,M,健保榮民,R,GA,"Benign tumor excision,genitalia",醫師5,276,1,常規,2,?
+42,M,健保,R,GA,"Orchiectomy, UNIL",醫師5,276,1,常規,2,?
+68,M,健保,T,SA,Debridment < 5cm,醫師19,116,1,臨時,1,?
+32,M,健保,R,GA,Micro-TESE,醫師1,141,1,常規,1,?
+68,M,健保,R,SA,Debridment 5-10cm,醫師19,116,1,常規,2,?
+71,F,健保榮民,R,SA,B-N suspension for SUI -vaginal,醫師17,116,1,常規,1,?
+68,M,健保,R,GA,Repair Inguinal hernia no bowel,醫師6,297,1,常規,3,?
+73,M,健保,R,GA,Sono guided prostate biopsy,醫師5,277,1,常規,2,?
+62,M,健保榮民,R,SA,TURP 5-15 gms,醫師6,297,1,常規,2,?
+58,M,健保榮民,R,SA,Hydrocelectomy,醫師5,277,1,常規,3,?
+70,M,健保,R,SA,Repair Inguinal hernia no bowel,醫師5,277,1,常規,3,?
+63,M,健保,R,GA,Sono guided prostate biopsy,醫師5,277,1,常規,3,?
+25,M,健保,O,SA,"Re. ruptured corpus cavernosum,u",醫師19,117,1,急刀二級,2,?
+57,M,健保,R,GA,Biopolar TURP/TUVP 5-15gms,醫師1,142,1,常規,1,?
+67,M,健保,R,GA,Sono guided prostate biopsy,醫師5,277,1,常規,3,?
+70,M,健保,R,SA,TURP 5-15 gms,醫師19,117,2,常規,1,?
+89,M,健保榮民,R,SA,TURP 5-15 gms,醫師5,277,2,常規,3,?
+74,F,健保,T,GA,Placement of double J cath.,醫師6,297,1,臨時,1,?
+68,M,健保,R,SA,TURP 5-15 gms,醫師5,277,2,常規,3,?
+64,M,健保,R,GA,Sono guided prostate biopsy,醫師1,142,1,常規,1,?
+68,M,健保,R,GA,Sono guided prostate biopsy,醫師2,331,1,常規,1,?
+68,M,健保,R,GA,Biopolar TURP/TUVP 15-50 gms,醫師17,117,1,常規,1,?
+67,M,健保榮民,R,GA,Repair Inguinal hernia no bowel,醫師6,298,1,常規,1,?
+59,M,健保榮民,R,GA,Repair Inguinal hernia no bowel,醫師6,298,1,常規,1,?
+61,M,健保,R,GA,Repair Inguinal hernia no bowel,醫師6,298,1,常規,1,?
+60,M,健保,R,GA,TURP 5-15 gms,醫師5,278,2,常規,2,?
+70,M,健保,R,GA,Fasciotomy simple,醫師5,278,2,常規,2,?
+79,M,健保,R,GA,Repair Inguinal hernia no bowel,醫師5,278,1,常規,2,?
+69,M,健保榮民,R,GA,Sono guided prostate biopsy,醫師1,143,1,常規,1,?
+65,M,健保榮民,R,GA,TURP 5-15 gms,醫師6,299,1,常規,2,?
+66,M,健保,R,GA,TURP 5-15 gms,醫師19,118,1,常規,1,?
+85,M,健保,R,SA,Hydrocelectomy,醫師5,279,1,常規,2,?
+66,M,健保,R,GA,Biopolar TURP/TUVP 15-50 gms,醫師17,118,2,常規,1,?
+77,M,健保,R,GA,TURP 5-15 gms,醫師5,279,3,常規,2,?
+61,M,健保,R,GA,Sono guided prostate biopsy,醫師5,279,1,常規,2,?
+64,M,健保,R,SA,Biopolar TURP/TUVP 5-15gms,醫師1,144,1,常規,1,?
+69,M,健保榮民,R,SA,Hydrocelectomy,醫師2,333,1,常規,1,?
+64,M,健保,R,SA,TURP 5-15 gms,醫師17,118,1,常規,1,?
+67,M,健保,R,SA,Biopolar TURP/TUVP 5-15gms,醫師1,144,1,常規,1,?
+72,M,健保,R,GA,MRI/US Prostate Fusion Biopsy,醫師1,144,1,常規,1,?
+82,M,健保榮民,R,SA,TURP 5-15 gms,醫師19,119,1,常規,1,?
+63,M,健保,R,SA,Hydrocelectomy,醫師5,279,1,常規,2,?
+69,M,健保榮民,R,SA,TURP 5-15 gms,醫師17,118,1,常規,1,?
+75,M,健保,R,SA,TURP 5-15 gms,醫師19,119,1,常規,1,?
+75,M,健保,R,GA,Sono guided prostate biopsy,醫師5,279,1,常規,2,?
+67,M,健保,R,GA,MRI/US Prostate Fusion Biopsy,醫師5,279,1,常規,1,?
+55,M,健保,R,GA,Hydrocelectomy,醫師6,300,1,常規,1,?
+74,M,健保,R,SA,Repair Inguinal hernia no bowel,醫師5,280,1,常規,1,?
+67,M,警政署,R,SA,TURP 5-15 gms,醫師5,280,1,常規,1,?
+61,M,健保榮民,R,SA,Repair Inguinal hernia no bowel,醫師5,280,1,常規,2,?
+66,M,健保,R,SA,TURP 5-15 gms,醫師5,280,1,常規,2,?
+67,M,健保,R,GA,TURP 5-15 gms,醫師17,119,1,常規,1,?
+67,M,健保,O,IG,Fibrocystoscopy,醫師5,280,1,急刀二級,1,?
+43,M,健保,R,GA,Micro-TESE,醫師1,145,1,常規,1,?
+64,M,健保,R,SA,TURP 5-15 gms,醫師5,280,1,常規,2,?
+69,M,健保,R,SA,Repair Inguinal hernia no bowel,醫師5,280,1,常規,2,?
+43,M,健保,R,GA,Hydrocelectomy,醫師1,145,1,常規,1,?
+89,M,重大傷病,R,SA,TURP 5-15 gms,醫師5,280,1,常規,1,?
+63,M,健保,R,GA,MRI/US Prostate Fusion Biopsy,醫師5,280,1,常規,2,?
+50,M,健保,R,GA,Micro-TESE,醫師1,145,1,常規,1,?
+62,M,健保,O,GA,Fibrocystoscopy,醫師1,146,1,急刀二級,1,?
+78,M,健保榮民,R,GA,TUR for bladder tumor,醫師2,334,1,常規,1,?
+87,M,健保,R,GA,Bipolar TURP/TUVP >50gms,醫師17,120,1,常規,1,?
+60,M,健保榮民,R,GA,MRI/US Prostate Fusion Biopsy,醫師5,281,1,常規,2,?
+36,M,健保,R,GA,Micro-TESE,醫師5,281,1,常規,2,?
+66,M,健保榮民,R,SA,Biopolar TURP/TUVP >50gms,醫師22,96,1,常規,1,?
+66,M,健保,R,GA,Repair Inguinal hernia no bowel,醫師17,120,1,常規,1,?
+55,M,健保,R,GA,Ex of subcutaneous tumor < 2 cm,醫師5,281,1,常規,2,?
+84,M,健保,R,SA,TURP 5-15 gms,醫師17,120,1,常規,1,?
+63,M,健保榮民,R,GA,MRI/US Prostate Fusion Biopsy,醫師5,281,1,常規,2,?
+58,M,健保,R,SA,TUI of prostate,醫師5,281,1,常規,2,?
+70,M,健保榮民,O,SA,Bipolar TURP/TUVP 5-15gms,醫師22,96,1,急刀二級,1,?
+55,F,健保,R,GA,Re. of vesico-vaginal fistula,醫師6,301,2,常規,1,?
+71,M,健保,R,SA,Repair Inguinal hernia no bowel,醫師17,120,1,常規,1,?
+30,M,消防署,R,GA,Renal implantation,醫師17,120,1,常規,2,?
+67,M,健保榮民,R,SA,Optic internal urethrotomy,醫師17,120,2,常規,1,?
+62,M,健保,O,GA,Fibrocystoscopy,醫師1,146,1,急刀二級,1,?
+75,M,健保,R,SA,TURP 5-15 gms,醫師5,281,2,常規,2,?
+73,M,健保,R,SA,Bipolar TURP/TUVP 5-15gms,醫師1,147,1,常規,1,?
+62,F,健保,R,GA,Renal implantation,醫師17,121,1,常規,2,?
+72,M,健保,R,SA,Repair Inguinal hernia no bowel,醫師5,282,1,常規,2,?
+77,M,健保,R,SA,Bipolar TURP/TUVP 15-50 gms,醫師22,97,1,常規,2,?
+85,M,健保,R,SA,Repair Inguinal hernia no bowel,醫師17,121,1,常規,1,?
+77,M,健保,R,GA,TURP 5-15 gms,醫師5,282,1,常規,2,?
+35,M,健保,R,GA,Micro-TESE,醫師5,282,1,常規,2,?
+71,M,健保,O,GA,I & D for scrotal abscess,醫師1,147,1,急刀二級,1,?
+62,M,健保,R,GA,Repair Inguinal hernia no bowel,醫師22,97,1,常規,1,?
+69,M,健保,R,GA,MRI/US Prostate Fusion Biopsy,醫師5,282,1,常規,2,?
+60,M,健保,R,GA,MRI/US Prostate Fusion Biopsy,醫師5,282,1,常規,2,?
+71,M,健保,O,GA,Reg.fasciectomy-primary closure,醫師1,147,1,急刀二級,1,?
+77,M,健保榮民,R,GA,TURP 5-15 gms,醫師5,282,2,常規,2,?
+95,M,健保榮民,R,SA,Bipolar TURP/TUVP 15-50 gms,醫師17,121,2,常規,1,?
+63,M,健保,R,GA,MRI/US Prostate Fusion Biopsy,醫師1,147,1,常規,1,?
+27,F,健保,O,GA,Laser lithotripsy,醫師22,97,1,急刀二級,1,?
+36,M,健保,R,GA,Micro-TESE,醫師1,147,1,常規,2,?
+63,M,健保榮民,R,GA,MRI/US Prostate Fusion Biopsy,醫師1,147,1,常規,2,?
+90,M,健保榮民,R,GA,"HTA-LTURP-Thulium Laser, veteran",醫師1,148,1,常規,1,?
+77,M,健保榮民,R,SA,TURP 5-15 gms,醫師22,98,2,常規,1,?
+63,M,健保,R,SA,TURP 5-15 gms,醫師22,98,1,常規,1,?
+35,M,健保,R,GA,Hydrocelectomy,醫師1,148,1,常規,1,?
+70,M,健保,R,SA,TUI of prostate,醫師22,98,1,常規,1,?
+77,M,健保,R,GA,Repair Inguinal hernia no bowel,醫師5,283,1,常規,2,?
+61,M,健保,R,GA,"RIRS, lithovue single-use",醫師17,122,3,常規,1,?
+38,M,健保,R,GA,Micro-TESE,醫師5,283,1,常規,2,?
+56,F,健保,R,GA,Repair Ventral hernia+mesh,醫師1,148,1,常規,1,?
+79,M,健保,R,SA,TURP 5-15 gms,醫師17,122,1,常規,1,?
+53,M,健保,R,GA,MRI/US Prostate Fusion Biopsy,醫師17,122,1,常規,1,?
+40,F,健保,R,GA,Micro-TESE,醫師1,148,1,常規,1,?
+24,M,健保,R,GA,Varico-celectomy,醫師1,148,1,常規,1,?
+68,M,健保,R,GA,MRI/US Prostate Fusion Biopsy,醫師17,122,1,常規,1,?
+72,M,健保,R,SA,TURP 5-15 gms,醫師17,122,1,常規,1,?
+71,M,健保,R,GA,MRI/US Prostate Fusion Biopsy,醫師17,123,1,常規,1,?
+76,M,健保,R,SA,Repair Inguinal hernia no bowel,醫師5,284,1,常規,2,?
+66,M,健保,R,SA,Repair Inguinal hernia no bowel,醫師22,98,1,常規,1,?
+69,M,健保,R,SA,TURP 5-15 gms,醫師1,149,1,常規,1,?
+65,M,健保,R,SA,TURP 5-15 gms,醫師1,149,1,常規,1,?
+61,M,健保,R,SA,TURP 5-15 gms,醫師1,149,1,常規,1,?
+83,M,健保,R,GA,Bipolar TURP/TUVP >50gms,醫師26,64,2,常規,1,?
+24,M,健保,R,SA,"Orchiectomy, UNIL",醫師5,284,1,常規,2,?
+76,M,健保,R,GA,TURP 5-15 gms,醫師17,123,1,常規,1,?
+61,M,健保,R,GA,MRI/US Prostate Fusion Biopsy,醫師5,284,1,常規,2,?
+60,M,健保,R,SA,Repair Inguinal hernia no bowel,醫師5,284,1,常規,2,?
+78,M,健保榮民,R,GA,MRI/US Prostate Fusion Biopsy,醫師1,149,1,常規,1,?
+87,M,健保榮民,R,SA,Bipolar TURP/TUVP 15-50 gms,醫師17,123,1,常規,1,?
+64,M,健保,R,GA,TURP 5-15 gms,醫師22,99,2,常規,1,?
+74,M,健保,R,SA,Repair Inguinal hernia no bowel,醫師1,149,1,常規,3,?

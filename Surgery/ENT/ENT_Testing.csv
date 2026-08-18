@@ -1,0 +1,329 @@
+年齡(G),性別(H),身份(I),分類(J),麻醉(K),手術名稱(L),主治醫師(AF),醫師年資（月）(AG),手術數量(AQ),分類(AZ),醫師人數(BG),手術時間（分）(BQ)
+69,M,健保,R,GA,S.M.T. - bilat,醫師7,303,1,常規,1,?
+8,F,健保,R,GA,Tympanoplasty no mastoidectomy,醫師5,245,1,常規,1,?
+54,F,健保,R,GA,Tympanoplasty no mastoidectomy,醫師5,245,1,常規,1,?
+54,M,健保,R,IG,Debridment < 5cm,醫師2,83,1,常規,1,?
+59,M,健保,R,GA,Laryngo micro-surgery & CO2 las,醫師21,102,1,常規,1,?
+39,M,健保,R,GA,S.M.T. - unil,醫師7,303,1,常規,1,?
+20,M,健保,R,LA,"SMR + SMT, BILAT",醫師6,77,1,常規,1,?
+69,M,健保榮民,R,GA,Vidian neurectomy,醫師6,77,2,常規,1,?
+42,F,健保,R,GA,U. thyroidectomy+sub. throidecto,醫師1,124,1,常規,1,?
+75,F,健保榮民,R,GA,U. thyroidectomy+sub. throidecto,醫師1,124,1,常規,1,?
+4,M,健保,R,GA,Tympanoplasty no mastoidectomy,醫師5,245,1,常規,1,?
+71,F,健保榮民,R,GA,Tympanoplasty no mastoidectomy,醫師5,245,1,常規,1,?
+60,M,重大傷病,R,GA,Tympanoplasty no mastoidectomy,醫師5,245,1,常規,1,?
+47,F,健保,R,GA,Tympanoplasty no mastoidectomy,醫師5,245,1,常規,1,?
+22,M,健保,R,GA,"Resection of platine tonsil, bi",醫師9,149,1,常規,1,?
+57,M,健保,R,GA,Laryngo micro-surgery & CO2 las,醫師7,304,1,常規,1,?
+46,F,健保,R,GA,Tympanoplasty no mastoidectomy,醫師5,245,1,常規,1,?
+34,M,健保,R,GA,Submucous resection of septum,醫師7,304,3,常規,1,?
+25,F,健保,R,GA,"Resection of platine tonsil, bi",醫師6,77,1,常規,1,?
+39,U,健保,R,GA,C. laryngoscopy ex. tumor-epiglo,醫師7,304,1,常規,1,?
+51,M,本院員工,R,GA,S.M.T. - bilat,醫師11,49,1,常規,1,?
+10,M,健保,R,GA,Tympanoplasty no mastoidectomy,醫師5,246,1,常規,1,?
+66,M,健保,R,GA,I&D for auricular abs. or hema.,醫師21,103,1,常規,1,?
+17,M,健保,R,GA,Excision of preauricular fistul,醫師5,246,1,常規,1,?
+39,F,健保,R,GA,Tympanoplasty no mastoidectomy,醫師5,246,1,常規,1,?
+21,M,健保,R,GA,S.M.T. - bilat,醫師4,234,1,常規,1,?
+50,M,健保,R,GA,Laryngo micro-surgery & CO2 las,醫師21,103,1,常規,1,?
+52,M,健保,R,LA,"SMR + SMT, BILAT",醫師21,103,1,常規,1,?
+69,M,健保,R,GA,Tympanoplasty no mastoidectomy,醫師5,246,1,常規,1,?
+50,F,健保,R,GA,Tympanoplasty no mastoidectomy,醫師5,246,1,常規,1,?
+19,M,健保,R,GA,S.M.T. - bilat,醫師4,234,1,常規,1,?
+19,M,健保,R,GA,Tympanoplasty no mastoidectomy,醫師21,103,1,常規,1,?
+63,F,健保,R,GA,C. laryngoscopy ex. tumor-epiglo,醫師9,150,1,常規,1,?
+29,F,健保,R,LA,"SMR + SMT, BILAT",醫師21,103,1,常規,1,?
+29,M,健保,R,LA,"SMR + SMT, BILAT",醫師6,78,1,常規,1,?
+6,M,健保,R,GA,Tonsillectomy & Adenoidectomy,醫師6,78,1,常規,1,?
+53,M,健保,R,GA,"Augmentation Rhino., autograft",醫師6,78,2,常規,1,?
+50,M,健保,R,GA,Tympanoplasty no mastoidectomy,醫師5,246,1,常規,1,?
+49,F,健保,R,GA,C. laryngoscopy ex. tumor-epiglo,醫師9,151,1,常規,1,?
+55,M,健保,R,GA,C. laryngoscopy ex. tumor-epiglo,醫師21,103,1,常規,1,?
+22,M,健保,R,LA,S.M.T. - bilat,醫師11,49,1,常規,1,?
+18,M,健保,R,GA,"SMR + SMT, BILAT",醫師7,305,2,常規,1,?
+43,M,健保,R,GA,Laryngo micro-surgery & CO2 las,醫師7,305,2,常規,1,?
+40,M,健保,R,GA,"SMR + SMT, BILAT",醫師7,305,1,常規,1,?
+36,M,健保,R,GA,"SMR + SMT, BILAT",醫師6,78,1,常規,1,?
+39,M,健保,R,GA,"Laryngotracheal plasty, sim.",醫師9,151,1,常規,1,?
+61,F,健保,R,GM,"Laryngotracheal plasty, com.",醫師9,151,1,常規,1,?
+54,M,健保,R,GA,C. laryngoscopy ex. tumor-epiglo,醫師21,103,1,常規,1,?
+45,M,健保,R,GA,Multiple sinusectomy,醫師3,224,2,常規,1,?
+59,F,健保,R,GA,C. laryngoscopy ex. tumor-epiglo,醫師9,151,1,常規,1,?
+40,M,健保,R,GA,S.M.T. - bilat,醫師7,305,1,常規,1,?
+51,M,健保,R,GA,Rhinoplasty,醫師6,79,1,常規,1,?
+14,M,健保,R,GA,Tympanoplasty no mastoidectomy,醫師5,247,1,常規,1,?
+59,F,健保,R,GA,Tympanoplasty no mastoidectomy,醫師5,247,1,常規,1,?
+22,M,健保,R,GA,Septoplasty / septal reconstruc,醫師3,225,1,常規,1,?
+23,F,健保,R,GA,C. laryngoscopy ex. tumor-epiglo,醫師21,104,1,常規,1,?
+28,M,健保,R,GA,"SMR + SMT, BILAT",醫師7,305,1,常規,1,?
+13,F,健保,R,GA,"Resection of platine tonsil, bi",醫師6,79,1,常規,1,?
+30,M,健保,R,GA,"Resection of platine tonsil, bi",醫師9,152,1,常規,1,?
+51,M,健保,R,GA,Tympanoplasty no mastoidectomy,醫師5,247,2,常規,1,?
+43,M,健保,R,GA,C. laryngoscopy ex. tumor-epiglo,醫師9,152,1,常規,1,?
+28,F,健保,R,GA,"Resection of platine tonsil, bi",醫師6,79,1,常規,1,?
+71,F,健保,R,GA,Tympanoplasty no mastoidectomy,醫師5,247,2,常規,1,?
+39,M,健保,R,GA,C. laryngoscopy ex. tumor-epiglo,醫師9,152,1,常規,1,?
+55,M,健保,R,GA,C. laryngoscopy ex. tumor-epiglo,醫師21,104,1,常規,1,?
+44,M,健保,R,GA,"SMR + SMT, BILAT",醫師6,79,1,常規,1,?
+12,M,民眾,R,GA,Tympanoplasty no mastoidectomy,醫師5,248,2,常規,1,?
+39,F,重大傷病,R,GA,Mastoidectomy (simple),醫師5,248,2,常規,1,?
+44,F,健保,R,GA,C. laryngoscopy ex. tumor-epiglo,醫師4,237,1,常規,1,?
+34,M,健保,R,GA,Biopsy of oral mucosa,醫師11,51,2,常規,1,?
+20,M,健保,R,LA,"SMR + SMT, BILAT",醫師21,105,1,常規,1,?
+63,M,健保榮民,R,GA,C. laryngoscopy ex. tumor-epiglo,醫師17,92,1,常規,1,?
+28,M,健保,R,GA,C. laryngoscopy ex. tumor-epiglo,醫師9,153,1,常規,1,?
+69,M,健保,R,LA,S.M.T. - bilat,醫師21,105,2,常規,1,?
+29,M,健保,R,GA,"Resection of platine tonsil, bi",醫師21,105,1,常規,1,?
+33,M,健保,R,GA,C. laryngoscopy ex. tumor-epiglo,醫師7,307,1,常規,1,?
+38,F,健保,R,GA,C. laryngoscopy ex. tumor-epiglo,醫師9,153,1,常規,1,?
+65,M,健保榮民,R,GA,Tympanoplasty no mastoidectomy,醫師5,249,1,常規,1,?
+63,F,本院員工,R,GA,Laryngo micro-surgery & CO2 las,醫師9,153,1,常規,1,?
+17,F,健保,R,GA,"SMR + SMT, BILAT",醫師7,307,1,常規,1,?
+64,F,健保,R,GA,Tympanoplasty no mastoidectomy,醫師17,92,1,常規,1,?
+50,M,健保,R,GA,Tympanoplasty no mastoidectomy,醫師5,249,1,常規,1,?
+45,F,健保,R,GA,Laryngo micro-surgery & CO2 las,醫師9,153,1,常規,1,?
+62,F,健保,R,GA,C. laryngoscopy ex. tumor-epiglo,醫師9,153,1,常規,1,?
+59,M,健保,R,GA,Laryngo micro-surgery & CO2 las,醫師11,52,1,常規,1,?
+33,F,健保,R,GA,Rhinoplasty,醫師6,81,2,常規,1,?
+49,F,健保,R,GA,Tympanoplasty no mastoidectomy,醫師17,92,2,常規,1,?
+23,F,健保,R,GA,"Resection of platine tonsil, bi",醫師1,129,1,常規,1,?
+72,M,健保,R,GA,Tympanoplasty no mastoidectomy,醫師17,93,1,常規,1,?
+22,M,健保,R,GA,Excision of preauricular fistul,醫師5,249,1,常規,1,?
+68,M,健保榮民,R,GA,Tympanoplasty no mastoidectomy,醫師5,249,1,常規,1,?
+40,M,健保,R,GA,"SMR + SMT, BILAT",醫師4,238,1,常規,1,?
+29,F,健保,R,LA,"SMR + SMT, BILAT",醫師21,106,1,常規,1,?
+57,M,健保榮民,R,GA,Rhinoplasty,醫師6,81,3,常規,1,?
+67,F,健保,R,GA,U. thyroidectomy+sub. throidecto,醫師1,129,1,常規,1,?
+79,F,健保,R,GA,Tympanoplasty no mastoidectomy,醫師5,249,1,常規,1,?
+18,M,健保,R,GA,S.M.T. - bilat,醫師4,238,1,常規,1,?
+44,F,健保,R,GA,Laryngo micro-surgery & CO2 las,醫師9,154,1,常規,1,?
+25,M,健保,R,LA,S.M.T. - bilat,醫師6,81,1,常規,1,?
+28,F,健保,R,GA,"E-tube inflation, unilateral",醫師17,93,2,常規,1,?
+62,F,健保,R,GA,Tympanoplasty no mastoidectomy,醫師17,93,1,常規,1,?
+55,M,健保,R,GA,Tympanoplasty no mastoidectomy,醫師5,250,1,常規,1,?
+53,M,健保,R,GA,C. laryngoscopy ex. tumor-epiglo,醫師7,308,1,常規,1,?
+55,M,健保,R,GA,"SMR + SMT, BILAT",醫師7,308,1,常規,1,?
+69,M,健保,R,GA,Tympanoplasty no mastoidectomy,醫師17,93,1,常規,1,?
+68,M,健保榮民,R,GA,Tympanoplasty no mastoidectomy,醫師5,250,1,常規,1,?
+52,F,健保,R,GA,Tympanoplasty no mastoidectomy,醫師5,250,1,常規,1,?
+29,M,健保,R,GA,"Resection of platine tonsil, bi",醫師5,250,1,常規,1,?
+38,M,民眾,R,LA,S.M.T. - bilat,醫師6,82,1,常規,1,?
+63,F,健保,R,GA,"Resection of platine tonsil, bi",醫師11,53,1,常規,1,?
+22,F,健保,R,GA,"SMR + SMT, BILAT",醫師6,82,1,常規,1,?
+42,M,健保,R,GA,"Augmentation Rhino., autograft",醫師6,82,3,常規,1,?
+56,F,健保,R,GA,Tympanoplasty no mastoidectomy,醫師5,250,1,常規,1,?
+49,F,健保,R,GA,Tympanoplasty no mastoidectomy,醫師5,250,1,常規,1,?
+51,F,健保,R,GA,"Resection of platine tonsil, bi",醫師3,228,1,常規,1,?
+49,M,健保,R,GA,"C. Laryngoscopy ex. tumor, vocal",醫師9,155,1,常規,1,?
+69,F,健保,R,IG,"Thyroid cartilage plasty, 1 typ",醫師9,155,1,常規,1,?
+58,M,健保榮民,T,LA,Endoscopy function sinus surg.,醫師4,239,2,臨時,1,?
+44,M,健保榮民,T,LA,"SMR + SMT, BILAT",醫師4,239,1,臨時,1,?
+75,M,健保,R,GA,"C. Laryngoscopy ex. tumor, vocal",醫師7,309,1,常規,1,?
+41,M,健保,R,GA,Tympanoplasty no mastoidectomy,醫師17,94,2,常規,1,?
+50,M,健保,R,LA,S.M.T. - bilat,醫師7,309,1,常規,1,?
+52,M,健保,R,GA,"Resection of platine tonsil, bi",醫師2,89,1,常規,1,?
+51,F,健保,R,GA,Tympanoplasty no mastoidectomy,醫師17,94,1,常規,1,?
+61,M,健保,R,GA,"C. Laryngoscopy ex. tumor, vocal",醫師2,89,1,常規,1,?
+10,M,健保,R,GA,Excision of preauricular fistul,醫師5,250,1,常規,1,?
+79,M,健保,R,GA,"Laryngotracheal plasty, sim.",醫師4,239,1,常規,1,?
+47,F,健保,R,GA,"Thyroidectomy, unilateral",醫師1,130,1,常規,1,?
+64,F,重大傷病,R,GA,"Laryngotracheal plasty, sim.",醫師2,89,1,常規,1,?
+68,F,健保榮民,R,GA,Tympanoplasty no mastoidectomy,醫師5,250,1,常規,1,?
+54,M,健保,R,GA,Laryngo micro-surgery & CO2 las,醫師9,155,1,常規,1,?
+49,M,健保,R,LA,"SMR + SMT, BILAT",醫師6,83,1,常規,1,?
+24,F,健保,R,GA,"SMR + SMT, BILAT",醫師7,309,1,常規,1,?
+28,F,健保,R,GA,"Resection of platine tonsil, bi",醫師17,94,1,常規,1,?
+39,M,健保,R,GA,"C. Laryngoscopy ex. tumor, vocal",醫師17,94,1,常規,1,?
+58,F,健保,R,GA,"Thyroidectomy, unilateral",醫師1,130,1,常規,1,?
+57,F,健保,R,GA,Tympanoplasty no mastoidectomy,醫師5,251,1,常規,1,?
+57,F,健保,R,GA,Tympanoplasty no mastoidectomy,醫師5,251,2,常規,1,?
+50,M,健保榮民,R,GA,"C. Laryngoscopy ex. tumor, vocal",醫師9,155,1,常規,1,?
+53,M,健保,R,GA,"Augmentation Rhino., autograft",醫師6,83,3,常規,1,?
+38,F,健保,R,LA,S.M.T. - bilat,醫師6,83,1,常規,1,?
+25,M,健保,R,LA,"SMR + SMT, BILAT",醫師6,83,1,常規,1,?
+87,M,健保榮民,R,GA,"Laryngotracheal plasty, com.",醫師2,89,1,常規,1,?
+20,U,健保,R,GA,"Resection of platine tonsil, bi",醫師9,155,1,常規,1,?
+38,M,健保,R,GA,"Resection of platine tonsil, bi",醫師21,108,1,常規,1,?
+51,M,重大傷病,R,GA,Laryngo micro-surgery & CO2 las,醫師11,54,1,常規,1,?
+20,F,健保,R,GA,"Resection of platine tonsil, bi",醫師6,83,1,常規,1,?
+53,M,健保,R,GA,Rhinoplasty,醫師6,83,1,常規,1,?
+22,M,健保,R,GA,"Resection of platine tonsil, bi",醫師7,310,1,常規,1,?
+38,F,健保,R,GA,"Resection of platine tonsil, bi",醫師17,95,1,常規,1,?
+67,F,健保,R,GA,Tympanoplasty no mastoidectomy,醫師5,251,2,常規,1,?
+10,M,重大傷病,R,GA,"Laryngotracheal plasty, com.",醫師2,90,2,常規,1,?
+72,F,健保,R,GA,"C. Laryngoscopy ex. tumor, vocal",醫師21,108,1,常規,1,?
+25,M,健保,R,GA,"SMR + SMT, BILAT",醫師6,83,1,常規,1,?
+48,M,健保,R,GA,"SMR + SMT, BILAT",醫師7,310,1,常規,1,?
+55,M,健保,R,GA,Laryngo micro-surgery & CO2 las,醫師7,310,1,常規,1,?
+24,M,健保,R,GA,Rhinoplasty,醫師6,83,2,常規,1,?
+45,M,健保,R,GA,Tonsillectomy & Adenoidectomy,醫師17,95,2,常規,1,?
+24,M,健保,R,GA,"Resection of platine tonsil, bi",醫師17,95,1,常規,1,?
+71,M,健保,R,GA,Tympanoplasty no mastoidectomy,醫師5,251,1,常規,1,?
+18,F,健保,R,GA,Tympanoplasty no mastoidectomy,醫師5,251,2,常規,1,?
+77,M,重大傷病,R,GA,ML,醫師4,240,1,常規,1,?
+72,F,健保,R,GA,Laryngo micro-surgery & CO2 las,醫師11,54,1,常規,1,?
+21,F,健保,R,GA,"SMR + SMT, BILAT",醫師7,310,1,常規,1,?
+26,M,健保,R,GA,"SMR + SMT, BILAT",醫師7,310,1,常規,1,?
+56,F,本院員工,R,GA,Exploratory tympanotomy,醫師17,95,2,常規,1,?
+58,M,健保,R,GA,Mastoidectomy (simple),醫師17,95,2,常規,1,?
+60,M,健保,R,GA,C. laryngoscopy ex. tumor-epiglo,醫師1,131,1,常規,1,?
+62,F,健保,R,LA,Tympanoplasty no mastoidectomy,醫師5,252,1,常規,1,?
+35,F,健保,R,GA,"Resection of platine tonsil, bi",醫師4,240,1,常規,1,?
+65,M,健保,R,GA,Laryngo micro-surgery & CO2 las,醫師9,156,1,常規,1,?
+31,M,健保,R,GA,"C. Laryngoscopy ex. tumor, vocal",醫師9,156,2,常規,1,?
+68,F,健保,R,GA,"C. Laryngoscopy ex. tumor, vocal",醫師21,109,1,常規,1,?
+22,M,健保,R,LA,"SMR + SMT, BILAT",醫師21,109,1,常規,1,?
+16,M,健保,R,GA,"SMR + SMT, BILAT",醫師7,310,1,常規,1,?
+21,F,健保,R,GA,"Resection of platine tonsil, bi",醫師7,310,1,常規,1,?
+23,M,健保,R,GA,Septoplasty / septal reconstruc,醫師6,84,3,常規,1,?
+61,M,健保,R,LA,S.M.T. - bilat,醫師6,84,1,常規,1,?
+47,F,健保,R,GA,Tympanoplasty no mastoidectomy,醫師5,252,1,常規,1,?
+63,F,健保榮民,R,GA,Tympanoplasty no mastoidectomy,醫師5,252,1,常規,1,?
+69,F,健保,R,GA,"C. Laryngoscopy ex. tumor, vocal",醫師9,156,1,常規,1,?
+64,F,健保,R,GA,"C. Laryngoscopy ex. tumor, vocal",醫師9,156,1,常規,1,?
+47,M,健保,R,GA,"Resection of platine tonsil, bi",醫師9,156,1,常規,1,?
+28,M,國軍人員,R,GA,"Resection of platine tonsil, bi",醫師21,109,1,常規,1,?
+56,M,健保,R,GA,Hemi.-vertical(lateral/anterior),醫師21,109,1,常規,1,?
+20,F,健保,R,GA,"SMR + SMT, BILAT",醫師7,310,2,常規,1,?
+57,M,健保,R,GA,Tympanoplasty no mastoidectomy,醫師17,95,2,常規,1,?
+43,M,健保,R,LA,"SMR + SMT, BILAT",醫師17,95,1,常規,1,?
+21,M,健保,R,GA,"Resection of platine tonsil, bi",醫師1,132,1,常規,1,?
+59,F,健保,R,GA,Tympanoplasty no mastoidectomy,醫師5,252,1,常規,1,?
+64,F,健保,R,GA,Tympanoplasty no mastoidectomy,醫師5,252,1,常規,1,?
+69,M,健保,R,GA,Tympanoplasty no mastoidectomy,醫師5,252,1,常規,1,?
+70,F,健保,R,GA,"Resection of platine tonsil, bi",醫師3,230,1,常規,1,?
+61,F,健保,R,GM,"C. Laryngoscopy ex. tumor, vocal",醫師9,157,1,常規,1,?
+26,M,健保,R,GA,"C. Laryngoscopy ex. tumor, vocal",醫師9,157,1,常規,1,?
+67,F,健保,R,GA,Tympanoplasty no mastoidectomy,醫師17,96,1,常規,1,?
+25,M,健保,R,GA,"MIS Endoscopic BDET, unil.",醫師17,96,3,常規,1,?
+19,M,健保,R,GA,Excision of preauricular fistul,醫師6,84,1,常規,1,?
+36,M,健保,R,GA,Septoplasty / septal reconstruc,醫師6,84,3,常規,1,?
+24,F,健保,R,GA,S.M.T. - bilat,醫師6,84,1,常規,1,?
+12,M,健保,R,GA,Tonsillectomy & Adenoidectomy,醫師4,241,2,常規,1,?
+24,M,健保,R,GA,"Resection of platine tonsil, bi",醫師21,109,1,常規,1,?
+58,F,健保,R,GA,"Thyroidectomy, unilateral",醫師1,132,1,常規,1,?
+19,M,健保,R,GA,"C. Laryngoscopy ex. tumor, vocal",醫師9,157,1,常規,1,?
+27,M,健保,R,LA,Excision of preauricular fistul,醫師17,96,1,常規,1,?
+56,M,健保榮民,R,GA,"Laryngotracheal plasty, sim.",醫師9,157,1,常規,1,?
+21,F,健保,R,GA,"Resection of platine tonsil, bi",醫師11,56,1,常規,1,?
+5,M,健保,R,GA,Myringotomy grommet tube ins,醫師5,253,2,常規,1,?
+29,F,健保,R,GA,ML,醫師9,157,1,常規,1,?
+50,M,健保,R,GA,ML,醫師9,157,1,常規,1,?
+21,F,健保,R,GA,S.M.T. - bilat,醫師6,85,1,常規,1,?
+25,F,健保,R,GA,Tympanoplasty no mastoidectomy,醫師5,253,1,常規,1,?
+41,M,健保,R,GA,Tympanoplasty no mastoidectomy,醫師17,97,1,常規,1,?
+44,F,健保,R,GA,Tympanoplasty no mastoidectomy,醫師17,97,1,常規,1,?
+23,M,健保,R,LA,"SMR + SMT, BILAT",醫師4,242,1,常規,1,?
+53,M,健保,R,GA,"C. Laryngoscopy ex. tumor, vocal",醫師4,242,1,常規,1,?
+57,F,健保,R,GA,S.M.T. - bilat,醫師7,312,1,常規,1,?
+27,M,健保,R,GA,"Resection of platine tonsil, bi",醫師6,85,1,常規,1,?
+72,F,健保,R,GA,"Thyroidectomy, unilateral",醫師1,133,1,常規,1,?
+24,F,健保,R,GA,Tympanoplasty no mastoidectomy,醫師5,253,1,常規,1,?
+62,M,健保,R,GA,C. laryngoscopy ex. tumor-epiglo,醫師4,242,1,常規,1,?
+68,F,健保,R,GA,Tympanoplasty no mastoidectomy,醫師3,231,1,常規,1,?
+44,F,健保,R,GA,Tympanoplasty no mastoidectomy,醫師3,231,1,常規,1,?
+46,F,健保,R,LA,"SMR + SMT, BILAT",醫師7,312,1,常規,1,?
+37,M,健保,R,GA,C. laryngoscopy ex. tumor-epiglo,醫師6,85,1,常規,1,?
+53,M,健保,R,LA,"SMR + SMT, BILAT",醫師6,85,1,常規,1,?
+56,F,健保,R,GA,"Thyroidectomy, unilateral",醫師1,133,1,常規,1,?
+69,F,健保,R,GA,Tympanoplasty no mastoidectomy,醫師5,253,1,常規,1,?
+26,M,健保,R,LA,"SMR + SMT, BILAT",醫師4,242,1,常規,1,?
+28,F,健保,R,GA,C. laryngoscopy ex. tumor-epiglo,醫師4,242,1,常規,1,?
+53,M,健保,R,GA,C. laryngoscopy ex. tumor-epiglo,醫師4,242,1,常規,1,?
+48,M,健保,R,GA,"Resection of platine tonsil, bi",醫師1,133,1,常規,1,?
+52,M,健保,R,GA,C. laryngoscopy ex. tumor-epiglo,醫師9,158,1,常規,1,?
+38,F,健保,R,GA,C. laryngoscopy ex. tumor-epiglo,醫師9,158,1,常規,1,?
+22,M,健保,R,GA,"Resection of platine tonsil, bi",醫師21,111,1,常規,1,?
+64,F,健保,R,GA,U. thyroidectomy+sub. throidecto,醫師1,133,1,常規,1,?
+68,M,健保,R,GA,Tympanoplasty no mastoidectomy,醫師5,254,1,常規,1,?
+66,M,健保,R,GA,Tympanoplasty no mastoidectomy,醫師5,254,1,常規,1,?
+35,F,健保,R,GA,S.M.T. - bilat,醫師17,97,1,常規,1,?
+49,M,健保,R,GA,C. laryngoscopy ex. tumor-epiglo,醫師4,243,1,常規,1,?
+22,F,健保,R,LA,S.M.T. - bilat,醫師9,158,1,常規,1,?
+46,M,健保,R,GA,"Augmentation Rhino., autograft",醫師6,86,3,常規,1,?
+49,M,健保,R,GA,"Resection of platine tonsil, bi",醫師7,313,1,常規,1,?
+33,M,健保,R,LA,S.M.T. - bilat,醫師6,86,1,常規,1,?
+25,M,健保,R,LA,"SMR + SMT, BILAT",醫師6,86,1,常規,1,?
+60,F,健保,R,GA,C. laryngoscopy ex. tumor-epiglo,醫師7,313,1,常規,1,?
+77,F,健保榮民,R,GA,Tympanoplasty no mastoidectomy,醫師5,254,1,常規,1,?
+50,M,健保榮民,R,LA,"SMR + SMT, BILAT",醫師17,98,1,常規,1,?
+44,F,健保,R,GA,"Resection of platine tonsil, bi",醫師4,243,1,常規,1,?
+48,F,健保,R,GA,Laryngo micro-surgery & CO2 las,醫師9,159,1,常規,1,?
+38,F,健保,R,LA,"SMR + SMT, BILAT",醫師9,159,1,常規,1,?
+69,M,健保,R,GA,Tympanoplasty no mastoidectomy,醫師21,111,1,常規,1,?
+28,M,健保,R,GA,"Augmentation Rhino., autograft",醫師6,86,3,常規,1,?
+23,M,健保,R,LA,"SMR + SMT, BILAT",醫師6,86,1,常規,1,?
+36,F,健保,R,GA,"Thyroidectomy, unilateral",醫師1,134,1,常規,1,?
+60,F,健保,R,GA,S.M.T. - bilat,醫師11,57,1,常規,1,?
+5,F,健保,R,GA,I&D for auricular abs. or hema.,醫師5,254,1,常規,1,?
+10,F,健保,R,GA,Excision of preauricular fistul,醫師17,98,1,常規,1,?
+29,F,健保,R,GA,"Resection of platine tonsil, bi",醫師4,243,1,常規,1,?
+66,F,健保,R,GA,Local Flap 1-2 cm,醫師11,57,1,常規,1,?
+26,M,健保,R,GA,"SMR + SMT, BILAT",醫師21,111,2,常規,1,?
+72,M,健保,R,GA,Ex of nasopalatine cyst,醫師7,313,1,常規,1,?
+21,F,健保,R,GA,Tympanoplasty no mastoidectomy,醫師21,111,1,常規,1,?
+37,M,健保,R,GA,"Augmentation Rhino., autograft",醫師6,86,3,常規,1,?
+57,M,健保,R,GA,"Augmentation Rhino., autograft",醫師6,86,3,常規,1,?
+61,F,健保,R,GA,Tympanoplasty no mastoidectomy,醫師5,255,1,常規,1,?
+70,F,健保,R,GA,Tympanoplasty no mastoidectomy,醫師17,98,1,常規,1,?
+41,F,健保,R,GA,C. laryngoscopy ex. tumor-epiglo,醫師9,159,1,常規,1,?
+58,F,健保,R,GA,C. laryngoscopy ex. tumor-epiglo,醫師4,243,1,常規,1,?
+46,M,健保,R,GA,C. laryngoscopy ex. tumor-epiglo,醫師9,159,1,常規,1,?
+31,F,健保,R,GA,C. laryngoscopy ex. tumor-epiglo,醫師9,159,1,常規,1,?
+58,F,健保,R,GA,Laryngo micro-surgery & CO2 las,醫師9,159,1,常規,1,?
+6,F,健保,R,GA,Debridment < 5cm,醫師5,255,1,常規,1,?
+60,M,健保,R,LA,S.M.T. - bilat,醫師6,87,1,常規,1,?
+45,F,健保,R,GA,"Thyroidectomy, unilateral",醫師1,134,1,常規,1,?
+63,M,健保,R,GA,"Thyroidectomy, bilateral",醫師1,134,1,常規,1,?
+71,F,健保,R,GA,Tympanoplasty no mastoidectomy,醫師5,255,1,常規,1,?
+30,M,健保,R,GA,"Resection of platine tonsil, bi",醫師11,58,1,常規,1,?
+27,M,健保,R,GA,"Resection of platine tonsil, bi",醫師11,58,1,常規,1,?
+60,F,健保,R,GA,Tympanoplasty no mastoidectomy,醫師5,255,1,常規,1,?
+41,M,健保,R,GA,Tonsillectomy & Adenoidectomy,醫師17,98,2,常規,1,?
+25,M,健保,R,GA,"SMR + SMT, BILAT",醫師7,313,1,常規,1,?
+56,F,健保,R,GA,S.M.T. - bilat,醫師7,313,1,常規,1,?
+6,F,健保,R,GA,Debridment < 5cm,醫師5,255,1,常規,1,?
+40,M,健保福保,R,GA,S.M.T. - bilat,醫師17,99,1,常規,1,?
+62,F,健保,R,GA,Tympanoplasty no mastoidectomy,醫師5,255,1,常規,1,?
+56,F,健保,R,GA,Tympanoplasty no mastoidectomy,醫師5,255,1,常規,1,?
+72,M,健保,R,GA,Laryngo micro-surgery & CO2 las,醫師3,233,1,常規,1,?
+11,M,健保,R,GA,"Ex of tumor,benign,large/deep",醫師17,99,3,常規,1,?
+55,M,健保,R,GA,Laryngo micro-surgery & CO2 las,醫師9,160,1,常規,1,?
+52,F,健保,R,GA,C. laryngoscopy ex. tumor-epiglo,醫師9,160,1,常規,1,?
+40,F,健保,R,GA,"Resection of platine tonsil, bi",醫師4,244,1,常規,1,?
+76,M,健保榮民,R,GA,C. laryngoscopy ex. tumor-epiglo,醫師9,160,1,常規,1,?
+40,M,健保,R,GA,S.M.T. - bilat,醫師7,314,2,常規,1,?
+55,F,健保,R,GA,Tympanoplasty no mastoidectomy,醫師17,99,1,常規,1,?
+53,M,健保,R,GA,Laryngo micro-surgery & CO2 las,醫師4,244,1,常規,1,?
+29,M,健保,R,GA,"SMR + SMT, BILAT",醫師9,160,1,常規,1,?
+69,F,健保,R,GA,Bronchoscopy,醫師9,160,1,常規,1,?
+63,M,健保,R,GA,"C. Laryngoscopy ex. tumor, vocal",醫師2,94,1,常規,1,?
+55,F,健保,R,GA,S.M.T. - bilat,醫師6,87,1,常規,1,?
+57,M,健保,R,GA,Rhinoplasty,醫師6,87,3,常規,1,?
+44,M,健保,R,GA,"C. Laryngoscopy ex. tumor, vocal",醫師1,135,1,常規,1,?
+31,F,健保,R,GA,"Resection of platine tonsil, bi",醫師4,244,1,常規,1,?
+56,M,健保,R,GA,"Augmentation Rhino., autograft",醫師6,88,3,常規,1,?
+69,M,健保榮民,R,GA,Tympanoplasty no mastoidectomy,醫師5,256,1,常規,1,?
+29,M,健保,R,GA,"C. Laryngoscopy ex. tumor, vocal",醫師9,160,1,常規,1,?
+53,M,健保,R,GA,Hemi.-vertical(lateral/anterior),醫師9,160,1,常規,1,?
+31,M,健保,R,GA,S.M.T. - bilat,醫師17,99,1,常規,1,?
+71,M,健保,R,GA,"C. Laryngoscopy ex. tumor, vocal",醫師11,59,1,常規,1,?
+56,M,健保榮民,R,GA,"C. Laryngoscopy ex. tumor, vocal",醫師7,314,1,常規,1,?
+67,F,健保,R,GA,Rhinoplasty,醫師6,88,1,常規,1,?
+35,M,健保,R,GA,"Augmentation Rhino., autograft",醫師6,88,3,常規,1,?
+32,M,健保,R,GA,S.M.T. - bilat,醫師6,88,1,常規,1,?
+22,M,健保,R,GA,"Resection of platine tonsil, bi",醫師17,99,1,常規,1,?
+34,F,健保,R,GA,Tympanoplasty no mastoidectomy,醫師17,100,1,常規,1,?
+36,M,健保,R,GA,"C. Laryngoscopy ex. tumor, vocal",醫師9,161,1,常規,1,?
+58,M,健保,R,GA,Laryngo micro-surgery & CO2 las,醫師9,161,1,常規,1,?
+45,M,健保,R,LA,"SMR + SMT, BILAT",醫師21,113,1,常規,1,?
+61,M,健保榮民,R,GA,Laryngo micro-surgery & CO2 las,醫師3,234,1,常規,1,?
+46,F,健保,R,LA,S.M.T. - bilat,醫師6,88,1,常規,1,?
+63,M,健保,R,GA,"Augmentation Rhino., autograft",醫師6,88,3,常規,1,?
+20,F,健保,R,LA,"SMR + SMT, BILAT",醫師4,245,1,常規,1,?
+37,M,健保福保,R,LA,"SMR + SMT, BILAT",醫師21,113,1,常規,1,?
+25,M,健保,R,GA,"Resection of platine tonsil, bi",醫師11,59,1,常規,1,?
+58,M,健保,R,LA,"SMR + SMT, BILAT",醫師6,88,1,常規,1,?
+54,M,健保,R,GA,"Tympanoplasty, & radical cavity",醫師5,256,1,常規,1,?
+52,M,健保,R,GA,Laryngo micro-surgery & CO2 las,醫師21,113,1,常規,1,?
+33,F,警政署,R,GA,"Resection of platine tonsil, bi",醫師11,59,1,常規,1,?

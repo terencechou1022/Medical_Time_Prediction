@@ -1,0 +1,3204 @@
+年齡(G),性別(H),身份(I),分類(J),麻醉(K),手術名稱(L),主治醫師(AF),醫師年資（月）(AG),手術數量(AQ),分類(AZ),醫師人數(BG),手術時間（分）(BQ)
+82,F,健保榮民,O,SA,O.R. STC or ITC type III & IV,醫師26,95,1,急刀二級,1,?
+89,M,健保榮民,O,GA,O.R. STC or ITC type III & IV,醫師2,234,1,急刀二級,1,?
+18,M,健保,O,GA,O.R. of clavicle fracture,醫師8,304,1,急刀二級,1,?
+64,M,健保,O,SA,E.F. for fracture - lower limb,醫師13,222,1,急刀二級,1,?
+51,M,健保,R,SA,Hallux valgus(chevron),醫師6,301,1,常規,1,?
+52,M,健保,R,GA,Bone biopsy,醫師6,301,1,常規,1,?
+6,F,健保,O,GA,C.R. Percutaneous pinning,醫師26,95,1,急刀二級,1,?
+68,M,健保,R,SA,Partial knee unicompart replacem,醫師9,380,1,常規,1,?
+79,M,健保,R,SA,Arthroplasty TKR,醫師9,380,1,常規,1,?
+53,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師8,304,1,急刀二級,1,?
+82,M,健保,O,GA,O.R. STC or ITC type III & IV,醫師26,95,1,急刀二級,1,?
+81,F,健保,R,GA,Total elbow replacement,醫師8,304,1,常規,1,?
+47,M,健保,O,GA,O.R. fracture Foream radius&uln,醫師8,304,1,急刀二級,1,?
+58,F,民眾,O,GA,O.R. of clavicle fracture,醫師25,148,1,急刀二級,1,?
+47,F,健保,R,SA,"Remove internal fixator,tibia",醫師8,304,1,常規,1,?
+58,F,健保,O,GA,O.R. fracture tibia - condyle,醫師9,380,1,急刀二級,1,?
+29,M,本院員工,R,GA,Knee joint ACL reconstruction,醫師13,222,2,常規,1,?
+73,F,健保,R,GA,Unicompartment joint replace.,醫師13,222,1,常規,1,?
+56,M,健保,R,GA,Partial knee unicompart replacem,醫師13,222,1,常規,1,?
+49,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,222,2,常規,1,?
+25,M,健保,R,GA,Knee joint ACL reconstruction,醫師13,222,2,常規,1,?
+57,F,本院員工,O,GA,O.R. medial bimalleolus fracture,醫師2,234,1,急刀二級,1,?
+49,F,健保,R,GA,"Remove internal fixator,tibia",醫師2,234,1,常規,1,?
+76,F,健保,R,GA,O.R. of clavicle fracture,醫師5,129,1,常規,1,?
+41,M,健保,R,SA,Curettage - deep,醫師4,136,1,常規,1,?
+61,F,健保,E,GA,Curettage - deep,醫師5,129,2,急刀一級,1,?
+65,U,健保,R,GA,Total hip replacement,醫師3,244,1,常規,1,?
+57,F,健保,R,GA,Arthroplasty-Revision TKR,醫師3,244,1,常規,1,?
+44,F,健保,R,GA,Tenosynovectomy,醫師6,302,1,常規,1,?
+77,M,健保榮民,R,SA,Bone biopsy,醫師6,302,1,常規,1,?
+66,F,健保,R,GA,"Remove internal fixator,tibia",醫師3,244,3,常規,1,?
+43,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師5,129,1,急刀二級,1,?
+22,F,健保,O,SA,O.R. medial bimalleolus fracture,醫師5,129,1,急刀二級,1,?
+69,F,健保,E,GA,Curettage - deep,醫師8,304,3,急刀一級,1,?
+63,F,健保,O,GA,Hemiarthroplasty of hip,醫師2,234,1,急刀二級,1,?
+66,F,健保,R,GA,Curettage - deep,醫師3,244,1,常規,1,?
+47,M,健保,O,GA,O.R. of clavicle fracture,醫師9,380,1,急刀二級,1,?
+60,F,健保,O,SA,Open reduction fracture patella,醫師5,129,1,急刀二級,1,?
+31,M,健保,R,GA,"Remove internal fixator,tibia",醫師4,136,2,常規,1,?
+40,F,健保,O,GA,O.R. fracture - malleolus/talus,醫師9,381,1,急刀二級,1,?
+13,M,健保,O,GA,O.R. fracture Foream radius&uln,醫師26,95,1,急刀二級,1,?
+78,F,健保,R,GA,O.R. of clavicle fracture,醫師8,304,1,常規,1,?
+22,F,健保,O,GA,O.R. fracture - humeral shaft,醫師8,304,1,急刀二級,1,?
+41,M,健保,R,GA,Regional fasciectomy,醫師4,136,1,常規,1,?
+26,M,健保,R,GA,O.R. fracture tibia - shaft,醫師2,234,1,常規,1,?
+57,F,健保,O,GA,"O.R. Humerus,Supra,Intercondyle",醫師4,136,1,急刀二級,1,?
+74,F,健保,R,GA,"O.R. Humerus,Supra,Intercondyle",醫師4,136,1,常規,1,?
+66,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師4,136,2,常規,1,?
+46,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師4,136,2,常規,1,?
+29,M,健保,R,GA,"Remove internal fixator,others",醫師4,136,2,常規,1,?
+17,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師5,129,1,常規,1,?
+43,M,健保,R,GA,O.R. fracture tibia - condyle,醫師5,129,1,常規,1,?
+64,M,健保,R,GA,O.R. fracture tibia - condyle,醫師13,222,2,常規,1,?
+60,F,健保,R,GA,O.R. fracture Foream radius&uln,醫師4,136,1,常規,1,?
+22,M,健保,R,GA,Curettage - deep,醫師10,149,3,常規,1,?
+54,M,健保,O,LA,Open reduc. fracture - radial,醫師10,149,1,急刀二級,1,?
+33,M,健保,R,LA,Arthrodesis finger or toe,醫師10,149,1,常規,1,?
+62,M,健保,O,GA,O.R. fracture - malleolus/talus,醫師4,136,1,急刀二級,1,?
+52,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,222,2,常規,1,?
+20,M,健保,R,GA,Knee joint PCL reconstruction,醫師13,222,2,常規,1,?
+49,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,222,2,常規,1,?
+82,M,健保,O,SA,O.R. STC or ITC type III & IV,醫師26,95,1,急刀二級,1,?
+75,F,健保榮民,O,IG,Percutaneous vertebroplasty 1st,醫師7,302,1,急刀二級,1,?
+81,F,健保榮民,R,SA,Hemiarthroplasty of hip,醫師26,95,1,常規,1,?
+89,F,健保,O,GA,Hemiarthroplasty of hip,醫師26,95,1,急刀二級,1,?
+64,F,健保,R,SA,Hemiarthroplasty of hip,醫師4,136,1,常規,1,?
+75,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師8,304,1,急刀二級,1,?
+69,F,健保,R,GA,O.R. fracture pelvis,醫師2,234,2,常規,1,?
+69,F,健保,R,GA,O.R. fracture Foream radius&uln,醫師8,304,1,常規,1,?
+31,F,健保,R,GA,Open reduc. fracture-hand/foot,醫師8,304,1,常規,1,?
+65,M,健保,O,SA,O.R. STC or ITC type III & IV,醫師26,95,1,急刀二級,1,?
+61,M,健保榮民,R,GA,Arthroscopic shaving arthroplas,醫師10,149,1,常規,1,?
+53,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師10,149,1,急刀二級,1,?
+67,M,健保,R,SA,Arthroplasty TKR,醫師3,244,1,常規,1,?
+26,F,健保,O,SA,O.R. fracture - malleolus/talus,醫師10,149,1,急刀二級,1,?
+70,F,健保榮民,O,GA,Open reduction fracture - ulna,醫師10,149,1,急刀二級,1,?
+52,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師4,136,2,常規,1,?
+80,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,222,2,常規,1,?
+60,U,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,222,2,常規,1,?
+63,F,健保,R,GA,Total hip replacement,醫師13,222,1,常規,1,?
+20,F,健保,R,GA,"Remove internal fixator,others",醫師4,136,1,常規,1,?
+19,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師4,136,1,常規,1,?
+31,M,健保,O,GA,O.R. fracture tibia - shaft,醫師8,304,2,急刀二級,1,?
+78,F,健保,O,GA,O.R. STC or ITC type III & IV,醫師2,234,1,急刀二級,1,?
+81,M,健保,O,GA,"O.R. Humerus,Supra,Intercondyle",醫師8,304,1,急刀二級,1,?
+61,F,健保,O,GA,"O.R. Humerus,Supra,Intercondyle",醫師2,234,1,急刀二級,1,?
+70,F,健保榮民,O,GA,O.R. STC or ITC type III & IV,醫師2,234,2,急刀二級,1,?
+64,F,健保,R,GA,Arthroplasty TKR,醫師3,244,1,常規,1,?
+62,M,健保榮民,R,GA,Unicompartment joint replace.,醫師3,244,1,常規,1,?
+66,F,健保,R,GA,Arthroplasty TKR,醫師3,244,1,常規,1,?
+39,M,本院員工,R,GA,"Remove internal fixator,others",醫師6,302,1,常規,1,?
+67,M,健保榮民,R,GA,"Remove internal fixator,others",醫師6,302,1,常規,1,?
+22,F,健保福保,R,SA,Hallux valgus(chevron),醫師6,302,1,常規,1,?
+70,F,健保榮民,O,IG,Percutaneous vertebroplasty 1st,醫師7,302,1,急刀二級,1,?
+46,M,健保,R,GA,Arthroplasty-revision THR,醫師3,244,1,常規,1,?
+81,F,健保榮民,R,SA,Arthroplasty TKR,醫師9,381,1,常規,1,?
+65,F,健保,R,GA,Rotator cuff tear repair-massive,醫師9,381,1,常規,1,?
+75,F,健保榮民,O,GA,Hemiarthroplasty of hip,醫師3,244,1,急刀二級,1,?
+82,F,健保榮民,R,GA,O.R. fracture Foream radius&uln,醫師8,304,1,常規,1,?
+51,F,健保,R,LA,Release of tendon sheath,醫師8,304,1,常規,1,?
+21,F,健保,R,GA,"Remove internal fixator,tibia",醫師2,234,2,常規,1,?
+92,M,健保,R,SA,Arthroplasty TKR,醫師9,381,1,常規,1,?
+61,F,健保,R,GA,O.R. dislocation of ankle joint,醫師5,129,1,常規,1,?
+38,F,健保,R,GA,"Remove internal fixator,others",醫師5,129,1,常規,1,?
+11,M,健保,R,GA,"Remove internal fixator,femur",醫師26,95,1,常規,1,?
+18,M,健保,R,GA,"Remove internal fixator,forearm",醫師10,149,2,常規,1,?
+71,F,健保,R,GA,"Remove internal fixator,others",醫師5,129,1,常規,1,?
+85,M,健保榮民,O,SA,O.R. STC or ITC type III & IV,醫師3,244,1,急刀二級,1,?
+69,M,健保榮民,R,GA,Arthroplasty TKR,醫師3,244,1,常規,1,?
+59,F,健保,R,GA,Knee joint ACL reconstruction,醫師13,222,2,常規,1,?
+66,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師13,222,1,急刀二級,1,?
+53,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,222,2,常規,1,?
+49,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,222,2,常規,1,?
+45,M,健保,R,GA,Tendon graft-single,醫師10,149,1,常規,1,?
+77,F,健保,O,GA,Bone biopsy,醫師26,95,3,急刀二級,1,?
+63,F,健保,R,SA,O.R. medial bimalleolus fracture,醫師6,302,1,常規,1,?
+21,F,健保,R,GA,"Remove internal fixator,others",醫師6,302,1,常規,1,?
+61,F,健保,O,GA,O.R. STC or ITC type III & IV,醫師8,304,1,急刀二級,1,?
+28,F,民眾,O,LA,Open reduc. fracture-finger/toe,醫師13,222,1,急刀二級,1,?
+61,F,健保,R,GA,Arthroplasty TKR,醫師9,381,1,常規,1,?
+51,F,健保,R,SA,Arthroplasty TKR,醫師9,381,1,常規,1,?
+36,M,健保,R,GA,"Remove internal fixator,others",醫師6,302,1,常規,1,?
+19,M,健保,R,SA,"Bone graft Autograft, medium",醫師8,304,2,常規,1,?
+55,M,健保榮民,R,SA,"Remove internal fixator,others",醫師4,136,1,常規,1,?
+56,M,健保,O,GA,Arthroscopic shaving arthroplas,醫師4,136,2,急刀二級,1,?
+20,M,健保,R,GA,"Remove internal fixator,femur",醫師11,281,1,常規,1,?
+40,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師10,150,2,常規,1,?
+43,F,健保,R,GA,Arthrodesis wrist /carpal joint,醫師10,150,1,常規,1,?
+15,M,健保,R,GA,Bone tumor Curettage+Bone graft,醫師3,245,2,常規,1,?
+18,M,健保福保,R,GA,O.R. fracture - acetablam,醫師3,245,1,常規,1,?
+73,F,健保,R,GA,Total hip replacement,醫師13,222,1,常規,1,?
+49,F,健保,R,GA,"Ligament,Cruciate,ACL/PCL,Knee",醫師4,136,2,常規,1,?
+59,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,222,2,常規,1,?
+47,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,222,2,常規,1,?
+23,F,健保,R,GA,Knee joint ACL reconstruction,醫師13,222,2,常規,1,?
+16,F,健保,R,GA,Knee joint ACL reconstruction,醫師13,222,2,常規,1,?
+77,F,健保,O,SA,Hemiarthroplasty of hip,醫師10,150,1,急刀二級,1,?
+43,F,健保,O,GA,O.R. medial bimalleolus fracture,醫師13,222,1,急刀二級,1,?
+20,M,健保,R,GA,Knee joint PCL reconstruction,醫師13,223,2,常規,1,?
+56,M,健保,O,LA,O.R. medial bimalleolus fracture,醫師10,150,2,急刀二級,1,?
+19,F,健保,O,GA,Osteosynthesis-femur,醫師10,150,2,急刀二級,1,?
+78,F,健保,O,GA,Open reduction fracture patella,醫師3,245,1,急刀二級,1,?
+62,M,健保,O,GA,O.R. of clavicle fracture,醫師10,150,1,急刀二級,1,?
+93,M,健保,O,GA,Hemiarthroplasty of hip,醫師3,245,1,急刀二級,1,?
+18,M,健保福保,R,GA,"Remove internal fixator,femur",醫師3,245,1,常規,1,?
+40,M,健保,O,GA,O.R. medial bimalleolus fracture,醫師5,129,1,急刀二級,1,?
+92,F,健保,O,GA,Close reduc. fracture - tibial,醫師2,234,1,急刀二級,1,?
+62,M,健保,O,GA,O.R. STC or ITC type III & IV,醫師9,381,1,急刀二級,1,?
+34,M,健保,O,GA,O.R. of clavicle fracture,醫師3,245,1,急刀二級,1,?
+19,F,健保,R,SA,Hallux valgus(chevron),醫師6,302,1,常規,1,?
+81,F,健保榮民,O,SA,Realiqnment of patella,醫師9,381,1,急刀二級,1,?
+70,F,健保,O,GA,O.R. STC or ITC type III & IV,醫師26,96,1,急刀二級,1,?
+33,M,健保,T,LA,Open reduc. Scaphoid Fracture,醫師10,150,1,臨時,1,?
+38,F,健保,R,GA,O.R. fracture Foream radius&uln,醫師3,245,1,常規,1,?
+75,F,健保,O,GA,Hemiarthroplasty of hip,醫師26,96,1,急刀二級,1,?
+76,F,健保,O,SA,O.R. STC or ITC type III & IV,醫師3,245,1,急刀二級,1,?
+70,M,健保榮民,O,SA,Hemiarthroplasty of hip,醫師3,245,1,急刀二級,1,?
+80,M,民眾,O,GA,"O.R. Humerus,Supra,Intercondyle",醫師8,304,3,急刀二級,1,?
+78,F,健保榮民,O,GA,Hemiarthroplasty of hip,醫師26,96,1,急刀二級,1,?
+41,M,健保,O,GA,O.R. of clavicle fracture,醫師9,381,1,急刀二級,1,?
+76,F,健保,R,GA,Total hip replacement,醫師14,343,1,常規,1,?
+24,M,健保,O,GA,Osteosynthesis-femur,醫師9,381,1,急刀二級,1,?
+70,F,健保,O,GA,Hemiarthroplasty of hip,醫師9,381,1,急刀二級,1,?
+43,F,健保,R,GA,Open reduction fracture - ulna,醫師2,234,1,常規,1,?
+28,M,健保,R,GA,"Remove internal fixator,others",醫師4,137,1,常規,1,?
+21,M,健保,O,GA,Open reduc. fracture-hand/foot,醫師2,234,1,急刀二級,1,?
+20,M,健保,R,GA,Knee joint ACL reconstruction,醫師4,137,2,常規,1,?
+19,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師4,137,2,常規,1,?
+39,F,本院員工,R,SA,Excision of ganglion or hygrom,醫師4,137,1,常規,1,?
+42,M,健保,R,GA,Knee joint PCL reconstruction,醫師4,137,3,常規,1,?
+52,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,223,2,常規,1,?
+56,M,健保,R,SA,Arthroplasty of finger/toe,醫師5,129,2,常規,1,?
+49,M,健保,O,GA,O.R. fracture - femoral shaft,醫師5,129,1,急刀二級,1,?
+90,M,民眾,R,SA,O.R. STC or ITC type III & IV,醫師26,96,1,常規,1,?
+68,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師5,129,1,急刀二級,1,?
+57,F,健保,O,GA,E.F. for fracture - upper limb,醫師9,381,1,急刀二級,1,?
+58,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,223,2,常規,1,?
+57,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,223,2,常規,1,?
+34,M,健保員眷,R,GA,Knee joint ACL reconstruction,醫師13,223,2,常規,1,?
+58,F,健保,O,GA,O.R. dislocation of A-C joint,醫師13,223,1,急刀二級,1,?
+44,F,健保,O,GA,C.R. Inter locking nailing,醫師2,234,2,急刀二級,1,?
+64,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師2,234,1,急刀二級,1,?
+61,F,健保,E,GA,Curettage - deep,醫師26,96,2,急刀一級,1,?
+17,M,健保,O,GA,O.R. medial unimalleolus fractur,醫師2,234,1,急刀二級,1,?
+64,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師26,96,1,急刀二級,1,?
+38,F,健保福保,O,GA,O.R. of clavicle fracture,醫師2,234,1,急刀二級,1,?
+47,F,健保,O,SA,Open reduction fracture patella,醫師2,234,1,急刀二級,1,?
+96,F,健保,O,GA,Hemiarthroplasty of hip,醫師2,234,1,急刀二級,1,?
+69,F,健保榮民,O,GA,O.R. fracture Foream radius&uln,醫師26,96,1,急刀二級,1,?
+56,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師26,96,1,急刀二級,1,?
+63,M,健保,O,GA,Close reduc. fracture-carpal bo,醫師8,304,2,急刀二級,1,?
+29,F,健保,O,LA,Open reduc. fracture-finger/toe,醫師9,381,1,急刀二級,1,?
+68,M,健保榮民,O,GA,Hemiarthroplasty of hip,醫師2,234,1,急刀二級,1,?
+70,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師25,148,1,急刀二級,1,?
+58,M,健保榮民,O,GA,O.R. of clavicle fracture,醫師2,234,2,急刀二級,1,?
+43,M,健保,O,GA,O.R. fracture Foream radius&uln,醫師6,302,1,急刀二級,1,?
+72,F,健保,O,SA,Hemiarthroplasty of hip,醫師2,234,1,急刀二級,1,?
+22,M,健保,O,SA,O.R. medial bimalleolus fracture,醫師6,302,1,急刀二級,1,?
+91,M,健保榮民,O,GA,O.R. STC or ITC type III & IV,醫師2,234,1,急刀二級,1,?
+97,M,健保榮民,O,SA,O.R. STC or ITC type III & IV,醫師2,234,1,急刀二級,1,?
+61,M,重大傷病,O,GA,O.R. fracture tibia - shaft,醫師7,302,1,急刀二級,1,?
+47,F,健保榮民,O,GA,O.R. fracture Foream radius&uln,醫師8,305,1,急刀二級,1,?
+66,F,健保,O,GA,"O.R. Humerus,Supra,Intercondyle",醫師10,150,1,急刀二級,1,?
+52,M,健保,O,GA,O.R. fracture Foream radius&uln,醫師10,150,1,急刀二級,1,?
+84,F,民眾,O,GA,O.R. STC or ITC type III & IV,醫師10,150,1,急刀二級,1,?
+56,M,健保,O,GA,Osteosynthesis-humers,醫師4,137,1,急刀二級,1,?
+79,F,民眾,R,GA,O.R. fracture Foream radius&uln,醫師8,305,1,常規,1,?
+48,M,民眾,O,GA,O.R. of clavicle fracture,醫師4,137,1,急刀二級,1,?
+61,F,健保,R,GA,"O.R. Humerus,Supra,Intercondyle",醫師13,223,1,常規,1,?
+65,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師4,137,1,急刀二級,1,?
+45,M,健保,R,SA,Open reduc. fracture-hand/foot,醫師2,234,1,常規,1,?
+69,F,健保,R,GA,Tendon transfer,醫師8,305,1,常規,1,?
+87,F,健保,R,SA,C.R. Nailing of femoral neck fr.,醫師14,343,1,常規,1,?
+42,M,健保,E,GA,C.R. dislocation of hip joint,醫師2,234,1,急刀一級,1,?
+91,M,健保榮民,O,GA,O.R. STC or ITC type III & IV,醫師7,302,1,急刀二級,1,?
+42,F,健保,O,LA,Open reduc. fracture-finger/toe,醫師4,137,1,急刀二級,1,?
+66,M,健保,O,GA,O.R. of clavicle fracture,醫師10,150,1,急刀二級,1,?
+42,M,健保,E,GA,E.F. for fracture - lower limb,醫師2,234,1,急刀一級,1,?
+49,M,民眾,R,GA,Arthroscopic shaving arthroplas,醫師10,150,2,常規,1,?
+37,M,健保,R,GA,O.R. fracture Foream radius&uln,醫師10,150,1,常規,1,?
+47,M,民眾,O,GA,O.R. fracture Foream radius&uln,醫師10,150,1,急刀二級,1,?
+78,F,健保,O,GA,"O.R. Humerus,Supra,Intercondyle",醫師3,245,1,急刀二級,1,?
+48,F,健保,R,GA,Total hip replacement,醫師3,245,1,常規,1,?
+82,F,健保,R,GA,Curettage - deep,醫師3,245,1,常規,1,?
+44,M,健保,O,LA,Open reduc. fracture-finger/toe,醫師10,150,1,急刀二級,1,?
+68,F,健保榮民,R,GA,Arthroscopic shaving arthroplas,醫師13,223,2,常規,1,?
+68,M,健保,R,GA,AS Knee - Menisectomy,醫師13,223,1,常規,1,?
+67,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,223,2,常規,1,?
+51,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,223,1,常規,1,?
+85,F,健保,O,SA,O.R. STC or ITC type III & IV,醫師3,245,1,急刀二級,1,?
+74,F,健保,O,SA,Hemiarthroplasty of hip,醫師3,245,1,急刀二級,1,?
+42,M,健保,O,GA,Arthroscopic shaving arthroplas,醫師13,223,2,急刀二級,1,?
+36,M,健保,R,GA,Knee joint ACL reconstruction,醫師13,223,2,常規,1,?
+62,M,健保,O,GA,"O.R. Humerus,Supra,Intercondyle",醫師8,305,1,急刀二級,1,?
+40,M,健保,O,GA,Repture achilles tendon primary,醫師5,130,1,急刀二級,1,?
+50,F,健保,O,GA,C.R. dislocation of knee joint,醫師9,381,1,急刀二級,1,?
+48,F,健保,R,GA,Total hip replacement,醫師3,245,1,常規,1,?
+72,F,健保,R,GA,Arthroplasty TKR,醫師3,245,1,常規,1,?
+63,F,健保榮民,R,SA,Arthroplasty TKR,醫師3,245,1,常規,1,?
+70,F,健保榮民,R,GA,Curettage - deep,醫師3,245,1,常規,1,?
+37,F,健保,R,GA,Bone biopsy,醫師6,303,1,常規,1,?
+6,F,健保,O,GA,C.R. Percutaneous pinning,醫師11,282,2,急刀二級,1,?
+63,M,健保,R,SA,Arthroplasty TKR,醫師7,302,1,常規,1,?
+80,F,健保,R,GM,Percutaneous vertebroplasty 1st,醫師7,302,2,常規,1,?
+68,F,健保福保,R,GA,Total hip replacement,醫師3,245,1,常規,1,?
+66,F,健保榮民,R,GA,Hemiarthroplasty of hip,醫師3,245,1,常規,1,?
+67,M,健保,O,GA,O.R. of clavicle fracture,醫師2,235,1,急刀二級,1,?
+13,M,健保,O,GA,P.I.F.F. of distal radius / uln,醫師10,150,1,急刀二級,1,?
+52,M,健保,O,GA,O.R. fracture tibia - shaft,醫師2,235,2,急刀二級,1,?
+80,F,健保,R,SA,Arthroplasty TKR,醫師9,381,1,常規,1,?
+65,F,健保,R,GA,Arthroplasty TKR,醫師9,381,1,常規,1,?
+34,M,健保,R,GA,"Arthroscopy biopsy,irri.& debrid",醫師9,381,2,常規,1,?
+31,M,健保,R,GA,Tendon graft-single,醫師8,305,1,常規,1,?
+76,F,健保,O,SA,Hemiarthroplasty of hip,醫師4,137,1,急刀二級,1,?
+75,F,健保,O,SA,Curettage - deep,醫師9,381,1,急刀二級,1,?
+46,F,健保,R,LA,"Remove internal fixator,tibia",醫師4,137,1,常規,1,?
+83,F,健保,R,GA,Partial knee unicompart replacem,醫師14,344,1,常規,1,?
+69,M,健保榮民,R,GA,Arthroplasty TKR,醫師14,344,1,常規,1,?
+82,F,健保榮民,O,SA,O.R. STC or ITC type III & IV,醫師14,344,1,急刀二級,1,?
+29,M,健保,R,GA,"Remove internal fixator,others",醫師8,305,1,常規,1,?
+79,M,健保,R,SA,O.R. STC or ITC type III & IV,醫師2,235,1,常規,1,?
+17,M,健保,R,GA,"Remove internal fixator,others",醫師2,235,1,常規,1,?
+51,M,健保榮民,O,GA,Open reduc. fracture-hand/foot,醫師2,235,1,急刀二級,1,?
+80,F,健保,O,GA,Open reduction fracture - ulna,醫師8,305,1,急刀二級,1,?
+64,F,健保,R,GA,Arthroplasty TKR,醫師4,137,1,常規,1,?
+51,M,健保,R,GA,Hemiarthroplasty of hip,醫師4,137,1,常規,1,?
+24,F,健保,R,GA,"Remove internal fixator,others",醫師4,137,1,常規,1,?
+89,M,健保榮民,O,GA,O.R. fracture - humeral shaft,醫師4,137,1,急刀二級,1,?
+35,M,健保,R,GA,Hemiarthroplasty of hip,醫師3,245,1,常規,1,?
+68,F,健保,R,GA,Arthroplasty TKR,醫師3,245,1,常規,1,?
+65,M,健保,O,GA,O.R. fracture tibia - shaft,醫師2,235,1,急刀二級,1,?
+75,M,健保,R,GA,Hallux valgus(chevron),醫師5,130,2,常規,1,?
+60,M,健保,O,SA,O.R. medial bimalleolus fracture,醫師5,130,1,急刀二級,1,?
+56,F,健保,R,GA,AS Knee - Meniscus repair,醫師5,130,2,常規,1,?
+69,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師5,130,1,急刀二級,1,?
+61,F,健保,O,SA,Curettage - deep,醫師5,130,1,急刀二級,1,?
+47,F,健保,R,GA,"Remove internal fixator,others",醫師13,223,1,常規,1,?
+17,F,健保,R,GA,"Remove internal fixator,others",醫師13,223,1,常規,1,?
+26,M,本院員工,R,GA,Arthroscopic shaving arthroplas,醫師10,150,2,常規,1,?
+72,F,健保,R,GA,Tendon transfer,醫師10,150,1,常規,1,?
+23,F,健保,O,GA,Open reduc. fracture-finger/toe,醫師10,150,1,急刀二級,1,?
+35,M,健保,R,GA,Knee joint ACL reconstruction,醫師13,223,2,常規,1,?
+70,F,健保福保,R,GA,Arthroscopic shaving arthroplas,醫師13,223,1,常規,1,?
+70,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,223,2,常規,1,?
+58,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,223,2,常規,1,?
+50,M,健保,R,GA,O.R. fracture tibia - condyle,醫師13,223,2,常規,1,?
+65,M,健保,O,SA,O.R. STC or ITC type III & IV,醫師3,245,1,急刀二級,1,?
+62,F,健保,R,SA,Arthroplasty TKR,醫師3,245,1,常規,1,?
+77,F,健保,R,GA,Arthroplasty-Revision cup,醫師3,245,2,常規,1,?
+56,M,健保榮民,R,GA,Arthroplasty-Revision cup,醫師3,245,1,常規,1,?
+61,F,健保,O,SA,O.R. medial bimalleolus fracture,醫師5,130,1,急刀二級,1,?
+75,M,健保,O,SA,Hemiarthroplasty of hip,醫師5,130,1,急刀二級,1,?
+64,F,健保,O,SA,O.R. fracture tibia - shaft,醫師5,130,1,急刀二級,1,?
+59,M,健保,O,GA,Ostheosynthesis-metacarpal,醫師13,223,2,急刀二級,1,?
+80,F,健保,O,SA,O.R. medial bimalleolus fracture,醫師5,130,1,急刀二級,1,?
+88,F,健保,R,IG,Percutaneous vertebroplasty 1st,醫師7,302,1,常規,1,?
+76,M,健保,R,IG,Percutaneous vertebroplasty 1st,醫師7,302,1,常規,1,?
+77,F,健保,R,IG,Percutaneous vertebroplasty 1st,醫師7,302,2,常規,1,?
+81,F,健保,R,GA,Arthroplasty TKR,醫師12,354,1,常規,1,?
+64,F,健保,R,SA,Arthroplasty TKR,醫師12,354,1,常規,1,?
+49,F,健保,O,GA,O.R. medial bimalleolus fracture,醫師2,235,1,急刀二級,1,?
+47,M,健保,E,SA,O.R. fracture tibia - shaft,醫師2,235,2,急刀一級,1,?
+60,F,健保,R,SA,Partial knee unicompart replacem,醫師9,381,1,常規,1,?
+57,M,健保,R,GA,Arthroplasty TKR,醫師2,235,1,常規,1,?
+21,M,健保,O,SA,O.R. fracture tibia - shaft,醫師2,235,1,急刀二級,1,?
+57,M,健保,R,GA,Total hip replacement,醫師2,235,1,常規,1,?
+42,M,健保,R,GA,"O.R. Femur,Supra,Intercondyle",醫師2,235,3,常規,1,?
+62,F,健保,R,GA,Arthroplasty TKR,醫師8,305,1,常規,1,?
+54,F,健保,R,GA,"Remove internal fixator,humerus",醫師8,305,1,常規,1,?
+61,M,健保,R,GA,Total hip replacement,醫師13,223,1,常規,1,?
+0,F,民眾,R,GA,Release of tendon sheath,醫師11,282,4,常規,1,?
+54,F,健保,O,GA,Close reduc. fracture - humerus,醫師10,150,1,急刀二級,1,?
+68,M,健保,R,GA,Arthroplasty-Revision cup,醫師3,245,2,常規,1,?
+39,F,健保,R,GA,Arthroplasty-Revision cup,醫師3,245,2,常規,1,?
+23,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,223,1,常規,1,?
+71,F,健保榮民,R,GA,Arthroscopic shaving arthroplas,醫師13,223,2,常規,1,?
+63,F,健保,R,GA,Partial knee unicompart replacem,醫師13,223,1,常規,1,?
+25,M,健保,R,GA,Knee joint ACL reconstruction,醫師13,223,2,常規,1,?
+11,F,民眾,R,GA,"Remove internal fixator,forearm",醫師10,150,2,常規,1,?
+20,M,健保,O,GA,O.R. of clavicle fracture,醫師8,305,1,急刀二級,1,?
+63,F,健保,O,GA,O.R. of clavicle fracture,醫師8,305,1,急刀二級,1,?
+50,F,健保,R,GA,O.R. fracture tibia - shaft,醫師8,305,2,常規,1,?
+23,M,健保,R,LA,Close reduc. fracture-metacarpal,醫師8,305,1,常規,1,?
+14,M,健保,O,GA,P.I.F.F. of distal radius / uln,醫師10,150,1,急刀二級,1,?
+62,M,民眾,O,GA,Open reduction fracture - ulna,醫師8,305,1,急刀二級,1,?
+47,F,民眾,E,SA,Curettage - deep,醫師3,245,2,急刀一級,1,?
+68,M,民眾,O,GA,Curettage - deep,醫師3,245,2,急刀二級,1,?
+70,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師10,150,1,急刀二級,1,?
+70,F,健保,R,SA,Arthroplasty TKR,醫師3,245,1,常規,1,?
+66,M,健保,R,GA,Total hip replacement,醫師3,245,1,常規,1,?
+52,M,健保,R,GA,Total hip replacement,醫師3,245,1,常規,1,?
+52,F,健保,R,GA,Total hip replacement,醫師3,245,1,常規,1,?
+78,M,健保,R,GA,Arthroplasty TKR,醫師3,245,1,常規,1,?
+46,F,健保,O,GA,"O.R. Humerus,Supra,Intercondyle",醫師3,245,1,急刀二級,1,?
+87,M,健保榮民,O,SA,Hemiarthroplasty of hip,醫師3,245,1,急刀二級,1,?
+53,M,健保榮民,R,SA,Bone biopsy,醫師6,303,1,常規,1,?
+52,M,健保,R,SA,Open reduc. fracture-hand/foot,醫師6,303,1,常規,1,?
+68,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師4,137,1,常規,1,?
+69,M,健保,R,SA,Total hip replacement,醫師7,303,1,常規,1,?
+22,M,健保榮民,R,GA,O.R. fracture Foream radius&uln,醫師3,245,1,常規,1,?
+29,F,健保,O,GA,Open reduction fracture - ulna,醫師3,245,1,急刀二級,1,?
+61,M,健保,O,GA,O.R. fracture Foream radius&uln,醫師3,245,1,急刀二級,1,?
+66,M,健保,O,GA,O.R. fracture Foream radius&uln,醫師4,137,1,急刀二級,1,?
+77,M,健保,O,SA,Hemiarthroplasty of hip,醫師3,245,1,急刀二級,1,?
+72,M,健保,R,SA,Arthroplasty TKR,醫師9,382,1,常規,1,?
+71,F,健保,R,SA,Arthroplasty TKR,醫師9,382,1,常規,1,?
+75,M,健保榮民,O,GA,O.R. fracture - malleolus/talus,醫師12,354,1,急刀二級,1,?
+64,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師4,137,2,急刀二級,1,?
+17,F,健保,E,GA,E.F. for fracture - lower limb,醫師4,137,2,急刀一級,1,?
+68,F,健保,R,GA,Open reduc. Scaphoid Fracture,醫師8,305,2,常規,1,?
+21,F,健保,O,GA,Open reduc. Scaphoid Fracture,醫師8,305,1,急刀二級,1,?
+68,M,健保榮民,O,SA,O.R. medial bimalleolus fracture,醫師9,382,1,急刀二級,1,?
+50,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師4,137,2,常規,1,?
+67,F,健保,R,SA,Arthroplasty TKR,醫師9,382,1,常規,1,?
+29,M,健保,O,GA,Arthroplasty-Revision cup,醫師9,382,1,急刀二級,1,?
+48,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師4,137,2,常規,1,?
+72,F,健保,O,SA,Open reduction fracture patella,醫師2,235,1,急刀二級,1,?
+52,M,健保,R,GA,"Remove internal fixator,others",醫師5,130,2,常規,1,?
+55,F,健保,R,GA,Partial knee unicompart replacem,醫師5,130,1,常規,1,?
+65,F,健保,O,GA,Hemiarthroplasty of hip,醫師26,96,1,急刀二級,1,?
+12,M,健保,R,GA,O.R. fracture Foream radius&uln,醫師11,282,2,常規,1,?
+65,F,健保,R,GA,Arthroplasty TKR,醫師10,150,1,常規,1,?
+25,M,健保,O,GA,Ostheosynthesis-metacarpal,醫師10,150,1,急刀二級,1,?
+80,M,健保,R,SA,Partial knee unicompart replacem,醫師3,245,1,常規,1,?
+45,M,健保,O,SA,Open reduction fracture patella,醫師3,245,1,急刀二級,1,?
+70,F,健保,R,GA,Arthroplasty TKR,醫師3,245,1,常規,1,?
+68,F,健保,R,SA,Arthroplasty TKR,醫師3,245,1,常規,1,?
+71,F,健保,O,SA,Hemiarthroplasty of hip,醫師26,96,1,急刀二級,1,?
+60,F,健保,O,GA,O.R. dislocation of ankle joint,醫師5,130,2,急刀二級,1,?
+88,M,健保榮民,R,IG,Percutaneous vertebroplasty 1st,醫師7,303,1,常規,1,?
+77,F,健保榮民,R,IG,Percutaneous vertebroplasty 1st,醫師7,303,2,常規,1,?
+22,F,健保,R,GA,O.R. fracture - femoral shaft,醫師2,235,3,常規,1,?
+26,M,健保,R,GA,"Remove internal fixator,others",醫師2,235,1,常規,1,?
+62,M,健保,R,GA,O.R. fracture Foream radius&uln,醫師2,235,1,常規,1,?
+17,F,健保,R,GA,Regional fasciectomy,醫師4,137,1,常規,1,?
+54,F,健保,R,GA,Open reduction fracture patella,醫師2,235,1,常規,1,?
+68,F,健保,R,GA,Arthrodesis wrist /carpal joint,醫師8,305,1,常規,1,?
+24,M,健保,O,GA,O.R. of clavicle fracture,醫師8,305,1,急刀二級,1,?
+66,F,健保,R,GA,"Remove internal fixator,others",醫師8,305,1,常規,1,?
+47,M,健保,R,GA,"Remove internal fixator,others",醫師10,150,1,常規,1,?
+39,F,健保,R,GA,O.R. fracture - femoral shaft,醫師8,305,2,常規,1,?
+65,M,健保,R,GA,Total hip replacement,醫師3,245,1,常規,1,?
+16,F,健保,O,GA,Bone tumor Curettage+Bone graft,醫師3,245,2,急刀二級,1,?
+31,M,健保,R,GA,Ex.tumor mass bone & joint,醫師3,245,2,常規,1,?
+69,M,民眾,O,GA,O.R. medial bimalleolus fracture,醫師8,305,2,急刀二級,1,?
+60,M,健保,R,GA,O.R. fracture tibia - condyle,醫師2,235,1,常規,1,?
+21,F,健保,E,GA,Curettage - deep,醫師2,235,2,急刀一級,1,?
+86,F,健保,O,GA,O.R. fracture - humeral shaft,醫師8,305,1,急刀二級,1,?
+65,F,健保,O,GA,Open reduction fracture - ulna,醫師2,235,1,急刀二級,1,?
+57,M,健保榮民,R,GA,Total hip replacement,醫師3,246,1,常規,1,?
+72,F,健保榮民,R,SA,Arthroplasty TKR,醫師3,246,1,常規,1,?
+64,F,健保,R,SA,Arthroplasty TKR,醫師3,246,1,常規,1,?
+47,M,健保,R,GA,Open reduc. fracture-finger/toe,醫師4,137,1,常規,1,?
+54,F,健保,R,SA,Corrective osteotomy-others,醫師6,303,1,常規,1,?
+48,M,健保榮民,R,SA,Regional fasciectomy,醫師6,303,1,常規,1,?
+25,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師6,303,1,常規,1,?
+69,M,健保榮民,R,SA,Arthroplasty TKR,醫師7,303,1,常規,1,?
+55,M,健保,O,GA,O.R. of clavicle fracture,醫師7,303,1,急刀二級,1,?
+66,F,健保,O,GA,"O.R. Humerus,Supra,Intercondyle",醫師7,303,1,急刀二級,1,?
+77,F,健保,O,GA,O.R. of clavicle fracture,醫師26,97,1,急刀二級,1,?
+37,M,健保,R,SA,Ex of subcutaneous tumor 4-10cm,醫師3,246,1,常規,1,?
+68,F,健保,R,SA,Arthroplasty TKR,醫師9,382,1,常規,1,?
+40,F,健保,R,GA,O.R. medial bimalleolus fracture,醫師9,382,1,常規,1,?
+66,F,健保,O,GA,Shoulder joint hemiarthroplasty,醫師8,305,2,急刀二級,1,?
+48,F,健保,R,GA,Arthroplasty TKR,醫師14,344,1,常規,1,?
+67,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師8,305,1,急刀二級,1,?
+17,F,健保,R,GA,O.R. fracture tibia - shaft,醫師4,138,2,常規,1,?
+70,F,健保榮民,R,GA,Arthroscopic shaving arthroplas,醫師4,138,2,常規,1,?
+58,M,健保,R,GA,O.R. dislocation of A-C joint,醫師4,138,3,常規,1,?
+67,M,健保,O,GA,Open reduction fracture patella,醫師26,97,1,急刀二級,1,?
+64,M,健保,R,GA,ATF reconstruction,醫師5,130,2,常規,1,?
+29,M,健保,R,GA,ATF+CF reconstruction,醫師5,130,1,常規,1,?
+24,M,健保,R,SA,Excision of ganglion or hygrom,醫師5,130,1,常規,1,?
+59,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,224,2,常規,1,?
+16,M,健保,R,GA,"Remove internal fixator,hip",醫師11,282,1,常規,1,?
+50,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,224,2,常規,2,?
+68,F,民眾,R,GA,Tendon/ligament repair intra-art,醫師10,151,1,常規,1,?
+59,F,健保,O,GA,O.R. of clavicle fracture,醫師5,130,1,急刀二級,1,?
+15,M,健保,R,GA,"Remove of Pro. Wrist, Ankle",醫師26,97,1,常規,1,?
+49,M,健保,R,GA,AS Knee - Menisectomy,醫師13,224,1,常規,1,?
+51,M,健保,R,GA,"Remove internal fixator,humerus",醫師3,246,1,常規,1,?
+57,M,健保,R,GA,O.R. fracture tibia - condyle,醫師13,224,2,常規,1,?
+47,M,健保,R,GA,Arthroplasty-Revision TKR,醫師3,246,1,常規,1,?
+60,F,健保,O,SA,O.R. fracture tibia - condyle,醫師10,151,1,急刀二級,1,?
+89,M,健保榮民,R,EA,Arthroplasty-Revision cup,醫師3,246,2,常規,1,?
+69,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師5,130,1,急刀二級,1,?
+45,M,健保,O,GA,Open reduc. Scaphoid Fracture,醫師10,151,1,急刀二級,1,?
+55,F,健保,O,GA,O.R. fracture tibia - condyle,醫師2,235,1,急刀二級,1,?
+79,F,民眾,O,GA,O.R. fracture Foream radius&uln,醫師10,151,1,急刀二級,1,?
+71,F,健保榮民,R,GA,hindfoot triple arthrodesis,醫師6,303,1,常規,1,?
+58,M,健保,R,SA,Arthrodesis of ankle joint,醫師6,303,1,常規,1,?
+47,M,健保福保,O,GA,O.R. STC or ITC type III & IV,醫師2,235,1,急刀二級,1,?
+93,M,健保榮民,R,IG,Percutaneous vertebroplasty 1st,醫師7,303,1,常規,1,?
+47,M,健保,R,GA,Arthroplasty-Revision stem,醫師9,382,1,常規,1,?
+81,F,健保,R,SA,Arthroplasty TKR,醫師9,382,1,常規,1,?
+75,F,健保榮民,R,SA,"Remove internal fixator,tibia",醫師9,382,1,常規,1,?
+69,F,健保,R,SA,Hemiarthroplasty of hip,醫師9,382,1,常規,1,?
+77,M,健保,R,IG,Percutaneous vertebroplasty 1st,醫師7,303,1,常規,1,?
+81,F,健保,O,GA,"O.R. Femur,Supra,Intercondyle",醫師13,224,1,急刀二級,1,?
+62,M,健保,R,GA,O.R. fracture - humeral shaft,醫師8,305,1,常規,1,?
+32,F,民眾,R,GA,Open reduc. Scaphoid Fracture,醫師8,305,2,常規,1,?
+57,M,健保,O,GA,SFPSF with spinal <6 motion seg,醫師26,97,1,急刀二級,1,?
+69,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師8,305,2,急刀二級,1,?
+42,M,健保,O,GA,O.R. fracture Foream radius&uln,醫師13,224,1,急刀二級,1,?
+0,M,健保,R,GA,Excision polydactyly/syndactyly,醫師11,282,2,常規,1,?
+17,F,健保,R,GA,Curettage - deep,醫師4,138,1,常規,1,?
+81,F,健保,R,SA,Arthroplasty TKR,醫師13,224,1,常規,1,?
+78,F,健保榮民,O,GA,O.R. STC or ITC type III & IV,醫師13,224,1,急刀二級,1,?
+65,F,健保,R,GA,Total shoulder replacement,醫師13,224,1,常規,1,?
+55,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,224,2,常規,1,?
+25,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,224,2,常規,1,?
+59,F,健保,R,GA,"Remove internal fixator,others",醫師13,224,1,常規,1,?
+66,F,健保,O,GA,Curettage - deep,醫師4,138,1,急刀二級,1,?
+28,M,健保,R,GA,Knee joint ACL reconstruction,醫師13,224,2,常規,1,?
+64,M,健保,O,LA,Open reduc. fracture-finger/toe,醫師8,305,1,急刀二級,1,?
+54,F,健保,O,GA,EXTERNAL FIXATION-FEMORAL,醫師4,138,2,急刀二級,1,?
+62,M,健保,O,SA,C.R. Nailing of femoral neck fr.,醫師2,235,1,急刀二級,1,?
+59,M,健保榮民,O,GA,O.R. fracture Foream radius&uln,醫師4,138,1,急刀二級,1,?
+50,M,健保榮民,O,GA,O.R. of clavicle fracture,醫師4,138,1,急刀二級,1,?
+38,M,健保,O,LA,Curettage - deep,醫師8,305,2,急刀二級,1,?
+79,M,健保,R,SA,Arthroplasty TKR,醫師3,246,1,常規,1,?
+32,F,健保,R,GA,Bone tumor Curettage+Bone graft,醫師3,246,2,常規,1,?
+46,F,健保,E,GA,Curettage - deep,醫師9,382,2,急刀一級,1,?
+45,F,本院員工,R,GA,Arthroplasty-Revision TKR,醫師3,246,1,常規,1,?
+25,F,健保,R,SA,Bone biopsy,醫師6,303,1,常規,1,?
+19,M,健保,O,GA,O.R. fracture - malleolus/talus,醫師8,305,1,急刀二級,1,?
+3,M,員眷,O,GA,O.R. fracture - femoral shaft,醫師10,151,1,急刀二級,1,?
+13,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師10,151,2,急刀二級,1,?
+66,M,健保,R,GA,Arthroplasty-Revision cup,醫師3,246,2,常規,1,?
+77,F,健保榮民,O,GA,O.R. STC or ITC type III & IV,醫師25,149,1,急刀二級,1,?
+76,F,健保,R,GA,Bone biopsy,醫師26,97,2,常規,1,?
+21,M,民眾,R,GA,"Remove internal fixator,forearm",醫師25,149,2,常規,1,?
+51,F,健保,O,GA,O.R. fracture - humeral shaft,醫師8,305,2,急刀二級,1,?
+55,F,健保,O,GA,"O.R. Femur,Supra,Intercondyle",醫師2,235,1,急刀二級,1,?
+43,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師9,382,2,常規,1,?
+70,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師9,382,1,急刀二級,1,?
+80,F,健保,O,GA,Hemiarthroplasty of hip,醫師9,382,1,急刀二級,1,?
+44,F,健保,R,GA,Total hip replacement,醫師14,344,1,常規,1,?
+51,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師8,305,1,急刀二級,1,?
+68,F,健保,R,GA,Tendon transfer,醫師8,305,1,常規,1,?
+62,F,健保,R,GA,"Remove internal fixator,others",醫師8,305,1,常規,1,?
+73,F,健保榮民,R,GA,O.R. STC or ITC type III & IV,醫師2,235,3,常規,1,?
+62,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師4,138,1,常規,1,?
+18,M,健保,R,GA,Knee joint ACL reconstruction,醫師9,382,2,常規,1,?
+54,F,健保,R,GA,Fasciotomy simple,醫師4,138,1,常規,1,?
+51,M,民眾,R,GA,Knee joint PCL reconstruction,醫師4,138,3,常規,1,?
+66,F,健保榮民,R,GA,Total hip replacement,醫師3,246,1,常規,1,?
+64,F,健保,R,GA,"Remove internal fixator,others",醫師4,138,1,常規,1,?
+61,F,健保,R,SA,Arthroplasty TKR,醫師9,382,1,常規,1,?
+12,M,健保,O,GA,"O.R. Humerus,Supra,Intercondyle",醫師26,97,1,急刀二級,1,?
+56,F,健保,R,SA,"Remove internal fixator,others",醫師5,130,1,常規,1,?
+38,F,健保,R,SA,Open reduc. fracture-hand/foot,醫師5,130,1,常規,1,?
+31,F,健保,R,GA,"Remove internal fixator,others",醫師5,130,1,常規,1,?
+28,M,健保,R,GA,"Remove internal fixator,humerus",醫師5,130,2,常規,1,?
+62,F,健保,O,GA,EXTERNAL FIXATION-TIBIA TRANS,醫師4,138,1,急刀二級,1,?
+21,M,健保,R,GA,O.R. medial unimalleolus fractur,醫師10,151,1,常規,1,?
+61,F,民眾,O,GA,O.R. fracture tibia - condyle,醫師13,224,3,急刀二級,1,?
+78,M,健保,O,GA,Curettage - deep,醫師13,224,3,急刀二級,1,?
+7,M,健保,R,GA,Close reduc. fracture - humerus,醫師26,97,1,常規,1,?
+18,M,健保,O,GA,O.R.acetabulum hip socket fract.,醫師2,235,2,急刀二級,1,?
+54,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,224,2,常規,1,?
+36,F,健保,R,GA,AS Knee - Menisectomy,醫師13,224,1,常規,1,?
+23,M,健保,R,GA,Knee joint ACL reconstruction,醫師13,224,2,常規,1,?
+63,F,健保,O,GA,"O.R. Humerus,Supra,Intercondyle",醫師10,151,1,急刀二級,1,?
+43,M,健保,O,GA,Open reduction fracture - ulna,醫師26,97,2,急刀二級,1,?
+54,F,健保,O,LA,Curettage - deep,醫師26,97,2,急刀二級,1,?
+84,M,健保榮民,R,IG,Percutaneous vertebroplasty 1st,醫師7,303,2,常規,1,?
+68,F,健保,R,GA,Rotator cuff tear repair-mild,醫師9,382,1,常規,1,?
+50,F,健保,R,SA,"Arthroscopy biopsy,irri.& debrid",醫師9,382,2,常規,1,?
+32,M,健保,O,GA,Open reduc. fracture - radial,醫師26,97,1,急刀二級,1,?
+29,M,健保,O,GA,Open reduction fracture - ulna,醫師9,382,1,急刀二級,1,?
+36,M,健保,R,GA,"Remove internal fixator,others",醫師2,235,1,常規,1,?
+50,M,健保,R,SA,"Remove internal fixator,others",醫師2,235,1,常規,1,?
+78,M,健保,O,GA,O.R. STC or ITC type III & IV,醫師13,224,1,急刀二級,1,?
+20,M,健保,O,GA,O.R. fracture - femoral shaft,醫師9,382,1,急刀二級,1,?
+86,F,健保,R,GA,O.R. STC or ITC type III & IV,醫師2,235,1,常規,1,?
+37,M,健保,O,GA,O.R. of clavicle fracture,醫師4,138,1,急刀二級,1,?
+23,M,民眾,O,GA,Open reduc. Scaphoid Fracture,醫師8,306,1,急刀二級,1,?
+79,F,民眾,O,GA,O.R. of clavicle fracture,醫師8,306,1,急刀二級,1,?
+66,F,健保,R,GA,Total hip replacement,醫師3,246,1,常規,1,?
+68,F,健保,R,SA,Unicompartment joint replace.,醫師3,246,1,常規,1,?
+71,F,健保,R,GA,Total hip replacement,醫師3,246,1,常規,1,?
+70,F,健保,R,SA,Arthroplasty TKR,醫師3,246,1,常規,1,?
+58,F,健保,R,SA,Open reduc. fracture-hand/foot,醫師6,303,1,常規,1,?
+57,M,健保,R,SA,Open reduc. fracture-hand/foot,醫師6,303,1,常規,1,?
+43,M,健保,O,GA,Open reduc. fracture-hand/foot,醫師6,303,2,急刀二級,1,?
+40,F,健保,R,GA,Girdlestone procedure of hip,醫師3,246,1,常規,1,?
+46,F,健保,R,GA,O.R. fracture tibia - shaft,醫師9,382,2,常規,1,?
+62,F,健保,R,GA,O.R. fracture tibia - condyle,醫師4,138,2,常規,1,?
+69,F,健保,R,SA,Arthroplasty TKR,醫師9,382,1,常規,1,?
+51,F,健保,R,GA,Arthroplasty-Revision cup,醫師9,382,1,常規,1,?
+68,F,健保,O,GA,"O.R. Femur,Supra,Intercondyle",醫師9,382,1,急刀二級,1,?
+28,M,健保,O,GA,Ostheosynthesis-metacarpal,醫師4,138,1,急刀二級,1,?
+24,M,健保,O,GA,Open reduc. fracture-finger/toe,醫師4,138,1,急刀二級,1,?
+65,F,健保,R,SA,Arthroplasty TKR,醫師14,345,1,常規,1,?
+23,M,健保,O,GA,O.R. fracture - acetablam,醫師2,236,2,急刀二級,1,?
+52,M,健保,R,GA,"O.R. Humerus,Supra,Intercondyle",醫師8,306,1,常規,1,?
+53,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師4,138,2,常規,1,?
+34,F,健保,R,GA,Knee joint ACL reconstruction,醫師4,138,2,常規,1,?
+33,M,健保,R,GA,Knee joint ACL reconstruction,醫師4,138,2,常規,1,?
+71,M,健保,O,GA,Rotator cuff tear repair-massive,醫師4,138,2,急刀二級,1,?
+90,M,健保榮民,O,SA,Hemiarthroplasty of hip,醫師9,382,1,急刀二級,1,?
+64,F,健保,O,GA,"O.R. Femur,Supra,Intercondyle",醫師4,138,1,急刀二級,1,?
+55,F,健保,R,GA,Arthroplasty TKR,醫師5,131,1,常規,1,?
+33,M,健保,R,GA,"Remove internal fixator,tibia",醫師5,131,2,常規,1,?
+75,F,健保,O,SA,O.R. medial bimalleolus fracture,醫師5,131,1,急刀二級,1,?
+54,F,健保,O,GA,O.R. fracture tibia - condyle,醫師4,138,2,急刀二級,1,?
+43,M,健保,R,GA,Open reduc. fracture-hand/foot,醫師10,151,1,常規,1,?
+3,M,健保,R,GA,O.R. fracture - femoral shaft,醫師10,151,1,常規,1,?
+66,F,健保,R,GA,Bone biopsy,醫師26,97,2,常規,1,?
+67,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,224,1,常規,1,?
+38,F,健保,R,GA,Knee joint ACL reconstruction,醫師13,224,2,常規,1,?
+37,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,224,1,常規,1,?
+27,F,健保,R,GA,Tendon graft-single,醫師10,151,1,常規,1,?
+50,F,健保,R,GA,O.R. medial bimalleolus fracture,醫師5,131,1,常規,1,?
+68,M,健保榮民,R,GA,"Arthroscopy biopsy,irri.& debrid",醫師5,131,3,常規,1,?
+76,F,健保,R,IG,Percutaneous vertebroplasty 1st,醫師7,303,1,常規,1,?
+65,F,健保,O,IG,Percutaneous vertebroplasty 1st,醫師7,303,2,急刀二級,1,?
+63,F,健保,R,GA,Total hip replacement,醫師12,355,1,常規,1,?
+53,M,健保,R,GA,O.R. of clavicle fracture,醫師12,355,1,常規,1,?
+56,F,健保,O,GA,C.R. dislocation of hip joint,醫師3,246,1,急刀二級,1,?
+86,M,健保,R,GA,Arthroplasty TKR,醫師9,382,1,常規,1,?
+28,F,健保,O,GA,Open reduc. fracture - radial,醫師7,303,1,急刀二級,1,?
+61,M,健保榮民,O,GA,O.R. fracture - humeral shaft,醫師8,306,1,急刀二級,1,?
+67,M,健保,R,SA,Curettage - deep,醫師2,236,2,常規,1,?
+32,M,重大傷病,R,GA,"Remove internal fixator,forearm",醫師8,306,1,常規,1,?
+45,M,健保,R,SA,O.R. fracture - femoral shaft,醫師8,306,3,常規,1,?
+56,M,健保榮民,R,GA,"O.R. Humerus,Supra,Intercondyle",醫師10,151,1,常規,1,?
+57,M,健保榮民,O,GA,Curettage - deep,醫師3,246,1,急刀二級,1,?
+66,F,民眾,R,SA,"Remove internal fixator,tibia",醫師3,246,1,常規,1,?
+37,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,224,1,常規,1,?
+19,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師8,306,3,急刀二級,1,?
+77,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,224,2,常規,1,?
+61,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,224,2,常規,1,?
+56,F,健保,R,GA,Unicompartment joint replace.,醫師13,224,1,常規,1,?
+49,M,健保,R,SA,"Remove internal fixator,tibia",醫師25,150,1,常規,1,?
+20,M,健保,R,GA,"Remove internal fixator,others",醫師25,150,1,常規,1,?
+56,F,健保,O,SA,O.R. dislocation of hip joint,醫師3,246,1,急刀二級,1,?
+69,F,健保,R,GA,O.R. fracture Foream radius&uln,醫師8,306,1,常規,1,?
+30,M,健保,O,GA,O.R. medial unimalleolus fractur,醫師3,246,1,急刀二級,1,?
+68,M,健保,O,SA,Hemiarthroplasty of hip,醫師3,246,1,急刀二級,1,?
+28,M,健保,O,GA,O.R. of clavicle fracture,醫師8,306,1,急刀二級,1,?
+80,F,健保,O,GA,O.R. STC or ITC type III & IV,醫師3,246,1,急刀二級,1,?
+64,M,健保,E,GA,EXTERNAL FIXATION-FEMORAL,醫師2,236,3,急刀一級,1,?
+58,F,健保,R,SA,Arthroplasty TKR,醫師3,246,1,常規,1,?
+69,F,健保,R,SA,Arthroplasty TKR,醫師3,246,1,常規,1,?
+63,M,健保,R,GA,Total hip replacement,醫師3,246,1,常規,1,?
+75,M,健保,O,SA,Hemiarthroplasty of hip,醫師10,151,1,急刀二級,1,?
+45,F,健保,R,GA,hindfoot triple arthrodesis,醫師6,304,1,常規,1,?
+29,M,健保,O,SA,O.R. fracture tibia - condyle,醫師2,236,1,急刀二級,1,?
+74,F,健保,R,GA,Shoulder joint hemiarthroplasty,醫師3,246,1,常規,1,?
+81,F,健保,O,GA,Arthroplasty-Revision stem,醫師3,246,1,急刀二級,1,?
+92,M,健保榮民,O,SA,O.R. STC or ITC type III & IV,醫師26,97,1,急刀二級,1,?
+73,M,健保,R,GA,Arthroplasty TKR,醫師9,383,1,常規,1,?
+24,M,健保,O,GA,O.R. fracture Foream radius&uln,醫師4,138,1,急刀二級,1,?
+58,M,健保,O,GA,O.R. of clavicle fracture,醫師4,138,1,急刀二級,1,?
+75,M,健保,R,SA,Hemiarthroplasty of hip,醫師9,383,1,常規,1,?
+58,M,健保榮民,R,GA,Hemiarthroplasty of hip,醫師2,236,2,常規,1,?
+84,M,健保,R,GM,"Remove internal fixator,others",醫師4,138,2,常規,1,?
+48,M,健保,R,GA,Total hip replacement,醫師4,138,1,常規,1,?
+39,M,健保,R,GA,Repture of patella tendon repai,醫師4,138,1,常規,1,?
+56,F,健保,O,GA,Open reduction fracture patella,醫師4,138,1,急刀二級,1,?
+62,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師26,97,1,急刀二級,1,?
+33,M,健保,R,GA,"Remove internal fixator,tibia",醫師5,131,4,常規,1,?
+60,F,健保,R,GA,Hemiarthroplasty of hip,醫師10,151,1,常規,1,?
+40,F,健保福保,R,GA,Open reduc. fracture - radial,醫師10,151,1,常規,1,?
+58,F,健保,R,GA,"Remove internal fixator,femur",醫師26,97,1,常規,1,?
+67,F,健保,R,SA,Arthroplasty TKR,醫師3,246,1,常規,1,?
+55,M,健保,R,GA,Arthroplasty-Revision cup,醫師3,246,2,常規,1,?
+32,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,224,1,常規,1,?
+22,F,健保,O,GA,Open reduction fracture - ulna,醫師13,224,1,急刀二級,1,?
+42,F,健保,R,GA,Hallux valgus(chevron),醫師6,304,1,常規,1,?
+58,M,健保,R,GA,Ex of subcutaneous tumor 2-4cm,醫師6,304,1,常規,1,?
+55,F,健保,R,SA,Hallux valgus(chevron),醫師6,304,1,常規,1,?
+90,F,健保,R,SA,Hemiarthroplasty of hip,醫師12,355,1,常規,1,?
+72,F,健保,O,IG,Percutaneous vertebroplasty 1st,醫師7,304,1,急刀二級,1,?
+73,F,健保,O,GA,Hemiarthroplasty of hip,醫師3,246,1,急刀二級,1,?
+52,M,本院員工,R,GA,O.R. fracture tibia - shaft,醫師2,236,1,常規,1,?
+64,M,健保,R,GA,"O.R. Femur,Supra,Intercondyle",醫師2,236,4,常規,1,?
+61,M,健保,R,GA,"Remove internal fixator,forearm",醫師8,306,2,常規,1,?
+68,F,健保,R,GA,Hemiarthroplasty of hip,醫師3,246,1,常規,1,?
+29,F,健保,R,GA,Removal of internal fixator,醫師25,150,1,常規,1,?
+55,F,健保,R,GA,Recur.anterior shoulder dislocat,醫師4,138,1,常規,1,?
+64,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,224,2,常規,1,?
+57,F,健保,R,GA,Knee joint ACL reconstruction,醫師13,224,1,常規,1,?
+44,M,健保,R,GA,"Remove internal fixator,others",醫師25,150,1,常規,1,?
+47,M,健保,R,SA,Close reduc. fracture-finger/toe,醫師25,150,1,常規,1,?
+68,F,健保,E,GA,O.R. medial unimalleolus fractur,醫師2,236,3,急刀一級,1,?
+68,F,健保,O,GA,O.R. fracture - malleolus/talus,醫師2,236,2,急刀二級,1,?
+65,M,健保,R,SA,Arthroplasty TKR,醫師3,247,1,常規,1,?
+18,M,健保,O,GA,Open reduction fracture - ulna,醫師3,247,1,急刀二級,1,?
+44,F,健保,O,GA,O.R. fracture - malleolus/talus,醫師3,247,1,急刀二級,1,?
+23,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師6,304,1,常規,1,?
+43,M,健保,R,SA,Open reduc. fracture-hand/foot,醫師6,304,1,常規,1,?
+48,F,民眾,R,GA,O.R. fracture Foream radius&uln,醫師8,306,1,常規,1,?
+59,F,健保,O,GA,O.R. fracture - humeral shaft,醫師8,306,1,急刀二級,1,?
+26,F,健保,O,GA,O.R. fracture tibia - condyle,醫師2,236,1,急刀二級,1,?
+62,M,健保,R,GA,Total hip replacement,醫師3,247,1,常規,1,?
+58,M,健保,E,GA,O.R. fracture Foream radius&uln,醫師3,247,1,急刀一級,1,?
+99,M,健保榮民,O,GA,O.R. STC or ITC type III & IV,醫師2,236,1,急刀二級,1,?
+55,M,健保,R,GA,Total hip replacement,醫師3,247,1,常規,1,?
+67,M,健保榮民,R,GA,Total hip replacement,醫師9,383,1,常規,1,?
+77,F,健保榮民,R,GA,Arthroplasty-Revision stem,醫師3,247,2,常規,1,?
+86,F,健保,O,SA,Hemiarthroplasty of hip,醫師3,247,1,急刀二級,1,?
+79,F,健保榮民,R,GA,O.R. fracture Foream radius&uln,醫師8,306,1,常規,1,?
+51,F,健保,R,GA,Shoulder joint hemiarthroplasty,醫師8,306,1,常規,1,?
+79,F,健保,R,SA,Arthroplasty TKR,醫師12,355,1,常規,1,?
+82,F,健保,R,GA,Arthroplasty TKR,醫師12,355,1,常規,1,?
+67,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師4,138,2,常規,1,?
+47,F,健保,R,GA,Knee joint PCL reconstruction,醫師4,138,2,常規,1,?
+30,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師4,138,2,常規,1,?
+21,M,健保,R,GA,"Remove internal fixator,forearm",醫師4,138,1,常規,1,?
+43,M,健保,R,GA,AS Knee - Meniscus repair,醫師5,131,1,常規,1,?
+54,F,健保,R,GA,Repture achilles tendon primary,醫師5,131,1,常規,1,?
+47,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師10,152,1,常規,1,?
+45,F,健保,R,GA,Arthrodesis wrist /carpal joint,醫師10,152,1,常規,1,?
+55,M,健保,R,GA,Arthroplasty-Revision cup,醫師3,247,1,常規,1,?
+92,M,健保榮民,R,GA,Bone biopsy,醫師26,98,2,常規,1,?
+27,M,健保,R,GA,Ostheosynthesis-metacarpal,醫師26,98,1,常規,1,?
+90,F,健保榮民,O,SA,O.R. STC or ITC type III & IV,醫師4,139,1,急刀二級,1,?
+45,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,225,2,常規,1,?
+25,F,健保,R,GA,Knee joint ACL reconstruction,醫師13,225,2,常規,1,?
+48,M,健保,R,GA,Curettage - deep,醫師5,131,2,常規,1,?
+68,F,健保,R,GA,Debridment 5-10cm,醫師2,236,1,常規,1,?
+90,M,健保榮民,R,GM,Percutaneous vertebroplasty 1st,醫師7,304,1,常規,1,?
+75,F,健保,R,GA,Arthroplasty TKR,醫師9,383,1,常規,1,?
+81,F,健保榮民,R,GA,Open reduction fracture patella,醫師9,383,1,常規,1,?
+74,M,健保,R,GA,O.R. fracture tibia - shaft,醫師2,236,2,常規,1,?
+55,M,健保,R,GA,"Bone graft Autograft, medium",醫師8,306,2,常規,1,?
+69,M,健保,O,SA,O.R. STC or ITC type III & IV,醫師7,304,1,急刀二級,1,?
+0,F,員眷,R,GA,P.P. hip spica,醫師11,283,1,常規,1,?
+20,F,健保,O,GA,Knee joint ACL repair,醫師4,139,2,急刀二級,1,?
+17,M,健保,R,GA,"Ex.bone lower extremity,sim.",醫師3,247,1,常規,1,?
+95,M,健保榮民,O,SA,Hemiarthroplasty of hip,醫師4,139,1,急刀二級,1,?
+87,F,健保,R,GA,Hemiarthroplasty of hip,醫師8,306,2,常規,1,?
+38,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,225,1,常規,1,?
+54,F,健保,R,GA,O.R. fracture tibia - condyle,醫師13,225,2,常規,1,?
+96,F,健保,O,GA,O.R. STC or ITC type III & IV,醫師2,236,1,急刀二級,1,?
+56,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師5,131,1,急刀二級,1,?
+15,F,健保,R,GA,Open reduc. fracture-finger/toe,醫師8,306,1,常規,1,?
+43,M,健保,R,SA,Arthroscopic shaving arthroplas,醫師6,304,1,常規,1,?
+35,F,健保福保,O,GA,Knee joint ACL reconstruction,醫師4,139,1,急刀二級,1,?
+68,F,健保,R,GA,O.R. fracture Foream radius&uln,醫師8,306,1,常規,1,?
+29,M,健保,R,GA,"Remove internal fixator,femur",醫師14,345,1,常規,1,?
+72,M,健保榮民,R,GA,Knee joint PCL repair,醫師2,236,1,常規,1,?
+84,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師4,139,1,常規,1,?
+63,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師4,139,2,常規,1,?
+54,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師4,139,2,常規,1,?
+71,M,健保榮民,R,GA,"Remove internal fixator,others",醫師5,131,1,常規,1,?
+16,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師5,131,1,常規,1,?
+56,F,健保,R,GA,Osteoplasty-Shorting,醫師10,152,2,常規,1,?
+55,M,健保,R,GA,Open reduc. fracture - radial,醫師10,152,2,常規,1,?
+76,F,健保,R,GA,Bone biopsy,醫師26,98,2,常規,1,?
+69,F,健保,O,GA,O.R. of clavicle fracture,醫師26,98,1,急刀二級,1,?
+85,F,健保,O,GA,Percutaneous vertebroplasty 1st,醫師7,304,1,急刀二級,1,?
+58,F,健保,R,SA,Arthroplasty TKR,醫師3,247,1,常規,1,?
+66,F,健保,R,GA,"O.R. Humerus,Supra,Intercondyle",醫師13,225,1,常規,1,?
+62,M,健保,R,SA,Hallux valgus,醫師6,304,1,常規,1,?
+74,F,健保,R,IG,Percutaneous vertebroplasty 1st,醫師7,304,1,常規,1,?
+92,M,健保榮民,O,SA,O.R. STC or ITC type III & IV,醫師10,152,1,急刀二級,1,?
+83,M,健保,R,SA,Arthroplasty TKR,醫師9,383,1,常規,1,?
+64,F,健保,R,SA,Arthroplasty TKR,醫師9,383,1,常規,1,?
+69,F,健保,R,GA,O.R. fracture - humeral shaft,醫師8,306,3,常規,1,?
+62,F,健保,O,GA,"O.R. Humerus,Supra,Intercondyle",醫師8,306,1,急刀二級,1,?
+24,M,民眾,R,GA,Arthroscopic shaving arthroplas,醫師10,152,2,常規,1,?
+67,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師10,152,1,常規,1,?
+27,F,健保,R,GA,Repture achilles tendon primary,醫師10,152,1,常規,1,?
+78,M,健保榮民,R,GA,Arthroscopic shaving arthroplas,醫師13,225,2,常規,1,?
+65,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,225,2,常規,1,?
+47,M,健保,R,GA,AS Shoulder-Labrum resection,醫師13,225,1,常規,1,?
+76,M,健保,R,SA,Arthroplasty TKR,醫師13,225,1,常規,1,?
+20,F,健保,O,GA,O.R. of clavicle fracture,醫師10,152,1,急刀二級,1,?
+84,M,健保榮民,O,SA,O.R. STC or ITC type III & IV,醫師10,152,1,急刀二級,1,?
+56,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師4,139,1,常規,1,?
+74,F,健保,O,GA,Hemiarthroplasty of hip,醫師2,236,1,急刀二級,1,?
+64,F,健保,O,GA,E.F. for fracture - lower limb,醫師10,152,1,急刀二級,1,?
+16,M,健保,O,GA,O.R. medial unimalleolus fractur,醫師10,152,1,急刀二級,1,?
+71,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師10,152,1,急刀二級,1,?
+42,M,健保,O,GA,O.R. medial bimalleolus fracture,醫師10,152,1,急刀二級,1,?
+78,F,健保,O,GA,O.R. STC or ITC type III & IV,醫師10,152,1,急刀二級,1,?
+37,F,健保,O,LA,Open reduc. fracture-finger/toe,醫師8,307,1,急刀二級,1,?
+62,M,健保,R,SA,Arthroplasty TKR,醫師3,247,1,常規,1,?
+40,F,健保,R,GA,Total hip replacement,醫師3,247,1,常規,1,?
+71,M,健保,R,GA,Arthroplasty-Revision stem,醫師3,247,3,常規,1,?
+59,M,健保,O,GA,O.R. fracture Foream radius&uln,醫師7,304,1,急刀二級,1,?
+78,F,健保,R,SA,Arthroplasty TKR,醫師3,247,1,常規,1,?
+65,F,健保,O,GA,Patellectomy,醫師3,247,1,急刀二級,1,?
+23,M,健保,R,GA,O.R. fracture - malleolus/talus,醫師2,236,1,常規,1,?
+31,F,民眾,E,SA,Open reduc. fracture-finger/toe,醫師9,383,2,急刀一級,1,?
+60,F,健保,R,GA,Open reduction fracture - ulna,醫師8,307,1,常規,1,?
+76,F,健保,R,GA,Total hip replacement,醫師9,383,1,常規,1,?
+53,F,健保,O,GA,O.R. fracture - humeral shaft,醫師9,383,1,急刀二級,1,?
+61,M,健保,R,GA,Ostheosynthesis-metatarsal,醫師2,236,4,常規,1,?
+56,M,民眾,R,GA,Total hip replacement,醫師2,236,1,常規,1,?
+38,M,健保,R,GA,SFPSF with spinal <6 motion seg,醫師12,356,2,常規,1,?
+34,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師4,139,1,常規,1,?
+61,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師8,307,1,急刀二級,1,?
+64,F,健保,R,GA,O.R. fracture Foream radius&uln,醫師8,307,1,常規,1,?
+76,F,健保,O,GA,O.R. fracture - humeral shaft,醫師8,307,1,急刀二級,1,?
+70,F,健保,O,GA,O.R. fracture - humeral shaft,醫師2,237,1,急刀二級,1,?
+50,M,健保,R,GA,Open reduc. fracture-finger/toe,醫師10,152,1,常規,1,?
+68,M,健保榮民,O,GA,O.R. fracture Foream radius&uln,醫師26,98,1,急刀二級,1,?
+32,M,本院員工,R,GA,Arthroscopic shaving arthroplas,醫師4,139,1,常規,1,?
+55,F,健保,R,GA,AS Knee - Menisectomy,醫師13,225,1,常規,1,?
+41,F,健保,R,GA,Knee joint PCL reconstruction,醫師13,225,2,常規,1,?
+69,M,健保榮民,O,GA,O.R. STC or ITC type III & IV,醫師26,98,1,急刀二級,1,?
+14,M,健保,O,GA,O.R. fracture tibia - shaft,醫師26,98,2,急刀二級,1,?
+67,F,健保,O,GA,O.R. fracture tibia - shaft,醫師2,237,2,急刀二級,1,?
+72,F,健保,O,GA,"O.R. Humerus,Supra,Intercondyle",醫師7,304,2,急刀二級,1,?
+57,M,健保,R,GA,O.R. of clavicle fracture,醫師8,307,1,常規,1,?
+25,F,健保,O,GA,O.R. fracture - femoral shaft,醫師7,304,1,急刀二級,1,?
+64,F,健保,O,SA,O.R. fracture tibia - condyle,醫師10,152,1,急刀二級,1,?
+25,F,健保,O,GA,Arthroscopic shaving arthroplas,醫師5,132,2,急刀二級,1,?
+43,M,健保,O,GA,O.R. fracture Foream radius&uln,醫師5,132,1,急刀二級,1,?
+26,M,健保,O,GA,O.R. fracture Foream radius&uln,醫師4,139,1,急刀二級,1,?
+63,M,健保,E,GA,E.F. for fracture - lower limb,醫師4,139,3,急刀一級,3,?
+36,M,健保,R,GA,Total hip replacement,醫師7,304,1,常規,1,?
+12,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師26,98,1,急刀二級,1,?
+65,M,健保,R,SA,Arthroplasty TKR,醫師3,247,1,常規,1,?
+84,F,健保榮民,R,GA,Arthroplasty TKR,醫師3,247,1,常規,1,?
+28,M,健保,E,GA,E.F. for fracture - lower limb,醫師2,237,2,急刀一級,1,?
+63,M,健保,O,GA,Regional fasciectomy,醫師4,139,1,急刀二級,1,?
+29,F,健保,R,SA,"Remove internal fixator,tibia",醫師14,346,2,常規,1,?
+83,M,健保榮民,O,SA,O.R. STC or ITC type III & IV,醫師5,132,1,急刀二級,1,?
+51,M,健保,R,GA,O.R. fracture Foream radius&uln,醫師8,307,1,常規,1,?
+23,M,健保,R,GA,O.R. fracture - femoral shaft,醫師2,237,2,常規,1,?
+65,F,健保榮民,R,GA,Arthrodesis subtalar fusion,醫師5,132,2,常規,1,?
+70,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師4,139,2,常規,1,?
+74,F,健保,R,GA,O.R. of clavicle fracture,醫師10,152,1,常規,1,?
+21,F,健保,R,GA,"Remove internal fixator,femur",醫師10,152,1,常規,1,?
+43,F,健保,R,GA,Arthroplasty TKR,醫師13,225,1,常規,1,?
+58,M,健保,O,GA,"O.R. Femur,Supra,Intercondyle",醫師13,225,1,急刀二級,1,?
+64,M,民眾,O,GA,Open reduc. fracture-finger/toe,醫師4,139,1,急刀二級,1,?
+59,M,健保,R,GA,AS Shoulder-Labrum resection,醫師13,225,1,常規,1,?
+52,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,225,2,常規,1,?
+40,M,健保,R,GA,Knee joint ACL reconstruction,醫師13,225,1,常規,1,?
+39,F,健保,R,GA,AS Knee - Menisectomy,醫師13,225,2,常規,1,?
+76,M,健保,R,GA,O.R. STC or ITC type III & IV,醫師4,139,2,常規,1,?
+28,M,健保,O,GA,Curettage - deep,醫師2,237,1,急刀二級,1,?
+61,M,健保,R,GA,O.R. fracture Foream radius&uln,醫師8,307,1,常規,1,?
+75,M,健保榮民,R,SA,Curettage - deep,醫師3,247,1,常規,1,?
+54,M,健保,R,GA,Excision of ganglion or cyst,醫師4,139,1,常規,1,?
+50,M,健保福保,R,GA,Arthroscopic shaving arthroplas,醫師4,139,2,常規,1,?
+69,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,225,2,常規,1,?
+54,M,健保,R,GA,AS Shoulder-Labrum resection,醫師13,225,1,常規,1,?
+75,F,健保,O,GA,"O.R. Humerus,Supra,Intercondyle",醫師8,307,1,急刀二級,1,?
+63,M,健保,R,GA,Curettage - deep,醫師4,139,1,常規,1,?
+50,M,健保福保,R,GA,"Bone graft Autograft, medium",醫師25,151,2,常規,1,?
+84,F,健保榮民,O,GA,Open reduction fracture patella,醫師3,247,2,急刀二級,1,?
+29,M,民眾,R,GA,O.R. fracture - malleolus/talus,醫師5,132,1,常規,1,?
+64,F,健保,R,GA,"O.R. Humerus,Supra,Intercondyle",醫師5,132,1,常規,1,?
+80,F,健保,O,GA,O.R. of clavicle fracture,醫師8,307,1,急刀二級,1,?
+62,M,健保,O,GA,O.R. fracture Foream radius&uln,醫師8,307,1,急刀二級,1,?
+48,M,健保,O,GA,O.R. fracture Foream radius&uln,醫師8,307,1,急刀二級,1,?
+52,M,健保,O,SA,O.R. fracture - malleolus/talus,醫師8,307,1,急刀二級,1,?
+31,F,健保,O,LA,C.R. Metatarsal bone fracture,醫師9,384,1,急刀二級,1,?
+70,F,健保榮民,R,GA,O.R. fracture tibia - condyle,醫師3,247,3,常規,1,?
+84,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師8,307,1,急刀二級,1,?
+67,M,健保榮民,R,SA,ATF+CF reconstruction,醫師6,305,1,常規,1,?
+32,F,健保,O,GA,O.R. medial bimalleolus fracture,醫師2,237,1,急刀二級,1,?
+48,F,健保榮民,O,GA,O.R. dislocation of A-C joint,醫師5,132,1,急刀二級,1,?
+74,F,健保,R,GA,Arthroplasty TKR,醫師3,247,1,常規,1,?
+55,M,健保,R,GA,Arthroplasty-revision THR,醫師3,247,2,常規,1,?
+72,F,健保,R,GA,Arthroplasty TKR,醫師3,247,1,常規,1,?
+51,M,健保,R,GA,"Remove internal fixator,femur",醫師25,151,2,常規,1,?
+42,F,健保,R,GA,Arthrodesis wrist /carpal joint,醫師8,307,1,常規,1,?
+20,M,健保,R,GA,O.R. of clavicle fracture,醫師8,307,1,常規,1,?
+64,M,健保,R,GA,Curettage - deep,醫師4,139,1,常規,1,?
+53,M,健保,R,GA,AS Knee - Meniscus repair,醫師9,384,1,常規,1,?
+59,M,健保,R,SA,O.R. fracture tibia - shaft,醫師9,384,1,常規,1,?
+12,M,健保,E,GA,C.R. Percutaneous pinning,醫師26,98,2,急刀一級,1,?
+55,M,健保,R,SA,"O.R. Femur,Supra,Intercondyle",醫師5,132,1,常規,1,?
+38,M,健保,R,GA,"Remove internal fixator,others",醫師2,237,1,常規,1,?
+60,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師4,139,1,急刀二級,1,?
+29,M,健保,R,GA,O.R. fracture - malleolus/talus,醫師5,132,1,常規,1,?
+82,F,健保,R,IG,Percutaneous vertebroplasty 1st,醫師7,305,2,常規,1,?
+72,F,健保,R,IG,Percutaneous vertebroplasty 1st,醫師7,305,1,常規,1,?
+22,M,健保,R,SA,"Remove internal fixator,others",醫師25,151,1,常規,1,?
+36,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師4,139,1,常規,1,?
+68,M,健保榮民,R,GA,Total hip replacement,醫師3,247,1,常規,1,?
+11,M,健保,O,GA,O.R. fracture Foream radius&uln,醫師11,284,2,急刀二級,1,?
+62,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,225,2,常規,1,?
+23,M,健保,R,GA,"Remove internal fixator,others",醫師5,132,1,常規,1,?
+64,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師5,132,2,常規,1,?
+85,F,健保榮民,R,IG,Percutaneous vertebroplasty 1st,醫師7,305,1,常規,1,?
+52,F,健保,R,SA,O.R. medial bimalleolus fracture,醫師6,305,1,常規,1,?
+56,M,健保,R,GA,Hemiarthroplasty of hip,醫師12,356,2,常規,1,?
+57,F,健保,R,SA,Arthroplasty TKR,醫師12,356,1,常規,1,?
+29,M,健保,R,GA,O.R. fracture tibia - condyle,醫師2,237,2,常規,1,?
+16,M,健保,R,GA,Open reduc. fracture-finger/toe,醫師2,237,1,常規,1,?
+72,F,健保,R,GA,"O.R. Humerus,Supra,Intercondyle",醫師8,307,1,常規,1,?
+71,M,健保,R,GA,O.R. fracture - humeral shaft,醫師8,307,1,常規,1,?
+84,F,健保榮民,O,GA,O.R. fracture Foream radius&uln,醫師10,153,1,急刀二級,1,?
+37,F,健保,R,GA,"Remove internal fixator,femur",醫師25,151,2,常規,1,?
+19,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師10,153,2,常規,1,?
+54,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師10,153,1,急刀二級,1,?
+57,F,健保,R,GA,Curettage - deep,醫師10,153,1,常規,1,?
+90,F,健保,O,GA,O.R. STC or ITC type III & IV,醫師8,307,1,急刀二級,1,?
+64,M,健保,R,GA,"Bone graft Autograft, medium",醫師4,139,1,常規,1,?
+60,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,225,2,常規,1,?
+47,M,健保,R,GA,Knee joint ACL reconstruction,醫師13,225,2,常規,1,?
+64,F,健保,R,GA,O.R. of clavicle fracture,醫師10,153,1,常規,1,?
+27,M,國軍人員,O,GA,O.R. fracture - malleolus/talus,醫師8,307,4,急刀二級,1,?
+93,M,健保榮民,R,SA,Hemiarthroplasty of hip,醫師5,132,1,常規,1,?
+80,F,健保,O,SA,Hemiarthroplasty of hip,醫師10,153,1,急刀二級,1,?
+22,F,健保,O,LA,Ostheosynthesis-metacarpal,醫師8,307,1,急刀二級,1,?
+79,F,健保榮民,O,GA,O.R. STC or ITC type III & IV,醫師8,307,1,急刀二級,1,?
+69,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師8,307,2,急刀二級,1,?
+82,M,健保,R,SA,Arthroplasty TKR,醫師7,305,1,常規,1,?
+67,F,健保,R,SA,Open reduc. fracture-hand/foot,醫師6,305,1,常規,1,?
+67,F,健保,R,SA,Repture achilles tendon primary,醫師6,305,1,常規,1,?
+56,M,健保,O,GA,O.R. dislocation of tarsal/talus,醫師6,305,1,急刀二級,1,?
+86,M,健保榮民,R,SA,Partial knee unicompart replacem,醫師3,248,1,常規,1,?
+23,M,健保,O,GA,O.R. fracture tibia - condyle,醫師4,140,1,急刀二級,1,?
+56,F,健保,E,SA,Curettage - deep,醫師2,237,2,急刀一級,1,?
+79,F,健保,O,GA,"O.R. Femur,Supra,Intercondyle",醫師2,237,1,急刀二級,1,?
+85,F,健保,R,GA,"O.R. Humerus,Supra,Intercondyle",醫師8,307,1,常規,1,?
+76,F,健保,R,SA,Arthroplasty TKR,醫師9,384,1,常規,1,?
+62,F,健保,R,SA,Arthroplasty TKR,醫師9,384,1,常規,1,?
+85,M,健保榮民,O,SA,Hemiarthroplasty of hip,醫師9,384,1,急刀二級,1,?
+64,M,健保,R,GA,"Bone graft Autograft, medium",醫師2,237,2,常規,1,?
+15,M,健保,R,GA,O.R. fracture Foream radius&uln,醫師8,307,1,常規,1,?
+68,M,健保,R,GA,Bone biopsy,醫師26,99,2,常規,1,?
+39,M,健保,R,GA,Hemiarthroplasty of hip,醫師13,226,1,常規,1,?
+38,M,健保,O,GA,Curettage - deep,醫師2,237,2,急刀二級,1,?
+32,M,健保,O,GA,O.R. of clavicle fracture,醫師5,132,1,急刀二級,1,?
+9,F,健保,R,GA,Open reduc. fracture - radial,醫師10,153,2,常規,1,?
+34,M,健保,R,GA,Total hip replacement,醫師10,153,2,常規,1,?
+60,M,健保,R,GA,Tendon/ligament repair intra-art,醫師10,153,1,常規,1,?
+50,F,健保,O,GA,"O.R. Humerus,Supra,Intercondyle",醫師8,307,2,急刀二級,1,?
+69,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,226,2,常規,1,?
+25,M,健保,R,GA,Knee joint ACL repair,醫師13,226,2,常規,1,?
+80,M,健保,R,GA,Ostheosynthesis-metatarsal,醫師13,226,1,常規,1,?
+43,F,民眾,O,GA,O.R. dislocation of A-C joint,醫師5,132,1,急刀二級,1,?
+48,M,健保,R,GA,Total hip replacement,醫師9,384,1,常規,1,?
+55,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師9,384,1,常規,1,?
+58,M,健保,R,SA,Open reduc. fracture-hand/foot,醫師6,305,1,常規,1,?
+75,F,健保,R,GA,C.R. Intertrochanteric type I&II,醫師8,307,1,常規,1,?
+83,F,健保,R,GA,O.R. Old fx.or non-union/spine,醫師12,357,2,常規,1,?
+81,F,健保,R,SA,O.R. STC or ITC type III & IV,醫師7,305,1,常規,1,?
+43,M,健保,R,GA,Manipulation - knee,醫師2,237,2,常規,1,?
+65,F,健保,R,GA,Total hip replacement,醫師2,237,1,常規,1,?
+56,F,健保,R,GA,Debridment >10cm,醫師2,237,2,常規,1,?
+53,F,健保,R,GA,Open reduc. Scaphoid Fracture,醫師8,307,1,常規,1,?
+42,M,健保,R,GA,O.R. fracture Foream radius&uln,醫師8,307,2,常規,1,?
+47,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師4,140,2,常規,1,?
+41,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師4,140,1,常規,1,?
+65,F,健保,R,GA,O.R. fracture tibia - condyle,醫師13,226,2,常規,1,?
+58,M,健保,O,GA,O.R. of clavicle fracture,醫師3,248,1,急刀二級,1,?
+39,F,健保,R,GA,O.R. fracture - femoral shaft,醫師8,307,1,常規,1,?
+2,M,健保,O,GA,O.R. fracture - femoral shaft,醫師10,153,1,急刀二級,1,?
+22,M,健保,R,GA,O.R. fracture Foream radius&uln,醫師5,132,1,常規,1,?
+51,F,本院員工,O,GA,O.R. medial bimalleolus fracture,醫師25,151,1,急刀二級,1,?
+52,M,健保,O,GA,O.R. fracture Foream radius&uln,醫師8,307,2,急刀二級,1,?
+32,F,健保,R,GA,Hallux valgus(chevron),醫師6,305,1,常規,1,?
+43,M,健保,R,SA,Arthroscopic shaving arthroplas,醫師6,305,2,常規,1,?
+53,M,健保,O,GA,O.R. medial bimalleolus fracture,醫師6,305,1,急刀二級,1,?
+50,M,健保,R,GA,Hemiarthroplasty of hip,醫師3,248,1,常規,1,?
+74,F,健保,R,GA,Corrective osteotomy-lower limb,醫師3,248,1,常規,1,?
+66,F,健保榮民,R,GA,Rupture quadriceps tendon repai,醫師3,248,1,常規,1,?
+48,F,民眾,E,GA,O.R. fracture Foream radius&uln,醫師3,248,2,急刀一級,1,?
+73,F,健保,R,SA,"Remove internal fixator,others",醫師8,307,1,常規,1,?
+61,F,健保,O,GA,"O.R. Humerus,Supra,Intercondyle",醫師13,226,1,急刀二級,1,?
+84,F,健保,O,GA,"O.R. Femur,Supra,Intercondyle",醫師9,384,1,急刀二級,1,?
+76,F,健保,R,SA,Arthroplasty TKR,醫師9,384,1,常規,1,?
+63,F,健保,R,SA,Arthroscopic shaving arthroplas,醫師9,384,1,常規,1,?
+64,F,健保,R,GA,Arthroplasty-Revision TKR,醫師9,384,1,常規,1,?
+22,M,健保,E,GA,Curettage - deep,醫師3,248,2,急刀一級,1,?
+74,M,健保,R,GA,Arthroplasty-Revision TKR,醫師12,357,1,常規,1,?
+56,F,健保,R,GA,Debridment >10cm,醫師2,237,1,常規,1,?
+4,M,健保,R,GA,Soft tissue release - neck,醫師11,284,1,常規,1,?
+7,M,健保,O,GA,"O.R. Humerus,Supra,Intercondyle",醫師11,284,1,急刀二級,1,?
+72,F,健保榮民,O,SA,Hemiarthroplasty of hip,醫師9,384,1,急刀二級,1,?
+35,M,健保,O,GA,O.R. STC or ITC type III & IV,醫師3,248,1,急刀二級,1,?
+35,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師5,132,1,常規,1,?
+29,F,健保,R,SA,Hallux valgus(chevron),醫師5,132,1,常規,1,?
+73,M,健保,R,SA,Partial knee unicompart replacem,醫師3,248,1,常規,1,?
+24,M,健保,R,GA,AS Shoulder-Labrum resection,醫師13,226,1,常規,1,?
+67,F,健保,R,GA,Shoulder joint hemiarthroplasty,醫師10,153,1,常規,1,?
+74,F,健保,R,GA,Curettage - deep,醫師10,153,1,常規,1,?
+59,F,健保,R,SA,Unicompartment joint replace.,醫師3,248,1,常規,1,?
+72,M,健保,R,GA,Total hip replacement,醫師3,248,1,常規,1,?
+67,F,健保,R,SA,Arthroplasty TKR,醫師3,248,1,常規,1,?
+68,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師4,140,2,常規,1,?
+78,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,226,2,常規,1,?
+49,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,226,2,常規,1,?
+38,M,健保,R,GA,Knee joint PCL reconstruction,醫師13,226,2,常規,1,?
+55,M,健保,O,GA,O.R. fracture pelvis,醫師3,248,2,急刀二級,1,?
+73,M,健保,R,GA,O.R. of clavicle fracture,醫師9,384,1,常規,1,?
+62,F,健保,R,SA,Bone biopsy,醫師6,305,1,常規,1,?
+60,F,健保,R,SA,Hallux valgus(chevron),醫師6,305,1,常規,1,?
+58,F,健保榮民,O,SA,O.R. medial bimalleolus fracture,醫師6,305,1,急刀二級,1,?
+66,F,健保,O,GA,O.R. medial bimalleolus fracture,醫師6,305,1,急刀二級,1,?
+3,F,健保,O,GA,Close reduc. fracture - femoral,醫師11,284,1,急刀二級,1,?
+82,F,健保,R,IG,Percutaneous vertebroplasty 1st,醫師7,305,2,常規,1,?
+28,M,健保,O,GA,"O.R. Femur,Supra,Intercondyle",醫師13,226,1,急刀二級,1,?
+53,M,健保,R,GA,Curettage - deep,醫師6,305,1,常規,1,?
+38,M,健保,R,GA,"O.R. Femur,Supra,Intercondyle",醫師2,237,3,常規,1,?
+64,M,民眾,R,GA,"Bone graft Autograft, medium",醫師2,237,1,常規,1,?
+78,F,健保榮民,R,GA,"O.R. Humerus,Supra,Intercondyle",醫師8,308,1,常規,1,?
+67,M,健保榮民,R,GA,"O.R. Humerus,Supra,Intercondyle",醫師8,308,1,常規,1,?
+57,F,健保,O,GA,O.R. of clavicle fracture,醫師13,226,1,急刀二級,1,?
+81,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師13,226,1,急刀二級,1,?
+25,M,健保,O,GA,O.R. fracture Foream radius&uln,醫師13,226,1,急刀二級,1,?
+77,M,健保榮民,O,GA,O.R. STC or ITC type III & IV,醫師2,238,1,急刀二級,1,?
+35,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師4,140,1,常規,1,?
+79,F,健保,O,GA,"O.R. Humerus,Supra,Intercondyle",醫師13,226,2,急刀二級,1,?
+76,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,226,2,常規,1,?
+74,F,健保福保,O,GA,Arthroscopic shaving arthroplas,醫師13,226,2,急刀二級,1,?
+34,M,健保,E,SA,E.F. for fracture - lower limb,醫師2,238,1,急刀一級,1,?
+38,M,健保,R,GA,"O.R. Humerus,Supra,Intercondyle",醫師2,238,1,常規,1,?
+74,F,健保榮民,O,SA,Hemiarthroplasty of hip,醫師2,238,1,急刀二級,1,?
+7,M,健保,O,GA,"O.R. Humerus,Supra,Intercondyle",醫師11,285,1,急刀二級,1,?
+88,M,健保榮民,O,SA,Hemiarthroplasty of hip,醫師4,140,1,急刀二級,1,?
+19,M,健保,O,GA,O.R. fracture - humeral shaft,醫師4,140,1,急刀二級,1,?
+12,M,健保,O,GA,O.R. fracture Foream radius&uln,醫師11,285,1,急刀二級,1,?
+77,F,健保,R,IG,Percutaneous vertebroplasty 1st,醫師7,305,1,常規,1,?
+72,F,健保,O,GA,O.R. fracture - femoral shaft,醫師9,384,1,急刀二級,1,?
+86,F,健保,R,GA,Arthroplasty TKR,醫師7,305,1,常規,1,?
+57,M,健保,O,GA,E.F. for fracture - lower limb,醫師8,308,2,急刀二級,1,?
+23,M,健保,R,GA,"Remove internal fixator,others",醫師6,306,1,常規,1,?
+62,M,健保,R,SA,Regional fasciectomy,醫師6,306,1,常規,1,?
+54,F,健保,R,GA,Arthroplasty TKR,醫師3,248,1,常規,1,?
+73,F,健保榮民,R,GA,O.R. fracture - malleolus/talus,醫師3,248,1,常規,1,?
+34,M,健保,R,GA,Debridment >10cm,醫師2,238,1,常規,1,?
+22,M,健保,O,GA,Curettage - deep,醫師3,248,2,急刀二級,1,?
+67,F,健保,R,SA,Arthroplasty TKR,醫師14,347,1,常規,1,?
+66,F,健保,R,GA,O.R. fracture Foream radius&uln,醫師8,308,1,常規,1,?
+56,F,健保,T,LA,Debridment >10cm,醫師2,238,1,臨時,1,?
+68,F,健保,R,SA,Arthroplasty TKR,醫師9,384,1,常規,1,?
+76,F,健保,R,GA,Total hip replacement,醫師9,384,1,常規,1,?
+82,F,健保,O,GA,O.R. STC or ITC type III & IV,醫師3,248,1,急刀二級,1,?
+69,F,健保,R,GA,O.R. fracture tibia - condyle,醫師2,238,1,常規,1,?
+68,M,健保榮民,R,SA,Arthroplasty TKR,醫師2,238,1,常規,1,?
+61,F,健保,R,GA,Hallux valgus(chevron),醫師5,133,1,常規,1,?
+52,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師5,133,2,常規,1,?
+20,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師13,226,1,急刀二級,1,?
+60,F,健保,R,GA,"Remove internal fixator,others",醫師2,238,1,常規,1,?
+26,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師9,384,2,常規,1,?
+54,M,健保,R,SA,Arthroscopic shaving arthroplas,醫師9,384,1,常規,1,?
+87,F,健保榮民,O,GA,Bone biopsy,醫師26,99,2,急刀二級,1,?
+22,M,健保,R,GA,"Remove internal fixator,femur",醫師26,99,1,常規,1,?
+19,M,健保,R,GA,Open reduc. fracture-finger/toe,醫師10,153,1,常規,1,?
+49,M,民眾,R,GA,Open reduc. fracture - radial,醫師10,153,1,常規,1,?
+50,M,民眾,R,GA,"Remove internal fixator,others",醫師10,153,1,常規,1,?
+83,F,健保,R,SA,Arthroplasty TKR,醫師3,248,1,常規,1,?
+70,F,健保,R,GA,Arthroplasty TKR,醫師3,248,1,常規,1,?
+69,F,健保榮民,R,GA,Arthroscopic shaving arthroplas,醫師13,226,2,常規,1,?
+63,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師13,226,1,急刀二級,1,?
+39,F,健保,R,GA,Knee joint ACL reconstruction,醫師13,226,2,常規,1,?
+19,M,民眾,R,GA,Knee joint ACL reconstruction,醫師13,226,2,常規,1,?
+21,F,健保,O,GA,O.R. fracture tibia - shaft,醫師9,384,1,急刀二級,1,?
+71,F,健保,R,SA,Arthroplasty TKR,醫師9,385,1,常規,1,?
+82,F,健保,R,GA,Total hip replacement,醫師9,385,1,常規,1,?
+22,M,健保,O,GA,"O.R. Femur,Supra,Intercondyle",醫師4,140,1,急刀二級,1,?
+48,M,健保,R,GA,O.R. fracture - femoral shaft,醫師2,238,3,常規,1,?
+20,F,健保,O,GA,Open reduc. fracture-finger/toe,醫師13,226,1,急刀二級,1,?
+84,F,健保榮民,R,IG,Percutaneous vertebroplasty 1st,醫師7,305,1,常規,1,?
+81,M,健保,O,GA,C.R. Nailing of femoral neck fr.,醫師2,238,1,急刀二級,1,?
+48,M,健保,O,GA,O.R. of clavicle fracture,醫師4,140,1,急刀二級,1,?
+70,M,健保,R,GA,Total hip replacement,醫師2,238,1,常規,1,?
+34,M,健保,R,GA,"O.R. Femur,Supra,Intercondyle",醫師2,238,3,常規,1,?
+67,M,健保,R,GA,"Remove internal fixator,others",醫師8,308,1,常規,1,?
+57,M,健保,R,SA,O.R. fracture tibia - shaft,醫師8,308,2,常規,1,?
+78,M,健保,R,GA,Hemiarthroplasty of hip,醫師13,226,1,常規,1,?
+18,F,健保,O,GA,Curettage - deep,醫師13,226,1,急刀二級,1,?
+47,F,健保,R,GA,O.R. fracture Foream radius&uln,醫師10,153,2,常規,1,?
+22,M,健保,R,GA,"O.R. Femur,Supra,Intercondyle",醫師3,248,3,常規,1,?
+51,F,健保,R,GA,Total hip replacement,醫師13,226,1,常規,1,?
+38,M,健保,R,GA,Total hip replacement,醫師13,226,1,常規,1,?
+40,M,健保,R,GA,AS Knee - Menisectomy,醫師13,226,1,常規,1,?
+51,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師4,140,2,常規,1,?
+54,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師4,140,2,常規,1,?
+30,F,健保,R,GA,O.R. of clavicle fracture,醫師8,308,1,常規,1,?
+77,F,健保榮民,O,SA,O.R. STC or ITC type III & IV,醫師2,238,1,急刀二級,1,?
+95,F,健保,O,SA,O.R. STC or ITC type III & IV,醫師2,238,1,急刀二級,1,?
+87,F,健保榮民,O,SA,Hemiarthroplasty of hip,醫師2,238,1,急刀二級,1,?
+62,M,健保福保,O,GA,O.R. fracture - femoral shaft,醫師9,385,1,急刀二級,1,?
+39,M,健保,R,GA,O.R. fracture - malleolus/talus,醫師5,133,1,常規,1,?
+63,F,健保,R,GA,O.R. fracture Foream radius&uln,醫師5,133,1,常規,1,?
+25,F,健保,O,SA,O.R. fracture tibia - shaft,醫師10,153,1,急刀二級,1,?
+88,F,健保,O,GA,O.R. STC or ITC type III & IV,醫師2,238,1,急刀二級,1,?
+67,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師9,385,1,急刀二級,1,?
+54,M,健保福保,O,GA,Arthroplasty-Revision stem,醫師3,248,1,急刀二級,1,?
+12,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師26,99,1,急刀二級,1,?
+71,M,健保,R,SA,Arthroplasty TKR,醫師3,248,1,常規,1,?
+56,F,健保,R,SA,Hallux valgus(chevron),醫師6,306,1,常規,1,?
+66,F,健保,R,GA,Bone biopsy,醫師6,306,1,常規,1,?
+54,F,健保,R,SA,Repture achilles tendon primary,醫師6,306,1,常規,1,?
+74,F,健保,R,GA,Arthroplasty TKR,醫師3,248,1,常規,1,?
+70,F,健保,R,GA,Arthroplasty TKR,醫師3,248,1,常規,1,?
+70,M,健保,R,SA,Arthroplasty TKR,醫師3,248,1,常規,1,?
+49,M,健保,O,GA,O.R. fracture Foream radius&uln,醫師9,385,1,急刀二級,1,?
+79,F,健保榮民,R,GA,Arthroplasty TKR,醫師14,347,1,常規,1,?
+26,F,健保,O,GA,Ostheosynthesis-metacarpal,醫師8,308,1,急刀二級,1,?
+54,M,健保,O,GA,E.F. for fracture - lower limb,醫師2,238,1,急刀二級,1,?
+51,M,健保,R,GA,Total hip replacement,醫師9,385,1,常規,1,?
+72,F,健保,R,SA,Repture achilles tendon primary,醫師9,385,1,常規,1,?
+63,F,健保,O,GA,"O.R. Humerus,Supra,Intercondyle",醫師8,308,1,急刀二級,1,?
+26,M,健保,O,GA,Ostheosynthesis-metatarsal,醫師5,133,1,急刀二級,1,?
+61,F,健保,R,GA,O.R. fracture Foream radius&uln,醫師8,308,1,常規,1,?
+69,F,健保,R,GA,O.R. fracture Foream radius&uln,醫師8,308,1,常規,1,?
+49,M,健保榮民,O,GA,O.R. fracture Foream radius&uln,醫師8,308,2,急刀二級,1,?
+70,F,健保,R,GA,O.R. fracture Foream radius&uln,醫師8,308,1,常規,1,?
+42,M,健保,O,GA,O.R. fracture - femoral shaft,醫師2,238,1,急刀二級,1,?
+63,F,健保榮民,R,SA,Hallux valgus(chevron),醫師5,133,1,常規,1,?
+52,M,健保,R,GA,Corrective osteotomy-lower limb,醫師5,133,1,常規,1,?
+54,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,226,1,常規,1,?
+6,F,健保,O,GA,"O.R. Humerus,Supra,Intercondyle",醫師26,99,1,急刀二級,1,?
+53,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師10,153,2,常規,1,?
+77,F,健保榮民,O,GA,O.R. fracture - femoral shaft,醫師26,99,1,急刀二級,1,?
+83,F,健保,R,SA,Arthroplasty TKR,醫師3,248,1,常規,1,?
+72,M,健保,R,GA,Hemiarthroplasty of hip,醫師4,140,1,常規,1,?
+53,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師4,140,2,常規,1,?
+36,M,本院員工,R,GA,Knee joint ACL reconstruction,醫師13,226,2,常規,1,?
+69,M,民眾,R,GA,Arthroscopic shaving arthroplas,醫師13,226,2,常規,1,?
+63,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,226,2,常規,1,?
+21,M,健保,R,GA,Knee joint ACL reconstruction,醫師13,226,2,常規,1,?
+62,F,健保,R,GA,Bone biopsy,醫師26,99,2,常規,1,?
+18,F,健保,O,GA,O.R. fracture - malleolus/talus,醫師13,226,1,急刀二級,1,?
+75,M,健保,R,SA,Arthroscopic shaving arthroplas,醫師6,306,1,常規,1,?
+36,M,健保,R,SA,Arthroscopic shaving arthroplas,醫師6,306,1,常規,1,?
+67,F,健保,R,SA,Arthroplasty TKR,醫師12,357,1,常規,1,?
+61,F,健保,O,GA,O.R. of clavicle fracture,醫師10,153,1,急刀二級,1,?
+72,F,健保,R,GA,O.R. fracture Foream radius&uln,醫師2,238,1,常規,1,?
+54,M,健保,R,GA,O.R. fracture tibia - shaft,醫師2,238,2,常規,1,?
+55,M,健保,R,GA,O.R. fracture Foream radius&uln,醫師8,308,1,常規,1,?
+57,F,健保,R,LA,Open reduc. fracture-hand/foot,醫師8,308,1,常規,1,?
+62,F,健保,R,GA,"O.R. Humerus,Supra,Intercondyle",醫師10,153,1,常規,1,?
+61,F,健保,R,GA,"Remove internal fixator,others",醫師13,226,1,常規,1,?
+49,M,健保,R,GA,"Remove internal fixator,others",醫師13,226,1,常規,1,?
+52,F,健保,R,GA,Knee joint ACL reconstruction,醫師4,140,2,常規,1,?
+38,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師4,140,2,常規,1,?
+70,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,226,2,常規,1,?
+66,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,226,2,常規,1,?
+63,F,健保,R,GA,"Remove internal fixator,others",醫師25,152,1,常規,1,?
+59,M,健保,R,GA,O.R. fracture tibia - shaft,醫師5,133,2,常規,1,?
+21,F,健保,O,GA,Close reduc. fracture-metacarpal,醫師5,133,1,急刀二級,1,?
+22,M,健保,O,LA,Ostheosynthesis-metacarpal,醫師3,249,1,急刀二級,1,?
+68,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師3,249,1,急刀二級,1,?
+65,M,本院員工,O,GA,O.R. fracture - malleolus/talus,醫師3,249,1,急刀二級,1,?
+50,M,健保,O,GA,O.R. fracture Foream radius&uln,醫師5,133,1,急刀二級,1,?
+18,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師3,249,3,急刀二級,1,?
+88,M,健保,R,IG,Percutaneous vertebroplasty 1st,醫師7,306,2,常規,1,?
+88,F,健保榮民,R,IG,Percutaneous vertebroplasty 1st,醫師7,306,1,常規,1,?
+53,F,健保,O,GA,O.R. fracture tibia - shaft,醫師6,306,2,急刀二級,1,?
+24,M,健保,R,SA,"Remove internal fixator,others",醫師6,306,1,常規,1,?
+50,F,健保,R,GA,Tenodesis,醫師6,306,2,常規,1,?
+5,M,健保,O,GA,"O.R. Humerus,Supra,Intercondyle",醫師10,154,1,急刀二級,1,?
+62,M,健保,R,GA,Arthroplasty TKR,醫師3,249,2,常規,1,?
+68,F,健保,R,SA,Arthroplasty TKR,醫師3,249,1,常規,1,?
+24,M,健保,R,GA,C.R. dislocation of wrist joint,醫師8,308,2,常規,1,?
+72,F,健保,R,GA,Partial knee unicompart replacem,醫師14,347,1,常規,1,?
+72,F,健保,O,GA,"O.R. Humerus,Supra,Intercondyle",醫師3,249,2,急刀二級,1,?
+53,F,健保,R,SA,Arthroplasty TKR,醫師9,385,1,常規,1,?
+61,M,健保,R,GA,Total hip replacement,醫師9,385,1,常規,1,?
+36,M,健保,O,GA,O.R. fracture tibia - shaft,醫師3,249,1,急刀二級,1,?
+68,F,健保,R,GA,"Remove internal fixator,others",醫師2,238,1,常規,1,?
+25,F,健保,R,GA,Tendon/ligament repair intra-art,醫師10,154,1,常規,1,?
+15,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師10,154,1,常規,1,?
+20,F,健保,R,GA,Open reduc. fracture radial hea,醫師10,154,1,常規,1,?
+31,M,健保,O,GA,Open reduction fracture - ulna,醫師5,133,1,急刀二級,1,?
+60,F,健保,R,SA,Partial knee unicompart replacem,醫師3,249,1,常規,1,?
+68,F,健保,R,GA,Arthroplasty-revision THR,醫師3,249,1,常規,1,?
+15,F,健保,R,GA,"Remove internal fixator,others",醫師4,141,1,常規,1,?
+70,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,227,2,常規,1,?
+66,M,健保,R,GA,O.R. fracture tibia - condyle,醫師13,227,2,常規,1,?
+51,F,健保,R,GA,AS Knee - Menisectomy,醫師13,227,1,常規,1,?
+18,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,227,1,常規,1,?
+66,M,健保,R,GA,"Remove internal fixator,others",醫師10,154,1,常規,1,?
+68,M,健保,O,GA,Open reduc. fracture - radial,醫師5,133,2,急刀二級,1,?
+65,M,健保榮民,O,GA,"O.R. Femur,Supra,Intercondyle",醫師5,133,2,急刀二級,1,?
+66,F,健保,R,SA,Arthroplasty TKR,醫師9,385,1,常規,1,?
+63,F,健保,R,GA,Arthroplasty TKR,醫師9,385,1,常規,1,?
+38,M,健保,O,GA,"O.R. Humerus,Supra,Intercondyle",醫師8,308,1,急刀二級,1,?
+67,F,健保,R,GA,Total hip replacement,醫師12,358,1,常規,1,?
+70,F,健保,O,SA,Curettage - deep,醫師13,227,2,急刀二級,1,?
+32,M,健保,O,GA,Osteosynthesis-femur,醫師13,227,1,急刀二級,1,?
+34,M,健保,R,GA,"Remove internal fixator,femur",醫師2,238,2,常規,1,?
+42,M,健保,R,GA,"Remove internal fixator,others",醫師2,238,1,常規,1,?
+76,F,健保,R,SA,Arthroplasty TKR,醫師8,308,1,常規,1,?
+47,M,健保,O,GA,O.R. dislocation of A-C joint,醫師8,308,1,急刀二級,1,?
+51,M,健保,O,GA,"O.R. Humerus,Supra,Intercondyle",醫師8,308,1,急刀二級,1,?
+55,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師13,227,1,急刀二級,1,?
+73,M,健保,O,GA,Open reduction fracture patella,醫師4,141,1,急刀二級,1,?
+85,F,健保,R,GA,Arthroplasty-Revision stem,醫師3,249,2,常規,1,?
+68,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,227,2,常規,1,?
+62,M,健保榮民,R,GA,Arthroscopic shaving arthroplas,醫師13,227,2,常規,1,?
+47,M,健保,R,GA,AS Knee - Menisectomy,醫師13,227,1,常規,1,?
+52,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,227,2,常規,1,?
+28,M,健保,R,GA,Knee joint ACL reconstruction,醫師13,227,2,常規,1,?
+40,M,健保,R,GA,Repture achilles tendon primary,醫師4,141,1,常規,1,?
+69,F,健保,O,GA,Open reduction fracture patella,醫師13,227,1,急刀二級,1,?
+50,F,健保,R,GA,O.R. fracture Foream radius&uln,醫師8,308,1,常規,1,?
+59,M,健保,O,GA,O.R. fracture - femoral shaft,醫師3,249,1,急刀二級,1,?
+43,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師8,308,3,急刀二級,1,?
+82,F,健保榮民,O,GA,Hemiarthroplasty of hip,醫師2,238,1,急刀二級,1,?
+48,F,健保,O,SA,Open reduction fracture patella,醫師5,133,1,急刀二級,1,?
+77,F,健保,R,GA,Arthroplasty TKR,醫師7,306,1,常規,1,?
+66,F,健保,R,GA,Arthroplasty TKR,醫師7,306,1,常規,1,?
+14,M,健保,O,GA,O.R. fracture - femoral shaft,醫師26,100,1,急刀二級,1,?
+60,M,健保,O,GA,Hemiarthroplasty of hip,醫師26,100,1,急刀二級,1,?
+67,M,健保榮民,R,GA,hindfoot triple arthrodesis,醫師6,306,1,常規,1,?
+12,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師26,100,1,急刀二級,1,?
+61,F,健保,R,SA,Arthroplasty TKR,醫師3,249,1,常規,1,?
+70,F,健保榮民,R,GA,Total hip replacement,醫師3,249,1,常規,1,?
+77,F,健保,R,SA,Arthroplasty TKR,醫師3,249,1,常規,1,?
+56,F,健保,R,GA,Total hip replacement,醫師3,249,1,常規,1,?
+12,M,健保,O,GA,C.R. Percutaneous pinning,醫師26,100,1,急刀二級,1,?
+80,F,健保,R,SA,Partial knee unicompart replacem,醫師14,347,1,常規,1,?
+20,F,健保福保,O,GA,Open reduc. Scaphoid Fracture,醫師8,308,1,急刀二級,1,?
+65,F,健保,R,GA,Tenosynovectomy,醫師8,308,1,常規,1,?
+66,F,健保,O,GA,Open reduc. fracture radial hea,醫師8,308,1,急刀二級,1,?
+67,M,健保,O,GA,O.R. fracture Foream radius&uln,醫師26,100,1,急刀二級,1,?
+72,F,健保,R,SA,Arthroplasty TKR,醫師9,385,1,常規,1,?
+65,F,健保,R,GA,Arthroplasty-Revision TKR,醫師9,385,1,常規,1,?
+66,F,健保,R,GA,Remove of Pro. Hip/Shoulder/Knee,醫師12,358,2,常規,1,?
+69,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師2,238,1,急刀二級,1,?
+65,M,健保榮民,R,SA,Arthroscopic shaving arthroplas,醫師9,385,1,常規,1,?
+92,M,健保榮民,O,SA,Hemiarthroplasty of hip,醫師3,249,1,急刀二級,1,?
+67,M,民眾,O,GA,O.R. fracture - femoral shaft,醫師2,238,1,急刀二級,1,?
+18,M,民眾,R,GA,"Remove internal fixator,others",醫師8,308,1,常規,1,?
+19,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師5,133,1,常規,1,?
+63,F,健保,R,GA,Open reduction fracture patella,醫師5,133,1,常規,1,?
+65,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師5,133,2,急刀二級,1,?
+70,M,健保,O,SA,O.R. STC or ITC type III & IV,醫師26,100,1,急刀二級,1,?
+18,M,健保,R,GA,"Remove internal fixator,forearm",醫師10,154,1,常規,1,?
+19,M,健保,R,GA,"Remove internal fixator,others",醫師10,154,1,常規,1,?
+55,M,健保,O,GA,"O.R. Femur,Supra,Intercondyle",醫師13,227,2,急刀二級,1,?
+68,F,健保,R,GA,Total hip replacement,醫師3,249,1,常規,1,?
+66,F,健保,R,GA,Arthroplasty TKR,醫師3,249,1,常規,1,?
+68,F,健保,O,GA,Open reduction fracture patella,醫師26,100,1,急刀二級,1,?
+66,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,227,2,常規,1,?
+64,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,227,1,常規,1,?
+55,M,健保,R,GA,AS Shoulder-Labrum resection,醫師13,227,1,常規,1,?
+53,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,227,2,常規,1,?
+75,F,健保,O,GA,"O.R. Humerus,Supra,Intercondyle",醫師3,249,1,急刀二級,1,?
+66,F,健保榮民,R,SA,O.R. medial unimalleolus fractur,醫師6,306,1,常規,1,?
+61,F,民眾,O,GA,O.R. medial bimalleolus fracture,醫師6,306,1,急刀二級,1,?
+45,M,健保,R,GA,"Remove internal fixator,tibia",醫師2,238,1,常規,1,?
+43,M,健保,R,GA,O.R. fracture tibia - condyle,醫師2,238,1,常規,1,?
+62,F,民眾,R,GA,Arthroplasty TKR,醫師2,238,1,常規,1,?
+52,M,健保,R,GA,O.R. fracture - humeral shaft,醫師8,309,1,常規,1,?
+58,M,健保,O,GA,Tendon repair-single,醫師8,309,1,急刀二級,1,?
+56,M,健保,R,GA,Arthrodesis wrist /carpal joint,醫師10,154,2,常規,1,?
+52,F,健保,O,GA,Open reduction fracture - ulna,醫師10,154,1,急刀二級,1,?
+66,M,健保,R,GA,"O.R. Humerus,Supra,Intercondyle",醫師9,385,1,常規,1,?
+64,M,健保,R,GA,Arthroplasty TKR,醫師4,141,1,常規,1,?
+56,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師4,141,2,常規,1,?
+61,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,227,1,常規,1,?
+56,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,227,2,常規,1,?
+20,F,健保,R,IG,Manipulation - knee,醫師4,141,1,常規,1,?
+60,M,健保,R,GA,"Remove internal fixator,others",醫師13,227,1,常規,1,?
+49,M,健保,R,GA,"Remove internal fixator,others",醫師10,154,1,常規,1,?
+18,M,健保,O,GA,O.R. of clavicle fracture,醫師3,249,1,急刀二級,1,?
+56,F,健保,O,GA,O.R. fracture - femoral shaft,醫師3,249,1,急刀二級,1,?
+6,M,健保,E,GA,"O.R. Humerus,Supra,Intercondyle",醫師10,154,1,急刀一級,1,?
+57,M,健保,O,SA,E.F. for fracture - lower limb,醫師2,238,1,急刀二級,1,?
+75,F,健保,R,GA,O.R. fracture Foream radius&uln,醫師8,309,1,常規,1,?
+65,M,健保,R,GA,O.R. fracture - humeral shaft,醫師10,154,2,常規,1,?
+38,F,健保,O,SA,Tendon repair-single,醫師5,133,1,急刀二級,1,?
+68,F,健保榮民,O,GA,O.R. of clavicle fracture,醫師10,154,1,急刀二級,1,?
+70,F,健保,R,GM,Percutaneous vertebroplasty 1st,醫師7,306,1,常規,1,?
+36,M,健保,R,SA,Bone biopsy,醫師6,306,1,常規,1,?
+44,F,健保,R,GA,O.R. STC or ITC type III & IV,醫師3,249,1,常規,1,?
+81,F,健保,R,SA,Arthroplasty TKR,醫師3,249,1,常規,1,?
+73,F,健保,R,GA,Arthroplasty TKR,醫師3,249,1,常規,1,?
+70,F,健保,R,SA,Arthroplasty TKR,醫師3,249,1,常規,1,?
+57,F,健保,R,GA,O.R. fracture Foream radius&uln,醫師8,309,1,常規,1,?
+36,F,健保,O,GA,O.R. medial bimalleolus fracture,醫師9,385,1,急刀二級,1,?
+54,F,健保,R,GA,"Remove internal fixator,others",醫師8,309,1,常規,1,?
+64,F,健保,O,GA,O.R. of clavicle fracture,醫師8,309,1,急刀二級,1,?
+76,F,健保,O,GA,Hemiarthroplasty of hip,醫師9,385,1,急刀二級,1,?
+67,F,健保,R,SA,Arthroplasty TKR,醫師9,385,1,常規,1,?
+86,F,健保,R,GA,O.R. fracture - humeral shaft,醫師9,385,1,常規,1,?
+20,M,健保,O,GA,O.R. fracture Foream radius&uln,醫師8,309,1,急刀二級,1,?
+46,M,健保,R,GA,Open reduc. fracture-hand/foot,醫師2,239,1,常規,1,?
+69,F,健保,O,SA,O.R. fracture tibia - condyle,醫師2,239,1,急刀二級,1,?
+27,F,健保,R,GA,O.R. fracture Foream radius&uln,醫師9,385,2,常規,1,?
+18,M,健保,O,SA,Open reduction fracture patella,醫師2,239,1,急刀二級,1,?
+24,M,民眾,R,SA,"Remove internal fixator,tibia",醫師5,134,1,常規,1,?
+79,F,健保,R,GA,"Remove internal fixator,others",醫師13,227,1,常規,1,?
+25,M,健保,R,GA,"Remove internal fixator,others",醫師10,154,1,常規,1,?
+80,F,健保,O,GM,O.R. STC or ITC type III & IV,醫師9,385,1,急刀二級,1,?
+70,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師4,141,2,常規,1,?
+48,F,健保,R,SA,Ex.tumor mass bone & joint,醫師3,249,1,常規,1,?
+69,F,健保,R,GA,Unicompartment joint replace.,醫師3,249,1,常規,1,?
+40,F,健保,R,GA,"Remove internal fixator,tibia",醫師3,249,1,常規,1,?
+77,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,227,2,常規,1,?
+34,M,健保,R,GA,Knee joint PCL reconstruction,醫師13,227,2,常規,1,?
+52,M,健保,O,GA,O.R. fracture Foream radius&uln,醫師2,239,1,急刀二級,1,?
+36,M,民眾,O,LA,Close reduc. fracture-finger/toe,醫師2,239,1,急刀二級,1,?
+63,F,健保,R,SA,Excision soft&hard tumor>2 cm,醫師6,307,1,常規,1,?
+28,F,民眾,R,SA,O.R. medial bimalleolus fracture,醫師6,307,1,常規,1,?
+56,F,健保,R,GA,O.R. fracture tibia - shaft,醫師2,239,2,常規,1,?
+77,F,健保,R,GA,Arthroplasty TKR,醫師12,358,1,常規,1,?
+53,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師13,227,1,急刀二級,1,?
+57,M,健保,R,GA,O.R. fracture tibia - condyle,醫師2,239,3,常規,1,?
+63,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師13,227,1,急刀二級,1,?
+55,M,健保,O,GA,O.R. fracture Foream radius&uln,醫師13,227,1,急刀二級,1,?
+26,M,健保,R,GA,"Remove internal fixator,femur",醫師25,153,2,常規,1,?
+79,M,健保,O,GA,O.R. fracture Foream radius&uln,醫師13,227,1,急刀二級,1,?
+43,M,健保,R,GA,O.R. fracture tibia - condyle,醫師13,227,2,常規,1,?
+73,M,健保榮民,E,SA,Curettage - deep,醫師8,309,2,急刀一級,1,?
+72,F,健保榮民,R,GA,Arthroscopic shaving arthroplas,醫師4,141,2,常規,1,?
+58,M,健保,R,GA,Knee joint PCL reconstruction,醫師4,141,2,常規,1,?
+76,M,健保,R,GA,Total shoulder replacement,醫師13,227,1,常規,1,?
+60,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,227,2,常規,1,?
+91,F,健保,O,SA,Hemiarthroplasty of hip,醫師8,309,1,急刀二級,1,?
+94,M,健保榮民,R,GA,Hemiarthroplasty of hip,醫師9,385,1,常規,1,?
+40,F,健保,R,GA,O.R. fracture Foream radius&uln,醫師8,309,2,常規,1,?
+76,F,健保福保,O,SA,Hemiarthroplasty of hip,醫師8,309,1,急刀二級,1,?
+63,M,民眾,E,SA,Curettage - deep,醫師8,309,2,急刀一級,1,?
+52,F,健保,O,GA,Open reduction fracture patella,醫師4,141,1,急刀二級,1,?
+78,M,健保,R,GA,Open reduc. fracture-hand/foot,醫師6,307,1,常規,1,?
+34,M,健保,R,GA,"Remove internal fixator,femur",醫師3,249,3,常規,1,?
+72,M,健保,R,SA,Arthroplasty TKR,醫師3,249,1,常規,1,?
+72,F,健保,R,SA,Arthroplasty TKR,醫師3,249,1,常規,1,?
+35,M,健保,R,GA,Total hip replacement,醫師3,249,1,常規,1,?
+67,M,健保榮民,R,GA,Corrective osteotomy-lower limb,醫師3,249,2,常規,1,?
+36,M,健保,R,GA,O.R.scapula fracture juxta-arti,醫師2,239,1,常規,1,?
+40,M,健保,O,GA,O.R. medial bimalleolus fracture,醫師2,239,1,急刀二級,1,?
+25,M,健保,O,GA,O.R. fracture Foream radius&uln,醫師8,309,2,急刀二級,1,?
+74,F,健保榮民,O,GA,O.R. fracture Foream radius&uln,醫師8,309,1,急刀二級,1,?
+76,F,健保榮民,R,SA,Arthroplasty-Revision TKR,醫師9,386,1,常規,1,?
+65,F,健保,R,SA,Curettage - deep,醫師9,386,1,常規,1,?
+75,M,健保榮民,R,GA,O.R. fracture pelvis,醫師2,239,2,常規,1,?
+85,F,健保,O,SA,C.R. Nailing of femoral neck fr.,醫師9,386,1,急刀二級,1,?
+23,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師5,134,3,常規,1,?
+58,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師5,134,2,常規,1,?
+44,M,健保,R,GA,Open reduc. fracture-hand/foot,醫師5,134,1,常規,1,?
+61,M,健保,R,GA,O.R. fracture tibia - condyle,醫師13,227,2,常規,1,?
+60,M,健保榮民,O,LA,O.R. fracture Foream radius&uln,醫師3,249,1,急刀二級,1,?
+77,F,健保,R,GA,Arthroplasty TKR,醫師3,249,1,常規,1,?
+72,F,健保,R,GA,Arthroplasty TKR,醫師3,249,1,常規,1,?
+65,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,227,2,常規,1,?
+56,M,健保榮民,R,GA,AS Knee - Meniscus repair,醫師13,227,1,常規,1,?
+29,M,健保,R,GA,Knee joint ACL reconstruction,醫師13,227,2,常規,1,?
+70,F,健保,R,GA,Arthroplasty TKR,醫師9,386,1,常規,1,?
+73,F,健保,R,GA,Arthroplasty TKR,醫師2,239,1,常規,1,?
+34,M,健保,R,GA,"Bone graft Autograft, medium",醫師2,239,2,常規,1,?
+43,F,民眾,R,SA,"Remove internal fixator,others",醫師8,309,1,常規,1,?
+72,F,健保榮民,R,GA,Bone biopsy,醫師26,100,3,常規,1,?
+72,F,健保,R,GA,Bone biopsy,醫師26,100,2,常規,1,?
+32,M,健保,R,GA,Knee joint ACL reconstruction,醫師13,227,2,常規,1,?
+20,M,健保,R,GA,"Remove internal fixator,others",醫師11,286,2,常規,1,?
+90,F,健保榮民,O,SA,Hemiarthroplasty of hip,醫師9,386,1,急刀二級,1,?
+68,M,健保,R,GA,SFPSF with spinal <6 motion seg,醫師25,153,1,常規,1,?
+70,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師4,141,2,常規,1,?
+72,F,健保榮民,R,GA,Arthroplasty TKR,醫師13,227,1,常規,1,?
+64,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,227,2,常規,1,?
+40,M,健保,R,GA,Repture achilles tendon primary,醫師13,227,1,常規,1,?
+55,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師4,141,1,急刀二級,1,?
+54,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師4,141,1,急刀二級,1,?
+78,M,健保,O,GA,O.R. STC or ITC type III & IV,醫師5,134,1,急刀二級,1,?
+21,F,健保,O,GA,Open reduc. fracture - radial,醫師5,134,1,急刀二級,1,?
+55,M,健保,O,GA,E.F. for fracture - lower limb,醫師2,239,1,急刀二級,1,?
+61,F,健保,O,GA,Open reduction fracture patella,醫師4,141,1,急刀二級,1,?
+70,M,健保,R,SA,Arthroplasty TKR,醫師3,249,1,常規,1,?
+35,F,健保,R,GA,Ex.tumor mass bone & joint,醫師3,249,1,常規,1,?
+69,F,健保,R,GA,Arthroplasty TKR,醫師3,249,1,常規,1,?
+52,F,健保,O,GA,E.F. for fracture - lower limb,醫師2,239,1,急刀二級,1,?
+65,F,健保,R,GA,Excision of ganglion or cyst,醫師6,307,1,常規,1,?
+23,M,健保,R,SA,Bone biopsy,醫師6,307,1,常規,1,?
+69,F,健保,R,GA,Arthroplasty TKR,醫師7,307,1,常規,1,?
+65,M,健保,R,SA,Hemiarthroplasty of hip,醫師3,249,1,常規,1,?
+62,F,健保,R,GA,"Remove internal fixator,humerus",醫師3,249,1,常規,1,?
+80,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師8,309,1,急刀二級,1,?
+55,F,健保福保,E,GA,Curettage - deep,醫師3,249,2,急刀一級,1,?
+61,F,健保,R,SA,Arthroplasty TKR,醫師9,386,1,常規,1,?
+65,F,健保,O,GA,O.R. fracture - femoral shaft,醫師3,250,1,急刀二級,1,?
+39,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師3,250,1,急刀二級,1,?
+79,F,健保,O,SA,O.R. STC or ITC type III & IV,醫師3,250,1,急刀二級,1,?
+71,F,健保,R,GA,Arthroplasty TKR,醫師9,386,1,常規,1,?
+52,F,健保,O,GA,O.R. fracture tibia - condyle,醫師2,239,3,急刀二級,1,?
+70,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師8,309,1,急刀二級,1,?
+55,M,健保,O,GA,O.R. fracture tibia - condyle,醫師2,239,2,急刀二級,1,?
+53,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師4,141,2,常規,1,?
+38,M,健保,R,GA,Recur.anterior shoulder dislocat,醫師4,141,1,常規,1,?
+78,F,健保,R,GA,"Remove internal fixator,tibia",醫師2,239,2,常規,1,?
+65,F,健保,R,GA,Arthroplasty of elbow,醫師8,309,1,常規,1,?
+64,F,健保,R,GA,Arthroplasty TKR,醫師5,134,1,常規,1,?
+30,F,健保,R,SA,Excision soft&hard tumor>2 cm,醫師5,134,1,常規,1,?
+42,M,健保,R,SA,"Remove internal fixator,others",醫師5,134,1,常規,1,?
+0,F,健保幼兒,R,GA,Osteotomy (children) - Salter's,醫師11,286,2,常規,1,?
+12,M,健保,O,GA,O.R. fracture tibia - shaft,醫師10,155,1,急刀二級,1,?
+66,F,健保,R,GA,Arthroplasty TKR,醫師3,250,1,常規,1,?
+67,M,健保,R,GA,Total hip replacement,醫師3,250,1,常規,1,?
+40,M,健保,R,GA,Total hip replacement,醫師3,250,1,常規,1,?
+72,F,健保,R,SA,Arthroplasty TKR,醫師3,250,1,常規,1,?
+73,F,健保榮民,O,GA,"O.R. Humerus,Supra,Intercondyle",醫師8,309,1,急刀二級,1,?
+83,F,健保榮民,O,SA,Hemiarthroplasty of hip,醫師4,141,1,急刀二級,1,?
+76,F,健保榮民,R,HS,"Remove internal fixator,others",醫師6,307,1,常規,1,?
+56,F,健保,R,SA,Open reduc. fracture-hand/foot,醫師6,307,1,常規,1,?
+51,M,健保,R,GA,hindfoot triple arthrodesis,醫師6,307,1,常規,1,?
+31,M,民眾,O,GA,O.R. fracture - acetablam,醫師2,239,1,急刀二級,1,?
+68,M,健保,R,SA,Arthroplasty TKR,醫師12,359,1,常規,1,?
+66,F,健保,R,SA,Arthroplasty TKR,醫師12,359,1,常規,1,?
+64,F,健保,O,GA,O.R. of clavicle fracture,醫師4,142,1,急刀二級,1,?
+86,F,健保,R,SA,Arthroplasty TKR,醫師9,386,1,常規,1,?
+66,F,健保,R,SA,Arthroplasty TKR,醫師9,386,1,常規,1,?
+72,F,健保,R,SA,"Arthroscopy biopsy,irri.& debrid",醫師9,386,1,常規,1,?
+43,M,健保,O,SA,Hemiarthroplasty of hip,醫師9,386,1,急刀二級,1,?
+21,M,健保,R,GA,"Remove internal fixator,femur",醫師2,239,2,常規,1,?
+35,M,健保,R,GA,O.R. fracture - femoral shaft,醫師2,239,3,常規,1,?
+63,M,健保,R,GA,Total hip replacement,醫師14,348,1,常規,1,?
+44,M,健保,R,GA,Total hip replacement,醫師12,359,1,常規,1,?
+55,F,健保福保,R,GA,Curettage - deep,醫師3,250,1,常規,1,?
+19,M,健保,R,GA,O.R. fracture Foream radius&uln,醫師8,309,1,常規,1,?
+33,M,健保,R,GA,"Remove internal fixator,others",醫師13,228,1,常規,1,?
+31,F,健保,R,GA,Tendon/ligament repair intra-art,醫師13,228,2,常規,1,?
+73,F,健保榮民,R,GA,Arthroscopic shaving arthroplas,醫師13,228,2,常規,1,?
+67,F,健保,R,GA,Arthroplasty TKR,醫師13,228,1,常規,1,?
+29,M,健保,R,GA,Knee joint ACL reconstruction,醫師13,228,2,常規,1,?
+63,F,健保,O,GA,Hemiarthroplasty of hip,醫師3,250,1,急刀二級,1,?
+49,M,警政署,O,GA,O.R. medial bimalleolus fracture,醫師2,239,1,急刀二級,1,?
+58,M,健保,R,GA,"Remove internal fixator,femur",醫師25,153,3,常規,1,?
+66,M,健保,R,GA,"Remove internal fixator,others",醫師10,155,1,常規,1,?
+27,M,健保,O,GA,Open reduc. fracture-finger/toe,醫師13,228,1,急刀二級,1,?
+58,F,健保,R,GA,AS Knee - Menisectomy,醫師13,228,1,常規,1,?
+70,M,健保,R,GA,Arthroplasty TKR,醫師13,228,1,常規,1,?
+68,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,228,2,常規,1,?
+83,M,健保,O,GA,C.R. Nailing of femoral neck fr.,醫師13,228,1,急刀二級,1,?
+90,F,健保,O,GA,O.R. STC or ITC type III & IV,醫師2,239,1,急刀二級,1,?
+66,F,健保榮民,O,GA,O.R. fracture Foream radius&uln,醫師7,307,1,急刀二級,1,?
+63,M,健保,O,GA,O.R. of clavicle fracture,醫師8,309,1,急刀二級,1,?
+64,M,健保,R,GA,Total hip replacement,醫師3,250,1,常規,1,?
+83,F,健保榮民,R,SA,Arthroplasty TKR,醫師3,250,1,常規,1,?
+70,F,健保,R,GA,Arthroplasty TKR,醫師3,250,1,常規,1,?
+54,M,健保福保,R,GA,O.R. dislocation of knee joint,醫師3,250,1,常規,1,?
+72,F,健保,R,SA,Hallux valgus(chevron),醫師6,307,1,常規,1,?
+56,F,健保,R,SA,Open reduc. fracture-hand/foot,醫師6,307,1,常規,1,?
+31,F,健保,R,GA,Hallux valgus(chevron),醫師6,307,1,常規,1,?
+67,M,健保,R,GA,"Remove internal fixator,others",醫師7,307,1,常規,1,?
+83,F,健保,O,EA,Hemiarthroplasty of hip,醫師7,307,1,急刀二級,1,?
+37,M,健保,O,GA,O.R. fracture Foream radius&uln,醫師3,250,1,急刀二級,1,?
+66,F,健保,R,GA,O.R. fracture pelvis,醫師2,239,1,常規,1,?
+34,F,健保,O,GA,O.R. fracture - humeral shaft,醫師8,309,1,急刀二級,1,?
+80,M,健保,R,GA,Arthroplasty TKR,醫師9,386,1,常規,1,?
+68,F,健保,R,SA,Arthroplasty TKR,醫師9,386,1,常規,1,?
+69,F,健保,R,SA,Partial knee unicompart replacem,醫師9,386,1,常規,1,?
+75,F,健保榮民,R,GA,"Remove internal fixator,humerus",醫師8,309,2,常規,1,?
+86,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師4,142,1,急刀二級,1,?
+23,M,健保,O,GA,Ostheosynthesis-metacarpal,醫師3,250,1,急刀二級,1,?
+83,F,健保榮民,R,SA,Arthroplasty TKR,醫師14,348,1,常規,1,?
+30,M,健保,R,GA,Open reduc. Scaphoid Fracture,醫師8,309,2,常規,1,?
+60,F,健保,R,GA,Open reduc. Scaphoid Fracture,醫師8,309,2,常規,1,?
+34,F,健保,O,GA,O.R. dislocation of A-C joint,醫師8,309,1,急刀二級,1,?
+49,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師5,134,2,常規,1,?
+61,F,健保,O,SA,O.R. medial bimalleolus fracture,醫師6,307,1,急刀二級,1,?
+80,F,健保,R,GA,Arthroplasty TKR,醫師12,359,1,常規,1,?
+59,F,健保,R,SA,Arthroplasty TKR,醫師12,359,1,常規,1,?
+61,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師4,142,1,常規,1,?
+28,M,健保,R,GA,Knee joint ACL reconstruction,醫師4,142,2,常規,1,?
+50,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師9,386,2,常規,1,?
+47,F,健保,R,GA,Excision of ganglion or cyst,醫師2,239,1,常規,1,?
+55,M,健保,O,GA,O.R. fracture tibia - condyle,醫師2,239,2,急刀二級,1,?
+52,F,健保,R,GA,"Remove internal fixator,others",醫師5,134,2,常規,1,?
+20,M,健保福保,R,GA,"Remove internal fixator,others",醫師26,101,1,常規,1,?
+55,M,健保,R,GA,"Remove internal fixator,others",醫師26,101,1,常規,1,?
+12,M,健保,R,GA,Epiphysiodesis(include stapling),醫師11,286,1,常規,1,?
+84,F,健保,O,IG,Percutaneous vertebroplasty 1st,醫師7,307,1,急刀二級,1,?
+51,M,健保榮民,O,GA,O.R. medial unimalleolus fractur,醫師5,134,1,急刀二級,1,?
+59,M,健保,O,SA,"O.R. Femur,Supra,Intercondyle",醫師3,250,1,急刀二級,1,?
+80,F,健保榮民,R,GA,Bone biopsy,醫師26,101,2,常規,1,?
+64,F,健保,R,SA,Arthroplasty TKR,醫師3,250,1,常規,1,?
+66,F,健保,R,GA,Total hip replacement,醫師3,250,1,常規,1,?
+75,F,健保榮民,R,GA,Total hip replacement,醫師3,250,1,常規,1,?
+60,F,健保,R,SA,"Remove internal fixator,femur",醫師3,250,1,常規,1,?
+65,F,健保,O,GA,O.R. of clavicle fracture,醫師5,134,1,急刀二級,1,?
+69,F,健保,O,GA,O.R. of clavicle fracture,醫師5,134,1,急刀二級,1,?
+52,M,健保榮民,O,GA,O.R. of clavicle fracture,醫師5,134,1,急刀二級,1,?
+88,M,健保榮民,O,SA,Hemiarthroplasty of hip,醫師4,142,1,急刀二級,1,?
+93,M,健保榮民,O,GA,Hemiarthroplasty of hip,醫師2,239,1,急刀二級,1,?
+56,M,健保,E,SA,EXTERNAL FIXATION-FEMORAL,醫師2,239,2,急刀一級,1,?
+62,F,健保榮民,O,GA,Open reduction fracture patella,醫師2,239,1,急刀二級,1,?
+26,F,健保,O,SA,O.R. medial bimalleolus fracture,醫師2,239,1,急刀二級,1,?
+78,F,健保,O,GA,O.R. fracture - femoral shaft,醫師2,239,1,急刀二級,1,?
+59,F,健保,O,GA,O.R. fracture tibia - shaft,醫師2,239,3,急刀二級,1,?
+50,M,健保,O,GA,O.R. fracture Foream radius&uln,醫師2,239,1,急刀二級,1,?
+88,F,健保,O,GA,O.R. STC or ITC type III & IV,醫師2,239,1,急刀二級,1,?
+55,F,健保,E,GA,Curettage - deep,醫師8,309,1,急刀一級,1,?
+83,F,健保,O,SA,Hemiarthroplasty of hip,醫師7,307,1,急刀二級,1,?
+81,F,健保,R,SA,Arthroplasty TKR,醫師3,250,1,常規,1,?
+78,F,健保,R,SA,Arthroplasty TKR,醫師3,250,1,常規,1,?
+76,F,健保榮民,R,SA,Arthroplasty TKR,醫師3,250,1,常規,1,?
+73,F,健保,R,SA,Arthroplasty TKR,醫師3,250,1,常規,1,?
+22,M,健保,R,GA,Manipulation - knee,醫師3,250,2,常規,1,?
+75,F,健保,R,GA,Arthroplasty TKR,醫師3,250,1,常規,1,?
+73,F,健保榮民,O,SA,O.R. STC or ITC type III & IV,醫師7,307,1,急刀二級,1,?
+59,M,健保榮民,R,SA,Open reduc. fracture-hand/foot,醫師6,307,1,常規,1,?
+71,M,健保,R,SA,O.R. medial bimalleolus fracture,醫師6,307,1,常規,1,?
+31,M,健保,R,SA,Bone biopsy,醫師6,307,1,常規,1,?
+57,M,健保,R,SA,Hallux valgus(chevron),醫師6,307,1,常規,1,?
+56,M,健保,O,GA,O.R. fracture tibia - condyle,醫師2,239,3,急刀二級,1,?
+54,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師2,239,2,急刀二級,1,?
+58,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師7,307,1,急刀二級,1,?
+72,F,健保,R,GA,Bone biopsy,醫師25,154,2,常規,1,?
+100,F,健保,O,SA,O.R. STC or ITC type III & IV,醫師7,307,1,急刀二級,1,?
+67,M,健保,R,SA,Arthroplasty TKR,醫師9,386,1,常規,1,?
+62,M,健保,R,GA,Total hip replacement,醫師9,386,1,常規,1,?
+62,F,健保,R,GA,Partial knee unicompart replacem,醫師9,386,1,常規,1,?
+55,F,健保,R,GA,"O.R. Humerus,Supra,Intercondyle",醫師8,310,1,常規,1,?
+25,F,健保,R,GA,O.R. fracture Foream radius&uln,醫師8,310,2,常規,1,?
+39,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師8,310,1,急刀二級,1,?
+32,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師8,310,2,急刀二級,1,?
+73,M,健保,R,GA,O.R. fracture pelvis,醫師2,239,2,常規,1,?
+76,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師2,239,1,急刀二級,1,?
+64,F,健保,R,SA,Arthroplasty TKR,醫師4,142,1,常規,1,?
+45,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師4,142,2,常規,1,?
+61,M,健保,R,SA,Arthroplasty TKR,醫師5,134,1,常規,1,?
+67,M,健保榮民,O,SA,O.R. STC or ITC type III & IV,醫師7,307,1,急刀二級,1,?
+20,M,健保,R,GA,"Remove internal fixator,forearm",醫師2,239,2,常規,1,?
+35,F,本院員工,R,GA,Tendon/ligament repair intra-art,醫師5,135,2,常規,1,?
+86,F,健保,O,GA,Percutaneous vertebroplasty 1st,醫師7,307,1,急刀二級,1,?
+12,M,健保,R,GA,"Remove internal fixator,forearm",醫師26,101,1,常規,1,?
+77,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,228,2,常規,1,?
+61,F,健保,R,GA,Knee joint PCL reconstruction,醫師13,228,2,常規,1,?
+64,M,健保,R,GA,Arthroplasty TKR,醫師13,228,1,常規,1,?
+51,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,228,2,常規,1,?
+26,M,健保,O,GA,AS Knee - Menisectomy,醫師13,228,1,急刀二級,1,?
+59,F,健保,R,GA,"Remove internal fixator,others",醫師13,228,1,常規,1,?
+30,M,健保,R,GA,Bone biopsy,醫師6,307,1,常規,1,?
+30,M,健保,R,SA,Corrective osteotomy-others,醫師6,307,1,常規,1,?
+60,F,健保,O,GA,Open reduc. fracture-finger/toe,醫師8,310,2,急刀二級,1,?
+20,M,健保,R,GA,"Remove internal fixator,femur",醫師26,101,1,常規,1,?
+56,F,健保,R,GA,"Remove internal fixator,femur",醫師26,101,1,常規,1,?
+62,M,健保,R,SA,Partial knee unicompart replacem,醫師9,386,1,常規,1,?
+76,F,健保榮民,R,GA,Rotator cuff tear repair-massive,醫師9,386,1,常規,1,?
+45,M,健保,R,SA,Hemiarthroplasty of hip,醫師9,386,1,常規,1,?
+21,M,健保,R,SA,"Remove internal fixator,others",醫師2,240,1,常規,1,?
+54,F,健保,R,GA,O.R. fracture tibia - condyle,醫師2,240,2,常規,1,?
+65,M,健保,R,GA,O.R. fracture tibia - shaft,醫師2,240,3,常規,1,?
+67,F,健保,R,GA,O.R. fracture Foream radius&uln,醫師8,310,1,常規,1,?
+63,F,健保,R,GA,O.R. fracture Foream radius&uln,醫師8,310,1,常規,1,?
+50,F,健保,R,GA,O.R. of clavicle fracture,醫師8,310,1,常規,1,?
+79,F,健保,O,GM,Percutaneous vertebroplasty 1st,醫師26,101,1,急刀二級,1,?
+82,F,健保,O,GA,O.R. STC or ITC type III & IV,醫師13,228,1,急刀二級,1,?
+29,M,健保,R,GA,Knee joint ACL reconstruction,醫師13,228,2,常規,1,?
+66,F,健保榮民,R,GA,Total hip replacement,醫師3,250,1,常規,1,?
+58,F,健保,R,SA,Arthroplasty TKR,醫師3,250,1,常規,1,?
+79,M,健保,O,GA,O.R. fracture tibia - shaft,醫師3,250,1,急刀二級,1,?
+37,F,健保,O,GA,O.R. medial bimalleolus fracture,醫師13,228,1,急刀二級,1,?
+63,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,228,2,常規,1,?
+55,F,健保,R,SA,AS Knee - Menisectomy,醫師13,228,1,常規,1,?
+53,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,228,2,常規,1,?
+32,M,健保,O,GA,O.R. fracture tibia - condyle,醫師13,228,1,急刀二級,1,?
+73,F,健保,O,SA,Hemiarthroplasty of hip,醫師13,228,1,急刀二級,1,?
+46,F,健保,R,GA,Tendon/ligament repair intra-art,醫師13,228,1,常規,1,?
+54,F,健保,R,GA,"Remove internal fixator,others",醫師25,154,1,常規,1,?
+62,M,健保,R,GA,Arthroplasty-revision THR,醫師3,250,1,常規,1,?
+78,F,健保,R,GA,O.R. fracture - femoral shaft,醫師5,135,1,常規,1,?
+43,F,健保,O,GA,O.R. of clavicle fracture,醫師5,135,1,急刀二級,1,?
+54,F,健保,O,SA,O.R. medial bimalleolus fracture,醫師5,135,1,急刀二級,1,?
+12,F,健保,O,GA,O.R. of clavicle fracture,醫師3,250,1,急刀二級,1,?
+60,M,健保榮民,R,GA,Arthroplasty TKR,醫師3,250,1,常規,1,?
+31,F,健保,R,GA,Total hip replacement,醫師3,250,1,常規,1,?
+57,F,健保,R,SA,Arthroplasty TKR,醫師3,250,1,常規,1,?
+67,M,健保,R,SA,Arthroplasty TKR,醫師3,250,1,常規,1,?
+50,M,健保,R,SA,Arthroplasty TKR,醫師3,250,1,常規,1,?
+35,F,健保,R,GA,Hallux valgus(chevron),醫師6,308,1,常規,1,?
+57,M,健保榮民,R,GA,Open reduc. fracture-hand/foot,醫師6,308,1,常規,1,?
+52,M,健保,R,SA,Curettage - deep,醫師6,308,1,常規,1,?
+33,M,民眾,O,GA,O.R. fracture - acetablam,醫師2,240,1,急刀二級,1,?
+53,F,健保,R,GA,Baker's cyst operation,醫師2,240,1,常規,1,?
+57,F,健保,R,GA,"Remove internal fixator,forearm",醫師2,240,1,常規,1,?
+82,M,民眾,O,SA,O.R. STC or ITC type III & IV,醫師3,250,1,急刀二級,1,?
+71,F,健保,R,GA,Arthroplasty TKR,醫師9,387,1,常規,1,?
+73,M,健保,R,SA,Arthroplasty TKR,醫師9,387,1,常規,1,?
+55,M,健保,R,SA,Arthroplasty TKR,醫師9,387,1,常規,1,?
+67,F,健保榮民,O,GA,O.R. fracture Foream radius&uln,醫師9,387,1,急刀二級,1,?
+71,F,健保,R,GA,Partial knee unicompart replacem,醫師14,349,1,常規,1,?
+35,F,健保,O,GA,O.R. medial bimalleolus fracture,醫師9,387,1,急刀二級,1,?
+56,F,健保,O,GA,"O.R. Femur,Supra,Intercondyle",醫師2,240,1,急刀二級,1,?
+10,F,健保福保,O,GA,Open reduc. fracture radial hea,醫師11,287,1,急刀二級,1,?
+13,M,健保,O,GA,O.R. fracture Foream radius&uln,醫師11,287,1,急刀二級,1,?
+58,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師4,142,1,常規,1,?
+20,M,健保,R,GA,"Remove internal fixator,forearm",醫師4,142,1,常規,1,?
+71,M,健保,O,SA,Hemiarthroplasty of hip,醫師13,228,1,急刀二級,1,?
+82,F,健保榮民,O,SA,Hemiarthroplasty of hip,醫師3,250,1,急刀二級,1,?
+66,F,健保榮民,O,LA,Open reduc. fracture-hand/foot,醫師8,310,1,急刀二級,1,?
+79,M,健保,O,SA,C.R. Nailing of femoral neck fr.,醫師2,240,1,急刀二級,1,?
+56,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師5,135,2,常規,1,?
+63,F,健保,R,SA,Open reduction fracture patella,醫師5,135,1,常規,1,?
+56,F,健保,R,GA,"Remove internal fixator,others",醫師5,135,1,常規,1,?
+46,F,健保,R,SA,"Remove internal fixator,others",醫師5,135,1,常規,1,?
+8,F,健保,R,GA,C.R. Forearm & colles' fracture,醫師11,287,2,常規,1,?
+61,M,健保,R,GA,Total hip replacement,醫師3,250,1,常規,1,?
+64,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,228,2,常規,1,?
+62,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,228,2,常規,1,?
+68,F,健保,R,GA,Arthroplasty TKR,醫師13,228,1,常規,1,?
+20,M,健保,R,GA,"Remove internal fixator,others",醫師13,228,1,常規,1,?
+73,F,健保,O,GA,Hemiarthroplasty of hip,醫師26,101,1,急刀二級,1,?
+83,F,健保榮民,O,GA,O.R. STC or ITC type III & IV,醫師2,240,1,急刀二級,1,?
+76,F,健保榮民,E,SA,Curettage - deep,醫師2,240,2,急刀一級,1,?
+61,M,健保,R,SA,Arthroplasty TKR,醫師12,359,1,常規,1,?
+71,M,健保,R,SA,Arthroplasty TKR,醫師12,359,1,常規,1,?
+67,F,健保,R,GA,Hemiarthroplasty of hip,醫師12,359,1,常規,1,?
+63,F,健保,R,GA,Corrective osteotomy-lower limb,醫師9,387,1,常規,1,?
+48,F,健保,R,GA,"Remove internal fixator,tibia",醫師2,240,1,常規,1,?
+14,F,健保,R,GA,Corrective osteotomy-lower limb,醫師11,287,3,常規,1,?
+6,F,健保,R,GA,Revision amputat stump-upper ar,醫師8,310,2,常規,1,?
+60,M,健保,R,GA,Arthrodesis wrist /carpal joint,醫師8,310,1,常規,1,?
+29,F,健保,O,GA,Open reduc. fracture - radial,醫師8,310,1,急刀二級,1,?
+78,F,健保,O,GA,O.R. STC or ITC type III & IV,醫師2,240,1,急刀二級,1,?
+74,F,健保,O,GA,O.R. STC or ITC type III & IV,醫師7,308,1,急刀二級,1,?
+20,M,健保,R,GA,"Remove internal fixator,femur",醫師25,154,1,常規,1,?
+37,M,健保,R,GA,Arthroplasty-revision THR,醫師3,250,1,常規,1,?
+68,F,健保榮民,R,GA,Arthroscopic shaving arthroplas,醫師13,228,2,常規,1,?
+28,M,健保,R,GA,AS Knee - Menisectomy,醫師13,228,1,常規,1,?
+23,M,健保,R,GA,Knee joint ACL reconstruction,醫師13,228,2,常規,1,?
+55,M,健保,R,GA,O.R. of clavicle fracture,醫師25,154,1,常規,1,?
+68,M,健保榮民,R,GA,"Remove internal fixator,others",醫師8,310,1,常規,1,?
+34,M,健保,R,GA,"Remove internal fixator,forearm",醫師8,310,1,常規,1,?
+64,F,健保,R,GA,"Remove internal fixator,others",醫師8,310,1,常規,1,?
+76,M,健保,O,SA,Hemiarthroplasty of hip,醫師5,135,1,急刀二級,1,?
+20,F,健保,E,GA,Curettage - deep,醫師8,310,2,急刀一級,1,?
+58,M,健保,R,GA,O.R. of clavicle fracture,醫師2,240,1,常規,1,?
+39,F,健保,E,SA,Curettage - deep,醫師2,240,1,急刀一級,1,?
+76,F,健保榮民,O,GA,Curettage - deep,醫師2,240,1,急刀二級,1,?
+13,F,健保,E,GA,Fasciotomy simple,醫師11,287,2,急刀一級,1,?
+88,M,健保榮民,O,SA,O.R. STC or ITC type III & IV,醫師8,310,1,急刀二級,1,?
+55,M,健保,O,GA,O.R. fracture Foream radius&uln,醫師2,240,1,急刀二級,1,?
+55,M,健保,O,GA,O.R. fracture tibia - shaft,醫師2,240,1,急刀二級,1,?
+76,F,健保,R,SA,Arthroplasty TKR,醫師3,250,1,常規,1,?
+65,F,健保,R,SA,Arthroplasty TKR,醫師3,250,1,常規,1,?
+74,F,健保,R,SA,Arthroplasty TKR,醫師3,250,1,常規,1,?
+64,M,健保,R,GA,Arthroplasty-Revision cup,醫師3,250,1,常規,1,?
+77,F,健保,O,GA,O.R. fracture - femoral shaft,醫師3,250,1,急刀二級,1,?
+72,F,健保,R,GA,Bone biopsy,醫師6,308,2,常規,1,?
+39,F,健保,R,SA,Curettage - deep,醫師6,308,2,常規,1,?
+49,F,民眾,O,GA,Knee joint PCL repair,醫師4,142,2,急刀二級,1,?
+62,F,健保,R,GA,Total hip replacement,醫師7,308,1,常規,1,?
+71,M,健保,R,SA,Arthroplasty TKR,醫師7,308,1,常規,1,?
+65,M,健保榮民,R,SA,Arthroplasty TKR,醫師7,308,1,常規,1,?
+74,M,健保,R,SA,Arthroplasty-Revision tibia,醫師12,359,1,常規,1,?
+69,F,健保榮民,R,GA,Hemiarthroplasty of hip,醫師2,240,1,常規,1,?
+70,M,健保,O,GA,Total hip replacement,醫師2,240,1,急刀二級,1,?
+58,M,健保,O,GA,O.R. fracture - femoral shaft,醫師2,240,2,急刀二級,1,?
+79,M,健保,R,SA,Arthroplasty TKR,醫師3,250,1,常規,1,?
+53,M,健保,R,GA,"Remove internal fixator,others",醫師25,154,1,常規,1,?
+71,F,健保,R,SA,Arthroplasty TKR,醫師9,387,1,常規,1,?
+83,M,健保,R,GA,Arthroplasty-Revision TKR,醫師9,387,1,常規,1,?
+53,F,健保,R,SA,Partial knee unicompart replacem,醫師9,387,1,常規,1,?
+68,F,健保,R,GA,Partial knee unicompart replacem,醫師14,349,1,常規,1,?
+60,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師8,310,1,急刀二級,1,?
+66,F,健保,R,GA,Arthrodesis wrist /carpal joint,醫師8,310,1,常規,1,?
+26,M,健保,R,GA,Open reduction fracture - ulna,醫師8,310,1,常規,1,?
+68,F,健保,O,SA,Hemiarthroplasty of hip,醫師8,310,1,急刀二級,1,?
+77,F,健保,R,GA,Total hip replacement,醫師12,359,1,常規,1,?
+26,M,健保,R,GA,"Remove internal fixator,femur",醫師2,240,1,常規,1,?
+27,M,警政署,R,GA,Knee joint ACL reconstruction,醫師4,142,2,常規,1,?
+22,M,健保,R,GA,AS Knee - Meniscus repair,醫師4,142,2,常規,1,?
+20,M,健保,R,GA,Excision of ganglion or cyst,醫師4,142,1,常規,1,?
+67,F,健保榮民,R,GA,Shoulder joint hemiarthroplasty,醫師4,142,1,常規,1,?
+44,F,健保,O,IG,O.R. fracture tibia - shaft,醫師3,250,1,急刀二級,1,?
+87,M,健保,O,SA,Hemiarthroplasty of hip,醫師8,310,1,急刀二級,1,?
+45,M,本院員工,O,GA,O.R. fracture - acetablam,醫師2,240,1,急刀二級,1,?
+19,M,健保,R,GA,Tendon/ligament repair intra-art,醫師5,135,1,常規,1,?
+67,M,健保榮民,O,GA,O.R. fracture - femoral shaft,醫師5,135,1,急刀二級,1,?
+81,F,健保,O,GA,Hemiarthroplasty of hip,醫師3,250,1,急刀二級,1,?
+14,M,健保,R,GA,"Remove of Pro. Wrist, Ankle",醫師26,101,1,常規,1,?
+12,M,健保,R,GA,"Remove internal fixator,forearm",醫師11,287,1,常規,1,?
+13,F,健保,R,GA,Fasciotomy simple,醫師11,287,1,常規,1,?
+59,F,健保,R,SA,Total hip replacement,醫師3,250,1,常規,1,?
+65,F,健保,R,GA,Total hip replacement,醫師3,250,1,常規,1,?
+72,M,健保,R,SA,Unicompartment joint replace.,醫師3,250,1,常規,1,?
+68,F,健保,R,SA,Unicompartment joint replace.,醫師3,250,1,常規,1,?
+53,M,健保,R,GA,O.R. of clavicle fracture,醫師26,101,1,常規,1,?
+81,F,健保,O,GA,Hemiarthroplasty of hip,醫師3,251,1,急刀二級,1,?
+35,M,健保,R,SA,Bone biopsy,醫師6,308,1,常規,1,?
+18,F,健保,R,SA,Hallux valgus(chevron),醫師6,308,1,常規,1,?
+39,F,健保,R,SA,Open reduc. fracture-hand/foot,醫師6,308,1,常規,1,?
+82,F,健保,R,GA,Hemiarthroplasty of hip,醫師12,359,1,常規,1,?
+75,F,健保,R,SA,Arthroplasty TKR,醫師12,359,1,常規,1,?
+89,M,健保榮民,O,SA,O.R. STC or ITC type III & IV,醫師3,251,1,急刀二級,1,?
+44,F,健保,E,SA,EXTERNAL FIXATION-TIBIA,醫師4,142,1,急刀一級,1,?
+68,F,健保,R,SA,Arthroplasty TKR,醫師9,387,1,常規,1,?
+63,F,健保,R,SA,Arthroplasty TKR,醫師9,387,1,常規,1,?
+69,F,健保,R,IG,Percutaneous vertebroplasty 1st,醫師7,308,1,常規,1,?
+20,F,健保,O,GA,O.R. fracture tibia - shaft,醫師8,310,1,急刀二級,1,?
+55,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師4,142,1,常規,1,?
+74,F,健保,O,GA,O.R. STC or ITC type III & IV,醫師8,310,1,急刀二級,1,?
+47,M,健保,R,GA,Arthrodesis wrist /carpal joint,醫師8,310,1,常規,1,?
+40,M,健保,R,GA,Corrective osteotomy-upper limb,醫師8,310,1,常規,1,?
+57,M,健保,O,GA,O.R. fracture Foream radius&uln,醫師8,310,1,急刀二級,1,?
+86,F,健保,O,SA,O.R. STC or ITC type III & IV,醫師4,142,1,急刀二級,1,?
+29,F,健保,O,GA,O.R. fracture tibia - condyle,醫師4,142,3,急刀二級,1,?
+69,F,健保榮民,R,GA,Arthroplasty TKR,醫師3,251,1,常規,1,?
+77,M,健保,R,SA,Unicompartment joint replace.,醫師3,251,1,常規,1,?
+72,F,健保,R,GA,Arthroplasty TKR,醫師3,251,1,常規,1,?
+78,F,健保,R,GA,Arthroplasty TKR,醫師3,251,1,常規,1,?
+75,M,健保,R,SA,Arthroplasty TKR,醫師13,228,1,常規,1,?
+62,M,健保,R,GA,Unicompartment joint replace.,醫師13,228,1,常規,1,?
+36,M,健保,R,GA,Knee joint PCL reconstruction,醫師13,228,2,常規,1,?
+92,F,健保榮民,O,SA,Hemiarthroplasty of hip,醫師4,142,1,急刀二級,1,?
+54,F,健保,R,SA,"Remove internal fixator,others",醫師8,310,1,常規,1,?
+56,F,健保,R,LA,Corrective osteotomy-upper limb,醫師8,310,1,常規,1,?
+15,M,健保福保,R,GA,AS Knee - Menisectomy,醫師13,228,1,常規,1,?
+38,M,健保,O,GA,O.R. of clavicle fracture,醫師8,310,2,急刀二級,1,?
+61,F,健保,O,GA,O.R. of clavicle fracture,醫師8,310,1,急刀二級,1,?
+66,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師3,251,1,急刀二級,1,?
+68,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師26,102,1,急刀二級,1,?
+66,M,健保,R,GA,Arthroplasty TKR,醫師13,229,1,常規,1,?
+47,M,健保福保,O,GA,Amputation Upper arm,醫師8,310,1,急刀二級,1,?
+21,M,健保,O,GA,O.R. of clavicle fracture,醫師7,308,1,急刀二級,1,?
+39,F,健保,O,GA,Arthroscopic shaving arthroplas,醫師7,308,1,急刀二級,1,?
+65,F,健保,O,GA,O.R. fracture - femoral shaft,醫師3,251,1,急刀二級,1,?
+65,M,健保,R,SA,Arthroplasty TKR,醫師3,251,1,常規,1,?
+69,F,健保,R,SA,Arthroplasty TKR,醫師3,251,1,常規,1,?
+49,M,健保,R,GA,Total hip replacement,醫師3,251,1,常規,1,?
+73,M,健保,R,GA,Total hip replacement,醫師3,251,1,常規,1,?
+36,F,健保,R,GA,Excision of ganglion or cyst,醫師4,143,1,常規,1,?
+44,F,健保,O,SA,O.R. medial bimalleolus fracture,醫師4,143,1,急刀二級,1,?
+60,M,健保,O,GA,Curettage - deep,醫師8,310,2,急刀二級,1,?
+39,F,健保,R,SA,Hallux valgus,醫師6,308,1,常規,1,?
+44,F,健保,R,GA,ATF reconstruction,醫師6,308,2,常規,1,?
+37,M,健保,R,SA,"Remove internal fixator,others",醫師6,308,1,常規,1,?
+60,F,健保,R,GA,O.R. fracture - humeral shaft,醫師3,251,2,常規,1,?
+49,M,健保,O,GA,Ostheosynthesis-metacarpal,醫師4,143,2,急刀二級,1,?
+77,F,健保榮民,O,SA,Ostheosynthesis-metatarsal,醫師4,143,1,急刀二級,1,?
+90,M,健保榮民,R,SA,Revision of bipolar prothesis,醫師3,251,1,常規,1,?
+31,M,健保,R,SA,"Ex.bone lower extremity,com.",醫師3,251,2,常規,1,?
+67,F,健保,R,SA,Arthroplasty TKR,醫師9,387,1,常規,1,?
+63,F,健保,R,SA,Arthroplasty TKR,醫師9,387,1,常規,1,?
+79,F,健保,R,SA,Arthroplasty TKR,醫師9,387,1,常規,1,?
+63,F,健保,O,GA,"Remove internal fixator,humerus",醫師8,310,2,急刀二級,1,?
+53,M,健保,O,GA,Ostheosynthesis-metatarsal,醫師8,310,1,急刀二級,1,?
+81,F,健保,R,GA,Partial knee unicompart replacem,醫師14,349,1,常規,1,?
+55,M,健保榮民,R,GA,Open reduc. Scaphoid Fracture,醫師8,310,2,常規,1,?
+80,F,健保,O,SA,"O.R. Femur,Supra,Intercondyle",醫師8,310,1,急刀二級,1,?
+56,F,健保,O,GA,O.R. STC or ITC type III & IV,醫師8,310,1,急刀二級,1,?
+69,M,健保,R,SA,Arthroplasty TKR,醫師12,360,1,常規,1,?
+67,M,健保榮民,R,GA,Arthroplasty TKR,醫師4,143,1,常規,1,?
+17,F,健保,R,GA,AS Knee - Meniscus repair,醫師4,143,1,常規,1,?
+54,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師4,143,2,常規,1,?
+45,M,健保,R,GA,"Remove internal fixator,tibia",醫師8,310,1,常規,1,?
+23,M,國軍人員,R,GA,Knee joint PCL reconstruction,醫師4,143,2,常規,1,?
+76,F,健保榮民,O,GA,Amputation - below knee,醫師2,240,1,急刀二級,1,?
+56,F,健保,R,SA,Ostheosynthesis-metatarsal,醫師5,135,1,常規,1,?
+51,F,健保,O,GA,O.R. dislocation of wrist joint,醫師5,135,1,急刀二級,1,?
+51,F,健保,R,GA,"Remove internal fixator,forearm",醫師5,135,3,常規,1,?
+15,M,健保,R,GA,"Remove internal fixator,femur",醫師11,287,1,常規,1,?
+68,M,健保榮民,O,GA,O.R. medial bimalleolus fracture,醫師5,135,1,急刀二級,1,?
+72,M,健保榮民,O,GA,Curettage - deep,醫師2,240,3,急刀二級,1,?
+82,F,健保,R,GA,Bone biopsy,醫師26,102,2,常規,1,?
+59,F,健保,R,GA,AS Knee - Menisectomy,醫師13,229,1,常規,1,?
+45,M,本院員工,R,GA,Arthroscopic shaving arthroplas,醫師13,229,2,常規,1,?
+23,M,健保,R,GA,Knee joint ACL reconstruction,醫師13,229,2,常規,1,?
+57,F,健保,R,GA,O.R. fracture tibia - condyle,醫師13,229,2,常規,1,?
+66,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,229,2,常規,1,?
+31,M,健保,R,GA,Knee joint ACL reconstruction,醫師13,229,2,常規,1,?
+69,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師8,310,2,急刀二級,1,?
+61,F,民眾,R,GA,Arthroplasty TKR,醫師7,308,1,常規,1,?
+85,F,健保榮民,O,SA,Hemiarthroplasty of hip,醫師7,308,1,急刀二級,1,?
+77,F,健保,R,SA,Arthroplasty TKR,醫師9,387,1,常規,1,?
+81,F,健保,R,GA,Arthroplasty of shoulder,醫師9,387,1,常規,1,?
+69,M,健保榮民,R,GA,O.R. of clavicle fracture,醫師9,387,1,常規,1,?
+54,F,健保,O,GA,O.R. fracture tibia - condyle,醫師2,240,1,急刀二級,1,?
+90,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師8,310,1,急刀二級,1,?
+56,F,健保,R,GA,"Ex.bone lower extremity,sim.",醫師2,240,3,常規,1,?
+78,F,健保,R,GA,"Remove internal fixator,femur",醫師2,240,1,常規,1,?
+35,F,健保,R,GA,"Remove internal fixator,others",醫師8,310,1,常規,1,?
+21,M,健保,R,GA,"Remove internal fixator,others",醫師7,308,1,常規,1,?
+51,M,健保,R,SA,Curettage - deep,醫師8,310,1,常規,1,?
+66,F,健保,R,GA,Arthroplasty-Revision TKR,醫師12,360,1,常規,1,?
+65,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師4,143,2,常規,1,?
+45,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,229,1,常規,1,?
+85,F,健保榮民,O,GA,O.R. fracture Foream radius&uln,醫師13,229,1,急刀二級,1,?
+45,F,健保,R,GA,Tendon/ligament repair intra-art,醫師13,229,2,常規,1,?
+13,F,健保,R,GA,AS Knee - Menisectomy,醫師13,229,1,常規,1,?
+16,F,健保,R,GA,Knee joint ACL reconstruction,醫師13,229,2,常規,1,?
+16,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,229,1,常規,1,?
+58,M,健保,R,GA,"Remove internal fixator,others",醫師13,229,1,常規,1,?
+54,M,健保,R,GA,"Remove internal fixator,tibia",醫師4,143,1,常規,1,?
+61,F,健保,O,GA,Open reduction fracture - ulna,醫師8,310,1,急刀二級,1,?
+80,F,健保,O,SA,Hemiarthroplasty of hip,醫師9,387,1,急刀二級,1,?
+71,M,健保,R,GA,Hemiarthroplasty of hip,醫師13,229,1,常規,1,?
+71,F,健保,O,GA,"O.R. Humerus,Supra,Intercondyle",醫師9,387,1,急刀二級,1,?
+83,F,健保,O,GA,Open reduc. fracture radial hea,醫師8,310,2,急刀二級,1,?
+68,F,健保榮民,O,GA,O.R. fracture Foream radius&uln,醫師9,387,1,急刀二級,1,?
+69,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師5,135,1,急刀二級,1,?
+49,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師5,135,1,急刀二級,1,?
+82,F,健保,O,GA,O.R. STC or ITC type III & IV,醫師2,240,1,急刀二級,1,?
+19,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師1,123,1,常規,1,?
+83,M,健保,R,SA,Bone biopsy,醫師6,308,1,常規,1,?
+48,F,健保,R,GA,Bone biopsy,醫師6,308,1,常規,1,?
+71,F,健保,R,SA,Hallux valgus(chevron),醫師6,308,2,常規,1,?
+86,F,健保,O,GA,Bone biopsy,醫師7,308,2,急刀二級,1,?
+70,F,健保,O,GA,O.R. fracture tibia - condyle,醫師3,251,1,急刀二級,1,?
+61,M,健保,R,GA,O.R. fracture tibia - condyle,醫師2,240,2,常規,1,?
+35,F,健保,O,SA,Open reduction fracture patella,醫師6,308,1,急刀二級,1,?
+57,M,健保福保,R,GA,O.R. fracture - femoral shaft,醫師2,240,3,常規,1,?
+34,M,健保,R,GA,Knee joint ACL reconstruction,醫師4,143,2,常規,1,?
+47,M,健保,R,GA,"Remove internal fixator,femur",醫師25,155,4,常規,1,?
+72,F,健保榮民,R,GA,Arthroplasty TKR,醫師9,387,1,常規,1,?
+55,F,健保,R,GA,Partial knee unicompart replacem,醫師9,387,1,常規,1,?
+68,F,健保,R,GA,Total hip replacement,醫師9,387,1,常規,1,?
+70,F,健保,R,SA,Partial knee unicompart replacem,醫師14,349,1,常規,1,?
+70,M,健保榮民,R,GA,Arthroplasty TKR,醫師14,349,1,常規,1,?
+60,M,健保,R,GA,"Remove internal fixator,others",醫師8,310,2,常規,1,?
+70,M,健保,O,SA,O.R. fracture tibia - shaft,醫師3,251,2,急刀二級,1,?
+38,F,健保,O,GA,O.R. medial bimalleolus fracture,醫師5,135,1,急刀二級,1,?
+81,F,健保,R,GA,Arthroplasty-Revision TKR,醫師2,240,1,常規,1,?
+77,F,健保,O,LA,O.R. fracture Foream radius&uln,醫師1,123,1,急刀二級,1,?
+56,M,健保,R,GA,Rotator cuff tear repair-massive,醫師9,387,1,常規,1,?
+76,M,健保,R,GA,"Remove internal fixator,tibia",醫師2,240,2,常規,1,?
+58,F,健保,R,GA,"Remove internal fixator,others",醫師5,135,1,常規,1,?
+66,F,健保,R,SA,"Remove internal fixator,femur",醫師5,135,1,常規,1,?
+15,F,健保,O,GA,Arthroscopic shaving arthroplas,醫師13,229,2,急刀二級,1,?
+74,F,健保,O,GA,Hemiarthroplasty of hip,醫師13,229,1,急刀二級,1,?
+50,M,健保,R,SA,Hemiarthroplasty of hip,醫師3,251,1,常規,1,?
+5,M,健保,O,GA,Osteosynthesis-femur,醫師11,287,1,急刀二級,1,?
+11,M,健保,R,GA,"Remove internal fixator,forearm",醫師26,102,1,常規,1,?
+82,M,健保,R,SA,Arthroplasty TKR,醫師3,251,1,常規,1,?
+74,F,健保,R,SA,Arthroplasty TKR,醫師3,251,1,常規,1,?
+71,F,健保,R,SA,Arthroplasty TKR,醫師3,251,1,常規,1,?
+64,F,健保,R,SA,Arthroplasty TKR,醫師3,251,1,常規,1,?
+39,F,健保,R,GA,Arthroplasty-Revision cup,醫師3,251,1,常規,1,?
+36,M,健保,O,GA,O.R. fracture Foream radius&uln,醫師3,251,1,急刀二級,1,?
+56,M,健保,R,SA,Arthrodesis of ankle joint,醫師6,308,1,常規,1,?
+60,F,健保,R,SA,Arthrodesis of ankle joint,醫師6,308,1,常規,1,?
+82,F,健保,O,GA,"O.R. Femur,Supra,Intercondyle",醫師4,143,1,急刀二級,1,?
+65,M,健保,R,SA,Arthroplasty TKR,醫師9,387,1,常規,1,?
+72,M,健保榮民,R,GA,Total hip replacement,醫師9,387,1,常規,1,?
+67,F,健保,R,GA,"Remove internal fixator,others",醫師2,240,2,常規,1,?
+20,M,健保,R,GA,"Remove internal fixator,others",醫師2,240,1,常規,1,?
+42,M,健保,R,GA,"Remove internal fixator,forearm",醫師2,240,1,常規,1,?
+43,F,健保,R,GA,"Remove internal fixator,tibia",醫師2,240,1,常規,1,?
+73,F,健保,O,GA,C.R. Nailing of femoral neck fr.,醫師4,143,1,急刀二級,1,?
+19,M,健保,O,GA,O.R. dislocation of A-C joint,醫師3,251,1,急刀二級,1,?
+55,M,健保,R,GA,O.R. fracture tibia - shaft,醫師2,240,2,常規,1,?
+49,F,健保,R,GA,O.R. fracture Foream radius&uln,醫師8,311,1,常規,1,?
+29,M,健保,R,GA,Open reduc. Scaphoid Fracture,醫師8,311,1,常規,1,?
+83,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師1,123,1,急刀二級,1,?
+66,M,健保,E,GA,Debridment < 5cm,醫師13,229,2,急刀一級,1,?
+79,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,229,2,常規,1,?
+61,M,健保,R,GA,O.R. fracture - humeral shaft,醫師1,123,1,常規,1,?
+45,F,健保,O,GA,O.R. fracture tibia - shaft,醫師1,123,1,急刀二級,1,?
+17,F,健保,O,GA,Osteosynthesis-femur,醫師1,123,1,急刀二級,1,?
+69,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,229,2,常規,1,?
+72,F,健保,R,GA,Arthroplasty TKR,醫師3,251,1,常規,1,?
+52,F,健保,R,GA,Total hip replacement,醫師3,251,2,常規,1,?
+60,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,229,2,常規,1,?
+52,M,健保,O,GA,Arthroscopic shaving arthroplas,醫師13,229,2,急刀二級,1,?
+19,M,健保,R,GA,Knee joint ACL reconstruction,醫師13,229,2,常規,1,?
+61,M,健保,R,GA,Arthroplasty-revision THR,醫師3,251,1,常規,1,?
+21,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,229,2,常規,1,?
+52,M,健保,R,GA,O.R. of clavicle fracture,醫師5,136,1,常規,1,?
+58,M,健保,O,GA,O.R. of clavicle fracture,醫師5,136,1,急刀二級,1,?
+55,F,健保,O,GA,O.R. fracture tibia - condyle,醫師1,123,1,急刀二級,1,?
+67,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師1,123,1,急刀二級,1,?
+61,F,健保,R,SA,Arthroplasty TKR,醫師3,251,1,常規,1,?
+78,F,健保,R,SA,Arthroplasty TKR,醫師3,251,1,常規,1,?
+86,F,健保,R,SA,Arthroplasty TKR,醫師3,251,1,常規,1,?
+65,F,健保,R,SA,Arthroplasty TKR,醫師3,251,1,常規,1,?
+46,F,健保,O,GA,O.R. fracture - humeral shaft,醫師2,241,1,急刀二級,1,?
+67,F,健保,R,SA,Arthrodesis finger or toe,醫師6,309,2,常規,1,?
+26,F,健保,R,GA,Hallux valgus(chevron),醫師6,309,2,常規,1,?
+50,M,健保,R,GA,Percutaneous vertebroplasty 1st,醫師7,308,1,常規,1,?
+82,F,健保榮民,R,GA,Arthroplasty TKR,醫師1,123,1,常規,1,?
+65,F,健保,R,GA,Arthroplasty TKR,醫師1,123,1,常規,1,?
+61,M,健保,R,GA,Soft tissue release upper extrem,醫師1,123,2,常規,1,?
+61,F,健保,O,GA,O.R. of clavicle fracture,醫師2,241,1,急刀二級,1,?
+77,F,健保,R,SA,Arthroplasty TKR,醫師9,387,1,常規,1,?
+57,F,健保,R,SA,Partial knee unicompart replacem,醫師9,387,1,常規,1,?
+69,F,健保,R,GA,Total hip replacement,醫師9,387,1,常規,1,?
+74,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師8,311,1,急刀二級,1,?
+59,F,健保,R,GA,Total hip replacement,醫師14,350,1,常規,1,?
+86,F,健保,O,GA,O.R. STC or ITC type III & IV,醫師2,241,1,急刀二級,1,?
+85,F,健保榮民,R,SA,Arthroplasty TKR,醫師12,360,1,常規,1,?
+43,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師4,143,2,常規,1,?
+20,M,健保,R,GA,Knee joint ACL reconstruction,醫師4,143,2,常規,1,?
+77,M,健保,O,SA,Hemiarthroplasty of hip,醫師2,241,1,急刀二級,1,?
+34,M,健保,O,SA,O.R. fracture tibia - shaft,醫師2,241,1,急刀二級,1,?
+19,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師2,241,2,急刀二級,1,?
+48,M,健保榮民,O,GA,O.R. fracture Foream radius&uln,醫師4,143,1,急刀二級,1,?
+45,M,健保,R,GA,Arthrodesis subtalar fusion,醫師5,136,3,常規,1,?
+1,F,員眷,R,GA,P.P. hip spica,醫師11,288,2,常規,1,?
+13,F,健保,R,GA,"Remove internal fixator,forearm",醫師11,288,1,常規,1,?
+90,F,健保,O,SA,O.R. STC or ITC type III & IV,醫師2,241,1,急刀二級,1,?
+67,F,健保,O,GA,Hemiarthroplasty of hip,醫師7,308,1,急刀二級,1,?
+72,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,229,2,常規,1,?
+49,F,健保,R,GA,AS Knee - Menisectomy,醫師13,229,1,常規,1,?
+66,F,健保,R,GA,Arthroplasty TKR,醫師13,229,1,常規,1,?
+64,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,229,2,常規,1,?
+61,F,健保,R,SA,Arthroplasty TKR,醫師3,251,1,常規,1,?
+67,F,健保,R,SA,Arthroplasty TKR,醫師3,251,1,常規,1,?
+81,F,健保,R,GA,Arthroplasty-Revision TKR,醫師3,251,1,常規,1,?
+86,M,健保榮民,R,SA,Revision of bipolar prothesis,醫師3,251,1,常規,1,?
+25,M,健保福保,R,GA,Arthroscopic shaving arthroplas,醫師13,229,1,常規,1,?
+45,M,健保,R,GA,Release of scar contracture,醫師3,251,2,常規,1,?
+66,F,民眾,O,GA,O.R. fracture - malleolus/talus,醫師2,241,2,急刀二級,1,?
+43,F,健保,R,SA,Excision of ganglion or cyst,醫師6,309,1,常規,1,?
+45,F,健保,R,GA,Hallux valgus(chevron),醫師6,309,1,常規,1,?
+69,F,健保,R,SA,Arthroplasty TKR,醫師9,387,1,常規,1,?
+64,M,健保,R,SA,Arthroplasty TKR,醫師9,387,1,常規,1,?
+65,M,健保,R,SA,Arthroscopic shaving arthroplas,醫師9,387,1,常規,1,?
+64,F,健保,R,GA,"Ex.bone lower extremity,sim.",醫師2,241,1,常規,1,?
+36,F,健保福保,R,GA,O.R. fracture - femoral shaft,醫師2,241,2,常規,1,?
+46,F,健保,R,GA,"O.R. Femur,Supra,Intercondyle",醫師2,241,2,常規,1,?
+54,F,健保,R,GA,Arthroplasty of elbow,醫師8,311,1,常規,1,?
+21,F,健保,R,GA,"Remove internal fixator,tibia",醫師8,311,1,常規,1,?
+20,M,健保,R,GA,"Remove internal fixator,forearm",醫師8,311,1,常規,1,?
+67,F,健保榮民,O,GA,O.R. fracture - malleolus/talus,醫師3,251,1,急刀二級,1,?
+25,M,健保,R,GA,"Remove internal fixator,others",醫師8,311,1,常規,1,?
+72,F,健保,R,GA,Total hip replacement,醫師1,123,2,常規,1,?
+69,F,健保,O,GA,O.R. of clavicle fracture,醫師3,251,1,急刀二級,1,?
+70,F,健保,R,GA,Arthroplasty TKR,醫師3,251,1,常規,1,?
+61,F,健保,R,SA,Arthroplasty TKR,醫師3,251,1,常規,1,?
+51,F,健保,R,LA,Tendon/ligament repair Extra-ar,醫師1,123,1,常規,1,?
+61,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,229,1,常規,1,?
+43,M,健保福保,R,GA,Arthroscopic shaving arthroplas,醫師13,229,2,常規,1,?
+38,M,健保,R,GA,Knee joint ACL reconstruction,醫師13,229,2,常規,1,?
+83,M,健保,O,SA,O.R. STC or ITC type III & IV,醫師13,229,1,急刀二級,1,?
+49,M,健保,O,GA,Arthroscopic shaving arthroplas,醫師13,229,1,急刀二級,1,?
+67,F,健保,R,GA,Partial knee unicompart replacem,醫師13,229,2,常規,1,?
+51,M,健保,O,GA,O.R. medial bimalleolus fracture,醫師13,229,1,急刀二級,1,?
+72,M,健保榮民,R,GA,Repture achilles tendon primary,醫師25,155,1,常規,1,?
+78,M,健保福保,R,SA,Hemiarthroplasty of hip,醫師8,311,1,常規,1,?
+79,F,健保,R,SA,Arthroplasty TKR,醫師3,251,1,常規,1,?
+66,F,健保榮民,R,SA,Arthroplasty TKR,醫師3,251,1,常規,1,?
+64,F,健保,R,GA,Total hip replacement,醫師3,251,1,常規,1,?
+69,F,健保,R,SA,Hallux valgus(chevron),醫師6,309,1,常規,1,?
+28,M,健保,R,SA,Arthroscopic shaving arthroplas,醫師6,309,1,常規,1,?
+60,F,健保,R,SA,Corrective osteotomy-lower limb,醫師3,251,3,常規,1,?
+77,M,健保,O,GA,"O.R. Humerus,Supra,Intercondyle",醫師8,311,1,急刀二級,1,?
+47,M,健保,R,GA,Total hip replacement,醫師7,309,1,常規,1,?
+43,F,健保,R,GA,Lignment recon. of basal joint,醫師1,123,1,常規,1,?
+64,F,健保,O,GA,Open reduc. Scaphoid Fracture,醫師1,123,2,急刀二級,1,?
+62,F,健保,R,GA,Total hip replacement,醫師3,251,1,常規,1,?
+24,F,健保,O,GA,O.R. of clavicle fracture,醫師1,123,1,急刀二級,1,?
+48,F,健保,O,GA,O.R. dislocation of A-C joint,醫師3,251,1,急刀二級,1,?
+63,F,健保,R,GA,Total hip replacement,醫師9,388,1,常規,1,?
+84,M,健保榮民,R,GA,Arthroplasty TKR,醫師9,388,1,常規,1,?
+73,F,健保榮民,R,GA,Partial knee unicompart replacem,醫師9,388,1,常規,1,?
+57,M,本院員工,O,GA,Open reduction fracture patella,醫師26,102,1,急刀二級,1,?
+74,F,健保,R,SA,Partial knee unicompart replacem,醫師14,350,1,常規,1,?
+57,F,健保,R,GA,"O.R. Femur,Supra,Intercondyle",醫師8,311,1,常規,1,?
+73,F,健保榮民,R,GA,Remove of Pro. Hip/Shoulder/Knee,醫師2,241,1,常規,1,?
+75,M,健保,R,GA,O.R. fracture tibia - shaft,醫師2,241,1,常規,1,?
+76,F,健保,R,GA,Arthroplasty TKR,醫師4,143,1,常規,1,?
+65,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師4,143,2,常規,1,?
+20,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師4,143,2,常規,1,?
+69,F,健保,R,GA,"Remove internal fixator,others",醫師14,350,1,常規,1,?
+37,M,健保,R,GA,"Remove internal fixator,tibia",醫師8,311,1,常規,1,?
+21,M,健保,R,GA,"Remove internal fixator,femur",醫師2,241,2,常規,1,?
+72,F,健保,R,SA,Arthroplasty TKR,醫師5,136,1,常規,1,?
+52,F,健保,R,GA,Curettage - deep,醫師5,136,2,常規,1,?
+70,F,健保,R,GA,Curettage - deep,醫師5,136,2,常規,1,?
+12,M,健保,R,GA,"Remove internal fixator,tibia",醫師11,288,1,常規,1,?
+70,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師13,229,2,急刀二級,1,?
+56,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,229,2,常規,1,?
+75,M,健保,R,GA,Arthroplasty TKR,醫師13,229,1,常規,1,?
+56,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,229,2,常規,1,?
+61,F,民眾,R,GA,Arthroscopic shaving arthroplas,醫師13,229,3,常規,1,?
+39,M,健保,R,GA,"Remove internal fixator,others",醫師26,102,1,常規,1,?
+27,F,健保,R,GA,Realiqnment of patella,醫師13,229,2,常規,1,?
+62,M,健保,E,GA,Curettage - deep,醫師13,229,2,急刀一級,1,?
+40,M,健保,O,GA,O.R. STC or ITC type III & IV,醫師5,136,1,急刀二級,1,?
+94,M,健保榮民,R,IG,Percutaneous vertebroplasty 1st,醫師7,309,1,常規,1,?
+52,M,健保榮民,R,SA,Hemiarthroplasty of hip,醫師7,309,1,常規,1,?
+77,F,健保,R,GA,Total hip replacement,醫師12,360,1,常規,1,?
+33,M,健保,R,GA,O.R. of clavicle fracture,醫師12,360,1,常規,1,?
+79,M,健保,R,SA,Arthroplasty TKR,醫師9,388,1,常規,1,?
+62,F,健保,R,GA,Arthroplasty of shoulder,醫師9,388,1,常規,1,?
+16,M,健保,O,GA,"O.R. Femur,Supra,Intercondyle",醫師13,229,1,急刀二級,1,?
+67,F,健保,R,GA,Total hip replacement,醫師2,241,1,常規,1,?
+51,F,健保,R,GA,"Remove internal fixator,others",醫師2,241,1,常規,1,?
+54,M,健保,R,GA,O.R. fracture tibia - condyle,醫師2,241,1,常規,1,?
+47,F,健保,R,GA,"Remove internal fixator,forearm",醫師8,311,1,常規,1,?
+80,F,健保,R,GA,Arthroplasty TKR,醫師8,311,1,常規,1,?
+61,F,健保,R,LA,Ostheosynthesis-metacarpal,醫師1,124,1,常規,1,?
+69,F,健保榮民,R,GA,Arthroplasty TKR,醫師3,251,1,常規,1,?
+71,F,健保,R,SA,Arthroplasty TKR,醫師3,251,1,常規,1,?
+66,F,健保,R,GA,Lignment recon. of basal joint,醫師1,124,1,常規,1,?
+66,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師1,124,1,急刀二級,1,?
+58,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,229,2,常規,1,?
+25,M,本院員工,R,GA,Knee joint ACL reconstruction,醫師13,229,2,常規,1,?
+23,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,229,2,常規,1,?
+58,M,健保,R,GA,AS Knee - Menisectomy,醫師13,229,1,常規,1,?
+63,F,健保,R,GA,"O.R. Humerus,Supra,Intercondyle",醫師13,229,2,常規,1,?
+55,M,健保福保,O,GA,Hemiarthroplasty of hip,醫師13,229,1,急刀二級,1,?
+46,F,健保,O,GA,O.R. of clavicle fracture,醫師13,229,1,急刀二級,1,?
+22,M,健保,R,GA,"Remove internal fixator,forearm",醫師1,124,1,常規,1,?
+25,F,健保,R,GA,O.R. fracture - femoral shaft,醫師8,311,1,常規,1,?
+68,F,健保,O,GA,Hemiarthroplasty of hip,醫師8,311,1,急刀二級,1,?
+50,M,健保,R,GA,O.R. of clavicle fracture,醫師5,136,1,常規,1,?
+18,M,健保,O,SA,O.R. STC or ITC type III & IV,醫師2,241,1,急刀二級,1,?
+61,F,健保,R,SA,Arthroplasty TKR,醫師3,252,1,常規,1,?
+78,F,健保,R,GA,Arthroplasty TKR,醫師3,252,1,常規,1,?
+50,F,健保,R,GA,Arthroplasty-Revision cup,醫師3,252,1,常規,1,?
+63,F,健保,R,GA,Arthroplasty-revision THR,醫師3,252,1,常規,1,?
+26,M,健保,R,SA,Hallux valgus(chevron),醫師6,309,1,常規,1,?
+63,M,健保,R,GA,Hallux valgus(chevron),醫師6,309,1,常規,1,?
+61,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師4,143,1,急刀二級,1,?
+52,M,健保榮民,R,SA,Debridment 5-10cm,醫師7,309,1,常規,1,?
+61,U,健保,O,GA,O.R. fracture pelvis,醫師2,241,2,急刀二級,1,?
+49,F,健保,R,GA,Osteosynthesis-humers,醫師1,124,1,常規,1,?
+38,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師1,124,2,常規,1,?
+26,F,健保,R,GA,Soft tissue release upper extrem,醫師1,124,1,常規,1,?
+21,M,健保,R,GA,"Remove internal fixator,femur",醫師1,124,1,常規,1,?
+12,F,健保,E,GA,O.R. medial bimalleolus fracture,醫師26,103,1,急刀一級,1,?
+57,M,健保,O,GA,O.R. of clavicle fracture,醫師7,309,1,急刀二級,1,?
+57,F,健保,O,GA,"O.R. Humerus,Supra,Intercondyle",醫師1,124,1,急刀二級,1,?
+69,F,健保,R,SA,Arthroplasty TKR,醫師9,388,1,常規,1,?
+67,F,健保,R,GM,Arthroplasty TKR,醫師9,388,1,常規,1,?
+68,F,健保,R,GA,Total hip replacement,醫師9,388,1,常規,1,?
+64,F,健保,R,SA,Arthroplasty TKR,醫師9,388,1,常規,1,?
+38,M,健保,O,GA,O.R. fracture - malleolus/talus,醫師4,144,1,急刀二級,1,?
+79,F,健保榮民,R,GA,Partial knee unicompart replacem,醫師14,350,1,常規,1,?
+51,M,健保,R,GA,"O.R. Humerus,Supra,Intercondyle",醫師8,311,1,常規,1,?
+45,F,健保,R,GA,"Remove internal fixator,others",醫師5,136,1,常規,1,?
+33,F,健保,T,GA,"Remove internal fixator,others",醫師1,124,1,臨時,1,?
+65,F,健保,R,SA,"Arthroscopy biopsy,irri.& debrid",醫師4,144,1,常規,1,?
+64,M,健保,R,GA,O.R. dislocation of A-C joint,醫師4,144,2,常規,1,?
+49,F,健保,R,GA,Excision of ganglion or cyst,醫師4,144,1,常規,1,?
+38,M,健保福保,R,GA,O.R. of clavicle fracture,醫師4,144,1,常規,1,?
+60,F,健保,R,GA,"Remove internal fixator,tibia",醫師4,144,2,常規,1,?
+67,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師4,144,2,常規,1,?
+22,F,健保,R,GA,"Remove internal fixator,femur",醫師3,252,1,常規,1,?
+63,F,健保,R,GA,Hallux valgus(chevron),醫師5,136,3,常規,1,?
+49,F,健保,R,GA,"Remove internal fixator,others",醫師5,136,2,常規,1,?
+1,F,健保,R,GA,Tendon lengthening,醫師11,288,2,常規,1,?
+70,M,健保,O,GA,O.R. STC or ITC type III & IV,醫師2,241,1,急刀二級,1,?
+67,F,健保,O,GA,"O.R. Femur,Supra,Intercondyle",醫師5,136,1,急刀二級,1,?
+18,M,健保,R,GA,Tendon/ligament repair intra-art,醫師13,230,2,常規,1,?
+67,M,健保,R,GA,Arthroplasty TKR,醫師3,252,1,常規,1,?
+80,M,健保福保,R,GA,Total hip replacement,醫師3,252,1,常規,1,?
+23,M,健保,R,SA,"Ex.bone lower extremity,com.",醫師3,252,1,常規,1,?
+20,F,健保,R,SA,Tenosynovectomy,醫師3,252,1,常規,1,?
+39,F,健保,O,GA,O.R. of clavicle fracture,醫師5,136,1,急刀二級,1,?
+89,F,健保榮民,O,GA,Hemiarthroplasty of hip,醫師3,252,1,急刀二級,1,?
+47,M,健保,R,GA,Open reduc. fracture-hand/foot,醫師6,309,1,常規,1,?
+63,M,健保,O,GA,Hemiarthroplasty of hip,醫師2,241,2,急刀二級,1,?
+68,F,健保,R,SA,Open reduction fracture patella,醫師12,361,1,常規,1,?
+36,F,健保,E,SA,Curettage - deep,醫師1,124,1,急刀一級,1,?
+78,F,健保,R,SA,Arthroplasty TKR,醫師9,388,1,常規,1,?
+76,F,健保,R,SA,Partial knee unicompart replacem,醫師9,388,1,常規,1,?
+13,M,健保,R,GA,"Remove internal fixator,femur",醫師26,103,1,常規,1,?
+82,F,健保,O,GA,Open reduc. fracture - radial,醫師1,124,1,急刀二級,1,?
+22,M,健保,O,GA,Open reduc. Scaphoid Fracture,醫師1,124,3,急刀二級,1,?
+64,M,健保,O,SA,O.R. medial bimalleolus fracture,醫師1,124,1,急刀二級,1,?
+45,M,健保,O,GA,O.R. STC or ITC type III & IV,醫師9,388,1,急刀二級,1,?
+47,M,健保,R,GA,Arthroplasty-revision THR,醫師2,241,1,常規,2,?
+61,F,健保,R,GA,Arthroplasty TKR,醫師3,252,1,常規,1,?
+85,F,健保,R,GA,Arthroplasty-Revision cup,醫師3,252,1,常規,1,?
+41,F,健保,R,GA,Curettage - superficial,醫師1,124,2,常規,1,?
+41,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,230,2,常規,1,?
+58,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,230,1,常規,1,?
+65,M,健保榮民,R,GA,Knee joint PCL reconstruction,醫師13,230,2,常規,1,?
+58,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,230,1,常規,1,?
+89,M,健保,O,GA,O.R. of clavicle fracture,醫師1,124,1,急刀二級,1,?
+53,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,230,2,常規,1,?
+19,F,健保,R,GA,O.R. of clavicle fracture,醫師25,155,1,常規,1,?
+55,F,健保,R,GA,"Remove internal fixator,forearm",醫師1,124,1,常規,1,?
+26,M,健保,O,GA,O.R. of clavicle fracture,醫師1,124,1,急刀二級,1,?
+33,F,健保,R,GA,Debridment < 5cm,醫師13,230,1,常規,1,?
+44,F,健保,R,GA,"Remove internal fixator,femur",醫師25,155,3,常規,1,?
+64,F,健保,R,GA,O.R. fracture Foream radius&uln,醫師5,136,1,常規,1,?
+85,F,健保,O,SA,O.R. medial bimalleolus fracture,醫師9,388,1,急刀二級,1,?
+69,M,健保,O,GA,Hemiarthroplasty of hip,醫師9,388,1,急刀二級,1,?
+71,F,健保,O,GA,C.R. Intertrochanteric type I&II,醫師3,252,1,急刀二級,1,?
+83,F,健保,O,GA,O.R. fracture - femoral shaft,醫師2,241,1,急刀二級,1,?
+67,F,健保,R,GA,Total hip replacement,醫師3,252,1,常規,1,?
+69,M,健保,R,GA,Total hip replacement,醫師3,252,1,常規,1,?
+76,F,健保,O,GA,O.R. STC or ITC type III & IV,醫師3,252,1,急刀二級,1,?
+82,F,健保,O,GA,Hemiarthroplasty of hip,醫師2,241,1,急刀二級,1,?
+67,M,健保,R,GA,Hallux valgus(chevron),醫師6,309,1,常規,1,?
+62,M,健保,R,GA,Tendon repair-single,醫師6,309,2,常規,1,?
+42,M,健保,R,SA,Curettage - deep,醫師6,309,1,常規,1,?
+55,M,健保,O,GA,O.R. fracture tibia - shaft,醫師3,252,2,急刀二級,1,?
+73,F,健保,R,SA,Arthroplasty TKR,醫師7,309,1,常規,1,?
+73,F,健保榮民,R,GA,O.R. fracture tibia - condyle,醫師3,252,2,常規,1,?
+20,F,健保,R,GA,Soft tissue release upper extrem,醫師1,124,2,常規,1,?
+66,M,健保榮民,R,GA,Arthroplasty-Revision cup,醫師3,252,1,常規,1,?
+87,F,健保榮民,O,SA,Hemiarthroplasty of hip,醫師3,252,1,急刀二級,1,?
+77,M,健保榮民,R,GA,Arthroplasty-revision THR,醫師9,388,1,常規,1,?
+32,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師9,388,2,常規,1,?
+90,F,健保,O,SA,O.R. fracture - femoral shaft,醫師9,388,1,急刀二級,1,?
+55,F,健保,O,GA,O.R. fracture tibia - shaft,醫師9,388,1,急刀二級,1,?
+33,M,健保,O,GA,O.R. of clavicle fracture,醫師9,388,1,急刀二級,1,?
+61,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師8,311,1,急刀二級,1,?
+57,F,健保,R,GA,Arthroplasty TKR,醫師4,144,1,常規,1,?
+24,M,健保,R,GA,O.R. of clavicle fracture,醫師4,144,1,常規,1,?
+25,M,健保,R,GA,"Remove internal fixator,others",醫師8,311,1,常規,1,?
+20,F,健保,O,GA,O.R. of clavicle fracture,醫師9,388,1,急刀二級,1,?
+22,F,健保,O,GA,O.R. fracture - femoral shaft,醫師9,388,1,急刀二級,1,?
+55,F,健保,R,GA,Arthroplasty TKR,醫師5,136,1,常規,1,?
+48,M,健保,R,SA,Regional fasciectomy,醫師5,136,1,常規,1,?
+30,F,健保,O,GA,O.R. fracture - malleolus/talus,醫師6,309,1,急刀二級,1,?
+79,F,健保,O,GA,O.R. fracture - malleolus/talus,醫師26,103,1,急刀二級,1,?
+53,M,健保,O,GA,Open reduc. fracture - radial,醫師1,124,2,急刀二級,1,?
+54,M,健保榮民,O,GA,C.R. Intertrochanteric type I&II,醫師26,103,1,急刀二級,1,?
+20,M,健保,O,GA,O.R. of clavicle fracture,醫師7,309,1,急刀二級,1,?
+65,F,健保,R,GA,AS Knee - Menisectomy,醫師13,230,1,常規,1,?
+53,M,健保,R,GA,"Fasciotomy, lower limb",醫師13,230,1,常規,1,?
+22,F,健保,R,GA,Knee joint ACL reconstruction,醫師13,230,2,常規,1,?
+79,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,230,2,常規,1,?
+68,M,健保榮民,R,GA,Arthroscopic shaving arthroplas,醫師13,230,2,常規,1,?
+67,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,230,2,常規,1,?
+27,M,健保,O,GA,Curettage - deep,醫師5,136,3,急刀二級,1,?
+6,M,健保,O,GA,O.R. fracture tibia - shaft,醫師26,103,1,急刀二級,1,?
+79,F,健保榮民,R,IG,Percutaneous vertebroplasty 1st,醫師7,309,1,常規,1,?
+74,M,健保,R,IG,Percutaneous vertebroplasty 1st,醫師7,309,1,常規,1,?
+98,M,健保榮民,R,IG,Percutaneous vertebroplasty 1st,醫師7,309,1,常規,1,?
+63,F,健保榮民,O,GA,Open reduction fracture patella,醫師7,309,1,急刀二級,1,?
+54,F,健保,O,GA,O.R. fracture tibia - shaft,醫師7,309,1,急刀二級,1,?
+77,F,健保,R,SA,Arthroplasty TKR,醫師12,361,1,常規,1,?
+16,F,健保,O,GA,O.R. fracture tibia - shaft,醫師7,309,1,急刀二級,1,?
+23,M,健保,E,GA,O.R. STC or ITC type III & IV,醫師13,230,1,急刀一級,1,?
+67,M,健保,R,GA,Partial knee unicompart replacem,醫師9,388,1,常規,1,?
+59,F,健保,O,GA,"O.R. Humerus,Supra,Intercondyle",醫師7,309,1,急刀二級,1,?
+23,M,健保,R,GA,"Remove internal fixator,femur",醫師2,241,1,常規,1,?
+18,M,健保,R,GA,"Remove internal fixator,others",醫師2,241,2,常規,1,?
+49,F,健保,R,GA,O.R. of clavicle fracture,醫師8,311,1,常規,1,?
+31,M,健保,R,GA,O.R. of clavicle fracture,醫師8,311,1,常規,1,?
+61,F,健保,R,GA,Arthroplasty TKR,醫師9,388,1,常規,1,?
+19,M,健保,O,GA,O.R. of clavicle fracture,醫師13,230,2,急刀二級,1,?
+73,F,健保,R,SA,Hemiarthroplasty of hip,醫師3,252,1,常規,1,?
+71,F,健保,O,GA,O.R. medial bimalleolus fracture,醫師5,136,1,急刀二級,1,?
+71,M,健保榮民,R,GA,Total hip replacement,醫師13,230,1,常規,1,?
+70,F,健保,R,GA,Hemiarthroplasty of hip,醫師13,230,1,常規,1,?
+26,M,健保,R,GA,Knee joint ACL reconstruction,醫師13,230,2,常規,1,?
+57,F,健保,R,GA,"Remove internal fixator,others",醫師8,311,1,常規,1,?
+9,F,健保福保,O,GA,"O.R. Humerus,Supra,Intercondyle",醫師26,103,1,急刀二級,1,?
+68,F,健保,O,GA,Open reduc. fracture - radial,醫師8,312,1,急刀二級,1,?
+81,F,健保榮民,O,GA,Open reduc. fracture - radial,醫師8,312,2,急刀二級,1,?
+81,F,健保,O,GA,C.R. Intertrochanteric type I&II,醫師3,252,1,急刀二級,1,?
+28,M,民眾,O,GA,O.R. fracture Foream radius&uln,醫師8,312,2,急刀二級,1,?
+31,M,健保,O,GA,Curettage - deep,醫師8,312,3,急刀二級,1,?
+47,F,健保,O,SA,E.F. for fracture - lower limb,醫師2,241,2,急刀二級,1,?
+79,F,健保,R,SA,Arthroplasty TKR,醫師3,252,1,常規,1,?
+68,M,健保榮民,R,GA,Arthroplasty TKR,醫師3,252,1,常規,1,?
+72,F,健保,O,GA,O.R. STC or ITC type III & IV,醫師8,312,1,急刀二級,1,?
+69,M,健保,R,SA,Hallux valgus(chevron),醫師6,309,1,常規,1,?
+27,M,健保,R,SA,Tendon/ligament repair Extra-ar,醫師6,309,1,常規,1,?
+44,F,健保,O,GA,O.R. medial unimalleolus fractur,醫師2,241,1,急刀二級,1,?
+39,M,健保,O,GA,O.R. fracture - femoral shaft,醫師3,252,2,急刀二級,1,?
+67,M,健保,R,SA,Total hip replacement,醫師7,309,1,常規,1,?
+44,M,健保,O,GA,O.R. of clavicle fracture,醫師2,241,1,急刀二級,1,?
+29,M,健保,O,GA,Ostheosynthesis-metacarpal,醫師1,124,1,急刀二級,1,?
+42,F,健保,O,GA,O.R. fracture - malleolus/talus,醫師4,144,1,急刀二級,1,?
+31,M,健保,R,GA,Tenolysis,醫師8,312,2,常規,1,?
+82,F,健保,R,GA,Arthroplasty TKR,醫師1,124,1,常規,1,?
+56,M,健保,R,GA,Repture achilles tendon primary,醫師1,124,1,常規,1,?
+83,F,健保,O,GA,Hemiarthroplasty of hip,醫師3,252,1,急刀二級,1,?
+42,F,健保,O,GA,O.R. fracture - malleolus/talus,醫師3,252,1,急刀二級,1,?
+64,F,健保,O,GA,O.R. fracture - femoral shaft,醫師3,252,2,急刀二級,1,?
+28,M,健保,R,GA,Removal of internal fixator,醫師1,124,1,常規,1,?
+74,F,健保,R,GA,Total hip replacement,醫師9,388,1,常規,1,?
+25,M,健保,R,SA,Excision of ganglion or cyst,醫師9,388,1,常規,1,?
+55,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師4,144,1,急刀二級,1,?
+55,M,健保,O,GA,O.R. fracture Foream radius&uln,醫師4,144,1,急刀二級,1,?
+23,M,國軍人員,R,GA,"Remove internal fixator,others",醫師5,137,1,常規,1,?
+69,M,健保,O,NB,Curettage - deep,醫師4,144,3,急刀二級,1,?
+47,F,健保,O,GA,O.R. fracture tibia - condyle,醫師2,242,3,急刀二級,1,?
+75,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師4,144,2,常規,1,?
+31,M,健保,R,LA,Open reduc. fracture-hand/foot,醫師8,312,1,常規,1,?
+44,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師5,137,1,常規,1,?
+12,F,健保,R,GA,"Remove internal fixator,tibia",醫師11,289,1,常規,1,?
+69,F,健保,O,GA,"O.R. Humerus,Supra,Intercondyle",醫師1,124,1,急刀二級,1,?
+78,F,健保榮民,O,GA,O.R. fracture Foream radius&uln,醫師26,103,1,急刀二級,1,?
+53,F,健保,O,GA,O.R. fracture tibia - shaft,醫師2,242,3,急刀二級,1,?
+90,M,健保榮民,O,SA,Hemiarthroplasty of hip,醫師26,103,1,急刀二級,1,?
+32,M,健保,R,GA,"Remove internal fixator,others",醫師13,230,1,常規,1,?
+27,M,健保,T,GA,Curettage - deep,醫師5,137,1,臨時,1,?
+32,M,國軍人員,R,GA,Knee joint ACL reconstruction,醫師13,230,2,常規,1,?
+20,M,健保,R,GA,Knee joint ACL reconstruction,醫師13,230,2,常規,1,?
+15,F,健保,R,GA,AS Knee - Menisectomy,醫師13,230,1,常規,1,?
+51,M,健保,R,GA,"Remove internal fixator,others",醫師5,137,1,常規,1,?
+72,F,健保,R,IG,Percutaneous vertebroplasty 1st,醫師7,309,1,常規,1,?
+72,F,健保榮民,O,GA,"O.R. Femur,Supra,Intercondyle",醫師9,388,1,急刀二級,1,?
+19,M,健保,O,GA,O.R. fracture tibia - shaft,醫師7,309,2,急刀二級,1,?
+71,F,健保,R,SA,Arthroplasty TKR,醫師9,388,1,常規,1,?
+77,F,健保,O,GA,Hemiarthroplasty of hip,醫師7,309,1,急刀二級,1,?
+24,F,健保,R,SA,"Remove internal fixator,others",醫師7,309,1,常規,1,?
+58,M,健保榮民,O,GA,Open reduc. fracture-hand/foot,醫師5,137,1,急刀二級,1,?
+58,M,健保,O,GA,O.R. of clavicle fracture,醫師5,137,2,急刀二級,1,?
+68,F,健保,O,GA,Open reduc. fracture - radial,醫師7,309,1,急刀二級,1,?
+67,F,健保,O,GA,Open reduc. fracture - radial,醫師7,309,1,急刀二級,1,?
+70,F,健保,R,GA,Open reduc. fracture - radial,醫師8,312,1,常規,1,?
+40,M,健保,R,GA,Open reduc. Scaphoid Fracture,醫師8,312,1,常規,1,?
+90,F,健保,O,GA,"O.R. Femur,Supra,Intercondyle",醫師9,388,1,急刀二級,1,?
+82,F,健保,O,GA,Open reduc. fracture - radial,醫師3,252,1,急刀二級,1,?
+64,F,健保,O,GA,O.R. fracture tibia - shaft,醫師1,124,1,急刀二級,1,?
+38,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,230,1,常規,1,?
+65,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,230,2,常規,1,?
+64,M,健保,R,GA,Amputation Phalanx,醫師1,124,2,常規,1,?
+19,F,健保,O,SA,O.R. medial bimalleolus fracture,醫師3,252,1,急刀二級,1,?
+17,M,健保福保,O,GA,O.R. fracture Foream radius&uln,醫師3,252,1,急刀二級,1,?
+76,F,健保,O,GA,O.R. STC or ITC type III & IV,醫師2,242,1,急刀二級,1,?
+67,F,健保,R,GA,Arthroplasty TKR,醫師3,252,1,常規,1,?
+73,F,健保,R,SA,Arthroplasty TKR,醫師3,252,1,常規,1,?
+55,F,健保福保,R,GA,Osteosynthesis-tibia,醫師3,252,4,常規,1,?
+36,F,健保,R,SA,Hallux valgus(chevron),醫師6,310,1,常規,1,?
+50,F,健保,R,SA,Arthroplasty of finger/toe,醫師6,310,1,常規,1,?
+18,M,健保,O,GA,O.R. medial bimalleolus fracture,醫師9,389,1,急刀二級,1,?
+25,M,健保,R,GA,O.R. fracture Foream radius&uln,醫師8,312,1,常規,1,?
+58,F,健保,R,GA,Girdlestone procedure of hip,醫師3,252,2,常規,1,?
+23,M,健保,O,GA,Ostheosynthesis-metacarpal,醫師13,230,1,急刀二級,1,?
+57,M,健保,R,GA,Tendon/ligament repair Extra-ar,醫師1,124,1,常規,1,?
+31,M,健保,R,GA,"Remove internal fixator,femur",醫師1,124,1,常規,1,?
+58,F,健保,R,LA,Excision of ganglion or cyst,醫師1,124,1,常規,1,?
+76,F,健保,R,GA,"O.R. Femur,Supra,Intercondyle",醫師9,389,1,常規,1,?
+63,F,健保,O,GA,Corrective osteotomy-lower limb,醫師2,242,3,常規,1,?
+70,F,健保,O,GA,O.R. dislocation of A-C joint,醫師8,312,1,急刀二級,1,?
+24,M,健保,O,GA,Open reduction fracture - ulna,醫師8,312,1,急刀二級,1,?
+63,F,健保,R,GA,Corrective osteotomy-lower limb,醫師2,242,3,常規,1,?
+65,F,健保,O,GA,"O.R. Femur,Supra,Intercondyle",醫師2,242,1,急刀二級,1,?
+32,M,健保,R,GA,"Remove internal fixator,others",醫師4,144,1,常規,1,?
+57,F,健保,R,LA,Open reduc. fracture-hand/foot,醫師8,312,1,常規,1,?
+49,F,健保,O,GA,O.R. of clavicle fracture,醫師9,389,1,急刀二級,1,?
+20,M,健保,R,GA,"Remove internal fixator,others",醫師8,312,1,常規,1,?
+48,F,健保,R,GA,"Neurolysis hand, foot",醫師5,137,2,常規,1,?
+60,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,230,2,常規,1,?
+39,F,健保,R,GA,O.R. fracture tibia - condyle,醫師13,230,2,常規,1,?
+46,M,健保榮民,R,GA,Arthroscopic shaving arthroplas,醫師13,230,1,常規,1,?
+71,M,健保,O,SA,Hemiarthroplasty of hip,醫師9,389,1,急刀二級,1,?
+88,F,健保,O,SA,Hemiarthroplasty of hip,醫師5,137,1,急刀二級,1,?
+48,F,健保,O,GA,Ostheosynthesis-metatarsal,醫師5,137,1,急刀二級,1,?
+37,M,健保,O,GA,Curettage - deep,醫師8,312,2,急刀二級,1,?
+48,M,健保,R,SA,"Remove internal fixator,others",醫師5,137,1,常規,1,?
+87,M,健保榮民,R,SA,"Remove internal fixator,others",醫師5,137,1,常規,1,?
+64,M,健保,O,GA,O.R. of clavicle fracture,醫師8,312,1,急刀二級,1,?
+75,F,健保,R,IG,Percutaneous vertebroplasty 1st,醫師7,310,2,常規,1,?
+73,F,健保,R,SA,Arthroplasty TKR,醫師7,310,1,常規,1,?
+67,F,健保,R,GA,Total hip replacement,醫師12,361,1,常規,1,?
+82,F,健保,R,SA,Arthroplasty TKR,醫師9,389,1,常規,1,?
+52,M,健保,R,GA,Manipulation - knee,醫師2,242,2,常規,1,?
+56,F,健保,R,GA,O.R. fracture Foream radius&uln,醫師8,312,1,常規,1,?
+74,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師8,312,1,急刀二級,1,?
+78,F,健保榮民,O,LA,Reconstruction nail,醫師8,312,2,急刀二級,1,?
+82,F,健保員眷,R,LA,Arthrodesis finger or toe,醫師8,312,1,常規,1,?
+71,F,健保,R,GA,O.R. dislocation shoulder joint,醫師1,124,1,常規,1,?
+87,M,健保榮民,O,SA,O.R. STC or ITC type III & IV,醫師13,230,1,急刀二級,1,?
+62,F,健保,R,GA,Total hip replacement,醫師3,252,1,常規,1,?
+74,F,健保,R,GA,Open reduction fracture patella,醫師3,252,1,常規,1,?
+35,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,230,2,常規,1,?
+26,M,健保,R,GA,Total hip replacement,醫師13,230,1,常規,1,?
+48,M,健保,O,GA,O.R. fracture Foream radius&uln,醫師8,312,1,急刀二級,1,?
+90,M,健保榮民,O,SA,C.R. Intertrochanteric type I&II,醫師7,310,1,急刀二級,1,?
+42,M,健保,O,GA,O.R. of clavicle fracture,醫師7,310,1,急刀二級,1,?
+75,M,重大傷病,R,SA,Arthroplasty TKR,醫師3,252,1,常規,1,?
+20,F,健保,R,GA,Total hip replacement,醫師3,252,1,常規,1,?
+67,F,健保,R,SA,Arthroplasty TKR,醫師3,252,1,常規,1,?
+46,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師4,144,2,常規,1,?
+28,F,健保,R,SA,"Remove internal fixator,others",醫師6,310,1,常規,1,?
+30,M,健保,R,GA,"Osgood schaltter's disease,ex.",醫師6,310,1,常規,1,?
+67,M,健保榮民,R,GA,Hallux valgus(chevron),醫師6,310,2,常規,1,?
+59,F,健保,R,GA,"Remove internal fixator,humerus",醫師3,252,2,常規,1,?
+79,F,健保榮民,O,GA,Hemiarthroplasty of hip,醫師3,252,1,急刀二級,1,?
+78,F,健保,R,GA,Total hip replacement,醫師9,389,1,常規,1,?
+51,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師1,125,2,常規,1,?
+66,F,健保榮民,R,GA,Curettage - deep,醫師3,252,2,常規,1,?
+69,F,健保,R,SA,Arthroplasty TKR,醫師9,389,1,常規,1,?
+69,F,健保,R,SA,Partial knee unicompart replacem,醫師9,389,1,常規,1,?
+48,M,健保,R,GA,"Remove internal fixator,forearm",醫師8,312,1,常規,1,?
+48,M,健保福保,R,GA,"Remove internal fixator,tibia",醫師8,312,2,常規,1,?
+76,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師5,137,1,急刀二級,1,?
+6,F,健保,O,GA,C.R. Percutaneous pinning,醫師26,103,1,急刀二級,1,?
+97,F,健保榮民,R,SA,Hemiarthroplasty of hip,醫師12,361,1,常規,1,?
+68,F,健保榮民,R,GA,Arthroscopic shaving arthroplas,醫師4,144,2,常規,1,?
+50,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師4,144,2,常規,1,?
+35,F,健保,R,GA,Knee joint ACL reconstruction,醫師4,144,2,常規,1,?
+41,M,健保,O,GA,"O.R. Humerus,Supra,Intercondyle",醫師13,230,1,急刀二級,1,?
+40,M,健保,R,GA,O.R. of clavicle fracture,醫師5,137,1,常規,1,?
+62,M,健保,R,GA,Partial knee unicompart replacem,醫師2,242,1,常規,1,?
+1,F,健保幼兒,R,GA,"Remove internal fixator,hip",醫師11,289,1,常規,1,?
+74,F,健保,O,GA,"O.R. Humerus,Supra,Intercondyle",醫師5,137,1,急刀二級,1,?
+42,M,健保,R,GA,"Remove internal fixator,others",醫師13,230,1,常規,1,?
+62,M,健保,O,GA,Open reduc. fracture-finger/toe,醫師1,125,1,急刀二級,1,?
+66,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,230,2,常規,1,?
+62,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,230,2,常規,1,?
+64,M,健保,R,GA,Arthroplasty TKR,醫師13,230,1,常規,1,?
+65,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,230,1,常規,1,?
+84,F,健保榮民,O,SA,Hemiarthroplasty of hip,醫師1,125,1,急刀二級,1,?
+62,F,健保,R,SA,hindfoot triple arthrodesis,醫師6,310,1,常規,1,?
+24,M,健保,R,SA,ATF reconstruction,醫師6,310,1,常規,1,?
+59,F,健保,R,GA,Arthroplasty TKR,醫師12,361,1,常規,1,?
+68,M,健保,O,SA,O.R. STC or ITC type III & IV,醫師5,137,1,急刀二級,1,?
+79,F,健保,R,SA,Arthroplasty TKR,醫師9,389,1,常規,1,?
+36,F,健保,R,GA,AS Knee - Menisectomy,醫師9,389,1,常規,1,?
+45,M,健保榮民,O,GA,O.R.acetabulum hip socket fract.,醫師2,242,1,急刀二級,1,?
+84,F,健保,R,SA,Hemiarthroplasty of hip,醫師4,144,1,常規,1,?
+39,M,健保,O,SA,Repture achilles tendon primary,醫師5,137,1,急刀二級,1,?
+62,F,健保榮民,R,GA,"Remove internal fixator,others",醫師2,242,1,常規,1,?
+70,F,健保,R,GA,Open reduc. fracture - radial,醫師8,312,2,常規,1,?
+43,F,健保,R,GA,Tenolysis,醫師8,312,2,常規,1,?
+20,F,健保,R,GA,O.R. of clavicle fracture,醫師8,312,1,常規,1,?
+19,M,健保,R,GA,"Remove internal fixator,femur",醫師8,312,1,常規,1,?
+48,F,健保,R,LA,Arthrodesis wrist /carpal joint,醫師8,312,1,常規,1,?
+56,M,健保,O,GA,O.R. fracture Foream radius&uln,醫師13,231,1,急刀二級,1,?
+39,M,健保,O,GA,Curettage - deep,醫師3,253,1,急刀二級,1,?
+19,F,健保,O,GA,Open reduc. Scaphoid Fracture,醫師1,125,2,急刀二級,1,?
+65,F,健保,R,GA,Arthroplasty TKR,醫師3,253,1,常規,1,?
+74,F,健保,R,GA,O.R. fracture - femoral shaft,醫師3,253,2,常規,1,?
+63,M,健保,R,GA,Arthroplasty TKR,醫師3,253,1,常規,1,?
+50,M,健保,R,GA,"Remove internal fixator,forearm",醫師3,253,1,常規,1,?
+72,F,健保榮民,R,GA,Arthroplasty TKR,醫師13,231,1,常規,1,?
+56,F,健保,R,GA,AS Knee - Menisectomy,醫師13,231,1,常規,1,?
+53,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,231,1,常規,1,?
+55,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,231,2,常規,1,?
+28,M,健保,R,GA,"Remove internal fixator,others",醫師25,156,1,常規,2,?
+19,F,健保,R,GA,Bone biopsy,醫師1,125,1,常規,1,?
+65,F,健保,O,GA,Repair fracture of distal fibul,醫師2,242,2,急刀二級,1,?
+70,F,健保,O,GA,Hemiarthroplasty of hip,醫師26,104,1,急刀二級,1,?
+65,F,健保,O,GA,Open reduc. fracture - radial,醫師26,104,2,急刀二級,1,?
+70,F,健保,R,SA,Arthroplasty TKR,醫師3,253,1,常規,1,?
+59,F,健保,R,SA,Arthroplasty TKR,醫師3,253,1,常規,1,?
+75,F,健保,R,SA,Arthroplasty TKR,醫師3,253,1,常規,1,?
+57,M,健保,O,GA,O.R. fracture Foream radius&uln,醫師3,253,1,急刀二級,1,?
+73,F,健保榮民,R,SA,Arthroplasty TKR,醫師3,253,1,常規,1,?
+34,F,健保,R,GA,Hallux valgus(chevron),醫師6,310,1,常規,1,?
+56,F,健保,R,GA,Hallux valgus(chevron),醫師6,310,2,常規,1,?
+19,M,健保,O,GA,O.R. fracture - malleolus/talus,醫師5,137,1,急刀二級,1,?
+23,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師1,125,2,常規,1,?
+58,M,健保,R,GA,Arthroplasty-Revision cup,醫師1,125,1,常規,1,?
+63,F,健保榮民,O,GA,O.R. of clavicle fracture,醫師8,312,1,急刀二級,1,?
+28,F,本院員工,O,SA,O.R. fracture - malleolus/talus,醫師5,137,1,急刀二級,1,?
+21,M,健保,R,GA,"Remove internal fixator,forearm",醫師25,156,1,常規,1,?
+39,F,健保,O,SA,O.R. fracture - malleolus/talus,醫師26,104,1,急刀二級,1,?
+29,F,健保,R,GA,Open reduc. Scaphoid Fracture,醫師1,125,2,常規,1,?
+79,F,健保,R,SA,Arthroplasty TKR,醫師9,389,1,常規,1,?
+66,M,健保榮民,R,SA,Arthroplasty TKR,醫師9,389,1,常規,1,?
+79,F,健保,R,GA,Total hip replacement,醫師9,389,1,常規,1,?
+56,M,健保,R,GA,Excision of ganglion or cyst,醫師9,389,1,常規,1,?
+44,F,健保,R,GA,O.R. fracture - humeral shaft,醫師8,312,1,常規,1,?
+69,F,健保,O,SA,O.R. medial bimalleolus fracture,醫師4,145,1,急刀二級,1,?
+79,F,健保,R,GA,O.R. STC or ITC type III & IV,醫師2,242,1,常規,1,?
+50,F,健保,R,GA,O.R. STC or ITC type III & IV,醫師2,242,1,常規,1,?
+30,F,健保,R,GA,"Bone graft Autograft, medium",醫師2,242,1,常規,1,?
+67,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師4,145,2,常規,1,?
+63,F,健保,R,GA,"O.R. Humerus,Supra,Intercondyle",醫師4,145,1,常規,1,?
+41,M,健保,R,GA,Knee joint ACL reconstruction,醫師4,145,2,常規,1,?
+57,M,健保,R,GA,Knee joint PCL reconstruction,醫師4,145,3,常規,1,?
+64,F,健保,R,GA,"Remove internal fixator,others",醫師4,145,1,常規,1,?
+43,F,健保,R,GA,"Remove internal fixator,others",醫師8,312,1,常規,1,?
+62,F,健保,R,SA,"Remove internal fixator,others",醫師5,137,1,常規,1,?
+24,F,健保,R,GA,"Remove internal fixator,femur",醫師5,137,1,常規,1,?
+71,M,健保,R,GA,"Remove internal fixator,tibia",醫師5,137,1,常規,1,?
+59,M,民眾,R,GA,Corrective osteotomy-lower limb,醫師5,137,1,常規,1,?
+17,M,健保,O,GA,O.R. of clavicle fracture,醫師26,104,1,急刀二級,1,?
+2,M,健保,R,GA,Tendon transfer,醫師11,289,2,常規,1,?
+69,F,健保,O,GA,O.R. medial bimalleolus fracture,醫師1,125,1,急刀二級,1,?
+83,F,健保榮民,O,GA,O.R. STC or ITC type III & IV,醫師26,104,1,急刀二級,1,?
+60,F,健保,R,SA,"Remove internal fixator,others",醫師26,104,1,常規,1,?
+50,F,健保,R,GA,"Remove internal fixator,others",醫師26,104,1,常規,1,?
+61,F,健保,R,SA,Arthroplasty TKR,醫師3,253,1,常規,1,?
+70,F,健保,R,GA,Total hip replacement,醫師3,253,1,常規,1,?
+77,F,健保,R,SA,Arthroplasty TKR,醫師3,253,1,常規,1,?
+59,M,健保,R,GA,Arthroplasty-Revision cup,醫師3,253,1,常規,1,?
+66,M,健保,O,SA,Hemiarthroplasty of hip,醫師26,104,1,急刀二級,1,?
+63,F,健保,O,GA,Open reduc. fracture - radial,醫師8,312,1,急刀二級,1,?
+68,M,健保,O,GA,Open reduc. fracture - radial,醫師1,125,1,急刀二級,1,?
+82,F,健保,R,GA,Arthroplasty TKR,醫師12,362,1,常規,1,?
+70,F,健保,R,SA,Arthroplasty TKR,醫師9,389,1,常規,1,?
+69,F,健保榮民,R,GA,Arthroplasty-Revision cup,醫師9,389,1,常規,1,?
+42,M,健保福保,O,GA,O.R. dislocation of A-C joint,醫師13,231,1,急刀二級,1,?
+36,M,健保福保,R,GA,Total hip replacement,醫師12,362,1,常規,1,?
+44,F,民眾,R,GA,"Remove internal fixator,tibia",醫師2,242,1,常規,1,?
+83,M,健保,O,GA,Hemiarthroplasty of hip,醫師2,242,1,急刀二級,1,?
+75,F,健保,O,GA,"O.R. Femur,Supra,Intercondyle",醫師2,242,1,急刀二級,1,?
+61,F,健保,R,GA,O.R. fracture Foream radius&uln,醫師1,125,1,常規,1,?
+48,M,健保,O,GA,"O.R. Humerus,Supra,Intercondyle",醫師13,231,1,急刀二級,1,?
+50,M,健保,O,GA,O.R. of clavicle fracture,醫師8,312,1,急刀二級,1,?
+64,F,健保,R,GA,Total hip replacement,醫師12,362,1,常規,1,?
+36,M,健保,R,GA,Arthrodesis of knee joint,醫師3,253,2,常規,1,?
+27,M,健保,R,GA,Knee joint ACL reconstruction,醫師13,231,2,常規,1,?
+56,F,健保,R,SA,"Remove internal fixator,tibia",醫師3,253,1,常規,1,?
+67,F,健保,R,GA,O.R. fracture - humeral shaft,醫師1,125,1,常規,1,?
+15,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師1,125,1,常規,1,?
+67,F,健保,R,GA,"Remove internal fixator,forearm",醫師1,125,1,常規,1,?
+69,M,健保榮民,R,LA,Tenosynovectomy,醫師1,125,1,常規,1,?
+79,F,健保榮民,R,GA,Arthroscopic shaving arthroplas,醫師13,231,2,常規,1,?
+68,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,231,2,常規,1,?
+64,F,健保,R,GA,Total shoulder replacement,醫師13,231,1,常規,1,?
+27,M,健保,R,GA,O.R. of clavicle fracture,醫師25,156,1,常規,1,?
+50,F,健保,O,GA,O.R. medial bimalleolus fracture,醫師5,137,1,急刀二級,1,?
+66,F,健保榮民,R,SA,Hemiarthroplasty of hip,醫師3,253,1,常規,1,?
+62,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師8,312,2,急刀二級,1,?
+71,F,健保,R,GA,Arthroplasty TKR,醫師13,231,1,常規,1,?
+47,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,231,2,常規,1,?
+20,M,健保,R,GA,Knee joint PCL reconstruction,醫師13,231,2,常規,1,?
+79,F,健保榮民,O,GA,Open reduction fracture patella,醫師3,253,1,急刀二級,1,?
+71,F,健保,R,GA,Total hip replacement,醫師3,253,1,常規,1,?
+60,M,健保,R,SA,Arthroplasty TKR,醫師3,253,1,常規,1,?
+68,F,健保,R,SA,Arthroplasty TKR,醫師3,253,1,常規,1,?
+67,F,健保榮民,R,SA,Arthroplasty TKR,醫師3,253,1,常規,1,?
+24,M,健保,R,GA,"Remove internal fixator,others",醫師1,125,1,常規,1,?
+55,F,健保,R,GA,Total hip replacement,醫師3,253,1,常規,1,?
+61,F,健保,R,GA,"Remove internal fixator,others",醫師6,310,1,常規,1,?
+60,M,健保,R,GA,"Remove internal fixator,forearm",醫師1,125,1,常規,1,?
+42,F,健保,O,GA,Open reduction fracture patella,醫師9,389,1,急刀二級,1,?
+23,M,健保,E,GA,Curettage - superficial,醫師5,137,3,急刀一級,1,?
+73,M,健保,R,GA,Arthroplasty TKR,醫師1,125,1,常規,1,?
+71,M,警政署,R,GA,Lignment recon. of basal joint,醫師1,125,2,常規,1,?
+18,M,健保,O,GA,Open reduc. Scaphoid Fracture,醫師1,125,3,急刀二級,1,?
+21,F,健保,O,GA,Open reduction fracture - ulna,醫師1,125,2,急刀二級,1,?
+68,F,健保,R,SA,Arthroplasty TKR,醫師9,389,1,常規,1,?
+67,F,健保,R,SA,Arthroplasty TKR,醫師9,389,1,常規,1,?
+68,F,健保,R,GA,Total hip replacement,醫師9,389,1,常規,1,?
+68,F,健保榮民,R,GA,Rotator cuff tear repair-mild,醫師9,389,1,常規,1,?
+67,M,健保,O,GA,O.R. fracture - malleolus/talus,醫師9,389,1,急刀二級,1,?
+66,F,民眾,O,GA,Osteosynthesis-femur,醫師9,389,1,急刀二級,1,?
+80,F,健保,R,SA,Arthroplasty TKR,醫師14,351,1,常規,1,?
+81,F,健保,O,GA,Open reduction fracture - ulna,醫師8,313,2,急刀二級,1,?
+70,M,健保,R,GA,O.R. of clavicle fracture,醫師8,313,1,常規,1,?
+64,M,健保,R,GA,"Remove internal fixator,tibia",醫師2,242,1,常規,1,?
+28,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師4,145,2,常規,1,?
+40,M,國軍人員,R,GA,Arthroscopic shaving arthroplas,醫師4,145,1,常規,1,?
+75,M,健保,R,SA,Arthroplasty TKR,醫師5,137,1,常規,1,?
+78,M,健保,O,SA,Curettage - deep,醫師2,242,1,急刀二級,1,?
+50,M,健保,O,GA,Remove of Pro. Hip/Shoulder/Knee,醫師3,253,2,急刀二級,1,?
+66,F,健保,R,GA,O.R. of clavicle fracture,醫師8,313,1,常規,1,?
+76,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,231,2,常規,1,?
+74,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,231,2,常規,1,?
+80,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,231,2,常規,1,?
+68,F,健保,R,GA,Arthroplasty TKR,醫師13,231,1,常規,1,?
+68,M,健保,R,SA,"Remove internal fixator,others",醫師26,104,1,常規,1,?
+25,M,健保,R,GA,"Remove internal fixator,tibia",醫師26,104,1,常規,1,?
+87,F,健保,O,GA,Hemiarthroplasty of hip,醫師2,242,1,急刀二級,1,?
+82,F,健保,O,GA,O.R. STC or ITC type III & IV,醫師9,389,1,急刀二級,1,?
+71,F,健保榮民,O,GA,Osteosynthesis-femur,醫師2,242,1,急刀二級,1,?
+71,F,民眾,R,SA,Arthroplasty TKR,醫師3,253,1,常規,1,?
+70,F,健保,R,GA,Arthroplasty TKR,醫師3,253,1,常規,1,?
+61,M,健保,R,GA,Arthroplasty TKR,醫師3,253,1,常規,1,?
+74,F,健保,O,SA,O.R. medial unimalleolus fractur,醫師2,242,1,急刀二級,1,?
+20,M,健保,R,GA,"Remove internal fixator,forearm",醫師5,137,1,常規,1,?
+45,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師8,313,1,急刀二級,1,?
+65,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師8,313,1,急刀二級,1,?
+21,F,健保,O,GA,O.R. of clavicle fracture,醫師8,313,1,急刀二級,1,?
+87,M,健保榮民,O,GA,O.R. STC or ITC type III & IV,醫師7,310,1,急刀二級,1,?
+75,F,健保榮民,O,GA,O.R. fracture Foream radius&uln,醫師9,389,1,急刀二級,1,?
+82,M,健保榮民,O,SA,O.R. STC or ITC type III & IV,醫師9,389,1,急刀二級,1,?
+23,M,健保,O,GA,Curettage - deep,醫師5,138,1,急刀二級,1,?
+20,M,健保,O,GA,O.R. fracture Foream radius&uln,醫師9,389,1,急刀二級,1,?
+16,M,健保,O,GA,Open reduc. fracture-finger/toe,醫師5,138,1,急刀二級,1,?
+84,F,健保,O,GA,O.R. STC or ITC type III & IV,醫師5,138,1,急刀二級,1,?
+8,M,健保,O,GA,C.R. Percutaneous pinning,醫師11,290,2,急刀二級,1,?
+19,F,健保,O,GA,O.R. of clavicle fracture,醫師7,310,1,急刀二級,1,?
+18,M,健保,O,GA,O.R. medial bimalleolus fracture,醫師2,243,1,急刀二級,1,?
+62,M,健保,O,LA,Open reduc. fracture-finger/toe,醫師1,125,1,急刀二級,1,?
+75,M,健保,R,GA,Arthroplasty TKR,醫師3,253,1,常規,1,?
+69,F,健保,R,GA,Total hip replacement,醫師3,253,1,常規,1,?
+66,F,健保,R,GA,Arthroplasty TKR,醫師3,253,1,常規,1,?
+75,F,健保,R,GA,Arthroplasty TKR,醫師3,253,1,常規,1,?
+54,F,健保,R,LA,Arthrodesis finger or toe,醫師1,125,1,常規,1,?
+59,M,健保,R,GA,"Remove internal fixator,humerus",醫師1,125,3,常規,1,?
+81,F,健保,R,SA,Arthroplasty TKR,醫師12,362,1,常規,1,?
+47,F,健保,O,SA,C.R. Nailing of femoral neck fr.,醫師2,243,1,急刀二級,1,?
+59,M,健保,R,GA,Repture of patella tendon repai,醫師4,145,2,常規,1,?
+64,F,健保,R,GA,Arthroplasty TKR,醫師1,125,1,常規,1,?
+19,F,健保,R,GA,Bone tumor Curettage+Bone graft,醫師1,125,1,常規,1,?
+49,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師1,125,2,常規,1,?
+45,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師1,125,2,急刀二級,1,?
+63,F,健保,R,GA,"Remove internal fixator,humerus",醫師1,125,1,常規,1,?
+70,F,健保,R,GA,Partial knee unicompart replacem,醫師9,389,1,常規,1,?
+71,F,健保榮民,R,GA,Total hip replacement,醫師9,389,1,常規,1,?
+66,M,健保,R,GA,Total hip replacement,醫師9,389,1,常規,1,?
+32,M,健保,R,GA,"Remove internal fixator,others",醫師4,145,1,常規,1,?
+65,F,健保,R,GA,Tendon graft-single,醫師8,313,1,常規,1,?
+61,M,健保榮民,R,GA,O.R. of clavicle fracture,醫師8,313,1,常規,1,?
+81,F,健保榮民,R,GA,Arthroplasty of shoulder,醫師8,313,1,常規,1,?
+29,F,健保,O,GA,O.R. fracture - humeral shaft,醫師8,313,1,急刀二級,1,?
+64,M,健保,R,LA,"Remove of Pro. Finger, toe",醫師8,313,1,常規,1,?
+77,F,健保榮民,R,GA,Revision amputated stump-leg,醫師2,243,1,常規,1,?
+78,M,健保,O,GA,Curettage - deep,醫師2,243,1,急刀二級,1,?
+35,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師4,145,3,常規,1,?
+49,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師4,145,2,常規,1,?
+24,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師9,389,2,常規,1,?
+36,M,健保,R,GA,Knee joint ACL reconstruction,醫師4,145,2,常規,1,?
+20,M,健保,O,GA,Open reduc. fracture-hand/foot,醫師2,243,2,急刀二級,1,?
+54,F,健保,O,GA,Open reduc. fracture-hand/foot,醫師4,145,2,急刀二級,1,?
+58,F,健保,O,GA,O.R. of clavicle fracture,醫師4,145,1,急刀二級,1,?
+64,F,健保,R,GA,Arthroplasty TKR,醫師5,138,1,常規,1,?
+79,F,健保,R,GA,Arthroplasty TKR,醫師5,138,1,常規,1,?
+19,F,健保,O,GA,O.R. of clavicle fracture,醫師7,310,1,急刀二級,1,?
+4,M,健保,R,GA,"Remove internal fixator,femur",醫師11,290,1,常規,1,?
+87,M,健保,O,GA,O.R. fracture - humeral shaft,醫師8,313,2,急刀二級,1,?
+50,F,健保,R,GA,Regional fasciectomy,醫師5,138,2,常規,1,?
+57,F,健保,T,LA,Open reduc. Scaphoid Fracture,醫師1,125,1,臨時,1,?
+49,F,健保,O,GA,Hemiarthroplasty of hip,醫師7,310,1,急刀二級,1,?
+23,M,健保,R,GA,O.R. fracture tibia - shaft,醫師5,138,2,常規,1,?
+10,M,健保,O,GA,O.R. fracture tibia - condyle,醫師26,104,1,急刀二級,1,?
+76,F,健保,R,IG,Percutaneous vertebroplasty 1st,醫師7,310,2,常規,1,?
+70,F,健保,R,SA,Arthroplasty TKR,醫師12,362,1,常規,1,?
+55,M,健保,O,GA,O.R. fracture Foream radius&uln,醫師3,253,1,急刀二級,1,?
+68,F,健保,R,SA,Arthroplasty TKR,醫師13,231,1,常規,1,?
+24,M,健保,O,GA,Curettage - deep,醫師3,253,2,急刀二級,1,?
+31,F,本院員工,R,GA,Tendon/ligament repair intra-art,醫師13,231,2,常規,1,?
+79,F,健保榮民,R,GA,Arthroplasty TKR,醫師13,231,1,常規,1,?
+58,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,231,2,常規,1,?
+40,M,健保,R,GA,Knee joint ACL reconstruction,醫師13,231,2,常規,1,?
+26,F,健保,R,GA,Knee joint ACL reconstruction,醫師13,231,2,常規,1,?
+66,F,健保,R,GA,O.R. STC or ITC type III & IV,醫師2,243,2,常規,1,?
+60,M,健保榮民,O,GA,E.F. for fracture - lower limb,醫師3,253,2,急刀二級,1,?
+79,F,健保,O,GA,O.R. fracture - malleolus/talus,醫師3,253,2,急刀二級,1,?
+84,M,健保,O,GA,O.R. STC or ITC type III & IV,醫師13,231,1,急刀二級,1,?
+55,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師3,253,1,急刀二級,1,?
+63,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師3,253,1,急刀二級,1,?
+47,F,健保,O,GA,Open reduc. fracture - radial,醫師3,253,1,急刀二級,1,?
+12,M,健保,R,GA,O.R. fracture Foream radius&uln,醫師26,104,1,常規,1,?
+79,F,健保,O,GA,"O.R. Humerus,Supra,Intercondyle",醫師8,313,1,急刀二級,1,?
+49,M,健保,O,GA,Open reduc. fracture - radial,醫師2,243,1,急刀二級,1,?
+73,M,健保,O,LA,C.R. Percutaneous pinning,醫師5,138,2,急刀二級,1,?
+47,F,健保,O,GA,Open reduction fracture patella,醫師2,243,1,急刀二級,1,?
+45,M,健保榮民,O,GA,O.R. fracture - acetablam,醫師3,253,2,急刀二級,1,?
+14,M,健保,O,GA,"O.R. Femur,Supra,Intercondyle",醫師26,104,1,急刀二級,1,?
+49,M,健保,O,GA,O.R. fracture Foream radius&uln,醫師5,138,1,急刀二級,1,?
+82,F,健保,O,GA,C.R. Intertrochanteric type I&II,醫師26,104,1,急刀二級,1,?
+55,F,健保,O,GA,"O.R. Humerus,Supra,Intercondyle",醫師8,313,1,急刀二級,1,?
+59,M,健保,E,SA,Curettage - deep,醫師2,243,1,急刀一級,1,?
+75,M,健保,R,SA,Arthroplasty TKR,醫師3,253,1,常規,1,?
+68,M,健保,R,GA,Total hip replacement,醫師3,253,1,常規,1,?
+67,F,健保,R,GA,Arthroplasty TKR,醫師3,253,1,常規,1,?
+38,F,健保,R,GA,"Remove internal fixator,others",醫師1,126,2,常規,1,?
+59,M,健保,O,GA,Curettage - deep,醫師2,243,1,急刀二級,1,?
+80,F,健保榮民,R,GA,Hemiarthroplasty of hip,醫師2,243,1,常規,1,?
+58,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師2,243,2,急刀二級,1,?
+23,M,健保,O,GA,O.R. fracture Foream radius&uln,醫師4,145,1,急刀二級,1,?
+70,F,健保,R,GA,Arthroplasty TKR,醫師7,311,1,常規,1,?
+77,M,健保,R,IG,Percutaneous vertebroplasty 1st,醫師7,311,1,常規,1,?
+73,F,健保,R,SA,Arthroplasty TKR,醫師7,311,1,常規,1,?
+71,F,健保,R,GA,Arthroplasty TKR,醫師3,253,1,常規,1,?
+78,F,健保,R,GA,Arthroplasty TKR,醫師7,311,2,常規,1,?
+42,F,健保,R,GA,Arthrodesis finger or toe,醫師1,126,1,常規,1,?
+71,F,健保,R,GA,Total hip replacement,醫師1,126,1,常規,1,?
+65,M,健保,O,LA,O.R. fracture Foream radius&uln,醫師1,126,1,急刀二級,1,?
+39,F,健保,R,GA,Arthroplasty-Revision cup,醫師3,253,1,常規,1,?
+57,F,健保,R,GA,"Remove internal fixator,femur",醫師3,253,1,常規,1,?
+42,M,健保,O,GA,O.R. fracture Foream radius&uln,醫師8,313,1,急刀二級,1,?
+83,M,健保,R,GA,Arthroplasty TKR,醫師9,390,1,常規,1,?
+86,F,健保榮民,R,SA,Arthroplasty TKR,醫師9,390,1,常規,1,?
+80,F,健保榮民,R,SA,Arthroplasty TKR,醫師9,390,1,常規,1,?
+72,F,健保,R,GA,Girdlestone procedure of hip,醫師4,145,1,常規,1,?
+19,M,健保,R,GA,"Remove internal fixator,femur",醫師4,145,2,常規,1,?
+60,F,健保,R,GA,Rotator cuff tear repair-mild,醫師9,390,1,常規,1,?
+33,M,健保,R,GA,O.R. of clavicle fracture,醫師8,313,2,常規,1,?
+84,M,健保,R,GA,Arthroplasty of shoulder,醫師8,313,1,常規,1,?
+28,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師4,145,2,常規,1,?
+28,M,健保,R,GA,Knee joint ACL reconstruction,醫師4,145,1,常規,1,?
+35,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師4,145,2,常規,1,?
+27,M,健保,R,GA,Hallux valgus(chevron),醫師5,138,1,常規,1,?
+28,M,健保,O,GA,"O.R. Humerus,Supra,Intercondyle",醫師5,138,1,急刀二級,1,?
+4,F,健保,R,GA,Fasciotomy simple,醫師11,290,3,常規,1,?
+11,F,健保,R,GA,Tendon transfer,醫師11,290,3,常規,1,?
+8,M,健保,O,GA,O.R. fracture Foream radius&uln,醫師26,104,1,急刀二級,1,?
+81,F,健保榮民,O,LA,O.R. fracture Foream radius&uln,醫師1,126,1,急刀二級,1,?
+60,M,健保榮民,R,GA,O.R. fracture tibia - condyle,醫師3,253,2,常規,1,?
+57,F,健保,R,GA,Total hip replacement,醫師3,253,1,常規,1,?
+58,F,健保,R,SA,"Remove internal fixator,others",醫師5,138,1,常規,1,?
+53,F,健保,R,SA,"Remove internal fixator,others",醫師5,138,1,常規,1,?
+69,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師3,253,1,急刀二級,1,?
+76,F,健保榮民,R,SA,Arthroplasty TKR,醫師3,253,1,常規,1,?
+86,F,健保榮民,O,SA,Hemiarthroplasty of hip,醫師8,313,1,急刀二級,1,?
+66,F,健保,O,GA,Osteosynthesis-femur,醫師3,253,1,急刀二級,1,?
+41,M,健保,O,GA,O.R. fracture tibia - shaft,醫師8,313,1,急刀二級,1,?
+25,F,健保,R,GA,"Remove internal fixator,tibia",醫師26,104,1,常規,1,?
+50,M,健保,O,LA,Open reduc. fracture-finger/toe,醫師8,313,1,急刀二級,1,?
+68,M,健保,R,SA,Arthroplasty TKR,醫師9,390,1,常規,1,?
+39,M,健保,R,GA,"O.R. Femur,Supra,Intercondyle",醫師9,390,1,常規,1,?
+59,M,健保,R,SA,O.R. fracture - malleolus/talus,醫師2,243,2,常規,1,?
+18,M,健保,O,GA,Close reduc. fracture-finger/toe,醫師8,313,1,急刀二級,1,?
+71,F,健保,R,GA,Total elbow replacement,醫師8,313,1,常規,1,?
+61,F,健保,R,GA,"Remove internal fixator,others",醫師8,313,1,常規,1,?
+41,M,健保,R,GA,Tendon graft-single,醫師8,313,1,常規,1,?
+54,F,健保,R,GA,O.R. of clavicle fracture,醫師3,254,1,常規,1,?
+20,M,健保,R,GA,"Remove internal fixator,femur",醫師25,157,3,常規,1,?
+25,M,健保,R,GA,"Remove internal fixator,others",醫師1,126,1,常規,1,?
+37,F,健保榮民,R,SA,Arthroplasty TKR,醫師3,254,1,常規,1,?
+29,M,國軍人員,R,GA,AS Knee - Menisectomy,醫師13,231,1,常規,1,?
+67,F,健保,O,SA,Hemiarthroplasty of hip,醫師2,243,1,急刀二級,1,?
+16,F,健保,O,SA,O.R. fracture - femoral shaft,醫師2,243,1,急刀二級,1,?
+19,M,健保,O,GA,O.R. of clavicle fracture,醫師2,243,1,急刀二級,1,?
+18,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師2,243,1,急刀二級,1,?
+60,F,健保,O,GA,O.R. fracture tibia - condyle,醫師1,126,1,急刀二級,1,?
+67,F,健保,R,SA,Arthroplasty TKR,醫師3,254,1,常規,1,?
+75,F,健保,R,SA,Arthroplasty TKR,醫師3,254,1,常規,1,?
+65,F,健保,R,GA,Total hip replacement,醫師3,254,1,常規,1,?
+60,F,健保,R,SA,Unicompartment joint replace.,醫師3,254,1,常規,1,?
+20,F,健保,R,GA,O.R. fracture pelvis,醫師2,243,1,常規,1,?
+55,F,健保,O,GA,O.R. fracture - femoral shaft,醫師2,243,1,急刀二級,1,?
+44,M,健保,O,SA,Ostheosynthesis-metatarsal,醫師9,390,1,急刀二級,1,?
+66,F,健保榮民,R,GA,Arthroplasty TKR,醫師3,254,1,常規,1,?
+38,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師1,126,2,常規,1,?
+51,F,健保,R,GA,Tendon transfer,醫師1,126,3,常規,1,?
+75,M,健保,R,SA,Arthroplasty TKR,醫師9,390,1,常規,1,?
+75,F,健保,R,GA,Arthroplasty TKR,醫師9,390,1,常規,1,?
+51,M,健保,O,GA,O.R. fracture tibia - shaft,醫師5,138,1,急刀二級,1,?
+50,M,健保,R,GA,Total hip replacement,醫師8,313,1,常規,1,?
+65,F,健保,R,GA,O.R. fracture - humeral shaft,醫師4,146,1,常規,1,?
+60,F,健保,R,GA,Ostheosynthesis-metatarsal,醫師5,138,2,常規,1,?
+27,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師5,138,2,常規,1,?
+39,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師5,138,1,常規,1,?
+1,F,健保幼兒,R,GA,O.R. fracture - femoral shaft,醫師11,290,2,常規,1,?
+12,M,健保,R,GA,"Remove internal fixator,forearm",醫師11,290,1,常規,1,?
+63,F,健保,O,SA,Open reduc. fracture-finger/toe,醫師26,105,1,急刀二級,1,?
+74,M,健保,R,GA,Arthroplasty TKR,醫師13,232,1,常規,1,?
+82,M,健保,O,GA,O.R. fracture - femoral shaft,醫師26,105,1,急刀二級,1,?
+58,M,健保榮民,O,GA,SFPSF with spinal <6 motion seg,醫師26,105,1,急刀二級,1,?
+72,F,健保,O,GA,O.R. STC or ITC type III & IV,醫師26,105,1,急刀二級,1,?
+70,F,健保,R,SA,Arthroplasty TKR,醫師3,254,1,常規,1,?
+58,M,健保,R,GA,Total hip replacement,醫師3,254,1,常規,1,?
+25,M,健保,R,SA,"Remove internal fixator,tibia",醫師3,254,1,常規,1,?
+62,M,健保,R,GA,Curettage - deep,醫師3,254,2,常規,1,?
+58,F,健保,R,GA,Ostheosynthesis-metatarsal,醫師5,138,2,常規,1,?
+55,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,232,2,常規,1,?
+53,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,232,2,常規,1,?
+17,M,健保,R,GA,Knee joint ACL reconstruction,醫師13,232,2,常規,1,?
+34,F,健保,R,GA,Knee joint PCL reconstruction,醫師13,232,2,常規,1,?
+68,F,健保,R,GA,Arthroplasty TKR,醫師9,390,1,常規,1,?
+59,F,健保,R,SA,Arthroplasty TKR,醫師9,390,1,常規,1,?
+71,F,健保,O,SA,O.R. fracture - malleolus/talus,醫師5,138,1,急刀二級,1,?
+57,M,健保,O,SA,O.R. fracture - malleolus/talus,醫師5,138,1,急刀二級,1,?
+48,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師5,138,2,常規,1,?
+80,F,健保,O,GA,O.R. STC or ITC type III & IV,醫師13,232,1,急刀二級,1,?
+39,F,健保,R,GA,Knee joint ACL reconstruction,醫師13,232,2,常規,1,?
+10,M,民眾,E,GA,O.R. fracture Foream radius&uln,醫師11,290,1,急刀一級,1,?
+75,F,健保,R,GA,O.R. fracture Foream radius&uln,醫師8,313,1,常規,1,?
+81,F,健保榮民,R,GA,Total elbow replacement,醫師8,313,1,常規,1,?
+56,M,健保,R,GA,Debridment 5-10cm,醫師8,313,2,常規,1,?
+34,F,健保,R,GA,"Remove internal fixator,femur",醫師25,157,3,常規,1,?
+52,F,健保,O,GA,O.R. fracture - humeral shaft,醫師8,313,1,急刀二級,1,?
+68,F,健保,O,SA,O.R. STC or ITC type III & IV,醫師8,313,1,急刀二級,1,?
+39,F,健保,R,GA,"Remove internal fixator,others",醫師1,126,1,常規,1,?
+47,M,健保榮民,R,GA,Arthroscopic shaving arthroplas,醫師13,232,1,常規,1,?
+53,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,232,2,常規,1,?
+23,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,232,2,常規,1,?
+22,M,健保,R,GA,AS Knee - Menisectomy,醫師13,232,1,常規,1,?
+62,M,健保,R,LA,Open reduc. fracture-finger/toe,醫師8,313,1,常規,1,?
+26,M,健保,O,GA,Ostheosynthesis-metacarpal,醫師8,313,1,急刀二級,1,?
+69,F,健保榮民,O,GA,O.R. fracture - malleolus/talus,醫師5,138,1,急刀二級,1,?
+64,F,健保,O,SA,C.R. Nailing of femoral neck fr.,醫師8,313,1,急刀二級,1,?
+93,M,健保榮民,O,GA,Hemiarthroplasty of hip,醫師5,138,1,急刀二級,1,?
+88,M,健保榮民,O,SA,Hemiarthroplasty of hip,醫師8,313,1,急刀二級,1,?
+28,M,健保,O,GA,Open reduc. fracture-finger/toe,醫師8,313,3,急刀二級,1,?
+57,M,健保福保,O,GA,O.R. fracture Foream radius&uln,醫師8,313,1,急刀二級,1,?
+19,M,健保,O,GA,O.R. fracture Foream radius&uln,醫師1,126,1,急刀二級,1,?
+78,F,健保榮民,O,SA,Open reduction fracture patella,醫師5,138,1,急刀二級,1,?
+71,F,健保,R,SA,Arthroplasty TKR,醫師3,254,1,常規,1,?
+71,F,健保榮民,R,SA,Arthroplasty TKR,醫師3,254,1,常規,1,?
+76,F,健保榮民,R,GA,Total hip replacement,醫師3,254,1,常規,1,?
+65,F,健保,R,GA,Arthroplasty TKR,醫師3,254,1,常規,1,?
+40,F,健保,O,GA,O.R. of clavicle fracture,醫師5,138,1,急刀二級,1,?
+72,M,健保,R,SA,Arthroplasty TKR,醫師12,363,1,常規,1,?
+59,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師5,138,1,急刀二級,1,?
+57,M,健保,R,LA,Open reduc. fracture-hand/foot,醫師1,126,1,常規,1,?
+60,M,健保榮民,R,GA,Arthroplasty TKR,醫師1,126,1,常規,1,?
+70,F,健保,R,SA,Arthroplasty TKR,醫師1,126,1,常規,1,?
+27,M,健保,R,GA,Tenosynovectomy,醫師1,126,1,常規,1,?
+62,M,健保,R,GA,Removal of internal fixator,醫師25,157,2,常規,1,?
+42,M,健保,R,GA,"Remove internal fixator,humerus",醫師3,254,1,常規,1,?
+64,F,健保,O,GA,O.R. STC or ITC type III & IV,醫師2,243,1,急刀二級,1,?
+78,F,健保,R,SA,Arthroplasty TKR,醫師9,390,1,常規,1,?
+69,F,健保,R,SA,Arthroplasty TKR,醫師9,390,1,常規,1,?
+79,M,健保,R,GA,Unicompartment joint replace.,醫師9,390,1,常規,1,?
+52,M,健保,O,SA,Ostheosynthesis-metatarsal,醫師1,126,1,急刀二級,1,?
+27,M,健保,O,GA,Curettage - deep,醫師9,390,2,急刀二級,1,?
+65,F,健保,R,GA,Partial knee unicompart replacem,醫師14,352,1,常規,1,?
+20,M,健保,R,GA,"Remove internal fixator,humerus",醫師8,313,1,常規,1,?
+19,F,健保,R,GA,Soft tissue release upper extrem,醫師8,313,1,常規,1,?
+59,M,健保,R,GA,"O.R. Humerus,Supra,Intercondyle",醫師8,313,1,常規,1,?
+68,M,健保,R,GA,Total hip replacement,醫師12,363,1,常規,1,?
+59,F,健保,R,GA,Arthroplasty TKR,醫師12,363,1,常規,1,?
+58,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師4,146,2,常規,1,?
+58,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師4,146,2,常規,1,?
+51,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師4,146,2,常規,1,?
+77,M,健保,O,GA,O.R. STC or ITC type III & IV,醫師2,243,1,急刀二級,1,?
+73,F,健保,R,GA,Curettage - deep,醫師5,138,2,常規,1,?
+60,F,健保,R,SA,Ostheosynthesis-metatarsal,醫師5,138,2,常規,1,?
+27,F,健保,R,GA,"Remove internal fixator,others",醫師5,138,1,常規,1,?
+36,F,健保,R,GA,Knee joint ACL reconstruction,醫師13,232,1,常規,1,?
+0,F,健保幼兒,R,GA,C.R. dislocation of hip joint,醫師11,290,1,常規,1,?
+68,M,健保,O,GA,O.R. STC or ITC type III & IV,醫師3,254,1,急刀二級,1,?
+56,M,健保,O,SA,O.R. fracture - malleolus/talus,醫師5,138,1,急刀二級,1,?
+71,M,健保,R,GA,Arthroplasty TKR,醫師13,232,1,常規,1,?
+71,M,健保,R,GA,Arthroplasty TKR,醫師13,232,1,常規,1,?
+54,M,健保榮民,R,GA,Arthroscopic shaving arthroplas,醫師13,232,2,常規,1,?
+34,M,健保,R,GA,Knee joint ACL reconstruction,醫師13,232,3,常規,1,?
+40,M,健保,O,GA,O.R. fracture - humeral shaft,醫師1,126,1,急刀二級,1,?
+32,M,健保,R,GA,"Remove internal fixator,others",醫師26,105,1,常規,1,?
+70,M,健保,R,GA,O.R.scapula fracture juxta-arti,醫師2,243,1,常規,1,?
+47,M,健保,O,GA,O.R. dislocation of ankle joint,醫師1,126,2,急刀二級,1,?
+72,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師25,158,1,急刀二級,1,?
+34,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,232,2,常規,1,?
+36,M,健保,O,GA,O.R. of clavicle fracture,醫師7,311,1,急刀二級,1,?
+59,F,民眾,R,LA,Curettage - deep,醫師5,138,1,常規,1,?
+41,F,健保,R,GA,"Remove internal fixator,tibia",醫師2,243,2,常規,1,?
+66,F,健保,R,GA,Shoulder joint hemiarthroplasty,醫師8,314,1,常規,1,?
+35,M,健保,E,SA,C.R. Nailing of femoral neck fr.,醫師3,254,1,急刀一級,1,?
+66,F,健保,R,SA,Arthroplasty TKR,醫師7,311,1,常規,1,?
+83,F,健保榮民,R,GA,Percutaneous vertebroplasty 1st,醫師7,311,1,常規,1,?
+76,F,健保,R,GA,Revision Spine fusion instrument,醫師7,311,2,常規,1,?
+60,M,健保,R,GA,Rupture quadriceps tendon repai,醫師1,126,2,常規,1,?
+74,F,健保,R,SA,Arthroplasty TKR,醫師3,254,1,常規,1,?
+70,M,健保,R,SA,Arthroplasty TKR,醫師3,254,1,常規,1,?
+57,M,健保榮民,R,GA,"Remove internal fixator,others",醫師13,232,1,常規,1,?
+72,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,232,2,常規,1,?
+62,F,健保,R,GA,AS Knee - Menisectomy,醫師13,232,1,常規,1,?
+28,M,健保,R,GA,Knee joint ACL reconstruction,醫師13,232,2,常規,1,?
+23,M,健保,R,GA,AS Knee - Menisectomy,醫師13,232,1,常規,1,?
+19,M,健保,O,GA,O.R. fracture Foream radius&uln,醫師1,126,1,急刀二級,1,?
+12,M,健保,E,GA,O.R. fracture Foream radius&uln,醫師11,290,1,急刀一級,1,?
+27,M,健保,O,GA,O.R. of clavicle fracture,醫師3,254,1,急刀二級,1,?
+60,M,健保榮民,O,GA,Curettage - deep,醫師1,126,1,急刀二級,1,?
+65,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師5,139,3,急刀二級,1,?
+41,M,健保,O,SA,O.R. fracture - malleolus/talus,醫師5,139,1,急刀二級,1,?
+50,M,健保,O,SA,O.R. fracture - malleolus/talus,醫師5,139,1,急刀二級,1,?
+65,F,健保,R,GA,Arthroplasty TKR,醫師3,254,1,常規,1,?
+65,M,健保,R,GA,Arthroplasty TKR,醫師3,254,1,常規,1,?
+59,M,健保,R,GA,Total hip replacement,醫師3,254,1,常規,1,?
+58,F,健保,R,SA,Corrective osteotomy-lower limb,醫師3,254,3,常規,1,?
+59,F,健保,R,SA,Arthroplasty TKR,醫師3,254,1,常規,1,?
+13,F,健保,O,GA,O.R. fracture - humeral shaft,醫師1,126,1,急刀二級,1,?
+71,M,健保,R,GA,"Remove internal fixator,others",醫師6,311,1,常規,1,?
+24,F,健保,R,SA,Bone biopsy,醫師6,311,1,常規,1,?
+55,F,健保,R,GA,Total hip replacement,醫師1,126,1,常規,1,?
+44,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師1,126,2,常規,1,?
+53,F,健保,O,GA,"O.R. Humerus,Supra,Intercondyle",醫師1,126,1,急刀二級,1,?
+47,M,健保,R,GA,O.R. fracture tibia - condyle,醫師1,126,1,常規,1,?
+69,F,健保榮民,O,GA,O.R. fracture tibia - condyle,醫師1,126,1,急刀二級,1,?
+18,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師1,126,2,常規,1,?
+46,F,健保,O,GA,"O.R. Femur,Supra,Intercondyle",醫師3,254,1,急刀二級,1,?
+66,M,健保榮民,R,SA,Tendon repair-single,醫師9,390,1,常規,1,?
+81,F,健保,O,SA,Hemiarthroplasty of hip,醫師9,390,1,急刀二級,1,?
+67,F,健保榮民,O,GA,O.R. medial bimalleolus fracture,醫師9,390,1,急刀二級,1,?
+41,F,健保,R,GA,"Remove internal fixator,others",醫師9,390,1,常規,1,?
+59,F,健保,R,GA,Total hip replacement,醫師14,353,1,常規,1,?
+73,F,健保,O,GA,Hemiarthroplasty of hip,醫師1,126,1,急刀二級,1,?
+64,M,民眾,R,GA,"Remove internal fixator,others",醫師4,146,1,常規,1,?
+109,F,健保,E,GA,Curettage - deep,醫師5,139,2,急刀一級,1,?
+75,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師4,146,3,常規,1,?
+51,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師4,146,2,常規,1,?
+43,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師4,146,2,常規,1,?
+29,F,健保,R,SA,Arthrodesis finger or toe,醫師5,139,2,常規,1,?
+78,F,健保榮民,R,SA,Arthroplasty TKR,醫師3,254,1,常規,1,?
+71,F,健保榮民,R,SA,Amputation above knee,醫師3,254,1,常規,1,?
+39,F,健保,O,GA,Osteosynthesis-femur,醫師2,244,1,急刀二級,1,?
+38,F,健保,R,SA,Ostheosynthesis-metatarsal,醫師5,139,1,常規,1,?
+69,M,健保,O,GA,O.R. fracture - malleolus/talus,醫師2,244,1,急刀二級,1,?
+67,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,232,2,常規,1,?
+66,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,232,2,常規,1,?
+47,F,健保榮民,R,GA,Knee joint PCL reconstruction,醫師13,232,2,常規,1,?
+37,M,健保,R,GA,Knee joint ACL reconstruction,醫師13,232,2,常規,1,?
+69,F,健保榮民,R,SA,Arthroplasty TKR,醫師9,390,1,常規,1,?
+78,F,健保,R,GA,Hemiarthroplasty of hip,醫師9,390,1,常規,1,?
+58,F,健保,R,GA,"Remove of Pro. Wrist, Ankle",醫師26,105,1,常規,1,?
+53,M,健保,R,GA,Excision of ganglion or hygrom,醫師2,244,1,常規,1,?
+94,F,民眾,R,GA,O.R. STC or ITC type III & IV,醫師2,244,1,常規,1,?
+38,M,健保,O,GA,O.R. fracture tibia - shaft,醫師2,244,1,急刀二級,1,?
+43,M,健保,R,GA,"Remove internal fixator,others",醫師2,244,1,常規,1,?
+42,M,健保,R,GA,Corrective osteotomy-upper limb,醫師8,314,1,常規,1,?
+39,M,健保,O,GA,O.R. fracture Foream radius&uln,醫師13,232,1,急刀二級,1,?
+37,F,健保榮民,O,SA,Repture of patella tendon repai,醫師3,254,1,急刀二級,1,?
+69,M,健保,R,SA,Curettage - deep,醫師12,363,1,常規,1,?
+68,M,警政署,R,GA,"Remove internal fixator,others",醫師1,126,1,常規,1,?
+70,F,健保,R,GA,"Remove internal fixator,others",醫師13,232,1,常規,1,?
+69,F,健保榮民,R,SA,O.R. fracture tibia - condyle,醫師1,126,1,常規,1,?
+56,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,232,1,常規,1,?
+46,M,健保,R,GA,Total hip replacement,醫師13,232,1,常規,1,?
+66,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,232,2,常規,1,?
+68,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,232,2,常規,1,?
+28,M,健保,R,GA,Knee joint ACL reconstruction,醫師13,232,2,常規,1,?
+45,M,健保,O,GA,O.R. of clavicle fracture,醫師13,232,1,急刀二級,1,?
+60,M,健保,O,GA,O.R. fracture Foream radius&uln,醫師8,314,1,急刀二級,1,?
+56,F,健保,O,GA,O.R. fracture tibia - condyle,醫師2,244,1,急刀二級,1,?
+56,M,健保,O,GA,O.R. fracture Foream radius&uln,醫師3,254,1,急刀二級,1,?
+67,F,健保榮民,R,SA,Arthroplasty TKR,醫師3,254,1,常規,1,?
+71,M,健保,R,GA,Arthroplasty TKR,醫師3,254,1,常規,1,?
+79,M,健保,R,SA,Arthroplasty TKR,醫師3,254,1,常規,1,?
+85,F,健保,R,GA,Arthroplasty-revision THR,醫師3,254,2,常規,1,?
+54,M,健保,O,GA,O.R. fracture Foream radius&uln,醫師9,391,1,急刀二級,1,?
+69,F,健保,R,GA,O.R. of clavicle fracture,醫師3,254,1,常規,1,?
+70,F,健保,R,SA,"Remove internal fixator,tibia",醫師3,254,1,常規,1,?
+58,M,健保,R,GA,Total hip replacement,醫師3,254,1,常規,1,?
+26,M,健保,O,GA,O.R. of clavicle fracture,醫師4,146,1,急刀二級,1,?
+69,M,健保榮民,R,GA,Total hip replacement,醫師7,312,1,常規,1,?
+70,F,健保,R,SA,Arthroplasty TKR,醫師7,312,1,常規,1,?
+29,M,健保,R,GA,"Bone graft Autograft, medium",醫師1,126,3,常規,1,?
+31,M,健保,R,GA,Ostheosynthesis-metacarpal,醫師1,126,1,常規,1,?
+64,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師1,126,1,急刀二級,1,?
+78,M,健保,R,SA,Arthroplasty TKR,醫師9,391,1,常規,1,?
+66,M,健保,R,GA,Arthroplasty TKR,醫師9,391,1,常規,1,?
+67,M,健保榮民,R,GA,Rotator cuff tear repair-mild,醫師9,391,1,常規,1,?
+73,F,健保,R,SA,Arthroplasty TKR,醫師14,353,1,常規,1,?
+78,F,民眾,O,GA,O.R. fracture Foream radius&uln,醫師5,139,1,急刀二級,1,?
+62,M,健保,O,GA,Open reduction fracture - ulna,醫師8,314,1,急刀二級,1,?
+69,F,健保,R,SA,Arthroplasty TKR,醫師12,363,1,常規,1,?
+54,F,健保,R,GA,Total hip replacement,醫師12,363,1,常規,1,?
+21,M,健保,R,GA,"Remove internal fixator,femur",醫師8,314,1,常規,1,?
+80,F,健保,O,SA,Hemiarthroplasty of hip,醫師3,254,1,急刀二級,1,?
+40,M,健保,R,GA,O.R. fracture - malleolus/talus,醫師5,139,1,常規,1,?
+64,F,健保,O,GA,O.R. fracture tibia - condyle,醫師5,139,1,急刀二級,1,?
+56,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師5,139,1,急刀二級,1,?
+53,F,健保,O,GA,Open reduc. fracture - radial,醫師5,139,1,急刀二級,1,?
+8,M,健保,O,GA,O.R. fracture Foream radius&uln,醫師26,105,1,急刀二級,1,?
+52,M,健保,R,SA,"Remove internal fixator,others",醫師5,139,1,常規,1,?
+40,M,健保,O,GA,Curettage - deep,醫師1,126,2,急刀二級,1,?
+70,F,健保,R,SA,Arthroplasty TKR,醫師3,254,1,常規,1,?
+69,F,健保,R,GA,Total hip replacement,醫師3,254,1,常規,1,?
+72,M,健保,R,SA,Arthroplasty TKR,醫師3,254,1,常規,1,?
+66,F,健保,O,GA,O.R. medial bimalleolus fracture,醫師3,254,2,急刀二級,1,?
+61,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師13,232,4,急刀二級,1,?
+39,F,健保,R,GA,"Remove internal fixator,others",醫師6,312,1,常規,1,?
+25,F,本院員工,R,IG,"Remove internal fixator,others",醫師6,312,1,常規,1,?
+57,M,健保榮民,R,GA,Arthroscopic shaving arthroplas,醫師6,312,1,常規,1,?
+87,F,健保,O,IG,Percutaneous vertebroplasty 1st,醫師7,312,2,急刀二級,1,?
+78,M,健保,R,SA,Arthroplasty TKR,醫師9,391,1,常規,1,?
+76,F,健保,R,SA,Unicompartment joint replace.,醫師9,391,1,常規,1,?
+23,F,健保,O,GA,O.R. fracture tibia - condyle,醫師3,254,1,急刀二級,1,?
+77,F,健保榮民,O,GA,"O.R. Humerus,Supra,Intercondyle",醫師13,232,1,急刀二級,1,?
+49,M,健保,R,GA,O.R. of clavicle fracture,醫師8,314,1,常規,1,?
+48,F,健保,R,GA,"Remove internal fixator,forearm",醫師8,314,1,常規,1,?
+70,F,健保,R,GA,"Remove internal fixator,others",醫師8,314,1,常規,1,?
+57,M,健保,R,GA,O.R. fracture tibia - condyle,醫師13,232,3,常規,1,?
+78,F,健保,O,SA,Hemiarthroplasty of hip,醫師8,314,1,急刀二級,1,?
+62,F,健保,O,SA,C.R. Nailing of femoral neck fr.,醫師3,254,1,急刀二級,1,?
+78,F,健保,R,SA,Arthroplasty TKR,醫師3,254,1,常規,1,?
+80,F,健保榮民,R,GA,Arthroplasty-Revision cup,醫師14,353,1,常規,1,?
+62,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,232,2,常規,1,?
+71,M,健保,R,GA,Knee joint PCL reconstruction,醫師13,232,2,常規,1,?
+69,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,232,2,常規,1,?
+60,F,健保,R,SA,"Remove internal fixator,femur",醫師3,254,1,常規,1,?
+34,M,健保,R,GA,O.R. of clavicle fracture,醫師25,158,1,常規,1,?
+13,M,健保福保,O,GA,C.R. Forearm & colles' fracture,醫師26,105,1,急刀二級,1,?
+80,M,健保榮民,O,GA,Hemiarthroplasty of hip,醫師8,314,1,急刀二級,1,?
+86,F,健保,O,SA,O.R. STC or ITC type III & IV,醫師8,314,1,急刀二級,1,?
+48,M,健保,O,GA,O.R. fracture Foream radius&uln,醫師8,314,1,急刀二級,1,?
+40,M,健保,O,GA,Curettage - deep,醫師6,312,1,急刀二級,1,?
+49,M,健保,O,GA,O.R. of clavicle fracture,醫師8,314,1,急刀二級,1,?
+77,F,健保榮民,O,SA,C.R. Nailing of femoral neck fr.,醫師2,244,1,急刀二級,1,?
+72,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師8,314,1,急刀二級,1,?
+64,F,健保,O,GA,C.R. Intertrochanteric type I&II,醫師4,146,1,急刀二級,1,?
+36,M,健保,R,GA,Total hip replacement,醫師3,255,1,常規,1,?
+65,F,健保,R,GA,Arthroplasty TKR,醫師3,255,1,常規,1,?
+80,F,健保榮民,R,GA,Arthroplasty TKR,醫師3,255,1,常規,1,?
+38,F,健保,R,GA,"Remove internal fixator,forearm",醫師3,255,1,常規,1,?
+47,M,健保榮民,O,GA,O.R. fracture Foream radius&uln,醫師4,146,1,急刀二級,1,?
+43,F,健保,O,SA,O.R. fracture - malleolus/talus,醫師4,146,1,急刀二級,1,?
+56,F,健保,R,SA,hindfoot triple arthrodesis,醫師6,312,1,常規,1,?
+71,F,健保,R,SA,"Remove internal fixator,others",醫師6,312,1,常規,1,?
+84,M,健保榮民,R,GA,Arthroplasty TKR,醫師1,127,1,常規,1,?
+73,M,健保,R,GA,O.R. fracture tibia - shaft,醫師3,255,3,常規,1,?
+63,F,健保,O,GA,O.R. fracture tibia - condyle,醫師5,139,2,急刀二級,1,?
+33,M,健保,R,GA,"Remove internal fixator,others",醫師25,158,1,常規,1,?
+50,F,健保,O,SA,Open reduc. fracture-hand/foot,醫師3,255,1,急刀二級,1,?
+62,M,健保榮民,R,SA,Arthroplasty TKR,醫師9,391,1,常規,1,?
+64,F,健保,R,GA,"Remove internal fixator,others",醫師4,146,1,常規,1,?
+46,F,健保,R,GA,"Remove internal fixator,others",醫師4,146,1,常規,1,?
+42,F,健保,R,GA,"Remove internal fixator,others",醫師4,146,1,常規,1,?
+54,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師3,255,1,急刀二級,1,?
+3,F,健保,O,GA,"O.R. Humerus,Supra,Intercondyle",醫師11,291,1,急刀二級,1,?
+45,F,健保,R,GA,O.R. fracture Foream radius&uln,醫師8,314,2,常規,1,?
+83,M,健保,R,SA,Arthroplasty TKR,醫師14,353,1,常規,1,?
+27,M,健保,O,GA,O.R. of clavicle fracture,醫師8,314,1,急刀二級,1,?
+51,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師4,146,2,常規,1,?
+71,F,健保,R,GA,AS Knee - Meniscus repair,醫師9,391,1,常規,2,?
+20,F,民眾,R,GA,Knee joint ACL repair,醫師4,146,2,常規,1,?
+49,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師4,146,2,常規,1,?
+41,M,健保,R,GA,Ostheosynthesis-metatarsal,醫師5,139,1,常規,1,?
+25,F,健保,O,GA,O.R. of clavicle fracture,醫師2,244,1,急刀二級,1,?
+15,M,健保,E,GA,Curettage - deep,醫師26,106,2,急刀一級,1,?
+71,F,健保,R,GA,Hemiarthroplasty of hip,醫師13,233,1,常規,1,?
+62,F,健保,R,GA,Curettage - deep,醫師5,139,2,常規,1,?
+55,F,健保,R,GA,Partial knee unicompart replacem,醫師13,233,1,常規,1,?
+52,M,健保,R,GA,AS Knee - Menisectomy,醫師13,233,1,常規,1,?
+93,M,健保榮民,O,GA,O.R. STC or ITC type III & IV,醫師2,244,1,急刀二級,1,?
+57,F,健保,O,GA,Curettage - deep,醫師8,314,2,急刀二級,1,?
+8,M,健保,O,GA,"O.R. Humerus,Supra,Intercondyle",醫師26,106,1,急刀二級,1,?
+25,F,健保,O,GA,O.R. fracture - femoral shaft,醫師3,255,1,急刀二級,1,?
+77,F,健保,R,GA,Arthroplasty TKR,醫師12,364,1,常規,1,?
+60,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師2,244,1,急刀二級,1,?
+66,M,健保,R,SA,Arthroplasty TKR,醫師9,391,1,常規,1,?
+78,F,健保,R,GA,O.R. fracture Foream radius&uln,醫師9,391,1,常規,1,?
+50,F,健保福保,R,GA,Knee joint PCL reconstruction,醫師13,233,3,常規,1,?
+35,M,健保,O,GA,O.R. fracture Foream radius&uln,醫師2,244,1,急刀二級,1,?
+44,M,健保,R,GA,"Remove internal fixator,others",醫師8,314,1,常規,1,?
+44,M,健保,R,GA,Total hip replacement,醫師8,314,1,常規,1,?
+4,F,健保,E,GA,Curettage - deep,醫師11,291,1,急刀一級,1,?
+51,M,健保,O,GA,O.R. of clavicle fracture,醫師1,127,1,急刀二級,1,?
+35,M,健保,R,GA,"Remove internal fixator,humerus",醫師3,255,1,常規,1,?
+74,M,健保,R,GA,Total hip replacement,醫師13,233,1,常規,1,?
+59,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,233,2,常規,1,?
+59,M,健保,R,GA,Knee joint ACL reconstruction,醫師13,233,2,常規,1,?
+45,F,健保,R,GA,"Remove internal fixator,humerus",醫師3,255,1,常規,1,?
+56,M,健保,R,GA,Close reduc. fracture-metacarpal,醫師5,139,1,常規,1,?
+20,M,健保,O,GA,O.R. fracture Foream radius&uln,醫師5,139,1,急刀二級,1,?
+55,F,健保,E,GA,Curettage - deep,醫師1,127,2,急刀一級,1,?
+76,M,健保,R,SA,Arthroplasty TKR,醫師3,255,1,常規,1,?
+63,M,健保,R,GA,Total hip replacement,醫師3,255,1,常規,1,?
+67,F,健保,R,GA,Unicompartment joint replace.,醫師3,255,1,常規,1,?
+19,F,健保,R,GA,"Ex.bone lower extremity,com.",醫師3,255,1,常規,1,?
+27,F,健保,O,GA,Open reduc. fracture-hand/foot,醫師1,127,2,急刀二級,1,?
+50,M,健保,O,LA,Curettage - deep,醫師1,127,2,急刀二級,1,?
+16,M,健保,R,GA,O.R. medial bimalleolus fracture,醫師6,312,1,常規,1,?
+23,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師6,312,1,常規,1,?
+9,M,健保,O,GA,C.R. Forearm & colles' fracture,醫師11,291,2,急刀二級,1,?
+78,F,健保,R,SA,Arthroplasty TKR,醫師7,312,1,常規,1,?
+50,M,健保,O,GA,O.R. fracture - femoral shaft,醫師3,255,1,急刀二級,1,?
+25,M,健保,R,LA,"Remove internal fixator,others",醫師1,127,2,常規,1,?
+38,M,健保,R,GA,Hemiarthroplasty of hip,醫師1,127,1,常規,1,?
+41,F,健保,O,GA,O.R. fracture tibia - condyle,醫師1,127,1,急刀二級,1,?
+51,F,健保,R,GA,"Remove internal fixator,humerus",醫師1,127,1,常規,1,?
+18,F,健保,O,GA,O.R. fracture tibia - shaft,醫師1,127,3,急刀二級,1,?
+19,M,健保,R,GA,"Remove internal fixator,forearm",醫師25,158,1,常規,1,?
+32,F,健保,R,LA,Soft tissue release upper extrem,醫師1,127,2,常規,1,?
+88,F,健保榮民,R,SA,Arthroplasty TKR,醫師9,391,1,常規,1,?
+44,M,健保,R,GA,"Remove internal fixator,femur",醫師9,391,2,常規,1,?
+83,F,健保榮民,R,GA,Arthroplasty of shoulder,醫師8,314,1,常規,1,?
+61,F,健保,O,GA,O.R. fracture tibia - shaft,醫師1,127,1,急刀二級,1,?
+86,F,健保,R,GA,Arthroplasty TKR,醫師14,353,1,常規,1,?
+72,F,健保,R,SA,Arthroplasty TKR,醫師14,353,1,常規,1,?
+56,F,健保,O,SA,C.R. Metatarsal bone fracture,醫師8,314,1,急刀二級,1,?
+87,M,健保,R,GA,Total hip replacement,醫師12,364,1,常規,1,?
+68,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師8,314,1,急刀二級,1,?
+56,F,健保,R,GA,Ostheosynthesis-metatarsal,醫師5,139,1,常規,1,?
+35,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師5,139,3,常規,1,?
+4,M,健保,O,GA,"O.R. Humerus,Supra,Intercondyle",醫師11,291,1,急刀二級,1,?
+69,F,健保榮民,O,GA,O.R. fracture Foream radius&uln,醫師1,127,1,急刀二級,1,?
+68,F,民眾,O,LA,Open reduc. fracture-finger/toe,醫師1,127,1,急刀二級,1,?
+84,F,重大傷病,R,GA,Total hip replacement,醫師3,255,1,常規,1,?
+60,F,健保,R,SA,Arthroplasty TKR,醫師3,255,1,常規,1,?
+66,F,健保榮民,R,GA,Arthroplasty-Revision TKR,醫師3,255,1,常規,1,?
+55,F,健保,O,GA,Open reduc. fracture-hand/foot,醫師1,127,1,急刀二級,1,?
+31,F,健保,R,GA,"Remove internal fixator,others",醫師6,312,1,常規,1,?
+38,M,健保,R,GA,O.R. of clavicle fracture,醫師6,312,1,常規,1,?
+57,M,警政署,O,GA,Repture achilles tendon primary,醫師6,312,1,急刀二級,1,?
+69,M,健保榮民,O,GA,O.R. fracture Foream radius&uln,醫師8,314,1,急刀二級,1,?
+73,F,健保,R,SA,Arthroplasty TKR,醫師9,391,1,常規,1,?
+68,F,健保,R,GA,Rotator cuff tear repair-massive,醫師9,391,1,常規,1,?
+47,F,健保,O,GA,O.R. fracture tibia - condyle,醫師4,147,2,急刀二級,1,?
+24,M,民眾,O,GA,O.R. dislocation of A-C joint,醫師1,127,1,急刀二級,1,?
+67,F,健保,E,GA,Open reduction fracture patella,醫師7,312,2,急刀一級,1,?
+79,F,健保,R,GA,O.R. medial bimalleolus fracture,醫師2,244,1,常規,1,?
+49,M,健保,R,GA,Open reduc. fracture-hand/foot,醫師2,244,3,常規,1,?
+27,M,民眾,O,GA,O.R. fracture - femoral shaft,醫師2,244,1,急刀二級,1,?
+73,F,健保,R,GA,Arthroplasty TKR,醫師8,314,1,常規,1,?
+70,M,健保,R,SA,Arthroplasty TKR,醫師8,314,1,常規,1,?
+18,M,健保,O,GA,Open reduc. fracture-finger/toe,醫師1,127,1,急刀二級,1,?
+68,F,健保福保,O,GA,C.R. Percutaneous pinning,醫師1,127,3,急刀二級,1,?
+89,F,健保,O,IG,Percutaneous vertebroplasty 1st,醫師7,312,2,急刀二級,1,?
+70,F,健保榮民,R,GA,"Remove internal fixator,femur",醫師1,127,3,常規,1,?
+59,F,健保,R,SA,Arthroplasty TKR,醫師3,255,1,常規,1,?
+26,M,健保,O,SA,C.R. Metatarsal bone fracture,醫師7,312,1,急刀二級,1,?
+71,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,233,2,常規,1,?
+59,M,健保榮民,R,GA,Arthroscopic shaving arthroplas,醫師13,233,2,常規,1,?
+26,F,健保,R,GA,Knee joint ACL reconstruction,醫師13,233,2,常規,1,?
+65,F,健保,R,SA,Total hip replacement,醫師3,255,1,常規,1,?
+24,M,健保,R,GA,Knee joint ACL reconstruction,醫師13,233,2,常規,1,?
+21,F,健保,R,GA,"Remove internal fixator,others",醫師25,159,2,常規,1,?
+59,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師8,314,1,急刀二級,1,?
+49,M,健保,O,GA,"O.R. Humerus,Supra,Intercondyle",醫師1,127,1,急刀二級,1,?
+61,M,民眾,O,LA,Open reduc. fracture-finger/toe,醫師1,127,1,急刀二級,1,?
+58,F,健保,O,SA,O.R. STC or ITC type III & IV,醫師7,312,1,急刀二級,1,?
+61,M,健保榮民,O,GA,O.R. of clavicle fracture,醫師6,312,1,急刀二級,1,?
+54,M,健保,O,GA,O.R. fracture - malleolus/talus,醫師2,244,1,急刀二級,1,?
+68,F,健保,R,GA,Arthroplasty TKR,醫師3,255,1,常規,1,?
+77,F,健保,R,GA,Total hip replacement,醫師3,255,1,常規,1,?
+63,M,健保,R,GA,Arthroplasty-Revision TKR,醫師3,255,1,常規,1,?
+66,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師3,255,1,急刀二級,1,?
+83,M,健保,R,GA,Arthroplasty of finger/toe,醫師6,312,1,常規,1,?
+33,M,健保,O,GA,O.R. fracture Foream radius&uln,醫師8,315,1,急刀二級,1,?
+61,F,健保,R,SA,Arthroplasty TKR,醫師3,255,1,常規,1,?
+51,F,健保榮民,R,GA,Arthroplasty TKR,醫師7,312,1,常規,1,?
+31,M,健保,O,GA,O.R. fracture - acetablam,醫師2,244,2,急刀二級,1,?
+59,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師1,127,2,常規,1,?
+64,M,健保,R,GA,O.R. of clavicle fracture,醫師1,127,1,常規,1,?
+73,F,健保,R,GA,Arthroplasty-Revision TKR,醫師9,391,1,常規,1,?
+63,M,健保,R,SA,Partial knee unicompart replacem,醫師9,391,1,常規,1,?
+81,F,健保,R,SA,Hemiarthroplasty of hip,醫師9,391,1,常規,1,?
+55,F,健保,R,GA,O.R. fracture Foream radius&uln,醫師8,315,1,常規,1,?
+55,F,健保,R,SA,"Remove internal fixator,others",醫師8,315,2,常規,1,?
+61,M,健保,R,GA,O.R. fracture - femoral shaft,醫師2,245,2,常規,1,?
+68,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師4,147,2,常規,1,?
+30,M,健保,R,GA,Open reduction fracture - ulna,醫師4,147,2,常規,1,?
+54,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師4,147,2,常規,1,?
+70,F,健保榮民,R,GA,Total hip replacement,醫師9,391,1,常規,1,?
+66,M,警政署,R,GA,Rotator cuff tear repair-massive,醫師9,391,1,常規,1,?
+75,F,健保,R,SA,Open reduc. fracture-hand/foot,醫師9,391,1,常規,1,?
+44,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師5,140,1,常規,1,?
+70,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師26,106,1,急刀二級,1,?
+80,M,健保榮民,R,GA,Arthroplasty-Revision stem,醫師3,255,2,常規,1,?
+21,M,健保,R,SA,Bone tumor Curettage+Bone graft,醫師3,255,3,常規,1,?
+8,M,健保,O,GA,Open reduc. fracture radial hea,醫師26,106,1,急刀二級,1,?
+13,M,健保,O,GA,C.R. Forearm & colles' fracture,醫師26,106,1,急刀二級,1,?
+68,F,健保福保,R,GA,Amputation Phalanx,醫師1,127,1,常規,1,?
+23,M,健保,R,GA,Ostheosynthesis-metacarpal,醫師1,127,1,常規,1,?
+85,F,健保,O,GA,"O.R. Humerus,Supra,Intercondyle",醫師5,140,1,急刀二級,1,?
+50,M,健保,R,GA,AS Knee - Menisectomy,醫師13,233,1,常規,1,?
+30,F,健保,R,GA,AS Knee - Menisectomy,醫師13,233,1,常規,1,?
+44,M,健保,R,GA,Ostheosynthesis-metatarsal,醫師5,140,1,常規,1,?
+63,F,健保,R,IG,Percutaneous vertebroplasty 1st,醫師7,312,1,常規,1,?
+19,M,健保,O,GA,O.R. fracture Foream radius&uln,醫師26,106,1,急刀二級,1,?
+69,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師26,106,1,急刀二級,1,?
+69,F,健保,O,GA,Hemiarthroplasty of hip,醫師26,106,1,急刀二級,1,?
+33,F,健保,O,GA,O.R. of clavicle fracture,醫師13,233,1,急刀二級,1,?
+77,F,健保,R,SA,Arthroplasty TKR,醫師9,391,1,常規,1,?
+69,M,健保,R,GA,Arthroplasty TKR,醫師9,391,1,常規,1,?
+14,M,健保,E,GA,C.R. Forearm & colles' fracture,醫師26,106,1,急刀一級,1,?
+54,F,健保,O,GA,O.R. of clavicle fracture,醫師26,106,1,急刀二級,1,?
+22,M,健保,R,GA,"Remove internal fixator,tibia",醫師2,245,1,常規,1,?
+19,M,健保,R,GA,"Bone graft Autograft, medium",醫師2,245,1,常規,1,?
+84,M,健保榮民,R,GA,Arthroplasty TKR,醫師2,245,1,常規,1,?
+28,M,健保,R,GA,"Remove internal fixator,others",醫師25,159,2,常規,1,?
+44,M,健保,R,GA,"Remove internal fixator,tibia",醫師3,255,1,常規,1,?
+23,M,健保,R,LA,Ostheosynthesis-metacarpal,醫師1,127,1,常規,1,?
+70,M,健保,T,GA,Ostheosynthesis-metatarsal,醫師5,140,1,臨時,1,?
+38,F,健保,R,GA,"Remove internal fixator,tibia",醫師3,255,1,常規,1,?
+34,F,健保,R,GA,Total hip replacement,醫師3,255,1,常規,1,?
+66,F,健保,R,GA,Arthroplasty-revision THR,醫師3,255,1,常規,1,?
+39,F,健保,R,GA,Tendon/ligament repair intra-art,醫師13,233,2,常規,1,?
+76,F,健保,R,GA,Arthroplasty TKR,醫師13,233,1,常規,1,?
+57,F,健保,R,GA,Knee joint ACL reconstruction,醫師13,233,3,常規,1,?
+45,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,233,2,常規,1,?
+25,M,健保,R,GA,Open reduction fracture - ulna,醫師4,147,1,常規,1,?
+73,F,健保榮民,R,GA,Arthroplasty of elbow,醫師8,315,1,常規,1,?
+5,M,健保,O,GA,"O.R. Humerus,Supra,Intercondyle",醫師26,106,1,急刀二級,1,?
+31,F,健保,O,GA,C.R. Nailing of femoral neck fr.,醫師2,245,1,急刀二級,1,?
+70,F,健保,O,GA,O.R. of clavicle fracture,醫師25,159,3,急刀二級,1,?
+86,F,健保,R,GA,Arthroplasty TKR,醫師3,255,1,常規,1,?
+63,M,健保,R,GA,Total hip replacement,醫師3,255,1,常規,1,?
+72,F,健保,R,GA,Arthroplasty TKR,醫師3,255,1,常規,1,?
+76,F,健保,R,GA,Total hip replacement,醫師3,255,1,常規,1,?
+54,M,健保,R,GA,"Remove internal fixator,others",醫師6,313,1,常規,1,?
+29,M,本院員工,R,SA,Bone biopsy,醫師6,313,2,常規,1,?
+51,F,健保,R,SA,Hallux valgus(chevron),醫師6,313,1,常規,1,?
+82,F,健保,R,IG,Percutaneous vertebroplasty 1st,醫師7,312,1,常規,1,?
+79,F,健保榮民,R,IG,Percutaneous vertebroplasty 1st,醫師7,312,1,常規,1,?
+54,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師1,127,1,急刀二級,1,?
+69,M,健保,O,GA,O.R. fracture Foream radius&uln,醫師4,147,1,急刀二級,1,?
+26,M,健保,R,GA,Tendon/ligament repair Extra-ar,醫師1,127,2,常規,1,?
+52,M,健保,R,IG,Manipulation - shoulder,醫師1,127,1,常規,1,?
+87,F,健保,O,GA,Hemiarthroplasty of hip,醫師1,127,1,急刀二級,1,?
+71,M,健保,O,GA,O.R. STC or ITC type III & IV,醫師1,127,1,急刀二級,1,?
+64,F,健保,R,SA,Arthroplasty TKR,醫師9,392,1,常規,1,?
+66,M,健保,R,GA,Arthroplasty-revision THR,醫師9,392,1,常規,1,?
+87,M,健保榮民,O,GA,C.R. Intertrochanteric type I&II,醫師4,147,1,急刀二級,1,?
+70,F,健保,R,GA,Partial knee unicompart replacem,醫師14,354,1,常規,1,?
+59,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師4,147,2,常規,1,?
+65,F,健保,R,GA,O.R. fracture - humeral shaft,醫師4,147,1,常規,1,?
+56,F,健保福保,R,GA,Soft tissue release upper extrem,醫師8,315,1,常規,1,?
+24,M,健保,R,GA,Knee joint PCL reconstruction,醫師4,147,3,常規,1,?
+81,F,健保,T,IG,Curettage - deep,醫師9,392,1,臨時,1,?
+67,F,健保,R,GA,O.R. fracture pelvis,醫師2,245,1,常規,1,?
+4,F,健保,R,GA,"Remove internal fixator,femur",醫師11,292,1,常規,1,?
+69,M,健保,R,GA,Total hip replacement,醫師3,255,1,常規,1,?
+69,M,健保,R,SA,Arthroplasty TKR,醫師3,255,1,常規,1,?
+72,F,健保,R,SA,Arthroplasty TKR,醫師3,255,1,常規,1,?
+41,F,健保,R,GA,Arthroplasty-Revision stem,醫師3,255,1,常規,1,?
+67,F,健保,R,GA,O.R. medial bimalleolus fracture,醫師6,313,1,常規,1,?
+74,F,健保,R,SA,Hallux valgus,醫師6,313,2,常規,1,?
+61,F,健保,R,SA,Hallux valgus(chevron),醫師6,313,1,常規,1,?
+17,M,健保,O,GA,O.R. dislocation of I-P or M-P,醫師6,313,2,急刀二級,1,?
+93,F,健保榮民,O,GA,Hemiarthroplasty of hip,醫師1,127,1,急刀二級,1,?
+83,F,健保榮民,R,SA,Hemiarthroplasty of hip,醫師12,364,1,常規,1,?
+76,F,健保榮民,R,GA,Rotator cuff tear repair-massive,醫師9,392,1,常規,1,?
+70,M,健保,O,GA,Hemiarthroplasty of hip,醫師3,255,1,急刀二級,1,?
+59,M,健保,R,GA,O.R. fracture tibia - shaft,醫師2,245,2,常規,1,?
+65,F,健保,O,LA,Open reduc. fracture-hand/foot,醫師1,127,1,急刀二級,1,?
+20,F,健保,R,GA,"Remove internal fixator,others",醫師1,127,1,常規,1,?
+88,F,健保,O,SA,Open reduction fracture patella,醫師3,255,1,急刀二級,1,?
+41,M,健保福保,R,GA,O.R. medial unimalleolus fractur,醫師1,127,1,常規,1,?
+21,F,健保,R,GA,"Remove internal fixator,others",醫師8,315,1,常規,1,?
+78,F,健保,R,LA,Arthrodesis finger or toe,醫師8,315,1,常規,1,?
+20,F,健保,R,LA,Tendon/ligament repair Extra-ar,醫師1,127,2,常規,1,?
+55,F,健保,R,GA,Knee joint ACL reconstruction,醫師13,233,2,常規,1,?
+48,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,233,2,常規,1,?
+32,M,健保,R,GA,Knee joint PCL reconstruction,醫師13,233,2,常規,1,?
+83,M,健保,O,SA,O.R. STC or ITC type III & IV,醫師9,392,1,急刀二級,1,?
+68,F,健保榮民,R,GA,O.R. fracture Foream radius&uln,醫師8,315,1,常規,1,?
+91,M,健保榮民,O,GA,O.R. STC or ITC type III & IV,醫師1,128,2,急刀二級,1,?
+27,M,健保,O,GA,O.R. of clavicle fracture,醫師1,128,1,急刀二級,1,?
+63,F,健保,O,GA,O.R. medial bimalleolus fracture,醫師9,392,1,急刀二級,1,?
+42,M,健保,O,GA,O.R. of clavicle fracture,醫師9,392,1,急刀二級,1,?
+81,M,健保榮民,O,GA,O.R. STC or ITC type III & IV,醫師5,140,1,急刀二級,1,?
+86,M,健保榮民,R,SA,Arthroplasty TKR,醫師3,255,1,常規,1,?
+78,F,健保榮民,R,SA,Arthroplasty TKR,醫師3,255,1,常規,1,?
+31,M,健保,O,GA,Open reduction fracture patella,醫師1,128,1,急刀二級,1,?
+34,F,健保,R,GA,"Remove internal fixator,others",醫師6,313,1,常規,1,?
+48,M,健保,R,GA,Open reduc. fracture-hand/foot,醫師6,313,1,常規,1,?
+53,F,健保,R,GA,Hallux valgus(chevron),醫師6,313,2,常規,1,?
+89,M,健保榮民,R,IG,Percutaneous vertebroplasty 1st,醫師7,313,1,常規,1,?
+67,F,健保,R,GA,Arthroplasty TKR,醫師7,313,1,常規,1,?
+51,F,健保,R,SA,Total hip replacement,醫師7,313,1,常規,1,?
+62,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師3,255,1,常規,1,?
+60,M,健保榮民,O,GA,O.R. of clavicle fracture,醫師1,128,1,急刀二級,1,?
+61,F,健保,O,GA,O.R. fracture - humeral shaft,醫師8,315,1,急刀二級,1,?
+89,M,健保,O,SA,O.R. fracture - femoral shaft,醫師3,255,1,急刀二級,1,?
+67,F,健保,R,SA,Arthroplasty-Revision TKR,醫師9,392,1,常規,1,?
+84,M,健保,R,SA,Open reduction fracture patella,醫師9,392,1,常規,1,?
+81,F,健保,O,GA,"O.R. Femur,Supra,Intercondyle",醫師9,392,1,急刀二級,1,?
+52,F,本院員工,R,GA,"Remove internal fixator,others",醫師8,315,1,常規,1,?
+64,F,健保,R,GA,O.R. fracture Foream radius&uln,醫師8,315,1,常規,1,?
+72,F,健保榮民,R,GA,Hemiarthroplasty of hip,醫師2,245,1,常規,1,?
+48,M,健保,R,GA,"Remove internal fixator,others",醫師2,245,1,常規,1,?
+40,F,健保,R,GA,Osteosynthesis-femur,醫師2,245,2,常規,1,?
+71,F,健保,R,GA,O.R. STC or ITC type III & IV,醫師2,245,4,常規,1,?
+72,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師4,147,2,常規,1,?
+59,M,健保,R,GA,Knee joint ACL reconstruction,醫師4,147,2,常規,1,?
+37,F,健保,R,GA,"Remove internal fixator,femur",醫師4,147,1,常規,1,?
+25,M,健保,R,GA,"Remove internal fixator,forearm",醫師4,147,2,常規,1,?
+37,F,健保,R,GA,O.R. dislocation of A-C joint,醫師2,245,1,常規,1,?
+39,F,健保,O,SA,Open reduc. fracture-hand/foot,醫師9,392,1,急刀二級,1,?
+61,F,健保,O,GA,Open reduc. Scaphoid Fracture,醫師1,128,2,急刀二級,1,?
+22,F,健保,R,GA,Ostheosynthesis-metatarsal,醫師5,140,2,常規,1,?
+70,M,健保,R,GA,Total ankle replacement,醫師5,140,1,常規,1,?
+66,F,健保榮民,R,GA,Curettage - deep,醫師3,256,1,常規,1,?
+72,F,健保,O,GA,O.R. of clavicle fracture,醫師3,256,1,急刀二級,1,?
+26,F,健保,R,SA,"Remove internal fixator,others",醫師5,140,1,常規,1,?
+20,F,健保,O,GA,AS Knee - Menisectomy,醫師13,233,1,急刀二級,1,?
+55,M,健保榮民,R,GA,Knee joint ACL reconstruction,醫師13,233,2,常規,1,?
+43,F,健保,R,GA,Knee joint ACL reconstruction,醫師13,233,2,常規,1,?
+58,F,健保,R,GA,Knee joint PCL reconstruction,醫師13,233,2,常規,1,?
+55,M,健保榮民,O,GA,O.R. fracture Foream radius&uln,醫師1,128,2,急刀二級,1,?
+57,F,健保,R,GA,Open reduction fracture - ulna,醫師13,233,1,常規,1,?
+41,M,健保,O,GA,O.R. of clavicle fracture,醫師2,245,1,急刀二級,1,?
+40,F,健保,O,GA,E.F. for fracture - lower limb,醫師4,147,1,急刀二級,1,?
+74,M,健保榮民,R,SA,Open reduc. fracture-hand/foot,醫師9,392,1,常規,1,?
+26,F,健保,O,GA,O.R. fracture pelvis,醫師2,245,3,急刀二級,1,?
+73,M,健保,R,SA,Partial knee unicompart replacem,醫師9,392,1,常規,1,?
+50,F,健保,R,SA,O.R. STC or ITC type III & IV,醫師25,159,1,常規,1,?
+68,F,健保,O,GA,O.R. of clavicle fracture,醫師4,147,1,急刀二級,1,?
+71,F,健保,R,GA,O.R. fracture tibia - condyle,醫師2,245,2,常規,1,?
+54,F,健保,O,GA,Knee joint PCL repair,醫師2,245,1,急刀二級,1,?
+69,F,健保,R,GA,O.R. fracture Foream radius&uln,醫師8,315,1,常規,1,?
+26,M,健保,O,GA,O.R. fracture Foream radius&uln,醫師8,315,1,急刀二級,1,?
+60,F,健保,R,GA,Total hip replacement,醫師12,365,1,常規,1,?
+75,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師4,148,2,常規,1,?
+61,F,健保,O,GA,O.R. medial bimalleolus fracture,醫師3,256,1,急刀二級,1,?
+72,M,健保榮民,R,GA,Hemiarthroplasty of hip,醫師3,256,1,常規,1,?
+66,M,健保榮民,R,SA,Arthroplasty TKR,醫師3,256,1,常規,1,?
+71,F,健保,R,GA,Arthroplasty TKR,醫師3,256,1,常規,1,?
+71,F,民眾,O,LA,Curettage - deep,醫師1,128,2,急刀二級,1,?
+77,F,健保福保,R,GA,Arthroplasty TKR,醫師13,234,1,常規,1,?
+30,F,健保,R,GA,AS Knee - Menisectomy,醫師13,234,1,常規,1,?
+48,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,234,1,常規,1,?
+84,M,健保,R,GA,Arthroplasty TKR,醫師3,256,1,常規,1,?
+83,F,健保,O,IG,Percutaneous vertebroplasty 1st,醫師7,313,1,急刀二級,1,?
+32,F,健保,O,GA,Osteosynthesis-femur,醫師4,148,1,急刀二級,1,?
+20,F,健保,O,SA,O.R. fracture - malleolus/talus,醫師3,256,1,急刀二級,1,?
+78,F,健保榮民,O,GA,Hemiarthroplasty of hip,醫師26,107,1,急刀二級,1,?
+67,F,健保,O,GA,O.R. STC or ITC type III & IV,醫師26,107,1,急刀二級,1,?
+53,M,健保,O,GA,Open reduc. fracture-hand/foot,醫師2,245,2,急刀二級,1,?
+65,F,健保,R,GA,Arthroplasty TKR,醫師3,256,1,常規,1,?
+58,F,健保,R,SA,Arthroplasty TKR,醫師3,256,1,常規,1,?
+58,F,健保,R,GA,Arthroplasty-revision THR,醫師3,256,1,常規,1,?
+18,M,健保,E,GA,EXTERNAL FIXATION-TIBIA,醫師1,128,2,急刀一級,1,?
+58,F,健保,R,SA,Corrective osteotomy-others,醫師6,313,1,常規,1,?
+59,M,健保榮民,R,GA,Total hip replacement,醫師3,256,1,常規,1,?
+63,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師1,128,1,急刀二級,1,?
+63,F,健保,O,SA,O.R. medial bimalleolus fracture,醫師1,128,1,急刀二級,1,?
+52,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師1,128,2,常規,1,?
+29,M,健保,R,GA,Excision neuroma/neruofibroma,醫師1,128,1,常規,1,?
+80,M,健保,R,SA,Arthroplasty TKR,醫師9,392,1,常規,1,?
+79,F,健保,R,SA,Arthroscopic shaving arthroplas,醫師9,392,1,常規,1,?
+62,F,健保,R,SA,"Remove internal fixator,others",醫師9,392,1,常規,1,?
+70,F,健保,O,GA,O.R. medial bimalleolus fracture,醫師8,315,1,急刀二級,1,?
+11,M,健保,O,GA,O.R. fracture Foream radius&uln,醫師8,315,1,急刀二級,1,?
+35,M,健保,R,GA,"Remove internal fixator,tibia",醫師2,245,2,常規,1,?
+66,F,健保,R,GA,Partial knee unicompart replacem,醫師14,354,1,常規,1,?
+52,M,健保榮民,O,GA,"O.R. Humerus,Supra,Intercondyle",醫師8,315,1,急刀二級,1,?
+51,F,健保,R,GA,O.R. fracture - humeral shaft,醫師4,148,1,常規,1,?
+40,F,健保,R,GA,O.R. fracture tibia - shaft,醫師4,148,2,常規,1,?
+58,M,健保,R,GA,"Remove internal fixator,others",醫師4,148,1,常規,1,?
+22,M,健保,R,LA,Open reduc. fracture-hand/foot,醫師8,315,1,常規,1,?
+49,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師5,140,1,常規,1,?
+35,F,健保,R,GA,Tendon repair-single,醫師5,140,4,常規,1,?
+42,F,健保,R,GA,Trunk tumor Excision 5-10 cm,醫師5,140,1,常規,1,?
+78,F,健保,O,GA,Hemiarthroplasty of hip,醫師2,245,2,急刀二級,1,?
+29,M,健保,R,GA,Excision neuroma/neruofibroma,醫師1,128,1,常規,1,?
+89,M,健保榮民,O,SA,Hemiarthroplasty of hip,醫師13,234,1,急刀二級,1,?
+78,M,健保榮民,R,GA,Bone biopsy,醫師26,107,3,常規,1,?
+75,M,健保,R,GA,Arthroplasty TKR,醫師3,256,1,常規,1,?
+72,F,民眾,R,GA,Arthroplasty TKR,醫師3,256,1,常規,1,?
+83,F,健保,R,IG,Percutaneous vertebroplasty 1st,醫師7,313,1,常規,1,?
+25,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師2,245,1,急刀二級,1,?
+56,F,健保,R,GA,SFPSF with spinal <6 motion seg,醫師26,107,2,常規,1,?
+49,M,健保,R,GA,O.R. dislocation of A-C joint,醫師13,234,1,常規,1,?
+88,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師1,128,1,急刀二級,1,?
+77,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,234,2,常規,1,?
+44,F,健保,R,GA,O.R. fracture pelvis,醫師2,245,1,常規,1,?
+78,F,健保,R,GA,"O.R. Femur,Supra,Intercondyle",醫師2,245,2,常規,1,?
+69,F,健保榮民,R,GA,Arthroplasty TKR,醫師8,315,1,常規,1,?
+21,F,健保,R,GA,"Remove internal fixator,others",醫師8,315,1,常規,1,?
+64,M,健保,O,GA,O.R. fracture Foream radius&uln,醫師13,234,3,急刀二級,1,?
+63,M,健保榮民,O,GA,O.R. fracture Foream radius&uln,醫師8,315,1,急刀二級,1,?
+18,M,健保,O,GA,O.R. fracture tibia - shaft,醫師1,128,2,急刀二級,1,?
+20,M,健保,R,GA,"Remove internal fixator,forearm",醫師3,256,1,常規,1,?
+56,F,健保,R,SA,Arthroplasty-Revision TKR,醫師3,256,1,常規,1,?
+71,F,健保,R,SA,Partial knee unicompart replacem,醫師3,256,1,常規,1,?
+67,M,健保,R,SA,Arthroplasty TKR,醫師3,256,1,常規,1,?
+17,F,民眾,O,LA,Close reduc. fracture-finger/toe,醫師1,128,1,急刀二級,1,?
+46,M,重大傷病,R,GA,Total hip replacement,醫師13,234,1,常規,1,?
+70,M,健保,R,GA,Arthroplasty-revision THR,醫師13,234,1,常規,1,?
+62,F,健保,R,GA,AS Knee - Menisectomy,醫師13,234,1,常規,1,?
+21,M,健保,R,GA,"Remove internal fixator,others",醫師13,234,1,常規,1,?
+46,F,健保,R,GA,"Remove internal fixator,others",醫師13,234,1,常規,1,?
+66,F,健保,O,GA,O.R. fracture - humeral shaft,醫師1,128,1,急刀二級,1,?
+74,F,健保榮民,R,GA,O.R. fracture - humeral shaft,醫師13,234,2,常規,1,?
+49,M,健保,O,GA,O.R. STC or ITC type III & IV,醫師7,313,1,急刀二級,1,?
+79,F,健保榮民,O,GA,O.R. fracture Foream radius&uln,醫師2,245,1,急刀二級,1,?
+83,F,健保,O,SA,Hemiarthroplasty of hip,醫師2,245,1,急刀二級,1,?
+15,M,健保,O,GA,O.R. fracture Foream radius&uln,醫師11,292,1,急刀二級,1,?
+71,F,健保,R,SA,Arthroplasty TKR,醫師3,256,1,常規,1,?
+55,M,健保榮民,R,GA,Arthroplasty TKR,醫師3,256,1,常規,1,?
+71,F,健保榮民,R,SA,Unicompartment joint replace.,醫師3,256,1,常規,1,?
+50,F,健保,R,GA,Patella sublux.lateral release,醫師3,256,1,常規,1,?
+60,F,健保福保,R,GA,Total hip replacement,醫師3,256,1,常規,1,?
+42,M,健保,R,SA,Ex.tumor mass bone & joint,醫師3,256,1,常規,1,?
+78,F,健保,R,GA,O.R. fracture tibia - condyle,醫師2,245,3,常規,1,?
+69,F,健保,R,GA,AS Knee - Menisectomy,醫師4,148,1,常規,1,?
+72,M,健保,R,GA,Arthroplasty TKR,醫師7,313,1,常規,1,?
+17,M,民眾,O,GA,O.R. fracture Foream radius&uln,醫師2,245,2,急刀二級,1,?
+74,M,健保榮民,O,GA,Hemiarthroplasty of hip,醫師8,315,1,急刀二級,1,?
+21,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師1,128,2,常規,1,?
+46,F,健保,R,GA,Corrective osteotomy-lower limb,醫師1,128,2,常規,1,?
+73,F,健保,O,GA,Curettage - deep,醫師3,256,1,急刀二級,1,?
+16,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師2,245,1,急刀二級,1,?
+58,F,健保,O,GA,O.R. fracture tibia - condyle,醫師3,256,1,急刀二級,1,?
+69,F,健保榮民,R,GA,Arthroplasty TKR,醫師9,392,1,常規,1,?
+66,F,健保,R,SA,Arthroplasty TKR,醫師9,392,1,常規,1,?
+83,F,健保榮民,O,SA,O.R. STC or ITC type III & IV,醫師8,316,1,急刀二級,1,?
+65,M,健保,R,GA,Girdlestone procedure of hip,醫師4,148,1,常規,1,?
+61,M,健保,O,GA,O.R. fracture Foream radius&uln,醫師2,245,1,急刀二級,1,?
+69,F,健保,R,GA,Total hip replacement,醫師14,354,1,常規,1,?
+37,M,健保,R,GA,O.R. dislocation of elbow joint,醫師8,316,1,常規,1,?
+68,F,健保榮民,O,GA,O.R. STC or ITC type III & IV,醫師3,256,1,急刀二級,1,?
+47,M,健保,R,GA,O.R. fracture - acetablam,醫師8,316,2,常規,1,?
+64,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師4,148,1,常規,1,?
+55,M,健保,R,GA,Arthroplasty TKR,醫師4,148,1,常規,1,?
+19,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師4,148,1,常規,1,?
+50,F,健保,R,GA,Knee joint PCL reconstruction,醫師4,148,2,常規,1,?
+58,M,健保,R,GA,"Remove internal fixator,tibia",醫師2,245,1,常規,1,?
+9,M,健保,E,GA,Curettage - deep,醫師11,292,1,急刀一級,1,?
+40,M,健保,R,LA,Curettage - deep,醫師8,316,1,常規,1,?
+50,M,健保,O,GA,O.R. fracture Foream radius&uln,醫師8,316,1,急刀二級,1,?
+67,F,健保,R,GA,"Remove internal fixator,tibia",醫師8,316,1,常規,1,?
+54,M,健保,R,SA,Open reduc. fracture-hand/foot,醫師5,140,1,常規,1,?
+76,F,健保榮民,R,GA,O.R. fracture Foream radius&uln,醫師5,140,1,常規,1,?
+54,F,健保,O,GA,O.R. medial bimalleolus fracture,醫師5,140,1,急刀二級,1,?
+64,F,健保,O,GA,E.F. for fracture - lower limb,醫師2,245,1,急刀二級,1,?
+81,F,健保,O,GA,Hemiarthroplasty of hip,醫師5,140,1,急刀二級,1,?
+12,M,健保,R,GA,"Remove internal fixator,forearm",醫師11,292,1,常規,1,?
+85,F,健保,O,GA,O.R. fracture Foream radius&uln,醫師5,140,1,急刀二級,1,?
+77,F,健保,R,GA,Arthroplasty TKR,醫師13,234,1,常規,1,?
+40,F,本院員工,R,SA,AS Knee - Menisectomy,醫師13,234,1,常規,1,?
+55,F,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,234,2,常規,1,?
+21,F,健保,R,GA,"Remove internal fixator,others",醫師13,234,1,常規,1,?
+39,M,健保,R,GA,"Remove internal fixator,tibia",醫師5,140,1,常規,1,?
+47,M,健保,R,GA,Arthroscopic shaving arthroplas,醫師13,234,1,常規,1,?
+81,F,健保,R,IG,Percutaneous vertebroplasty 1st,醫師7,313,2,常規,1,?
+77,M,健保,R,IG,Percutaneous vertebroplasty 1st,醫師7,313,1,常規,1,?
+77,M,健保,O,GA,O.R. STC or ITC type III & IV,醫師26,107,1,急刀二級,1,?
+70,F,健保榮民,O,SA,Hemiarthroplasty of hip,醫師1,128,1,急刀二級,1,?
+18,F,健保,O,GA,O.R. fracture - humeral shaft,醫師1,128,1,急刀二級,1,?
+78,F,健保,R,GA,Total hip replacement,醫師12,365,1,常規,1,?
+71,M,健保,R,GA,Total hip replacement,醫師12,365,1,常規,1,?
+74,M,健保榮民,R,SA,Arthroplasty TKR,醫師9,392,1,常規,1,?
+66,F,健保,R,SA,Arthroplasty TKR,醫師9,392,1,常規,1,?
+61,F,健保,R,GA,O.R. dislocation of hip joint,醫師2,245,3,常規,1,?
+43,F,健保,R,GA,Knee joint ACL reconstruction,醫師13,234,2,常規,1,?
+45,M,健保,O,GA,O.R. of clavicle fracture,醫師1,128,1,急刀二級,1,?
