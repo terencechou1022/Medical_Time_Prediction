@@ -2,10 +2,8 @@ import os
 import copy
 import warnings
 warnings.filterwarnings('ignore')
-import joblib
 import numpy as np
 import pandas as pd
-from typing import Any
 from sklearn.preprocessing import LabelEncoder
 from sklearn.model_selection import train_test_split
 from sklearn.tree import DecisionTreeRegressor
@@ -19,61 +17,73 @@ from .visualizer import Visualizer
 
 
 class SurgeryPipeline(BasePipeline):
-    LABEL_COLUMNS = ['性別(H)', '身份(I)', '分類(J)', '麻醉(K)', '手術名稱(L)', '主治醫師(AF)', '分類(AZ)']
+    # 各科 CSV 的欄位字母後綴不一致（如分類欄 OPH 為 (AY)、其他科為 (AZ)），依語意名稱解析
+    LABEL_PREFIXES = ['性別', '身份', '分類', '麻醉', '手術名稱', '主治醫師']
     TREE_MODELS = {'Decision Tree', 'Random Forest', 'XGBoost'}
+    TARGET = '手術時間（分）(BQ)'
 
-    def __init__(self, department: str, script_dir: str):
-        super().__init__(script_dir)
-        self.department = department
+    def __init__(self, department: str, data_dir: str, output_dir: str, figure_dir: str):
+        super().__init__(department, data_dir, output_dir, figure_dir)
         self.label_encoders: dict = {}
+        self.label_columns: list = []
         self.x_columns = None
+        self.numeric_medians = None
 
     def load_data(self) -> pd.DataFrame:
-        file_path = os.path.join(self.script_dir, f'{self.department}_Training.csv')
+        file_path = os.path.join(self.data_dir, f'{self.department}_Training.csv')
         df = pd.read_csv(file_path, encoding='big5')
-        df['手術時間_log'] = np.log1p(df['手術時間（分）(BQ)'])
+        self.label_columns = [c for c in df.columns if c.split('(')[0] in self.LABEL_PREFIXES]
+        df['手術時間_log'] = np.log1p(df[self.TARGET])
         return df
 
     def _filter_outliers(self, df: pd.DataFrame) -> pd.DataFrame:
-        col = '手術時間（分）(BQ)'
-        q1, q3 = df[col].quantile([0.25, 0.75])
+        q1, q3 = df[self.TARGET].quantile([0.25, 0.75])
         iqr = q3 - q1
-        return df[(df[col] >= q1 - 1.5 * iqr) & (df[col] <= q3 + 1.5 * iqr)]
+        return df[(df[self.TARGET] >= q1 - 1.5 * iqr) & (df[self.TARGET] <= q3 + 1.5 * iqr)]
 
     def preprocess(self, df: pd.DataFrame):
         df = self._filter_outliers(df)
         Visualizer.plot_distribution(
-            df['手術時間（分）(BQ)'],
-            f'{self.department} - Operation Time Distribution Chart',
-            'Operation Time (min)'
+            df[self.TARGET],
+            f'{self.department} - Operation Time Distribution',
+            'Operation Time (min)',
+            self._figure_path('operation time distribution'),
         )
 
         null_cols = df.columns[df.isnull().any()]
         print(df[null_cols].isnull().sum())
         df = df.dropna(subset=null_cols)
 
-        for col in self.LABEL_COLUMNS:
+        for col in self.label_columns:
             df[col] = df[col].astype(str)
             le = LabelEncoder()
             df[col] = le.fit_transform(df[col])
             self.label_encoders[col] = le
 
-        x = df.drop(columns=['手術時間（分）(BQ)', '手術時間_log'])
+        x = df.drop(columns=[self.TARGET, '手術時間_log'])
         y = df['手術時間_log']
         self.x_columns = x.columns
+        self.numeric_medians = x.median()
 
-        x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.2, random_state=42)
-        x_train_std, x_test_std, x_train_mm, x_test_mm = self._scale_data(x_train, x_test)
-        return x_train, x_test, y_train, y_test, x_train_std, x_test_std, x_train_mm, x_test_mm
+        x_train, x_val, y_train, y_val = train_test_split(x, y, test_size=0.2, random_state=42)
+        x_train_std, x_val_std, x_train_mm, x_val_mm = self._scale_data(x_train, x_val)
+        return x_train, x_val, y_train, y_val, x_train_std, x_val_std, x_train_mm, x_val_mm
 
-    def _print_metrics(self, name: str, y_test, y_pred) -> None:
-        y_test_actual, y_pred_actual = np.expm1(y_test), np.expm1(y_pred)
+    def _print_metrics(self, name: str, y_val, y_pred) -> None:
+        y_val_actual, y_pred_actual = np.expm1(y_val), np.expm1(y_pred)
+        mae = mean_absolute_error(y_val_actual, y_pred_actual)
+        rmse = float(np.sqrt(mean_squared_error(y_val_actual, y_pred_actual)))
+        r2 = r2_score(y_val_actual, y_pred_actual)
         print(f'\n{name} Validation Index:')
-        print(f'  MAE: {mean_absolute_error(y_test_actual, y_pred_actual):.2f}')
-        print(f'  MSE: {mean_squared_error(y_test_actual, y_pred_actual):.2f}')
-        print(f'  R2: {r2_score(y_test_actual, y_pred_actual):.2f}')
+        print(f'  MAE: {mae:.2f}')
+        print(f'  RMSE: {rmse:.2f}')
+        print(f'  R2: {r2:.2f}')
+        self.metrics.append({
+            'department': self.department, 'model': name,
+            'mae': round(mae, 2), 'rmse': round(rmse, 2), 'r2': round(r2, 3),
+        })
 
-    def train(self, x_train, x_test, y_train, y_test, x_train_std, x_test_std, x_train_mm, x_test_mm) -> None:
+    def train(self, x_train, x_val, y_train, y_val, x_train_std, x_val_std, x_train_mm, x_val_mm) -> None:
         all_models = {
             'Decision Tree': DecisionTreeRegressor(random_state=42),
             'Random Forest': RandomForestRegressor(random_state=42),
@@ -86,42 +96,57 @@ class SurgeryPipeline(BasePipeline):
             if name in ['SVM', 'KNN']:
                 model_std = copy.deepcopy(model)
                 model_std.fit(x_train_std, y_train)
-                self._print_metrics(f'{name} (StandardScaler)', y_test, model_std.predict(x_test_std))
-                self.best_models[f'{name} StandardScaler'] = model_std
+                self._print_metrics(f'{name} (StandardScaler)', y_val, model_std.predict(x_val_std))
+                self.trained_models[f'{name} (StandardScaler)'] = model_std
+                self.model_scalers[f'{name} (StandardScaler)'] = 'std'
 
                 model_mm = copy.deepcopy(model)
                 model_mm.fit(x_train_mm, y_train)
-                self._print_metrics(f'{name} (MinMaxScaler)', y_test, model_mm.predict(x_test_mm))
-                self.best_models[f'{name} MinMaxScaler'] = model_mm
+                self._print_metrics(f'{name} (MinMaxScaler)', y_val, model_mm.predict(x_val_mm))
+                self.trained_models[f'{name} (MinMaxScaler)'] = model_mm
+                self.model_scalers[f'{name} (MinMaxScaler)'] = 'mm'
             else:
                 model.fit(x_train, y_train)
-                self._print_metrics(name, y_test, model.predict(x_test))
-                self.best_models[name] = model
+                self._print_metrics(name, y_val, model.predict(x_val))
+                self.trained_models[name] = model
 
+        self._select_best_model('mae', higher_is_better=False)
         self._save_models()
-        for name, model in self.best_models.items():
+        for name, model in self.trained_models.items():
             if name in self.TREE_MODELS:
-                Visualizer.plot_feature_importance(model, self.x_columns, f'{name} Feature Importance')
+                Visualizer.plot_feature_importance(
+                    model, self.x_columns,
+                    f'{self.department} - {name} Feature Importance',
+                    self._figure_path(f'{name} feature importance'),
+                )
 
     def predict(self) -> None:
-        file_path = os.path.join(self.script_dir, f'{self.department}_Testing.csv')
+        file_path = os.path.join(self.data_dir, f'{self.department}_Testing.csv')
         df = pd.read_csv(file_path, encoding='big5').replace('?', np.nan)
 
-        null_cols = df.columns[df.isnull().any()]
-        print(df[null_cols].isnull().sum())
-
-        for col in self.LABEL_COLUMNS:
+        for col in self.label_columns:
             df[col] = df[col].astype(str)
-            known_labels = set[Any](self.label_encoders[col].classes_)
-            unknown_labels = set[Any](df[col]) - known_labels
+            classes = self.label_encoders[col].classes_
+            # 沿用訓練期的類別→編碼映射；未知標籤給保留值，不位移既有編碼
+            mapping = {c: i for i, c in enumerate(classes)}
+            unknown_code = len(classes)
+            unknown_labels = set(df[col]) - set(classes)
             if unknown_labels:
-                print(f'{col} 出現未知標籤: {unknown_labels}')
-            df[col] = df[col].apply(lambda v: v if v in known_labels else 'unknown')
-            new_le = LabelEncoder()
-            new_le.fit(sorted(list[Any](self.label_encoders[col].classes_) + ['unknown']))
-            df[col] = new_le.transform(df[col])
+                print(f'{col} 出現未知標籤（統一編碼為 {unknown_code}）: {unknown_labels}')
+            df[col] = df[col].map(lambda v: mapping.get(v, unknown_code))
 
-        x = df.drop(columns=['手術時間（分）(BQ)'])
-        model = joblib.load(os.path.join(self.script_dir, 'models', 'XGBoost.joblib'))
-        df['手術時間（分）(BQ)'] = np.round(np.expm1(model.predict(x))).astype(int)
-        df.to_excel(os.path.join(self.script_dir, 'output_result.xlsx'), index=False)
+        x = df[self.x_columns].apply(pd.to_numeric, errors='coerce')
+        n_missing = int(x.isnull().sum().sum())
+        if n_missing:
+            print(f'測試資料共 {n_missing} 格缺值，以訓練資料中位數補值')
+            x = x.fillna(self.numeric_medians)
+
+        best_model = self.trained_models[self.best_model_name]
+        scaler = self._scaler_for(self.best_model_name)
+        features = scaler.transform(x) if scaler is not None else x
+        df[self.TARGET] = np.round(np.expm1(best_model.predict(features))).astype(int)
+
+        os.makedirs(self.output_dir, exist_ok=True)
+        output_path = os.path.join(self.output_dir, f'{self.department}_prediction.xlsx')
+        df.to_excel(output_path, index=False)
+        print(f'\n[{self.department}] 以 {self.best_model_name} 產出預測: {output_path}')

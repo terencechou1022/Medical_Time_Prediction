@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# 虛擬環境
+venv/
+.venv/
+
+# 執行產物（模型、預測結果）
+outputs/
+
+# 工作筆記
+tasks/
+
+# IDE
+.idea/
+.vscode/

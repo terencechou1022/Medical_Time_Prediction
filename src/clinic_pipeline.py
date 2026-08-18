@@ -2,10 +2,8 @@ import os
 import copy
 import warnings
 warnings.filterwarnings('ignore')
-import numpy as np
 import pandas as pd
 from typing import Optional
-from sklearn.preprocessing import LabelEncoder
 from sklearn.model_selection import train_test_split, GridSearchCV
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.ensemble import RandomForestClassifier
@@ -20,39 +18,39 @@ from .visualizer import Visualizer
 
 
 class ClinicPipeline(BasePipeline):
-    LABEL_MAPPING = {
-        0: -120,  # 大提前
-        1: -60,   # 中提前
-        2: -30,   # 小提前
-        3: 15,    # 準時
-        4: 30,    # 小延後
-        5: 60,    # 中延後
-        6: 120    # 大延後
+    BIN_EDGES = [-float('inf'), -100, -50, -25, 25, 50, 100, float('inf')]
+    BIN_LABELS = ['大提前', '中提前', '小提前', '準時', '小延後', '中延後', '大延後']
+    LABEL_TO_MINUTES = {
+        '大提前': -120, '中提前': -60, '小提前': -30, '準時': 15,
+        '小延後': 30, '中延後': 60, '大延後': 120,
     }
+    TREE_MODELS = {'Decision Tree', 'Random Forest', 'XGBoost'}
 
     def __init__(
         self,
         department: str,
         filename: str,
-        script_dir: str,
+        data_dir: str,
+        output_dir: str,
+        figure_dir: str,
         wait_min: Optional[float] = None,
         wait_max: Optional[float] = None,
         diag_max: float = 100.0,
     ):
-        super().__init__(script_dir)
-        self.department = department
+        super().__init__(department, data_dir, output_dir, figure_dir)
         self.filename = filename
         self.wait_min = wait_min
         self.wait_max = wait_max
         self.diag_max = diag_max
         self.x_columns = None
+        self.class_labels: list = []
 
     def load_data(self) -> pd.DataFrame:
-        file_path = os.path.join(self.script_dir, self.filename)
+        file_path = os.path.join(self.data_dir, self.filename)
         df = pd.read_excel(file_path)
 
         df['門診日期'] = pd.to_datetime(df['門診日期'])
-        df['是否取消掛號'] = np.where(df['是否取消掛號'] == 'Y', 1, 0)
+        df['是否取消掛號'] = (df['是否取消掛號'] == 'Y').astype(int)
         df['預估看診時間'] = pd.to_datetime(df['門診日期'].astype(str) + ' ' + df['預估看診時間'].astype(str))
         df['實際看診時間'] = pd.to_datetime(df['實際看診時間'], format='%H:%M:%S', errors='coerce')
         df = df.dropna(subset=['實際看診時間'])
@@ -72,15 +70,17 @@ class ClinicPipeline(BasePipeline):
         print(f'{self.department} - Average Delay Time: {delay_time:.2f} minutes')
         Visualizer.plot_distribution(
             df['等待時間(分)'],
-            f'{self.department} - Delay Time Distribution Chart',
-            'Delay Time (min)'
+            f'{self.department} - Delay Time Distribution',
+            'Delay Time (min)',
+            self._figure_path('delay time distribution'),
         )
         diagnosis_time = df['看診時間(分)'].mean()
         print(f'{self.department} - Average Diagnosis Time: {diagnosis_time:.2f} minutes')
         Visualizer.plot_distribution(
             df['看診時間(分)'],
-            f'{self.department} - Diagnosis Time Distribution Chart',
-            'Diagnosis Time (min)'
+            f'{self.department} - Diagnosis Time Distribution',
+            'Diagnosis Time (min)',
+            self._figure_path('diagnosis time distribution'),
         )
 
     def _filter_outliers(self, df: pd.DataFrame) -> pd.DataFrame:
@@ -94,9 +94,13 @@ class ClinicPipeline(BasePipeline):
         self._print_distribution(df)
         df = self._filter_outliers(df)
 
-        bins = [-float('inf'), -100, -50, -25, 25, 50, 100, float('inf')]
-        labels = ['大提前', '中提前', '小提前', '準時', '小延後', '中延後', '大延後']
-        df['類別'] = pd.cut(df['等待時間(分)'], bins=bins, labels=labels)
+        # 以 pd.cut 的有序類別直接編碼（0..k-1 依語意順序），
+        # 取代 LabelEncoder 的 Unicode 排序，確保編碼與分鐘映射一致
+        df['類別'] = pd.cut(df['等待時間(分)'], bins=self.BIN_EDGES, labels=self.BIN_LABELS)
+        df['類別'] = df['類別'].cat.remove_unused_categories()
+        self.class_labels = list(df['類別'].cat.categories)
+        print(f'{self.department} 實際出現的類別（依語意順序編碼 0..{len(self.class_labels) - 1}）: {self.class_labels}')
+        y = df['類別'].cat.codes.to_numpy()
 
         x = df[['掛號序號', '預估看診時間', '看診人數累計', '掛號人數總計']].copy()
         x['預估看診時間(時)'] = x['預估看診時間'].dt.hour
@@ -104,23 +108,34 @@ class ClinicPipeline(BasePipeline):
         x = x.drop(columns=['預估看診時間'])
         self.x_columns = x.columns
 
-        le = LabelEncoder()
-        y_encoded = le.fit_transform(df['類別'])
+        x_train, x_val, y_train, y_val = train_test_split(x, y, test_size=0.2, random_state=42)
+        x_train_std, x_val_std, x_train_mm, x_val_mm = self._scale_data(x_train, x_val)
+        return x_train, x_val, y_train, y_val, x_train_std, x_val_std, x_train_mm, x_val_mm
 
-        x_train, x_test, y_train, y_test = train_test_split(x, y_encoded, test_size=0.2, random_state=42)
-        x_train_std, x_test_std, x_train_mm, x_test_mm = self._scale_data(x_train, x_test)
-        return x_train, x_test, y_train, y_test, x_train_std, x_test_std, x_train_mm, x_test_mm
-
-    def _print_metrics(self, name: str, y_test, y_pred) -> None:
-        cm = confusion_matrix(y_test, y_pred)
+    def _print_metrics(self, name: str, y_val, y_pred) -> None:
+        acc = accuracy_score(y_val, y_pred)
+        prec = precision_score(y_val, y_pred, average='weighted', zero_division=0)
+        rec = recall_score(y_val, y_pred, average='weighted', zero_division=0)
+        f1 = f1_score(y_val, y_pred, average='weighted', zero_division=0)
         print(f'\n{name} Validation Index:')
-        print(f'  Accuracy: {accuracy_score(y_test, y_pred):.2f}')
-        print(f'  Precision: {precision_score(y_test, y_pred, average="weighted"):.2f}')
-        print(f'  Recall: {recall_score(y_test, y_pred, average="weighted"):.2f}')
-        print(f'  F1: {f1_score(y_test, y_pred, average="weighted"):.2f}')
-        Visualizer.plot_confusion_matrix(cm, f'{name} Confusion Matrix')
+        print(f'  Accuracy: {acc:.2f}')
+        print(f'  Precision: {prec:.2f}')
+        print(f'  Recall: {rec:.2f}')
+        print(f'  F1: {f1:.2f}')
+        self.metrics.append({
+            'department': self.department, 'model': name,
+            'accuracy': round(acc, 3), 'precision': round(prec, 3),
+            'recall': round(rec, 3), 'f1': round(f1, 3),
+        })
+        cm = confusion_matrix(y_val, y_pred, labels=list(range(len(self.class_labels))))
+        Visualizer.plot_confusion_matrix(
+            cm,
+            f'{self.department} - {name} Confusion Matrix',
+            self._figure_path(f'{name} confusion matrix'),
+            labels=self.class_labels,
+        )
 
-    def train(self, x_train, x_test, y_train, y_test, x_train_std, x_test_std, x_train_mm, x_test_mm) -> None:
+    def train(self, x_train, x_val, y_train, y_val, x_train_std, x_val_std, x_train_mm, x_val_mm) -> None:
         all_models = {
             'Decision Tree': (DecisionTreeClassifier(random_state=42), {
                 'max_depth': [10, 20, 50],
@@ -152,39 +167,48 @@ class ClinicPipeline(BasePipeline):
 
         for name, (model, param_grid) in all_models.items():
             if name in ['SVM', 'KNN']:
-                grid_std = GridSearchCV(copy.deepcopy(model), param_grid, cv=5, scoring='f1_weighted')
+                grid_std = GridSearchCV(copy.deepcopy(model), param_grid, cv=5, scoring='f1_weighted', n_jobs=-1)
                 grid_std.fit(x_train_std, y_train)
-                self._print_metrics(f'{name} (StandardScaler)', y_test, grid_std.predict(x_test_std))
-                self.best_models[f'{name} (StandardScaler)'] = grid_std.best_estimator_
+                self._print_metrics(f'{name} (StandardScaler)', y_val, grid_std.predict(x_val_std))
+                self.trained_models[f'{name} (StandardScaler)'] = grid_std.best_estimator_
+                self.model_scalers[f'{name} (StandardScaler)'] = 'std'
 
-                grid_mm = GridSearchCV(copy.deepcopy(model), param_grid, cv=5, scoring='f1_weighted')
+                grid_mm = GridSearchCV(copy.deepcopy(model), param_grid, cv=5, scoring='f1_weighted', n_jobs=-1)
                 grid_mm.fit(x_train_mm, y_train)
-                self._print_metrics(f'{name} (MinMaxScaler)', y_test, grid_mm.predict(x_test_mm))
-                self.best_models[f'{name} (MinMaxScaler)'] = grid_mm.best_estimator_
+                self._print_metrics(f'{name} (MinMaxScaler)', y_val, grid_mm.predict(x_val_mm))
+                self.trained_models[f'{name} (MinMaxScaler)'] = grid_mm.best_estimator_
+                self.model_scalers[f'{name} (MinMaxScaler)'] = 'mm'
             else:
-                grid = GridSearchCV(model, param_grid, cv=5, scoring='f1_weighted')
+                grid = GridSearchCV(model, param_grid, cv=5, scoring='f1_weighted', n_jobs=-1)
                 grid.fit(x_train, y_train)
-                self._print_metrics(name, y_test, grid.predict(x_test))
-                self.best_models[name] = grid.best_estimator_
+                self._print_metrics(name, y_val, grid.predict(x_val))
+                self.trained_models[name] = grid.best_estimator_
+
+        self._select_best_model('f1', higher_is_better=True)
+        for name, model in self.trained_models.items():
+            if name in self.TREE_MODELS:
+                Visualizer.plot_feature_importance(
+                    model, self.x_columns,
+                    f'{self.department} - {name} Feature Importance',
+                    self._figure_path(f'{name} feature importance'),
+                )
 
     def predict(self) -> None:
-        print(f'========== {self.department} ==========')
-        sample = pd.DataFrame(
-            [[10, 25, 50, 15, 30]],
-            columns=['掛號序號', '看診人數累計', '掛號人數總計', '預估看診時間(時)', '預估看診時間(分)']
-        )
+        print(f'\n========== {self.department} 範例推論 ==========')
+        sample = pd.DataFrame([[10, 25, 50, 15, 30]], columns=self.x_columns)
+        hour = int(sample['預估看診時間(時)'].iloc[0])
+        minute = int(sample['預估看診時間(分)'].iloc[0])
 
-        for name, model in self.best_models.items():
-            if 'StandardScaler' in name:
-                pred_encoded = model.predict(self.standard_scaler.transform(sample))[0]
-            elif 'MinMaxScaler' in name:
-                pred_encoded = model.predict(self.min_max_scaler.transform(sample))[0]
-            else:
-                pred_encoded = model.predict(sample)[0]
+        model = self.trained_models[self.best_model_name]
+        scaler = self._scaler_for(self.best_model_name)
+        features = scaler.transform(sample) if scaler is not None else sample
+        pred_code = int(model.predict(features)[0])
+        pred_label = self.class_labels[pred_code]
+        pred_minutes = self.LABEL_TO_MINUTES[pred_label]
+        estimated = pd.Timestamp(f'{hour:02d}:{minute:02d}:00')
+        actual = estimated + pd.Timedelta(minutes=pred_minutes)
 
-            pred_minutes = self.LABEL_MAPPING[pred_encoded]
-            actual_time = pd.to_datetime('15:30:00') + pd.Timedelta(minutes=float(pred_minutes))
-            print(f"\n{name} 預測實際看診時間: {actual_time.strftime('%H:%M:%S')}")
-
-            if name in ['Random Forest', 'XGBoost']:
-                Visualizer.plot_feature_importance(model, self.x_columns, f'{name} Feature Importance')
+        print(f'範例輸入: 掛號序號 {int(sample["掛號序號"].iloc[0])}、預約 {hour:02d}:{minute:02d}、'
+              f'現場進度 {int(sample["看診人數累計"].iloc[0])}/{int(sample["掛號人數總計"].iloc[0])} 人')
+        print(f'{self.best_model_name} 預測類別: {pred_label}（{pred_minutes:+d} 分）'
+              f'，預估實際看診時間: {actual.strftime("%H:%M")}')
