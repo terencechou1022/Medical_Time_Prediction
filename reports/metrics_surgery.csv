@@ -1,0 +1,36 @@
+﻿department,model,mae,rmse,r2,selected
+ENT,Decision Tree,37.68,55.05,0.194,False
+ENT,KNN (MinMaxScaler),34.54,48.53,0.374,False
+ENT,KNN (StandardScaler),34.74,48.98,0.362,False
+ENT,Random Forest,28.04,40.71,0.559,True
+ENT,SVM (MinMaxScaler),33.38,46.88,0.416,False
+ENT,SVM (StandardScaler),33.36,46.84,0.417,False
+ENT,XGBoost,28.35,40.96,0.554,False
+GS,Decision Tree,42.98,56.98,-0.066,False
+GS,KNN (MinMaxScaler),36.01,48.82,0.217,False
+GS,KNN (StandardScaler),35.83,48.43,0.23,False
+GS,Random Forest,31.99,43.06,0.391,False
+GS,SVM (MinMaxScaler),35.59,48.0,0.243,False
+GS,SVM (StandardScaler),35.61,47.89,0.247,False
+GS,XGBoost,31.58,42.79,0.399,True
+GU,Decision Tree,41.44,56.59,0.192,False
+GU,KNN (MinMaxScaler),39.7,55.37,0.227,False
+GU,KNN (StandardScaler),40.42,56.67,0.19,False
+GU,Random Forest,30.81,43.01,0.533,True
+GU,SVM (MinMaxScaler),39.3,54.52,0.25,False
+GU,SVM (StandardScaler),40.01,55.48,0.224,False
+GU,XGBoost,31.08,43.19,0.53,False
+OPH,Decision Tree,15.83,21.9,0.155,False
+OPH,KNN (MinMaxScaler),12.94,18.03,0.427,False
+OPH,KNN (StandardScaler),13.26,18.41,0.403,False
+OPH,Random Forest,12.25,17.22,0.477,False
+OPH,SVM (MinMaxScaler),13.24,18.29,0.411,False
+OPH,SVM (StandardScaler),13.11,18.63,0.388,False
+OPH,XGBoost,11.7,16.7,0.508,True
+ORTH,Decision Tree,36.26,49.75,0.058,False
+ORTH,KNN (MinMaxScaler),32.37,44.04,0.262,False
+ORTH,KNN (StandardScaler),33.14,44.85,0.234,False
+ORTH,Random Forest,27.95,38.56,0.434,False
+ORTH,SVM (MinMaxScaler),32.92,44.37,0.251,False
+ORTH,SVM (StandardScaler),32.87,44.45,0.248,False
+ORTH,XGBoost,27.09,37.46,0.466,True
