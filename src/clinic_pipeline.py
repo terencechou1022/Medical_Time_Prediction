@@ -33,17 +33,29 @@ class ClinicPipeline(BasePipeline):
         data_dir: str,
         output_dir: str,
         figure_dir: str,
+        model_dir: str = 'models',
         wait_min: Optional[float] = None,
         wait_max: Optional[float] = None,
         diag_max: float = 100.0,
     ):
-        super().__init__(department, data_dir, output_dir, figure_dir)
+        super().__init__(department, data_dir, output_dir, figure_dir, model_dir)
         self.filename = filename
         self.wait_min = wait_min
         self.wait_max = wait_max
         self.diag_max = diag_max
         self.x_columns = None
         self.class_labels: list = []
+        self.class_counts: dict = {}
+
+    def _serving_artifacts(self) -> dict:
+        return {
+            'task': 'classification',
+            'x_columns': list(self.x_columns),
+            'class_labels': list(self.class_labels),
+            'label_to_minutes': dict(self.LABEL_TO_MINUTES),
+            # 多數類基線：accuracy 必須對照這個數字才有意義
+            'class_counts': dict(self.class_counts),
+        }
 
     def load_data(self) -> pd.DataFrame:
         file_path = os.path.join(self.data_dir, self.filename)
@@ -101,6 +113,7 @@ class ClinicPipeline(BasePipeline):
         self.class_labels = list(df['類別'].cat.categories)
         print(f'{self.department} 實際出現的類別（依語意順序編碼 0..{len(self.class_labels) - 1}）: {self.class_labels}')
         y = df['類別'].cat.codes.to_numpy()
+        self.class_counts = {lab: int((y == i).sum()) for i, lab in enumerate(self.class_labels)}
 
         x = df[['掛號序號', '預估看診時間', '看診人數累計', '掛號人數總計']].copy()
         x['預估看診時間(時)'] = x['預估看診時間'].dt.hour

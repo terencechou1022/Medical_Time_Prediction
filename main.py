@@ -13,6 +13,7 @@ CLINIC_DATA_DIR = os.path.join(PROJECT_ROOT, 'data', 'clinic')
 OUTPUT_DIR = os.path.join(PROJECT_ROOT, 'outputs')
 REPORT_DIR = os.path.join(PROJECT_ROOT, 'reports')
 FIGURE_DIR = os.path.join(REPORT_DIR, 'figures')
+MODEL_DIR = os.path.join(PROJECT_ROOT, 'models')  # 服務用 bundle（隨 repo 發布）
 
 SURGERY_DEPARTMENTS = ['ENT', 'GS', 'GU', 'OPH', 'ORTH']
 
@@ -25,7 +26,7 @@ CLINIC_DEPARTMENTS = {
 
 def run_surgery(dept: str) -> list:
     print(f'\n================ Surgery: {dept} ================')
-    pipeline = SurgeryPipeline(dept, SURGERY_DATA_DIR, OUTPUT_DIR, FIGURE_DIR)
+    pipeline = SurgeryPipeline(dept, SURGERY_DATA_DIR, OUTPUT_DIR, FIGURE_DIR, MODEL_DIR)
     pipeline.run()
     return pipeline.metrics
 
@@ -39,6 +40,7 @@ def run_clinic(key: str) -> list:
         data_dir=CLINIC_DATA_DIR,
         output_dir=OUTPUT_DIR,
         figure_dir=FIGURE_DIR,
+        model_dir=MODEL_DIR,
         wait_min=config.get('wait_min'),
         wait_max=config.get('wait_max'),
         diag_max=config.get('diag_max', 100.0),

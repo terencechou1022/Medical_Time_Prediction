@@ -12,3 +12,4 @@ reports/metrics_*.csv text eol=lf
 # 二進位檔
 *.xlsx binary
 *.png  binary
+

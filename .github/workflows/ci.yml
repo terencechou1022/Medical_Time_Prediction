@@ -1,0 +1,32 @@
+name: CI
+
+on:
+  push:
+    branches: [main, master]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    env:
+      PYTHONUTF8: '1'
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: '3.12'
+          cache: pip
+
+      - name: 安裝相依套件
+        run: pip install -r requirements.txt
+
+      - name: 相依衝突檢查
+        run: pip check
+
+      # 測試只讀 models/ 內隨 repo 一起版控的 bundle，不需要外部服務、
+      # 不重新訓練，也不碰 data/。CI 綠燈代表這些 bundle 在當前套件版本下仍能
+      # 載入並推論。
+      - name: 執行測試
+        run: python -m pytest -q

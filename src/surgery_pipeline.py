@@ -21,13 +21,31 @@ class SurgeryPipeline(BasePipeline):
     LABEL_PREFIXES = ['性別', '身份', '分類', '麻醉', '手術名稱', '主治醫師']
     TREE_MODELS = {'Decision Tree', 'Random Forest', 'XGBoost'}
     TARGET = '手術時間（分）(BQ)'
+    # 對外服務固定用 XGBoost：Random Forest 在部分科別雖然 MAE 略低（ENT 28.04 vs 28.35，
+    # 差 0.31 分），但未壓縮模型檔達 50 MB，而 XGBoost 僅 0.39 MB（約 128 倍）。
+    # 以 0.3 分鐘的誤差換取檔案縮減，對需要隨 repo 部署的線上服務是合理取捨。
+    SERVING_MODEL = 'XGBoost'
 
-    def __init__(self, department: str, data_dir: str, output_dir: str, figure_dir: str):
-        super().__init__(department, data_dir, output_dir, figure_dir)
+    def __init__(self, department: str, data_dir: str, output_dir: str, figure_dir: str,
+                 model_dir: str = 'models'):
+        super().__init__(department, data_dir, output_dir, figure_dir, model_dir)
         self.label_encoders: dict = {}
         self.label_columns: list = []
         self.x_columns = None
         self.numeric_medians = None
+        self.feature_defaults: dict = {}
+
+    def _serving_artifacts(self) -> dict:
+        return {
+            'task': 'regression',
+            'x_columns': list(self.x_columns),
+            'label_columns': list(self.label_columns),
+            # 類別→編碼的映射，同時作為 UI 下拉選單的選項來源
+            'label_classes': {c: [str(v) for v in le.classes_]
+                              for c, le in self.label_encoders.items()},
+            'feature_defaults': self.feature_defaults,
+            'target_transform': 'log1p',
+        }
 
     def load_data(self) -> pd.DataFrame:
         file_path = os.path.join(self.data_dir, f'{self.department}_Training.csv')
@@ -64,6 +82,11 @@ class SurgeryPipeline(BasePipeline):
         y = df['手術時間_log']
         self.x_columns = x.columns
         self.numeric_medians = x.median()
+        # 服務時 UI 只詢問主要欄位，其餘以類別眾數／數值中位數填補
+        self.feature_defaults = {
+            c: int(x[c].mode().iloc[0]) if c in self.label_columns else float(x[c].median())
+            for c in x.columns
+        }
 
         x_train, x_val, y_train, y_val = train_test_split(x, y, test_size=0.2, random_state=42)
         x_train_std, x_val_std, x_train_mm, x_val_mm = self._scale_data(x_train, x_val)

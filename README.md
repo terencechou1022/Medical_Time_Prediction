@@ -1,8 +1,8 @@
 # 醫療時間預測：手術時間迴歸與門診延誤分類
 
-以醫院營運資料為背景的兩個機器學習任務：**手術時間預測（迴歸）** 與 **門診看診延誤預測（分類）**。
+以去識別化醫院營運資料完成的端到端機器學習專案，處理兩個排程相關的預測任務：**手術時間預測（迴歸）** 與 **門診看診延誤預測（分類）**。涵蓋 8 個科別、約 6.5 萬筆訓練資料，每科比較 5 種模型並依驗證指標自動選出最佳解。
 
-個人獨立完成的端到端機器學習專案：統一 OOP pipeline、自動模型選擇、指標彙整與圖表輸出，並在迭代過程中發現並修正了三個實際 bug（見[工程筆記](#工程筆記迭代過程中發現並修正的問題)）。
+個人獨立完成：載入、前處理、訓練、評估與圖表輸出共用同一套 OOP pipeline，單一指令即可重現任一科別的結果；迭代過程中發現並修正三個影響指標正確性的實作缺陷。
 
 ## 專案亮點
 
@@ -222,6 +222,29 @@ flowchart LR
 
 ---
 
+## 服務化 bundle
+
+把模型從訓練腳本抽出來、做成能單獨載入推論的檔案，暴露了原本 pipeline 的三個缺口，
+處理方式值得記錄：
+
+**1. 只存模型是無法推論的。** 原本只 dump 模型物件，但推論還需要當初的類別編碼映射、
+縮放器與特徵欄位順序。現在 `export_serving_bundle()` 會輸出完整的服務 bundle
+（`models/{科別}.joblib`），內含模型、scaler、特徵順序、類別選項、填補預設值與該模型的
+驗證指標——載入單一檔案即可推論，不必接觸原始資料。
+
+**2. 服務模型刻意不採用「最佳」模型。** 自動選模在 ENT 與 GU 選出 Random Forest，
+但同樣未壓縮的模型檔，Random Forest 是 50.0 MB 與 45.8 MB，XGBoost 只有 0.39 MB 與 0.37 MB
+（約 128 倍差距）。改用 XGBoost 上線後，ENT 的 MAE 從 28.04 升到 28.35（差 0.31 分鐘），
+換來每科 bundle 壓縮後僅 0.12 MB、八科合計 1.3 MB，可以直接隨 repo 版控。
+這是有意識的取捨，這裡明確標示，不假裝服務用的就是最強模型。
+
+**3. accuracy 必須對照多數類基線才有意義。** pipeline 因此一併算出基線並寫進 metrics。
+心臟科正是需要它的情形：72.7% 的樣本都是「大延後」，
+單純猜這一類就有 0.727 的 accuracy，模型 0.812 的分數實際增益有限。
+
+`models/` 內的 bundle 與 `requirements.txt` 的釘死版本都隨 repo 版控，
+所以任何人 clone 下來跑到的，就是這裡描述的那個模型與那組相依版本。
+
 ## 工程筆記：迭代過程中發現並修正的問題
 
 重構過程中對舊版程式逐段驗證，找到三個會影響結果正確性的 bug，全部修正並留下驗證證據：
@@ -266,6 +289,7 @@ Medical_Time_Prediction/
 ├── data/
 │   ├── surgery/             # 5 科 × 訓練/測試 CSV（Big5 編碼）
 │   └── clinic/              # 3 科掛號紀錄 xlsx
+├── models/                  # 服務用 bundle（模型 + 前處理物件 + 指標，共 1.3 MB）
 ├── reports/
 │   ├── figures/             # 執行時自動輸出的圖表
 │   └── metrics_*.csv        # 科別 × 模型指標彙整（含 selected 欄）
@@ -281,7 +305,7 @@ python -m venv venv
 venv\Scripts\activate        # Windows；macOS/Linux 改用 source venv/bin/activate
 pip install -r requirements.txt
 
-python main.py all           # 跑全部 8 個科別
+python main.py all           # 跑全部 8 個科別（同時輸出 models/ 服務 bundle）
 python main.py surgery ENT   # 或指定單一科別
 python main.py clinic cardiology
 ```

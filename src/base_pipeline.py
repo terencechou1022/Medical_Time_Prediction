@@ -6,11 +6,17 @@ from sklearn.preprocessing import StandardScaler, MinMaxScaler
 
 
 class BasePipeline(ABC):
-    def __init__(self, department: str, data_dir: str, output_dir: str, figure_dir: str):
+    # 對外服務用的模型；None 表示採用自動選出的最佳模型。
+    # 子類別可改成固定模型（例如為了控制檔案大小），差異須明確記錄。
+    SERVING_MODEL = None
+
+    def __init__(self, department: str, data_dir: str, output_dir: str, figure_dir: str,
+                 model_dir: str = 'models'):
         self.department = department
         self.data_dir = data_dir
         self.output_dir = output_dir
         self.figure_dir = figure_dir
+        self.model_dir = model_dir
         self.standard_scaler = StandardScaler()
         self.min_max_scaler = MinMaxScaler()
         self.trained_models: dict = {}
@@ -38,7 +44,35 @@ class BasePipeline(ABC):
         df = self.load_data()
         preprocessed = self.preprocess(df)
         self.train(*preprocessed)
+        self.export_serving_bundle()
         self.predict()
+
+    def _serving_artifacts(self) -> dict:
+        """子類別回傳推論所需的前處理物件（特徵順序、類別映射等）"""
+        return {}
+
+    def export_serving_bundle(self) -> None:
+        """把推論需要的一切打包成單一檔案：只有模型檔是無法推論的，
+        還需要當初的特徵順序、類別編碼映射與縮放器。"""
+        name = self.SERVING_MODEL or self.best_model_name
+        model = self.trained_models.get(name)
+        if model is None:
+            print(f'[{self.department}] 找不到服務模型 {name}，略過 bundle 輸出')
+            return
+
+        bundle = {
+            'department': self.department,
+            'model_name': name,
+            'model': model,
+            'scaler': self._scaler_for(name),
+            'metrics': next((m for m in self.metrics if m['model'] == name), None),
+            **self._serving_artifacts(),
+        }
+        os.makedirs(self.model_dir, exist_ok=True)
+        path = os.path.join(self.model_dir, f'{self.department}.joblib')
+        joblib.dump(bundle, path, compress=3)
+        size_kb = os.path.getsize(path) / 1024
+        print(f'[{self.department}] 服務用 bundle 已輸出（{name}, {size_kb:,.0f} KB）: {path}')
 
     def _figure_path(self, name: str) -> str:
         slug = name.replace(' ', '_').replace('(', '').replace(')', '')
